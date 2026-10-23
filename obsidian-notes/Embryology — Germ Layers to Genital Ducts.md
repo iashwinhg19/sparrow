@@ -30,7 +30,7 @@ review_day_15: false
 > The image of this page reached me at **192 px wide**, so only the headings, tables' shapes and diagram layouts were legible; the body text was not. This note keeps **your page's exact section order and table structure** and fills the cells from standard embryology (Langman, Moore, Gray's). Lines where your handwriting may differ from the textbook are marked **⚠ verify**. Upload the original full-resolution page and I will reconcile it line by line.
 
 > [!abstract] Core Definition
-> Embryology[^ety-embryo] is **geography plus history**: every adult structure is explained by **where its cells came from** (germ layer / mesoderm subdivision / neural crest), **how far they migrated or rotated**, and **what regressed on the way**. The anomalies in this note are all failures of one of those three steps.
+> Embryology[^ety-embryo] is **geography plus history**: every adult structure is explained by **where its cells came from** (germ layer / mesoderm subdivision / neural crest), **how far they migrated[^ety-migration] or rotated[^ety-rotation]**, and **what regressed[^ety-regression] on the way**. The anomalies in this note are all failures of one of those three steps.
 
 ---
 
@@ -79,7 +79,7 @@ endoderm / NCC        ducts fuse (Müllerian)        Wolffian duct in ♀ → Ga
 ## 🧠 Neural Tube
 
 ### Formation
-Formed by **invagination of the ectoderm (neural plate) induced by the notochord**[^ety-notochord] → neural groove → neural folds fuse in the midline → **neural tube**, which sinks beneath the surface ectoderm. Fusion starts at the level of the 4th–5th somite and spreads cranially and caudally; the **anterior neuropore closes on day 25** and the **posterior neuropore on day 27–28**.[^2]
+Formed by **invagination[^ety-invagination] of the ectoderm (neural plate) induced[^ety-induction] by the notochord**[^ety-notochord] (neurulation[^ety-neurulation]) → neural groove → neural folds fuse[^ety-fusion] in the midline → **neural tube**, which sinks beneath the surface ectoderm. Fusion starts at the level of the 4th–5th somite and spreads cranially and caudally; the **anterior neuropore[^ety-neuropore] closes on day 25** and the **posterior neuropore on day 27–28**.[^2]
 
 ![Neural crest formation during neurulation](https://upload.wikimedia.org/wikipedia/commons/8/8f/Neural_Crest.png)
 *Neural crest cells (green) arise at the crest of the neural folds — the junction of the neural tube and surface ectoderm — and migrate away as the tube closes.*
@@ -93,9 +93,9 @@ Formed by **invagination of the ectoderm (neural plate) induced by the notochord
 > - **Outer:** annulus fibrosus — from **sclerotome**
 > - **Central:** nucleus pulposus — from the **notochord**
 
-### Derivatives — forms CNS structures
+### Derivatives[^ety-derivative] — forms CNS structures
 - Brain and spinal cord
-- **Oligodendrocytes** (myelination of the CNS)
+- **Oligodendrocytes**[^ety-glia] (myelination[^ety-myelin] of the CNS)
 - **Astrocytes** (blood–brain barrier)
 - **Ependymal cells** (lining of the ventricles)
 - Retina and retinal pigment epithelium, posterior pituitary, pineal gland[^3]
@@ -142,16 +142,16 @@ Formed by **invagination of the ectoderm (neural plate) induced by the notochord
 *The four embryonic contributions to the diaphragm seen from below: septum transversum in front, pleuroperitoneal membranes posterolaterally, oesophageal mesentery in the midline behind, body-wall muscle around the rim.*
 
 > [!tip] Why is the phrenic nerve C3, C4, C5?
-> The septum transversum forms opposite cervical segments 3–5 and then **descends** to the level of L1 as the embryo folds, dragging its nerve supply with it — "C3, 4, 5 keeps the diaphragm alive".
+> The septum transversum forms opposite cervical segments 3–5 and then **descends**[^ety-descent] to the level of L1 as the embryo folds, dragging its nerve supply with it — "C3, 4, 5 keeps the diaphragm alive".
 
-### Applied anatomy — Congenital diaphragmatic hernia
+### Applied anatomy — Congenital[^ety-congenital] diaphragmatic[^ety-diaphragm] hernia
 - Occurs due to **absence (non-closure) of the pleuroperitoneal membrane**
 - ↓
-- **Persistence of the pleuroperitoneal canal** (**Bochdalek foramen**[^ety-bochdalek], posterolateral)
+- **Persistence[^ety-persistence] of the pleuroperitoneal canal** (**Bochdalek foramen**[^ety-bochdalek], posterolateral)
 - ↓
-- **Intestinal herniation** into the thorax
+- **Intestinal herniation**[^ety-herniation] into the thorax
   - **Left > right** (the right canal closes earlier and the liver buttresses it)
-  - Complication: **lung hypoplasia** (the main cause of death), scaphoid abdomen, bowel sounds in the chest[^5]
+  - Complication: **lung hypoplasia**[^ety-hypoplasia] (the main cause of death), scaphoid[^ety-scaphoid] abdomen, bowel sounds in the chest[^5]
 
 🎬 **Watch:** [3D Body Cavities Embryology Part 3 — Diaphragm and CDH](https://www.youtube.com/watch?v=OLJbi17UKEM)
 
@@ -174,10 +174,10 @@ Formed by **invagination of the ectoderm (neural plate) induced by the notochord
   - Derivatives: **external auditory meatus** and the **outer (epithelial) layer of the tympanic membrane**
 - **Cervical sinus**[^ety-cervical-sinus]
   - Formed by overgrowth of the **2nd arch** ectoderm, which buries the 2nd, 3rd and 4th clefts
-  - Normally **obliterates** the 2nd–4th clefts
+  - Normally **obliterates**[^ety-obliteration] the 2nd–4th clefts
 
 > [!danger] Applied anatomy — persistence of the cervical sinus
-> **Branchial cyst / fistula**, classically along the **anterior border of the sternocleidomastoid** (at the junction of the upper ⅓ and lower ⅔ for a cyst; a fistula opens lower, at the junction of the middle and lower thirds, and tracks up between the internal and external carotid arteries to the tonsillar fossa — the 2nd pouch).[^6]
+> **Branchial cyst / fistula**[^ety-cyst-fistula], classically along the **anterior border of the sternocleidomastoid** (at the junction of the upper ⅓ and lower ⅔ for a cyst; a fistula opens lower, at the junction of the middle and lower thirds, and tracks up between the internal and external carotid arteries to the tonsillar fossa — the 2nd pouch).[^6]
 
 ![Branchial cleft cyst in the neck](https://upload.wikimedia.org/wikipedia/commons/9/95/Right_Branchial_Cleft_Cyst_prior_to_excision.jpg)
 *Right branchial cleft cyst before excision — a smooth swelling along the anterior border of sternocleidomastoid (Wikimedia Commons, own work of the uploader).*
@@ -186,7 +186,7 @@ Formed by **invagination of the ectoderm (neural plate) induced by the notochord
 
 | Pouch | Derivatives |
 |---|---|
-| **1** | Inner layer of the tympanic membrane · **tympanic cavity** (middle ear) · **auditory (Eustachian) tube** · mastoid antrum |
+| **1** | Inner layer of the tympanic membrane · **tympanic[^ety-tympanic] cavity** (middle ear) · **auditory (Eustachian[^ety-eustachian]) tube** · mastoid antrum |
 | **2** | **Palatine tonsil** (crypts; the lymphoid tissue is mesenchymal) |
 | **3** | **Thymus**[^ety-thymus] · **Inferior parathyroid**[^ety-parathyroid] |
 | **4** | **Superior parathyroid** |
@@ -197,16 +197,16 @@ Formed by **invagination of the ectoderm (neural plate) induced by the notochord
 > [!danger] Applied anatomy — DiGeorge syndrome[^ety-digeorge]
 > - Anomaly of the **3rd and 4th pouches**
 > - **22q11.2 deletion** syndrome (CATCH-22: **C**ardiac defects, **A**bnormal facies, **T**hymic aplasia, **C**left palate, **H**ypocalcaemia)
-> - **Absent thymus** (T-cell deficiency) and **hypoparathyroidism** (hypocalcaemia, tetany)[^7]
+> - **Absent thymus** (T-cell deficiency) and **hypoparathyroidism** (hypocalcaemia[^ety-hypocalcaemia], tetany[^ety-tetany])[^7]
 
 ![DiGeorge syndrome — characteristic facies](https://upload.wikimedia.org/wikipedia/commons/c/cb/DiGeorge_syndrome1.jpg)
-*DiGeorge syndrome: low-set ears, hypertelorism, short philtrum and micrognathia (image: Prof Victor Grech, free licence).*
+*DiGeorge syndrome: low-set ears, hypertelorism, short philtrum and micrognathia[^ety-facies] (image: Prof Victor Grech, free licence).*
 
 ### Pharyngeal arch cartilages
 
 | Arch | Cartilage | Derived structures |
 |---|---|---|
-| **1** | **Meckel's cartilage**[^ety-meckel] | **Malleus**, **incus** · anterior ligament of malleus · sphenomandibular ligament · template for the **mandible** (which ossifies in membrane around it) |
+| **1** | **Meckel's cartilage**[^ety-meckel] | **Malleus**, **incus** · anterior ligament of malleus · sphenomandibular ligament · template for the **mandible** (which ossifies[^ety-ossification] in membrane around it) |
 | **2** | **Reichert's cartilage**[^ety-reichert] | **Stapes** · **styloid process** · **stylohyoid ligament** · **lesser cornu** and upper part of the body of the hyoid |
 | **3** | — | **Greater cornu** and lower part of the **body of the hyoid** |
 | **4 & 6** | — | **Laryngeal cartilages** (thyroid, cricoid, arytenoid, corniculate, cuneiform)[^8] |
@@ -237,7 +237,7 @@ title: Pharyngeal arch derivatives
 | Vein | Derivatives |
 |---|---|
 | Right anterior cardinal[^ety-cardinal] vein | **Right internal jugular**, right brachiocephalic, **superior vena cava** (with the right common cardinal) |
-| Left anterior cardinal vein | Left internal jugular; the cross-anastomosis becomes the **left brachiocephalic vein**; the rest regresses (remnant: oblique vein of Marshall) |
+| Left anterior cardinal vein | Left internal jugular; the cross-anastomosis[^ety-anastomosis] becomes the **left brachiocephalic vein**; the rest regresses (remnant: oblique vein of Marshall) |
 | Common cardinal veins | Right → **SVC** (terminal part) ; Left → **coronary sinus** (with the left horn of the sinus venosus) |
 | Posterior cardinal veins | Mostly regress → **common iliac veins** and root of the **azygos** ⚠ verify |
 | Subcardinal veins | **Renal veins**, gonadal veins, suprarenal veins, **renal (pre-renal) segment of the IVC** |
@@ -285,8 +285,8 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 
 | Anomaly | Embryological error | Result |
 |---|---|---|
-| **Aberrant (retro-oesophageal) right subclavian artery** | Obliteration of the **right 4th arch artery** → persistence of the caudal part of the **right dorsal aorta** | Right subclavian arises last from the arch and passes **behind the oesophagus** → **dysphagia lusoria**[^ety-lusoria]; the right RLN is **non-recurrent** |
-| **Double aortic arch** | Persistence of **both 4th arch arteries and both dorsal aortae** | **Vascular ring** around trachea and oesophagus → stridor, dysphagia |
+| **Aberrant[^ety-aberrant] (retro-oesophageal) right subclavian artery** | Obliteration of the **right 4th arch artery** → persistence of the caudal part of the **right dorsal aorta** | Right subclavian arises last from the arch and passes **behind the oesophagus** → **dysphagia lusoria**[^ety-lusoria]; the right RLN is **non-recurrent** |
+| **Double aortic arch** | Persistence of **both 4th arch arteries and both dorsal aortae** | **Vascular ring** around trachea and oesophagus → stridor[^ety-stridor], dysphagia |
 | Right aortic arch | Left dorsal aorta regresses instead of the right | Arch over the right bronchus; ± vascular ring with left ligamentum arteriosum |
 
 ### Arterial derivatives — by arch
@@ -297,7 +297,7 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 | **2nd** | **Stapedial** and **hyoid** arteries |
 | **3rd** | **Common carotid**, proximal **internal carotid** |
 | **4th** | Left: **arch of aorta** · Right: **proximal right subclavian** |
-| **5th** | **Degenerates** (never fully forms) |
+| **5th** | **Degenerates**[^ety-degeneration] (never fully forms) |
 | **6th** | Left: proximal **left pulmonary artery**, **ductus arteriosus** · Right: proximal **right pulmonary artery** |
 
 🎬 **Watch:** [Medical Embryology — development of the aortic arches and large arteries](https://www.youtube.com/watch?v=-fsSufrjTBU)
@@ -333,9 +333,9 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 
 | Anomaly | Defect in rotation | Features |
 |---|---|---|
-| **Non-rotation** | Loop returns **without rotating** beyond the first 90° | **Small intestine on the right**, **large intestine on the left** ("left-sided colon"); narrow mesenteric base → volvulus |
+| **Non-rotation** | Loop returns **without rotating** beyond the first 90° | **Small intestine on the right**, **large intestine on the left** ("left-sided colon"); narrow mesenteric base → volvulus[^ety-volvulus] |
 | **Reversed rotation** | Normal first rotation then **clockwise** (−90°) instead of counter-clockwise | **Transverse colon passes behind the superior mesenteric artery** (duodenum in front) ⚠ verify |
-| **Mixed rotation (malrotation)** | Rotation stops at 180°; caecum fails to descend | **Subhepatic caecum**; **Ladd's bands**[^ety-ladd] from the caecum cross the duodenum → obstruction; narrow base → volvulus |
+| **Mixed rotation (malrotation)**[^ety-mal] | Rotation stops at 180°; caecum fails to descend | **Subhepatic caecum**; **Ladd's bands**[^ety-ladd] from the caecum cross the duodenum → obstruction; narrow base → volvulus |
 | **Incomplete rotation** | Caecum does not complete its descent | **Subhepatic caecum**, appendix under the liver ("subhepatic appendix") |
 
 > [!example]- 🎨 Image prompt — Four rotation anomalies (the four-row picture table in your notes)
@@ -349,9 +349,9 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 
 | | Omphalocele[^ety-omphalocele] | Gastroschisis[^ety-gastroschisis] |
 |---|---|---|
-| **Defect** | **Failure of reduction of the physiological hernia** (midgut does not return by week 10) — herniation **through the umbilical ring** | **Defect of the anterior abdominal wall lateral (usually right) to the umbilicus** — incomplete lateral folding / involution of the right umbilical vein ⚠ verify |
+| **Defect** | **Failure of reduction of the physiological[^ety-physiological] hernia** (midgut does not return by week 10) — herniation **through the umbilical ring** | **Defect of the anterior abdominal wall lateral (usually right) to the umbilicus** — incomplete lateral folding / involution of the right umbilical vein ⚠ verify |
 | **Covering** | **Covered** by amnion + peritoneum (membrane); cord inserts on the sac | **No covering** — bowel free in amniotic fluid, thickened and matted |
-| **Associations** | **Associated with multiple anomalies** (cardiac, chromosomal — trisomy 13/18, Beckwith–Wiedemann) → **high mortality** | Few anomalies; main problem is **intestinal obstruction / atresia** and fluid loss; better survival |
+| **Associations** | **Associated with multiple anomalies** (cardiac, chromosomal — trisomy[^ety-trisomy] 13/18, Beckwith–Wiedemann[^ety-beckwith]) → **high mortality** | Few anomalies; main problem is **intestinal obstruction / atresia**[^ety-atresia] and fluid loss; better survival |
 | **AFP** | Raised | Raised (higher) |
 
 ![Gastroschisis — bowel outside the abdomen with no covering membrane](https://upload.wikimedia.org/wikipedia/commons/d/d2/Gastroschisis-web.jpg)
@@ -369,7 +369,7 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 > [!info] All from **intermediate mesoderm**: the **mesonephric (Wolffian) duct**[^ety-wolffian], the **paramesonephric (Müllerian) duct**[^ety-mullerian] and the **genital ridge**.
 
 ![Gray's Anatomy — primitive urogenital organs before sexual differentiation](https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray1109.png)
-*Gray's Anatomy (1918): the indifferent stage — genital ridge, mesonephros, mesonephric (Wolffian) duct and paramesonephric (Müllerian) duct side by side.*
+*Gray's Anatomy (1918): the indifferent stage (before sexual differentiation[^ety-differentiation]) — genital ridge, mesonephros, mesonephric (Wolffian) duct and paramesonephric (Müllerian) duct side by side.*
 
 ![Relation of the Wolffian duct and the duct of Müller in the female embryo](https://upload.wikimedia.org/wikipedia/commons/7/7a/Relation_of_the_Wolffian_Duct_and_the_Duct_of_M%C3%BCller_in_the_Female_Embryo.jpg)
 *Female embryo: the Müllerian ducts fuse in the midline to form the uterus while the Wolffian ducts regress (Kollmann, 1901).*
@@ -383,6 +383,52 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 
 > [!tip] The switch
 > **SRY → testis → Sertoli cells make AMH (MIS) → Müllerian ducts regress; Leydig cells make testosterone → Wolffian ducts persist.** No testis → no AMH, no testosterone → Müllerian ducts persist, Wolffian ducts regress (the female pattern is the default).
+
+---
+
+## 🔤 Word Parts — Prefixes & Suffixes
+
+> [!tip] Read a word by its parts
+> **prefix** (where / how much / direction) + **root** (the thing) + **suffix** (what kind of thing, or what happens to it). *omphalo-cele* = navel + swelling; *gastro-schisis* = belly + split; *meso-nephros* = middle + kidney; *neur-ulation* = nerve + the process of forming. The tables cover every affix in this note and the look-alikes it is confused with.
+
+### Prefixes
+
+| Prefix | Meaning | In this note | Don't confuse with |
+|---|---|---|---|
+| **a- / an-** | without, not | **a**zygos (unpaired), **a**tresia (no opening), **a**genesis (no formation) | **ana-** up, again (anastomosis) · **ab-** away · **ad-** towards |
+| **ecto- / meso- / endo-** | outer / middle / inner | **ecto**derm, **meso**derm, **endo**derm; **meso**gastrium, **meso**nephros | **exo-** outside · **epi-** upon (epoophoron) · **intra-** within |
+| **pro- / meso- / meta-** | before / middle / after, beyond | **pro**nephros → **meso**nephros → **meta**nephros (the three kidneys in order of time and position) | **pre-** before (in space) · **post-** after · **para-** beside (paramesonephric) |
+| **para-** | beside, abnormal | **para**mesonephric duct (beside the mesonephric duct), **para**thyroid, **para**follicular, **para**xial | **peri-** around (peritoneum, pericardial) · **pre-** before |
+| **peri- / pleuro-** | around / of the side | **peri**toneum, **pleuro**peritoneal membrane | **para-** beside · **pleuro-** always = pleura/side, never "many" |
+| **hypo- / hyper-** | below, too little / above, too much | **hypo**plasia, **hypo**calcaemia, **hypo**parathyroidism, **hypo**pharyngeal | **hyper**tension, **hyper**telorism (eyes too far apart) · **hypo-** vs **sub-** (sub = position only) |
+| **sub- / infra- / supra-** | under / below / above | **sub**hepatic caecum, **sub**cardinal vein, **infra**renal IVC, **supra**cardinal vein, **supra**renal | **super-** above/excess · **sub-** vs **hypo-** (hypo also means "too little") |
+| **retro-** | behind, backwards | **retro**-oesophageal subclavian (dysphagia lusoria) | **re-** back/again (regress, remodel) · **post-** after |
+| **dys-** | bad, difficult | **dys**phagia (lusoria), **dys**plasia | **dis-** apart (dissection) · **de-** away (descend, degenerate) |
+| **mal- / non- / in-** | badly / not at all / not | **mal**rotation (turned badly), **non**-rotation (not turned), **in**complete rotation (not finished) | three different failures of the same 270° turn |
+| **trans- / inter- / intra-** | across / between / within | septum **trans**versum, 7th cervical **inter**segmental artery, **intra**-embryonic coelom | **trans-** also "through" (transection) |
+| **ultimo- / hemi- / tri-** | last / half / three | **ultimo**branchial body, **hemi**azygos, **tri**somy, **tri**laminar disc | **semi-** half (Latin) = **hemi-** (Greek) · **bi-** two |
+| **omphalo- / gastro- / entero-** | navel / belly-stomach / intestine | **omphalo**cele, **gastro**schisis, **gastro**splenic, **entero**-: enteric plexus | **gastro-** means stomach *or* belly wall depending on the word |
+| **dermato- / myo- / sclero-** | skin / muscle / hard | **dermato**me, **myo**tome, **sclero**tome; **myo**blast; **sclero**sis elsewhere | **myelo-** marrow/spinal cord (myelination is from *myelos*) · **myco-** fungus |
+| **oligo- / astro- / ependy-** | few / star / upper garment | **oligo**dendrocyte (few branches), **astro**cyte (star cell), **ependy**ma (lining "cloak") | **poly-** many · **micro-** small (micrognathia) · **macro-** large |
+| **vitello- / umbilico- / cardinal-** | yolk / navel / hinge | **vitelline** veins, **umbilical** veins, **cardinal** veins | **vital-** life — vitelline is yolk, not life |
+
+### Suffixes
+
+| Suffix | Meaning | In this note | Don't confuse with |
+|---|---|---|---|
+| **-tome** | a cut, a segment | derma**tome**, myo**tome**, sclero**tome** (somite segments) | **-tomy** the act of cutting (herniotomy) · **-ectomy** cutting out · **-stomy** making an opening |
+| **-cele** | swelling, hernia | omphalo**cele** | **-coele / -coel** cavity (coelom, blastocoele) — same sound, opposite sense (bulge vs hollow) |
+| **-schisis** | a splitting, cleft | gastro**schisis**, spina bifida = rachi**schisis** | **-clasis** breaking · **-rrhexis** rupture |
+| **-plasia** | formation, growth of tissue | hypo**plasia** (too little tissue), dys**plasia**, hyper**plasia** | **-plasty** surgical re-forming (hernioplasty) · **-trophy** size of cells (hypertrophy, atrophy) · **-genesis** origin (agenesis) |
+| **-genesis** | origin, formation | a**genesis** (never formed), embryo**genesis** | **-plasia** growth of formed tissue · **-poiesis** making (haematopoiesis) |
+| **-cyte / -blast / -clast** | cell / builder / breaker | oligodendro**cyte**, astro**cyte**, odonto**blast** (dentine builder), myo**blast** | **-blast** immature/forming cell · **-clast** destroying cell (osteoclast) · **-cyte** mature cell |
+| **-ation / -ion** | the process of | neurul**ation**, invagin**ation**, migr**ation**, rot**ation**, obliter**ation**, ossific**ation**, septa**tion**, differenti**ation** | **-ate** the verb or the product (septate) · **-ant** the agent (aberrant = wandering) |
+| **-pore** | an opening | neuro**pore** (anterior / posterior) | **-porosis** porous state (osteoporosis) |
+| **-oid** | resembling | scaph**oid** (boat-shaped abdomen), glomerul**oid** bodies, sigm**oid** | **-al / -ic** pertaining to (pharyngeal, thoracic) · **-ose** full of |
+| **-ium / -eum / -um** | tissue, membrane, structure | mesogastr**ium**, periton**eum**, ependym**a**/-**ium**, sept**um** | plural **-ia / -a** (mesogastria, septa) |
+| **-ula / -ule / -ulus** | small | fist**ula** (little pipe), tuber**cle**, vent**ricle**, funic**ulus** | **-cele** swelling — a *fistula* is a pipe, not a swelling |
+| **-aemia / -emia** | condition of the blood | hypocalc**aemia**, isch**aemia** | **-uria** in the urine · **-osis** general condition |
+| **-ia / -y** | condition, state | tetan**y**, dysphag**ia**, micrognath**ia**, atres**ia** | **-itis** inflammation · **-oma** tumour |
 
 ---
 
@@ -495,7 +541,7 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 > Phaeochromocytoma, neuroblastoma, medullary thyroid carcinoma, melanoma, schwannoma and the MEN 2 syndromes are all diseases of neural crest derivatives; knowing the derivative list predicts the tumour list and the shared markers (chromogranin, synaptophysin, S-100).
 >
 > **Related Topic 2: [[Congenital Heart Disease — Conotruncal Defects]]**
-> Cardiac neural crest migrates through arches 3, 4 and 6 to septate the outflow tract, which is why DiGeorge (22q11) combines pouch defects with tetralogy of Fallot, truncus arteriosus and interrupted aortic arch.
+> Cardiac neural crest migrates through arches 3, 4 and 6 to septate[^ety-septation] the outflow tract, which is why DiGeorge (22q11) combines pouch defects with tetralogy of Fallot, truncus arteriosus and interrupted aortic arch.
 >
 > **Related Topic 3: [[Thyroid and Parathyroid Surgery]]**
 > The recurrent laryngeal nerve's asymmetric course, the non-recurrent nerve with an aberrant subclavian, the descent of the inferior parathyroids with the thymus and the ultimobranchial C-cell origin of medullary carcinoma are all surgical consequences of this embryology.
@@ -709,3 +755,41 @@ ROTATE:   midgut 270° CCW around SMA → non / reversed / mixed / incomplete
 [^ety-wolffian]: **Etymology — mesonephric (Wolffian) duct:** Greek *mesos*, "middle" + *nephros*, "kidney" — the duct of the middle kidney; named for Caspar Friedrich Wolff (1733–1794), German embryologist.
 [^ety-mullerian]: **Etymology — paramesonephric (Müllerian) duct:** Greek *para*, "beside" + mesonephric — the duct beside the mesonephric duct; named for Johannes Peter Müller (1801–1858), German physiologist, who described it in 1830.
 [^ety-gartner]: **Etymology — Gartner's duct:** Hermann Treschow Gartner (1785–1827), Danish surgeon and anatomist, who described the Wolffian duct remnant in the cow (1822) before it was found in women.
+[^ety-migration]: **Etymology — migration:** Latin *migrare*, "to move from one place to another" + *-ation* → the process of moving; neural crest cells leave the folds and travel. Differs from *invasion* (*in-* + *vadere*, to go in — crossing a boundary) and *translocation* (moved across).
+[^ety-rotation]: **Etymology — rotation:** Latin *rota*, "a wheel" + *-ation* → turning like a wheel; the midgut turns 270° around the SMA axle. *Malrotation* = turned badly, *non-rotation* = not turned, *reversed rotation* = turned the wrong way.
+[^ety-regression]: **Etymology — regression / obliteration / persistence:** *regress* from Latin *re-*, "back" + *gradi*, "to step" → to step back, shrink away (the Wolffian duct in the female); *obliterate* from *ob-* + *littera*, "letter" → to blot out the letters, to erase (the cervical sinus); *persist* from *per-*, "through" + *sistere*, "to stand" → to keep standing (a persistent sinus becomes a cyst).
+[^ety-invagination]: **Etymology — invagination:** Latin *in-* + *vagina*, "a sheath" + *-ation* → pushing in to form a sheath; the neural plate sinks in as a groove. Differs from *evagination* (*e-*, out — pushing outwards, e.g. the diverticula) and *folding*.
+[^ety-induction]: **Etymology — induction / induced:** Latin *in-* + *ducere*, "to lead" → to lead into; the notochord leads the overlying ectoderm into becoming neural plate (one tissue changing the fate of another). Differs from *determination* (fate fixed) and *differentiation* (fate expressed).
+[^ety-neurulation]: **Etymology — neurulation:** Greek *neuron*, "nerve" + Latin diminutive *-ula* + *-ation* → the process of forming the little nerve (tube); the neural plate → groove → tube sequence. Compare *gastrulation* (forming the gut layers) and *neuralation* (not a word — the correct form keeps the *u*).
+[^ety-fusion]: **Etymology — fusion:** Latin *fundere*, "to pour, to melt" → melting together; the neural folds and later the Müllerian ducts fuse. Failure = *dysraphism* (Greek *rhaphē*, seam — a bad seam: spina bifida) or an *unfused* uterus (didelphys).
+[^ety-neuropore]: **Etymology — neuropore:** Greek *neuron* + *poros*, "a passage, an opening" → the opening at each end of the closing neural tube. The *anterior* (cranial) one closes first (day 25), the *posterior* (caudal) by day 27–28.
+[^ety-derivative]: **Etymology — derivative / derived:** Latin *de-*, "from" + *rivus*, "a stream" → drawn off from a stream; an adult structure that flows from an embryonic source. Differs from *remnant* (Latin *remanere*, to stay behind — what is left over, e.g. Gartner's duct) and *homologue* (Greek *homos* + *logos* — same origin, different sex: ovary ↔ testis).
+[^ety-glia]: **Etymology — oligodendrocyte / astrocyte / ependymal cell:** Greek *oligos*, "few" + *dendron*, "tree" + *kytos*, "cell" → the cell with few branches; *astron*, "star" + cell → the star-shaped cell; *ependyma*, "an upper garment" → the lining that clothes the ventricles. All three are *glia* (Greek *glia*, "glue").
+[^ety-myelin]: **Etymology — myelination:** Greek *myelos*, "marrow" + *-in* + *-ation* → the process of wrapping with myelin (the fatty sheath first seen in the spinal "marrow"). *Myelo-* = marrow / spinal cord; do not confuse with *myo-* = muscle.
+[^ety-congenital]: **Etymology — congenital:** Latin *con-*, "with" + *genitus*, "born" → present at birth, whatever the cause. *Hereditary* = passed from parents; *genetic* = caused by genes; CDH is congenital and usually not hereditary.
+[^ety-diaphragm]: **Etymology — diaphragm:** Greek *dia-*, "across" + *phrassein*, "to fence in" → the fence across the body; *septum transversum* is the Latin equivalent (transverse partition). The *phrenic* nerve is from Greek *phrēn*, "diaphragm" (and "mind" — hence *schizophrenia*).
+[^ety-descent]: **Etymology — descent / descends:** Latin *de-*, "down" + *scandere*, "to climb" → to climb down; the diaphragm, the inferior parathyroid (with the thymus) and the testis all descend and drag their nerves or vessels with them. Opposite: *ascent*. *Undescended* testis = cryptorchidism (Greek *kryptos*, hidden + *orchis*, testis).
+[^ety-persistence]: **Etymology — persistence:** Latin *per-*, "through" + *sistere*, "to stand" → to keep standing when it should have gone (persistent pleuroperitoneal canal, persistent right dorsal aorta). See the regression note for regression / obliteration / persistence.
+[^ety-herniation]: **Etymology — herniation:** Latin *hernia*, "a rupture" + *-ation* → the process of protruding; the *physiological* midgut herniation into the cord (normal, week 6–10) versus the *pathological* herniation of bowel through the diaphragm or the umbilical ring.
+[^ety-hypoplasia]: **Etymology — hypoplasia and its cousins:** Greek *hypo-*, "under" + *plasis*, "formation" → under-formation, too little tissue (the CDH lung). **Differentiate:** *aplasia* (*a-*, none — organ failed to develop beyond a rudiment) · *agenesis* (*a-* + *genesis* — never formed at all) · *atrophy* (*a-* + *trophē*, nourishment — a formed organ shrinks) · *dysplasia* (*dys-* — formed badly) · *hyperplasia* (more cells) · *hypertrophy* (bigger cells) · *metaplasia* (*meta-* — one cell type changed into another).
+[^ety-scaphoid]: **Etymology — scaphoid:** Greek *skaphē*, "a boat, a trough" + *-oid*, "resembling" → boat-shaped; the hollowed abdomen of CDH (and the boat-shaped wrist bone). *-oid* = looks like; *-al* = belongs to.
+[^ety-obliteration]: **Etymology — obliteration:** Latin *ob-* + *littera*, "letter" + *-ation* → blotting out the writing; the cervical sinus is erased. See the regression note.
+[^ety-cyst-fistula]: **Etymology — cyst / fistula / sinus:** *cyst* from Greek *kystis*, "a bladder, a bag" → a closed sac (branchial cyst: a buried, sealed pocket of the sinus); *fistula* is Latin for "a pipe" → a track open at both ends (skin → tonsillar fossa); *sinus* is Latin for "a bay" → a blind track open at one end only (an external branchial sinus opens on the skin, an internal one into the pharynx).
+[^ety-tympanic]: **Etymology — tympanic:** Greek *tympanon*, "a drum" → the drum-like middle ear and its membrane (eardrum). The same word gives the *tympanic* (drum-like) percussion note over gas-filled bowel.
+[^ety-eustachian]: **Etymology — Eustachian tube:** Bartolomeo Eustachi (c. 1510–1574), Italian anatomist in Rome, who described the tube in 1564; *auditory* from Latin *audire*, "to hear"; *pharyngotympanic* names its two ends.
+[^ety-hypocalcaemia]: **Etymology — hypocalcaemia / hypoparathyroidism:** Greek *hypo-*, "under, too little" + Latin *calx*, "lime" (calcium) + Greek *haima*, "blood" → too little calcium in the blood; *hypo-parathyroid-ism* = the state of too little parathyroid. *Hypo-* = too little; *hyper-* = too much; *sub-* = only "below" in position.
+[^ety-tetany]: **Etymology — tetany:** Greek *tetanos*, "stretched, rigid" (*teinein*, to stretch) + *-y*, the state → sustained muscle spasm from low calcium. Not *tetanus* (the Clostridium disease, same root, different word).
+[^ety-facies]: **Etymology — hypertelorism / micrognathia / philtrum:** *hypertelorism* = Greek *hyper-*, "excessive" + *tēle*, "far" + *horizein*, "to separate" → eyes set too far apart; *micrognathia* = *mikros*, "small" + *gnathos*, "jaw" + *-ia*; *philtrum* = Greek *philtron*, "love charm" — the groove above the lip. *Facies* is Latin for "face, appearance".
+[^ety-ossification]: **Etymology — ossification:** Latin *os*, *ossis*, "bone" + *facere*, "to make" + *-ation* → bone-making. *Endochondral* (Greek *endon* + *chondros*, cartilage — bone replaces a cartilage model, e.g. the hyoid) vs *intramembranous* (bone forms in a membrane with no cartilage, e.g. the mandible around Meckel's cartilage).
+[^ety-anastomosis]: **Etymology — anastomosis:** Greek *ana-*, "again" + *stoma*, "mouth" + *-osis* → a re-mouthing, one vessel opening into another; the cross channel between the anterior cardinal veins becomes the left brachiocephalic vein.
+[^ety-aberrant]: **Etymology — aberrant:** Latin *ab-*, "away" + *errare*, "to wander" + *-ant*, the agent → wandering away from the usual course; the retro-oesophageal subclavian. *Ectopic* (Greek *ek-* + *topos*, out of place) is the equivalent for organs.
+[^ety-stridor]: **Etymology — stridor:** Latin *stridere*, "to make a harsh sound, to creak" → the harsh inspiratory noise of a narrowed upper airway (the ring squeezes the trachea). Differs from *wheeze* (lower airway, expiratory) and *stertor* (snoring from the pharynx).
+[^ety-degeneration]: **Etymology — degenerates:** Latin *de-*, "down, away from" + *genus*, "kind, race" → falling away from its kind; the 5th arch artery forms incompletely and disappears. Differs from *regression* (a formed structure shrinking back) — degeneration often implies decay of what was never complete or of what is damaged.
+[^ety-volvulus]: **Etymology — volvulus:** Latin *volvere*, "to roll, to twist" → a twisted loop of bowel on its narrow mesenteric stalk. Same root as *revolve* and *vulva* (a wrapping).
+[^ety-mal]: **Etymology — malrotation:** Latin *malus*, "bad" + rotation → rotation gone wrong (stopped early); contrast *non-rotation* (Latin *non*, not — never turned past 90°) and *reversed rotation* (turned clockwise). *Mal-* = bad (malformation, malignant); *dys-* = bad / difficult (Greek); *non-* = not at all.
+[^ety-physiological]: **Etymology — physiological vs pathological:** Greek *physis*, "nature" + *logos*, "study" → according to nature: the week 6–10 midgut hernia is normal; *pathological* from *pathos*, "suffering, disease" → caused by disease: an omphalocele is the physiological hernia that failed to come home.
+[^ety-trisomy]: **Etymology — trisomy:** Greek *tri-*, "three" + *sōma*, "body" (chromosome = coloured body) + *-y* → three copies of one chromosome (trisomy 13 Patau, 18 Edwards, 21 Down). *Monosomy* = one copy; *aneuploidy* = any wrong number.
+[^ety-beckwith]: **Etymology — Beckwith–Wiedemann syndrome:** J. Bruce Beckwith (American paediatric pathologist, 1963) and Hans-Rudolf Wiedemann (German paediatrician, 1964), who independently described the overgrowth syndrome of macroglossia, omphalocele and visceromegaly.
+[^ety-atresia]: **Etymology — atresia:** Greek *a-*, "without" + *trēsis*, "a boring, a hole" + *-ia* → no opening; the lumen never formed or was lost. Differs from *stenosis* (*stenos*, narrow — a narrowed lumen) and *obstruction* (a lumen blocked by something).
+[^ety-differentiation]: **Etymology — differentiation:** Latin *dis-*, "apart" + *ferre*, "to carry" + *-ation* → carrying apart; cells becoming different kinds. Sequence: *determination* (fate fixed) → *differentiation* (fate visible) → *maturation* (fully functional). The sexually *indifferent* stage is before the ducts and gonads have differentiated.
+[^ety-septation]: **Etymology — septate / septation:** Latin *saeptum*, "a fence, a partition" + *-ation* → building a partition; cardiac neural crest builds the aorticopulmonary septum. A *septate* uterus is one with a partition left behind; *septicaemia* is unrelated (Greek *sēptikos*, rotten).

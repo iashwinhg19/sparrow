@@ -39,7 +39,7 @@ The page is the source of truth. You add structure, pictures, videos and footnot
 4. **Build the main note** from the template in section D, section by section in page order.
 5. **Replace each figure.** `python3 _tools/notes_digitize.py detect <page> --out work/<topic>/figs` boxes the pictures on the page; open the `_boxes.png` overlay, then for each figure in the transcript's list: web image → crop from the page → image prompt (section E).
 6. **Add videos** (section F).
-7. **Add footnotes** (section G) and **etymology footnotes** for every eponym and Greek/Latin term (section G2).
+7. **Add footnotes** (section G) and the three etymology layers — term footnotes, process/mechanism footnotes with prefix-root-suffix split and differentiation, and the Word Parts section (section G2).
 8. **Write the Core Dictum & Pattern Recognition block** (section H).
 9. **Add the anatomed block** (section I) and the **infographic prompt** (section J).
 10. **Write the mind-map note** (section K): `python3 _tools/notes_digitize.py skeleton work/<topic>/<Title>.md --out "work/<topic>/<Title> — Mind Map.md"`, then fill it.
@@ -108,6 +108,11 @@ review_day_15: false
 <tables / lists exactly as on the page, callouts for boxed notes, images or image prompts where the page had figures, 🎬 Watch line, one embedded video>
 
 …one `##` per page section…
+
+---
+
+## 🔤 Word Parts — Prefixes & Suffixes
+<section G2 layer 3: the rule callout, then the Prefixes and Suffixes tables>
 
 ---
 
@@ -195,21 +200,44 @@ Every main note needs at least a few footnotes; `check` rejects a note with none
 
 ---
 
-## G2. Etymology footnotes (hover popovers)
+## G2. Etymology footnotes (hover popovers) and the Word Parts section
 
-Every **eponym** (Hesselbach, Meckel, Bochdalek, DiGeorge…) and every term built from **Greek or Latin roots** that a student might not parse (hernia, -cele, -tomy / -rrhaphy / -plasty, meralgia paraesthetica, notochord, mesonephric…) gets its own footnote, placed **immediately after the term's first use** in the body (inside a table cell or heading is fine):
+Three layers, all of them required:
+
+**1. Term footnotes.** Every **eponym** (Hesselbach, Meckel, Bochdalek, DiGeorge…) and every anatomical or clinical term built from **Greek or Latin roots** (hernia, bubonocele, meralgia paraesthetica, notochord, mesonephric…) gets a footnote **immediately after the term's first use** in the body (inside a table cell or heading is fine).
+
+**2. Process and mechanism footnotes.** Every word that names a **process, mechanism, state or failure** gets one too — the *-ation / -ion / -sis / -y* words and their verbs: reduction, obstruction, strangulation, incarceration, peristalsis, occlusion, invagination, entrapment, recurrence, adhesion, ischaemia, necrosis, inflammation vs infection, resection vs dissection vs excision; neurulation, induction, fusion, migration, rotation, regression, obliteration, persistence, herniation, descent, hypoplasia, atresia, degeneration, differentiation, septation, ossification… Each of these footnotes does three things:
+   - **splits the word into its parts** — prefix + root + suffix, each with its meaning in quotes (*ob-* "against" + *struere* "to build" + *-ion* "the process");
+   - gives the sense that joins the parts to the medical meaning;
+   - **differentiates it from its look-alikes and the terms it is graded against** — the stage sequence (irreducible → obstructed → strangulated), the sibling words (hypoplasia / aplasia / agenesis / atrophy / dysplasia; cyst / sinus / fistula; ischaemia / necrosis / gangrene; -rrhage / -rrhoea / -rrhaphy), or the prefix family (extra- / pre- / intra- / trans- / retro-peritoneal).
 
 ```markdown
-**Bubonocele**[^ety-bubonocele] | sac limited to the canal
-…
-[^ety-bubonocele]: **Etymology — bubonocele:** Greek *boubōn*, "groin; a swelling in the groin" + *kēlē*, "hernia" — a hernia still within the groin.
+… loses its cough impulse[^ety-impulse] …
+[^ety-obstruction]: **Etymology — obstruction:** Latin *ob-*, "against, in the way" + *struere*, "to build" + *-ion*, the process → something built in the way; the lumen is blocked. **Differentiate the three stages:** *irreducible / incarcerated* (stuck; blood supply may be fine) → *obstructed* (lumen blocked, supply intact) → *strangulated* (supply throttled).
 ```
 
-Rules:
-- Key = `ety-` + the term in lower-case ASCII (`ety-corona-mortis`). The definition **starts with `**Etymology — <term>:**`** so the popover reads as etymology at a glance; `check` enforces both.
-- One to two lines: the root language, the root words with their meanings in quotes, and the sense that connects the root to the medical meaning. For an eponym: full name, dates, nationality and role, and the year of the description. Add nothing you are unsure of — a wrong date in a footnote is worse than none.
-- One footnote per term; a term that recurs is marked only once. Related terms may share one note (`ety-tomes` for dermatome / myotome / sclerotome).
-- Aim for **every** eponym and root-built term on the page — typically 15–30 per note; `check` rejects fewer than 5.
+**3. The Word Parts section.** A section `## 🔤 Word Parts — Prefixes & Suffixes` placed **after the page's last section and before Core Dictum**, with a one-callout rule (prefix + root + suffix), then two tables:
+
+```markdown
+### Prefixes
+| Prefix | Meaning | In this note | Don't confuse with |
+|---|---|---|---|
+| **para-** | beside, abnormal | meralgia **para**esthetica | **peri-** around (peritoneum) · **pre-** before (preperitoneal) · **post-** after |
+
+### Suffixes
+| Suffix | Meaning | In this note | Don't confuse with |
+|---|---|---|---|
+| **-tomy** | cutting into / opening | hernio**tomy** | **-ectomy** cutting out · **-stomy** making an opening · **-tome** the instrument or segment |
+```
+   - Every prefix and suffix that occurs in the note gets a row; "In this note" quotes the note's own words with the affix in bold; "Don't confuse with" lists the look-alikes with their meanings (a classic set — -tomy/-ectomy/-stomy, -plasia/-plasty/-trophy, -rrhage/-rrhoea/-rrhaphy, hypo-/hyper-/sub-, para-/peri-/pre-, ecto-/meso-/endo-, pro-/meso-/meta- — goes in even if only one member appears in the note, because the column exists to separate them).
+   - Typically 12–25 prefixes and 10–15 suffixes. `check` requires both tables with at least 6 rows each.
+
+Rules for all three layers:
+- Footnote key = `ety-` + the term in lower-case ASCII (`ety-corona-mortis`). The definition **starts with `**Etymology — <term>:**`** so the popover reads as etymology at a glance; `check` enforces both.
+- One to three lines each: root language, root words with meanings in quotes, the connecting sense, and the differentiation. For an eponym: full name, dates, nationality and role, year of the description. Add nothing you are unsure of — a wrong date in a footnote is worse than none; if the origin is disputed say so in four words ("origin uncertain").
+- One footnote per term; a term that recurs is marked once. Related words may share one note (`ety-tomes` for dermatome / myotome / sclerotome; `ety-section` for resection / dissection / excision / incision) and the same key may be referenced from each of them.
+- A marker never goes inside an image's alt text or a link — put it in the italic caption line instead.
+- Aim for **every** eponym, root-built term and process word on the page — typically 40–70 footnotes per note; `check` rejects fewer than 12.
 - These sit with the other footnotes at the end of the file. Obsidian shows the footnote text in a popover when the reader hovers the marker (core plugin **Page preview** must be on), so the reader never has to scroll.
 
 ---
@@ -381,7 +409,8 @@ status: not-started
 - [ ] Every figure on the page has an image (seen by you) or an image prompt at the same place; every Wikimedia image has an italic caption with licence.
 - [ ] No figure was drawn by you (no SVG / HTML / data-URI images).
 - [ ] Every page crop is in the vault's attachments folder, embedded with `![[name]]`, captioned, and checked with your own eyes; crops from a low-resolution page are paired with an image prompt.
-- [ ] Etymology: every eponym and Greek/Latin term has a `[^ety-…]` footnote after its first use, each starting `**Etymology — term:**`.
+- [ ] Etymology: every eponym, Greek/Latin term **and process/mechanism word** has a `[^ety-…]` footnote after its first use, each starting `**Etymology — term:**`, process notes split into prefix + root + suffix and differentiated from look-alikes; no marker inside alt text.
+- [ ] Word Parts section present with Prefixes and Suffixes tables, every affix in the note covered, "Don't confuse with" filled.
 - [ ] Every major section has a 🎬 line; one video embedded per section; all collected in the Video Library.
 - [ ] Footnotes: every fact not on the page has one; every `[^n]` is defined; the page's wording wins in the body.
 - [ ] Core Dictum block has all five callouts in the exact format, specific to this topic.
@@ -398,7 +427,7 @@ status: not-started
 - note path and mind-map path (vault, or `obsidian-pending/` and why)
 - page resolution and whether anything was reconstructed; every `[unclear]`
 - figures: how many from Wikimedia (and whether you could view them), how many cropped from the page (and whether the page was full-resolution), how many image prompts and for which figures
-- etymology footnotes added (count), and any term whose origin you could not source
+- etymology footnotes added (count: terms / processes), Word Parts rows (prefixes / suffixes), and any term whose origin you could not source
 - videos used
 - anatomed names that may need the autocomplete
 - any page-vs-textbook conflicts (now in footnotes)

@@ -26,8 +26,8 @@ review_day_15: false
 # 🩺 Hernia and Hernia Surgeries
 
 > [!abstract] Core Definition
-> A hernia[^ety-hernia] is the **protrusion of a viscus (or part of it) through a defect in the wall that normally contains it**, inside a peritoneal sac. Everything in this topic follows from two questions:
-> - ✅ **Is the sac still freely connected to the abdomen?** (reducible → obstructed → strangulated)
+> A hernia[^ety-hernia] is the **protrusion[^ety-protrusion] of a viscus (or part of it) through a defect in the wall that normally contains it**, inside a peritoneal sac. Everything in this topic follows from two questions:
+> - ✅ **Is the sac still freely connected to the abdomen?** (reducible → obstructed[^ety-obstruction] → strangulated)
 > - ✅ **What is the defect, and how do we close it?** (herniotomy → herniorrhaphy → hernioplasty)
 
 ---
@@ -50,8 +50,8 @@ elective mesh repair   urgent surgery           emergency surgery
 
 | Feature | Simple / uncomplicated | Obstructed | Strangulated[^ety-strangulated] |
 |---|---|---|---|
-| **Hernia** | Reducible | Irreducible | Obstructed hernia **+ compromised blood supply** → overlying **skin inflamed** |
-| **Cough impulse** | ⊕ | ⊖ | ⊖ |
+| **Hernia** | Reducible[^ety-reduction] | Irreducible | Obstructed hernia **+ compromised blood supply** → overlying **skin inflamed**[^ety-inflammation] |
+| **Cough impulse**[^ety-impulse] | ⊕ | ⊖ | ⊖ |
 | **Forceful taxis**[^ety-taxis] (manual reduction) | Possible | **Contraindicated** — risk of *reduction en masse* | **Contraindicated** — risk of *reduction en masse* |
 
 > [!danger] Reduction *en masse*
@@ -64,7 +64,7 @@ elective mesh repair   urgent surgery           emergency surgery
 *A reducible adult inguinal hernia being reduced by hand — the "simple / uncomplicated" column of the table.*
 
 ![CT of an incarcerated inguinal hernia](https://upload.wikimedia.org/wikipedia/commons/e/e5/Inquinalhernia.png)
-*CT of an incarcerated (irreducible) inguinal hernia — bowel loops trapped in the sac (James Heilman, MD, CC BY-SA).*
+*CT of an incarcerated[^ety-incarceration] (irreducible) inguinal hernia — bowel loops trapped in the sac (James Heilman, MD, CC BY-SA).*
 
 ![[Hernia - reduction en masse.png]]
 *Reduction en masse — the sac, its contents and the constriction ring pushed back together (cropped from the handwritten page; the page reached me at 346 px wide, so the crop is small — re-crop from the full-resolution page or regenerate with the prompt below).*
@@ -78,10 +78,10 @@ elective mesh repair   urgent surgery           emergency surgery
 
 | Feature | Omentocele[^ety-cele] (omentum) | Enterocele (bowel) |
 |---|---|---|
-| **Peristalsis** | ⊖ | ⊕ |
+| **Peristalsis**[^ety-peristalsis] | ⊖ | ⊕ |
 | **Consistency** | Doughy | — |
 | **Reducing the first part** | Easy (last part is hardest — the omentum is adherent at the neck) | Difficult (first part is hardest — then it slips in with a gurgle)[^2] |
-| **Percussion note** | Dull | Tympanic / resonant |
+| **Percussion note**[^ety-percussion] | Dull | Tympanic / resonant |
 
 ---
 
@@ -90,12 +90,12 @@ elective mesh repair   urgent surgery           emergency surgery
 | | Herniotomy[^ety-tomy] | Herniorrhaphy[^ety-rrhaphy] | Hernioplasty[^ety-plasty] |
 |---|---|---|---|
 | **Procedure** | Identify sac → cut open → reduce contents → excise sac | Same + | Same + |
-| **Defect** | **Not repaired** | Edges **sutured together** (no mesh, because of infection risk) | Closed with **mesh** |
-| **Recurrence rate** | Highest | — | **Least** |
-| **Performed in** | **TOC in:** congenital inguinal hernia · inguinal hernia in children · congenital hydrocele | **Obstructed and strangulated** hernia (contaminated field → no synthetic mesh) | **All other hernias** |
+| **Defect** | **Not repaired** | Edges **sutured together** (no mesh, because of infection[^ety-infection] risk) | Closed with **mesh** |
+| **Recurrence rate**[^ety-recurrence] | Highest | — | **Least** |
+| **Performed in** | **TOC in:** congenital[^ety-congenital] inguinal hernia · inguinal hernia in children · congenital hydrocele[^ety-hydrocele] | **Obstructed and strangulated** hernia (contaminated field → no synthetic mesh) | **All other hernias** |
 
 > [!tip] Why no mesh in obstructed / strangulated hernia?
-> The field is potentially contaminated (ischaemic bowel, possible resection). A synthetic mesh in an infected field becomes a chronic sinus. If a mesh is unavoidable, use a **biological** mesh (see below).
+> The field is potentially contaminated (ischaemic[^ety-ischaemia] bowel, possible resection[^ety-section]). A synthetic mesh in an infected field becomes a chronic[^ety-chronic] sinus[^ety-sinus]. If a mesh is unavoidable, use a **biological** mesh (see below).
 
 ---
 
@@ -114,7 +114,7 @@ elective mesh repair   urgent surgery           emergency surgery
 | Synthetic | Biological |
 |---|---|
 | **Avoid in infection and strangulation** | **Can be used in infection** |
-| e.g. **Prolene**[^ety-prolene] (polypropylene), **Vypro** — *not used intraperitoneally* (bowel adhesions) | e.g. **Acellular human dermis** (AlloDerm) |
+| e.g. **Prolene**[^ety-prolene] (polypropylene), **Vypro** — *not used intraperitoneally* (bowel adhesions[^ety-adhesion]) | e.g. **Acellular human dermis** (AlloDerm) |
 | **PTFE** (ePTFE) — the one synthetic that *can* go intraperitoneally | **Acellular porcine dermis** |
 
 ![Polypropylene (Prolene) hernia mesh](https://upload.wikimedia.org/wikipedia/commons/2/20/Hernia_mesh_1.jpg)
@@ -143,9 +143,9 @@ elective mesh repair   urgent surgery           emergency surgery
 
 | Test | Value |
 |---|---|
-| **Deep ring occlusion test** | **Single best test** — occlude the deep ring (midpoint between ASIS and pubic tubercle), ask the patient to cough: no bulge = indirect; bulge medial to your thumb = direct |
+| **Deep ring occlusion test**[^ety-occlusion] | **Single best test** — occlude the deep ring (midpoint between ASIS and pubic tubercle[^ety-tubercle]), ask the patient to cough: no bulge = indirect; bulge medial to your thumb = direct |
 | Zieman's three-finger test | Low sensitivity |
-| Ring invagination test | Low sensitivity |
+| Ring invagination test[^ety-invagination] | Low sensitivity |
 
 ### Types of indirect inguinal hernia
 
@@ -175,7 +175,7 @@ elective mesh repair   urgent surgery           emergency surgery
 |---|---|
 | **Lateral** | Inferior epigastric vessels |
 | **Medial** | Lateral (outer) border of rectus abdominis |
-| **Inferior** | Inguinal ligament |
+| **Inferior** | Inguinal ligament[^ety-ligament] |
 
 > [!note] Key from your diagram
 > - **V** = vessels (inferior epigastric)
@@ -195,8 +195,8 @@ elective mesh repair   urgent surgery           emergency surgery
 
 | Ring | Is a modification (opening) of |
 |---|---|
-| **Deep ring** | **Fascia transversalis** |
-| **Superficial ring** | **External oblique aponeurosis** |
+| **Deep ring** | **Fascia transversalis**[^ety-fascia] |
+| **Superficial ring** | **External oblique aponeurosis**[^ety-aponeurosis] |
 
 ### Myopectineal orifice of Fruchaud[^ety-fruchaud]
 
@@ -231,14 +231,14 @@ title: Inguinal region
 ## 🛠 Hernioplasty
 
 ### Open surgery
-> [!info] **Lichtenstein's tension-free mesh hernioplasty**[^ety-lichtenstein] — the standard open repair (mesh sutured over the posterior wall, no tension on the tissues).[^5]
+> [!info] **Lichtenstein's tension-free mesh hernioplasty**[^ety-lichtenstein] — the standard open repair (mesh sutured over the posterior wall, no tension[^ety-tension] on the tissues).[^5]
 
 ### Complications of open inguinal hernia surgery
-1. Haemorrhage
+1. Haemorrhage[^ety-haemorrhage]
 2. Injury to the vas / cord structures
 3. **Nerve injury** — the most common nerve injured:
    - **At the superficial ring → ilioinguinal nerve**[^ety-ilio] (numbness of the upper medial thigh and scrotum / labium)
-   - **Entrapped below the mesh → iliohypogastric nerve → chronic inguinal pain**[^6]
+   - **Entrapped[^ety-entrapment] below the mesh → iliohypogastric nerve → chronic inguinal pain**[^6]
 4. Recurrence
 5. Wound infection
 
@@ -246,8 +246,8 @@ title: Inguinal region
 
 | | TEP | TAPP |
 |---|---|---|
-| **Full form** | **T**otally **E**xtra**p**eritoneal repair | **T**rans-**A**bdominal **P**re**p**eritoneal repair |
-| **Peritoneum**[^ety-peritoneum] | **Remains intact** — a balloon trocar creates the preperitoneal space from the umbilicus | **Breached** — enter the abdomen, cut a peritoneal flap, place the mesh, close the flap |
+| **Full form** | **T**otally **E**xtra**p**eritoneal repair[^ety-peritoneal-prefixes] | **T**rans-**A**bdominal **P**re**p**eritoneal repair |
+| **Peritoneum**[^ety-peritoneum] | **Remains intact** — a balloon trocar[^ety-trocar] creates the preperitoneal space from the umbilicus | **Breached** — enter the abdomen, cut a peritoneal flap, place the mesh, close the flap |
 | **Character** | Technically **more challenging**, **better repair** (no peritoneal entry → no adhesions / bowel injury) | Easier to learn, larger working space, lets you see both groins |
 
 ![[Hernia - TEP vs TAPP.png]]
@@ -276,7 +276,7 @@ title: Inguinal region
 | **Complication of tacking here** | | **Torrential bleeding** if a stapler / tacker is applied | **Meralgia paraesthetica**[^ety-meralgia] — shooting pain along the lateral thigh from entrapment of the **lateral cutaneous nerve of thigh** (most common) |
 
 > [!danger] Corona mortis[^ety-corona-mortis] — the "circle of death"
-> An **abnormal communication between the obturator and external iliac (inferior epigastric) vessels** running over the superior pubic ramus. Injury → **torrential bleeding** that retracts into the pelvis.[^7]
+> An **abnormal communication[^ety-anastomosis] between the obturator and external iliac (inferior epigastric) vessels** running over the superior pubic ramus. Injury → **torrential bleeding** that retracts into the pelvis.[^7]
 
 ![[Hernia - laparoscopic structures sketch.png]]
 *Your sketch of the structures met during laparoscopic repair — deep ring, iliopubic tract, peritoneal reflection, vas deferens (medial), testicular vessels (lateral), triangle of pain and triangle of doom (cropped from the handwritten page; the page reached me at 346 px wide, so the crop is small — re-crop from the full-resolution page or regenerate with the prompt below).*
@@ -298,7 +298,7 @@ title: Inguinal region
 | Sliding hernia | Sportsman's hernia |
 |---|---|
 | **Posterior boundary of the sac is formed by a viscus** (most common: **sigmoid colon** on the left; caecum on the right; bladder medially) | AKA **Gilmore's groin**[^ety-gilmore] |
-| The viscus **can be injured during sac dissection** (don't try to "excise" the posterior wall) | Most common in **athletes** |
+| The viscus **can be injured during sac dissection**[^ety-section] (don't try to "excise" the posterior wall) | Most common in **athletes** |
 | Seen in **elderly males** | **Tear in the posterior wall muscles** (conjoint tendon / transversalis fascia) ↓ **extreme pain** ⊕ |
 | **Left ≫ right** (sigmoid colon) | **Sac not palpable** (small / no true sac) |
 | | **IOC: MRI** |
@@ -344,6 +344,58 @@ title: Inguinal region
 | **IIIb** | **Indirect** hernia + posterior floor defect (**pantaloon hernia**[^ety-pantaloon] — direct + indirect on either side of the inferior epigastric vessels) |
 | **IIIc** | **Femoral** hernia |
 | **IV** | **Recurrent** hernia |
+
+---
+
+## 🔤 Word Parts — Prefixes & Suffixes
+
+> [!tip] Read a word by its parts
+> **prefix** (where / how much / direction) + **root** (the thing) + **suffix** (what kind of thing, or what is done to it). *hernio-rrhaphy* = hernia + sewing; *hernio-plasty* = hernia + re-forming; *omento-cele* = omentum + swelling. The two tables cover every affix in this note and the look-alikes it is confused with.
+
+### Prefixes
+
+| Prefix | Meaning | In this note | Don't confuse with |
+|---|---|---|---|
+| **a- / an-** | without, not | **a**cellular dermis | **ab-** away from (abduct) · **ad-** towards (adhesion) |
+| **ad-** | to, towards | **ad**hesion (sticking *to*) | **a-** without · **ab-** away from |
+| **con- / com-** | together, with | **con**genital (born *with*), **con**striction, **com**promised | **contra-** against (contraindicated) · **co-** same as con- |
+| **de-** | down, away | vas **de**ferens, **de**fect | **dis-** apart (dissection) · **dys-** bad (dysphagia) |
+| **dis-** | apart, asunder | **dis**section (cutting apart) | **dys-** bad, difficult · **de-** away |
+| **epi-** | upon, above | inferior **epi**gastric vessels, **epi**gastric hernia (M2) | **hypo-** below (iliohypogastric) · **peri-** around |
+| **extra-** | outside | TEP = totally **extra**peritoneal (outside the peritoneum) | **intra-** inside (intraperitoneal mesh) · **inter-** between · **trans-** across (TAPP) |
+| **hypo-** | below, under | ilio**hypo**gastric (below the belly) | **hyper-** above, excess · **epi-** upon |
+| **ilio-** | of the ilium / flank | **ilio**inguinal, **ilio**hypogastric, **ilio**pubic tract, **ilio**psoas | **ileo-** of the ileum (small bowel) — one letter apart, different organ |
+| **in- / ir-** | not | **ir**reducible, **in**complete | **in- / intra-** inside (intraperitoneal) — same spelling, opposite job |
+| **infra-** | below | **infra**umbilical (M4) | **sub-** under (subcostal L1, subxiphoid M1) · **inferior** lower |
+| **inter-** | between | **inter**costal | **intra-** within · **intro-** inward |
+| **intra-** | inside, within | **intra**peritoneal (PTFE only) | **inter-** between · **extra-** outside |
+| **laparo-** | flank, abdomen | **laparo**scopy | **lapar-/celio-** both mean belly · **laryngo-** throat |
+| **myo-** | muscle | **myo**pectineal orifice | **myelo-** marrow / spinal cord · **myco-** fungus |
+| **omento- / entero- / bubono- / hydro-** | omentum / bowel / groin / water | **omento**cele, **entero**cele, **bubono**cele, **hydro**cele | all take *-cele*; the prefix says what is inside |
+| **para-** | beside, abnormal | meralgia **para**esthetica | **peri-** around (peritoneum) · **pre-** before (preperitoneal) · **post-** after |
+| **peri-** | around | **peri**toneum, **peri**stalsis | **para-** beside · **per-** through |
+| **pre-** | before, in front of | TAPP = trans-abdominal **pre**peritoneal (in front of the peritoneum) | **pro-** before/forward · **post-** after |
+| **re-** | again, back | **re**ducible, **re**currence, **re**section | **retro-** backwards/behind (retroperitoneal) |
+| **sub-** | under | **sub**costal (L1), **sub**xiphoid (M1) | **supra-** above (suprapubic M5) · **infra-** below · **semi-** half |
+| **supra-** | above | **supra**pubic (M5) | **super-** above/excess · **sub-** under |
+| **trans-** | across, through | **trans**abdominal (TAPP), fascia **trans**versalis, **trans**versus abdominis | **tran-/trans-** same; **inter-** between |
+
+### Suffixes
+
+| Suffix | Meaning | In this note | Don't confuse with |
+|---|---|---|---|
+| **-cele** | swelling, hernia | omento**cele**, entero**cele**, bubono**cele**, hydro**cele** | **-coele / -coel** a body cavity (coelom) · **-cle** small (tubercle, vesicle) |
+| **-tomy** | cutting into / opening | hernio**tomy** (sac opened, nothing removed) | **-ectomy** cutting *out* (appendicectomy) · **-stomy** making a mouth/opening (colostomy) · **-tome** the cutting instrument or segment (dermatome) |
+| **-rrhaphy** | sewing, suturing | hernio**rrhaphy** | **-rrhage / -rrhagia** bursting forth of blood (haemorrhage) · **-rrhoea** flow (diarrhoea) · **-rrhexis** rupture (hysterorrhexis) |
+| **-plasty** | moulding, re-forming | hernio**plasty** (mesh repair) | **-plasia** growth/formation of tissue (hyperplasia) · **-trophy** nourishment/size (hypertrophy) · **-pexy** fixation (orchidopexy) |
+| **-scopy** | looking into | laparo**scopy** | **-scope** the instrument · **-graphy** recording (fistulography) · **-metry** measuring |
+| **-ion / -ation** | the process or result of | reduct**ion**, obstruct**ion**, strangulat**ion**, occlus**ion**, invaginat**ion**, incarcerat**ion** | **-or / -er** the agent (tacker, constrictor) · **-ure** the result (suture) |
+| **-algia** | pain | mer**algia** (thigh pain) | **-odynia** pain (coccygodynia) · **-agra** seizure of pain (podagra) |
+| **-aesthesia / -esthesia** | sensation | para**esthesia** (meralgia paraesthetica) | **-anaesthesia** absence of sensation · **-plegia** paralysis |
+| **-itis** | inflammation | orch**itis** (ischaemic orchitis), peritonitis | **-osis** abnormal state / process without inflammation (necrosis) · **-oma** tumour (lipoma) · **-iasis** condition (lithiasis) |
+| **-osis** | process, abnormal state | necr**osis**, aponeur**osis** (here just "condition of sinew"), fibrosis | **-itis** inflammation · **-esis** action (diuresis) |
+| **-al / -ic / -eal** | pertaining to | inguin**al**, femor**al**, tympan**ic**, periton**eal**, pectin**eal** | **-oid** resembling (sigmoid = S-shaped, scaphoid = boat-shaped) · **-ous** full of |
+| **-ole / -cle / -ule / -culus** | small | tuber**cle** (pubic tubercle), funi**culus** (funicular = of the little cord) | **-cele** hernia — tubercle is *not* a hernia |
 
 ---
 
@@ -634,3 +686,32 @@ LAP: DOOM (vas–vessels, iliac vessels, bleeds) · PAIN (vessels–peritoneum, 
 [^ety-gilmore]: **Etymology — Gilmore's groin:** Jerry Gilmore, London surgeon, who described the posterior-wall tear in professional footballers in 1980.
 [^ety-pantaloon]: **Etymology — pantaloon hernia:** French *pantalon*, trousers, from *Pantalone*, the Venetian comedy character who wore them — the sac has two "legs", one on each side of the inferior epigastric vessels.
 [^ety-nyhus]: **Etymology — Nyhus:** Lloyd M. Nyhus (1923–2008), American surgeon in Chicago, whose classification of groin hernias (1993) grades the deep ring and the posterior wall.
+[^ety-protrusion]: **Etymology — protrusion / viscus:** Latin *pro-*, "forward" + *trudere*, "to thrust" → thrusting forward; *viscus* (plural *viscera*), "an internal organ". Differs from *prolapse* (*pro-* + *labi*, to slip — an organ slipping down through its own opening, e.g. rectal prolapse) and *eventration* (*e-* + *venter*, belly — abdominal contents outside the wall).
+[^ety-obstruction]: **Etymology — obstruction:** Latin *ob-*, "against, in the way" + *struere*, "to build" + *-ion*, the process → something built in the way; the bowel lumen is blocked. **Differentiate the three stages:** *irreducible / incarcerated* (stuck, lumen and blood supply may still be fine) → *obstructed* (lumen blocked, blood supply intact) → *strangulated* (blood supply throttled). Every strangulated hernia is obstructed and irreducible; the reverse is not true.
+[^ety-reduction]: **Etymology — reducible / reduction / en masse:** Latin *re-*, "back" + *ducere*, "to lead" → to lead back; a reducible hernia can be led back into the abdomen. *Irreducible* = *ir-* (not) + reducible. *En masse* is French, "in a mass, all together" — the sac is reduced as one lump with its ring.
+[^ety-inflammation]: **Etymology — inflammation vs infection:** *inflammation* from Latin *in-* + *flamma*, "flame" → set on fire (redness, heat, swelling, pain — the response); *infection* from *in-* + *facere*, "to make, to put in" → something put into the body (the microbial cause). Strangulated skin is inflamed (ischaemia, then bacteria); a mesh sinus is infected.
+[^ety-impulse]: **Etymology — impulse:** Latin *in-* + *pellere*, "to push" → a push transmitted; the cough transmits a push to the sac. A sac with no impulse has lost its connection to the abdominal pressure.
+[^ety-incarceration]: **Etymology — incarcerated:** Latin *in-* + *carcer*, "a prison" → imprisoned; the contents are locked in the sac. Used by many texts as a synonym for *irreducible*; it says nothing about the blood supply (that is *strangulation*).
+[^ety-peristalsis]: **Etymology — peristalsis:** Greek *peri-*, "around" + *stellein*, "to place, to draw in" → a constriction travelling around the tube; visible in an enterocele, absent in an omentocele because omentum has no muscle.
+[^ety-percussion]: **Etymology — percussion / tympanic / resonant / dull:** Latin *per-*, "through" + *quatere*, "to strike" → striking through; *tympanic* from Greek *tympanon*, "a drum" (gas-filled bowel booms like a drum); *resonant* from Latin *re-* + *sonare*, "to sound again"; *dull* from Old English *dol*, "blunt" — solid omentum gives no echo.
+[^ety-infection]: **Etymology — infection:** Latin *inficere*, "to put in, to stain" — see the inflammation note for the inflammation / infection distinction.
+[^ety-recurrence]: **Etymology — recurrence:** Latin *re-*, "again" + *currere*, "to run" → running again; the hernia comes back through the same defect. Differs from *persistence* (never went away) and *relapse* (*re-* + *labi*, to slip back — used for disease, not hernias).
+[^ety-congenital]: **Etymology — congenital:** Latin *con-*, "with" + *genitus*, "born" → present at birth. **Differentiate:** *congenital* (present at birth, any cause) · *hereditary* (passed from parents) · *genetic* (caused by genes, present at birth or not) · *familial* (runs in families). A congenital inguinal hernia is a patent processus vaginalis — congenital but not hereditary.
+[^ety-hydrocele]: **Etymology — hydrocele:** Greek *hydōr*, "water" + *kēlē*, "swelling" → a watery swelling; fluid in the tunica vaginalis. A *congenital* hydrocele is the same patent processus as an indirect hernia, just with fluid instead of bowel — hence the same herniotomy.
+[^ety-ischaemia]: **Etymology — ischaemia / gangrene / necrosis:** *ischaemia* from Greek *ischein*, "to hold back" + *haima*, "blood" → blood held back (reversible); *necrosis* from *nekros*, "corpse" + *-osis* → cell death (irreversible); *gangrene* from *gangraina*, "an eating sore" → necrosis of a whole segment with putrefaction. Order in a strangulated hernia: ischaemia → necrosis → gangrene → perforation.
+[^ety-section]: **Etymology — resection / dissection / excision / incision:** all from Latin *secare* or *caedere*, "to cut": *re-section* = cutting out a part of an organ (bowel resection); *dis-section* = cutting apart along planes to display (sac dissection); *ex-cision* = cutting out whole (excising the sac); *in-cision* = cutting into (the skin incision). *Transection* = cutting across.
+[^ety-chronic]: **Etymology — chronic:** Greek *chronos*, "time" → lasting a long time; opposed to *acute* (Latin *acutus*, "sharp" — sudden and short) and *subacute* (between the two).
+[^ety-sinus]: **Etymology — sinus / fistula / cyst:** *sinus* is Latin for "a bay, a hollow" → a blind track opening on one surface (a mesh sinus discharges to the skin); *fistula* is Latin for "a pipe" → a track open at both ends joining two surfaces; *cyst* from Greek *kystis*, "a bladder" → a closed sac with no opening.
+[^ety-adhesion]: **Etymology — adhesion:** Latin *ad-*, "to" + *haerere*, "to stick" → sticking to; bowel sticks to intraperitoneal polypropylene. Not *cohesion* (*co-* — sticking to itself).
+[^ety-occlusion]: **Etymology — occlusion:** Latin *ob-*, "against" + *claudere*, "to shut" → shutting against; the thumb shuts the deep ring. Differs from *obstruction* (something built in the way) and *stenosis* (Greek *stenos*, narrow — a narrowed lumen).
+[^ety-tubercle]: **Etymology — tubercle:** Latin *tuberculum*, "a small swelling" (diminutive of *tuber*, a lump) — the pubic tubercle is the small bump at the medial end of the inguinal ligament. The same word gave *tuberculosis* (small swellings = tubercles in the lung).
+[^ety-invagination]: **Etymology — invagination:** Latin *in-* + *vagina*, "a sheath" → to push into a sheath; the scrotal skin is pushed up into the canal like a finger into a glove. Same root as *intussusception*'s picture, different word (*intus* + *suscipere*, to take up within).
+[^ety-ligament]: **Etymology — ligament / tendon / aponeurosis / fascia:** *ligament* from Latin *ligare*, "to bind" → a band binding bone to bone (inguinal ligament binds ASIS to pubic tubercle); *tendon* from *tendere*, "to stretch" → a cord joining muscle to bone; *aponeurosis* from Greek *apo-*, "from" + *neuron*, "sinew" → a flat sheet of tendon (external oblique ends in one); *fascia* is Latin for "a band, a bandage" → a sheet of connective tissue wrapping muscle (transversalis fascia lines transversus abdominis).
+[^ety-fascia]: **Etymology — fascia transversalis:** Latin *fascia*, "a band" + *transversus*, "lying across" — the fascia on the deep surface of transversus abdominis; the deep ring is a hole in it. See the ligament note for fascia vs aponeurosis vs ligament vs tendon.
+[^ety-aponeurosis]: **Etymology — aponeurosis:** Greek *apo-*, "away from" + *neuron*, "sinew, tendon" (in old Greek *neuron* meant sinew, not nerve) + *-osis* → a flattened tendon spreading away from the muscle; the superficial ring is a split in the external oblique aponeurosis.
+[^ety-tension]: **Etymology — tension-free:** Latin *tendere*, "to stretch" → the state of being stretched; a tension-free repair bridges the gap with mesh instead of pulling the edges together under stretch (which is why sutured repairs recur).
+[^ety-haemorrhage]: **Etymology — haemorrhage:** Greek *haima*, "blood" + *rhēgnynai*, "to burst forth" → blood bursting out. **The three -rrh- suffixes:** *-rrhage / -rrhagia* = bursting out (haemorrhage, menorrhagia); *-rrhoea* = flowing (diarrhoea, rhinorrhoea); *-rrhaphy* = sewing (herniorrhaphy) — one is a repair, the other two are leaks.
+[^ety-entrapment]: **Etymology — entrapment:** Old French *en-* + *trappe*, "a snare" → caught in a trap; the nerve is caught in scar or under mesh. Differs from *transection* (cut through) and *neurapraxia* (Greek *a-* + *praxis*, "no action" — a stunned nerve that recovers).
+[^ety-peritoneal-prefixes]: **Etymology — extra- / pre- / intra- / trans- / retro-peritoneal:** *extra-* = outside the peritoneum (TEP never enters the sac); *pre-* = in front of it, between peritoneum and transversalis fascia (the space where the mesh goes in both TEP and TAPP); *intra-* = inside the peritoneal cavity (where only PTFE mesh may lie); *trans-* = across it (TAPP crosses the cavity to reach the preperitoneal space); *retro-* = behind it (kidneys, duodenum). Same root, five different planes.
+[^ety-trocar]: **Etymology — trocar:** French *trois-quarts*, "three-quarters" — the original instrument had a three-sided (triangular) point; now the port through which a laparoscope or balloon is passed.
+[^ety-anastomosis]: **Etymology — anastomosis:** Greek *ana-*, "again, up" + *stoma*, "mouth" → a re-mouthing, two vessels opening into each other; the corona mortis is a natural anastomosis. Surgeons also use it for a joined bowel (ileocolic anastomosis). Differs from *collateral* (Latin *con-* + *latus*, side — a side channel) which an anastomosis provides.

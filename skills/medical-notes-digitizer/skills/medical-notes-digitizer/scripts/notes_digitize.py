@@ -32,11 +32,11 @@ import argparse, hashlib, json, os, re, shutil, subprocess, sys, urllib.parse, u
 
 REQUIRED_FM = ["title", "aliases", "status", "topic", "subtopic", "target_exams", "difficulty",
                "high_yield", "source", "mindmap"]
-REQUIRED_SECTIONS = ["Core Dictum & Pattern Recognition", "Pearls", "One-Line Recall",
+REQUIRED_SECTIONS = ["Word Parts", "Core Dictum & Pattern Recognition", "Pearls", "One-Line Recall",
                      "Anki Flash Points", "Video Library", "Infographic Prompt", "References"]
 CORE_DICTUM_CALLOUTS = ["[!check]+", "[!example]+", "[!warning]+", "[!danger]+", "[!tip]+"]
 ALLOWED_IMG_HOSTS = ("upload.wikimedia.org",)
-MIN_ETYMOLOGY = 5
+MIN_ETYMOLOGY = 12
 UA = {"User-Agent": "notes-digitizer/1.1 (Obsidian study notes)"}
 
 
@@ -269,6 +269,21 @@ def problems(path, s, vault=None):
             m = re.search(r"^\[\^" + re.escape(d) + r"\]:\s*(.*)$", body, re.M)
             if m and not m.group(1).lstrip().startswith("**Etymology"):
                 p.append(f"[^{d}] must start with '**Etymology — <term>:**' so the hover popover reads as etymology")
+    for m in re.finditer(r"!\[[^\]]*\[\^[\w-]+\][^\]]*\]\(", body):
+        p.append("footnote marker inside an image's alt text — move it to the caption line")
+    wp = re.search(r"^## .*Word Parts.*$", body, re.M)
+    if wp:
+        tail = body[wp.end():]
+        nxt = re.search(r"^## ", tail, re.M)
+        sect = tail[:nxt.start()] if nxt else tail
+        for sub in ("Prefixes", "Suffixes"):
+            m = re.search(r"^### " + sub + r"\s*\n((?:\|.*\n?)+)", sect, re.M)
+            rows = [l for l in (m.group(1).split("\n") if m else []) if l.startswith("|")][2:]
+            if len(rows) < 6:
+                p.append(f"Word Parts: '### {sub}' table needs at least 6 rows (found {len(rows)})")
+            for l in rows:
+                if l.count("|") < 5:
+                    p.append(f"Word Parts: row needs 4 columns (affix | meaning | in this note | don't confuse with): {l[:50]}")
     imgs = re.findall(r"!\[[^\]]*\]\((https?://[^)\s]+)\)", body)
     local = re.findall(r"!\[\[([^\]|]+)", body)
     for u in imgs:
