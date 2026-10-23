@@ -7,7 +7,7 @@ description: "Turn images of handwritten medical notes into Obsidian notes in th
 
 Turns photographed or scanned pages of the user's medical notes into **two Obsidian files per topic**:
 
-1. **The main note** — the page transcribed faithfully in the user's house style (section D), with every figure on the page replaced by a **free web image**, or **cropped out of the page itself** when the web has none (an **image-generation prompt** only as the last resort), one or more **videos** per section, **footnotes** for anything not on the page, **etymology footnotes** that pop up on hover for every eponym and Greek/Latin term, a **Core Dictum & Pattern Recognition** block, an **anatomed** 3D block, Anki flash points, and an **infographic prompt** at the end.
+1. **The main note** — the page transcribed faithfully in the user's house style (section D), with every figure on the page replaced by a **free web image**, or **cropped out of the page itself** when the web has none (an **image-generation prompt** only as the last resort), one or more **videos** per section, **footnotes** for anything not on the page, **etymology footnotes** that pop up on hover for every eponym and Greek/Latin term, a **Core Dictum & Pattern Recognition** block, an **anatomed** 3D block, and an **infographic prompt** at the end.
 2. **The mind-map note** — the same topic rebuilt as a heading-and-bullet tree for the **mdmap** plugin (section K). It is a different file with a different shape, never a copy of the main note.
 
 The page is the source of truth. You add structure, pictures, videos and footnotes; you do not change what the page says.
@@ -39,7 +39,7 @@ The page is the source of truth. You add structure, pictures, videos and footnot
 4. **Build the main note** from the template in section D, section by section in page order.
 5. **Replace each figure.** `python3 _tools/notes_digitize.py detect <page> --out work/<topic>/figs` boxes the pictures on the page; open the `_boxes.png` overlay, then for each figure in the transcript's list: web image → crop from the page → image prompt (section E).
 6. **Add videos** (section F).
-7. **Add footnotes** (section G) and the three etymology layers — term footnotes, process/mechanism footnotes with prefix-root-suffix split and differentiation, and the Word Parts section (section G2).
+7. **Add footnotes** (section G) and the three etymology layers — term footnotes, process/mechanism footnotes with prefix-root-suffix split and differentiation, and prefix/suffix footnotes on the first word that carries each affix (section G2).
 8. **Write the Core Dictum & Pattern Recognition block** (section H).
 9. **Add the anatomed block** (section I) and the **infographic prompt** (section J).
 10. **Write the mind-map note** (section K): `python3 _tools/notes_digitize.py skeleton work/<topic>/<Title>.md --out "work/<topic>/<Title> — Mind Map.md"`, then fill it.
@@ -111,11 +111,6 @@ review_day_15: false
 
 ---
 
-## 🔤 Word Parts — Prefixes & Suffixes
-<section G2 layer 3: the rule callout, then the Prefixes and Suffixes tables>
-
----
-
 ## Core Dictum & Pattern Recognition
 <section H, verbatim format>
 
@@ -128,9 +123,6 @@ review_day_15: false
 ## 🔁 One-Line Recall
 ``` <a 3–8 line ASCII recall chain> ```
 
-## 🧩 Anki Flash Points
-| ❓ | ✅ |  (one row per testable fact, answer in bold; 20–50 rows)
-
 ## 🎬 Video Library
 | What to watch | Link |  (every video used in the note)
 
@@ -142,7 +134,7 @@ review_day_15: false
 - <textbooks / guidelines actually drawn on>
 - Wikimedia Commons — all embedded images (licence noted in captions)
 
-[^1]: …   (footnote definitions, last thing in the file)
+[^1]: …   (footnote definitions — ordinary notes, then the term, process and affix etymology notes — last thing in the file)
 ```
 
 **Callout vocabulary** (keep to these): `[!abstract]` definition / infographic prompt · `[!info]` mechanism or key fact · `[!tip]` mnemonic or "why" · `[!note]` side box from the page · `[!warning]` caution, exception · `[!danger]` complication, contraindication, applied anatomy that kills · `[!success]` most-commons, pearls · `[!example]-` collapsed image prompt. Use `>` continuation lines; a blank `>` line separates paragraphs inside a callout.
@@ -156,8 +148,9 @@ review_day_15: false
 For every figure listed in the transcript, in this order of preference:
 
 1. **The user's own image**, if they uploaded the figure separately → keep it as `![[name]]` in the vault's attachments.
-2. **Wikimedia Commons** (public domain, CC BY, CC BY-SA):
-   - Search `site:commons.wikimedia.org <term> file` (also try Gray's Anatomy plates, OpenStax, CDC, Wellcome Collection, NIH). Take the **exact file title from the result URL** (`File:Hernia_mesh_1.jpg` → `Hernia mesh 1.jpg`). Never guess a title.
+2. **A clear free image from the web — search hard before giving up.** (public domain, CC BY, CC BY-SA):
+   - Run **at least three searches** per figure before concluding there is none: the English term, the Latin / eponymous name, and a synonym or the structure's parent region, each with `diagram`, `illustration` or `photograph`; use the thorough search mode. Look in `site:commons.wikimedia.org … file`, the Commons *category* page for the structure (it lists every file), the images used by the Wikipedia article, Gray's Anatomy plates (1918, public domain), OpenStax Anatomy & Physiology, CDC / NIH / NLM Open-i, the Wellcome Collection, and open-access journal figures on PMC that carry a CC BY licence. Take the **exact file title from the result URL** (`File:Hernia_mesh_1.jpg` → `Hernia mesh 1.jpg`). Never guess a title.
+   - A web image must be **clear and correct**: labels readable at 800 px and showing the same structures as the page's figure. A pretty picture of the wrong thing is worse than a crop.
    - `python3 _tools/notes_digitize.py wmurl "Hernia mesh 1.jpg" --width 800` prints the direct URL (and a thumbnail URL for SVG/GIF/TIFF, which Obsidian needs).
    - `python3 _tools/notes_digitize.py look <url> --out work/<topic>/img` then **open the file and look at it**. Embed it only if it shows what the page's figure shows. If you cannot download (network blocked), say so in the report and ask the user to glance at the images once.
    - Embed as `![<alt>](<direct url>)` followed **on the next line** by an italic caption: what it shows, mapped to the page's wording, plus attribution and licence. `check` rejects an image without a caption.
@@ -165,7 +158,7 @@ For every figure listed in the transcript, in this order of preference:
    - `detect` has already proposed boxes (it finds photographs and coloured diagrams; pale line drawings it misses you box by hand from the strip images — the strip file names carry the y offset, and strips are zoomed, so divide by the zoom).
    - Write `work/<topic>/crops.json` — one entry per figure with the page file, the box `[x0, y0, x1, y1]` in page pixels (tight to the figure, keep its labels, leave out surrounding text and the page's own caption), the file name `"<Topic> - <figure>.png"` and a caption.
    - `python3 _tools/notes_digitize.py crop --spec work/<topic>/crops.json --out "<vault>/<attachments folder>"` (ask once where the vault keeps attachments; default `attachments/` next to the note). It prints the `![[name]]` embeds with captions — paste each where the figure sits on the page. Open every crop and check nothing is cut off; adjust the box and re-run with `"overwrite": true`.
-   - Crops from a page narrower than ~1000 px are small and blurry. Still embed them (they are the user's own figure), but add the image prompt from step 4 directly below so the figure can be regenerated, and say in the caption that the crop came from a low-resolution page.
+   - **If the crop is blurred** (page narrower than ~1000 px, labels unreadable, or the figure is itself a poor photocopy) or the page's figure is **not correct**, go back to step 2 and search again, harder, with new terms — a clear web image beats a blurred crop. Keep the crop only when that second search finds nothing, embed it anyway (it is the user's own figure), add the image prompt from step 4 directly below so the figure can be regenerated, and say in the caption that the crop came from a low-resolution page.
 4. **Image prompt** — only when there is no free image *and* the page's figure cannot be cropped (missing, illegible, or the user asked for a drawn version). A collapsed callout where the figure sat:
    ```markdown
    > [!example]- 🎨 Image prompt — <figure name>
@@ -200,45 +193,39 @@ Every main note needs at least a few footnotes; `check` rejects a note with none
 
 ---
 
-## G2. Etymology footnotes (hover popovers) and the Word Parts section
+## G2. Etymology footnotes (hover popovers) — terms, processes, prefixes and suffixes
 
-Three layers, all of them required:
+Everything etymological lives in footnotes, so the reader hovers a marker and reads; there is **no separate glossary or word-parts section**. Three layers, all required:
 
 **1. Term footnotes.** Every **eponym** (Hesselbach, Meckel, Bochdalek, DiGeorge…) and every anatomical or clinical term built from **Greek or Latin roots** (hernia, bubonocele, meralgia paraesthetica, notochord, mesonephric…) gets a footnote **immediately after the term's first use** in the body (inside a table cell or heading is fine).
 
-**2. Process and mechanism footnotes.** Every word that names a **process, mechanism, state or failure** gets one too — the *-ation / -ion / -sis / -y* words and their verbs: reduction, obstruction, strangulation, incarceration, peristalsis, occlusion, invagination, entrapment, recurrence, adhesion, ischaemia, necrosis, inflammation vs infection, resection vs dissection vs excision; neurulation, induction, fusion, migration, rotation, regression, obliteration, persistence, herniation, descent, hypoplasia, atresia, degeneration, differentiation, septation, ossification… Each of these footnotes does three things:
+**2. Process and mechanism footnotes.** Every word that names a **process, mechanism, state or failure** — the *-ation / -ion / -sis / -y* words and their verbs: reduction, obstruction, strangulation, incarceration, peristalsis, occlusion, invagination, entrapment, recurrence, adhesion, ischaemia, necrosis, inflammation vs infection, resection vs dissection vs excision; neurulation, induction, fusion, migration, rotation, regression, obliteration, persistence, herniation, descent, hypoplasia, atresia, degeneration, differentiation, septation, ossification… Each of these footnotes:
    - **splits the word into its parts** — prefix + root + suffix, each with its meaning in quotes (*ob-* "against" + *struere* "to build" + *-ion* "the process");
    - gives the sense that joins the parts to the medical meaning;
-   - **differentiates it from its look-alikes and the terms it is graded against** — the stage sequence (irreducible → obstructed → strangulated), the sibling words (hypoplasia / aplasia / agenesis / atrophy / dysplasia; cyst / sinus / fistula; ischaemia / necrosis / gangrene; -rrhage / -rrhoea / -rrhaphy), or the prefix family (extra- / pre- / intra- / trans- / retro-peritoneal).
+   - **differentiates it from its look-alikes and the terms it is graded against** — the stage sequence (irreducible → obstructed → strangulated), the sibling words (hypoplasia / aplasia / agenesis / atrophy / dysplasia; cyst / sinus / fistula; ischaemia / necrosis / gangrene), or the prefix family (extra- / pre- / intra- / trans- / retro-peritoneal).
+
+**3. Prefix and suffix footnotes.** Every prefix and every suffix that occurs in the note gets its own footnote, attached to the **first word in the note that carries it** — placed right after that word's own term footnote if it has one (`**Bubonocele**[^ety-bubonocele][^suf-cele]`). Its text gives the affix, its meaning, the note's own examples, and the look-alikes it must not be confused with. A classic set (-tomy / -ectomy / -stomy / -tome · -plasia / -plasty / -trophy / -genesis · -rrhage / -rrhoea / -rrhaphy · hypo- / hyper- / sub- · para- / peri- / pre- / post- · ecto- / meso- / endo- · pro- / meso- / meta-nephros · ilio- / ileo- · -cele / -coele) goes in whenever one member appears, because the point of the note is to separate them. Typically 12–25 prefixes and 10–15 suffixes per note; `check` requires at least 10 affix footnotes.
+
+**Footnote wording — the word, then the explanation, nothing else in front:**
 
 ```markdown
+**Bubonocele**[^ety-bubonocele][^suf-cele] | sac limited to the canal
 … loses its cough impulse[^ety-impulse] …
-[^ety-obstruction]: **Etymology — obstruction:** Latin *ob-*, "against, in the way" + *struere*, "to build" + *-ion*, the process → something built in the way; the lumen is blocked. **Differentiate the three stages:** *irreducible / incarcerated* (stuck; blood supply may be fine) → *obstructed* (lumen blocked, supply intact) → *strangulated* (supply throttled).
+… meralgia **para**esthetica[^ety-meralgia][^pre-para] …
+
+[^ety-bubonocele]: **bubonocele** — Greek *boubōn*, "groin; a swelling in the groin" (the same root as the *bubo* of plague) + *kēlē*, "hernia" — a hernia still within the groin.
+[^ety-obstruction]: **obstruction** — Latin *ob-*, "against, in the way" + *struere*, "to build" + *-ion*, the process → something built in the way; the lumen is blocked. **Differentiate the three stages:** *irreducible / incarcerated* (stuck; blood supply may be fine) → *obstructed* (lumen blocked, supply intact) → *strangulated* (supply throttled).
+[^suf-cele]: **-cele** — swelling, hernia: omentocele, enterocele, bubonocele, hydrocele. Don't confuse with **-coele / -coel** a body cavity (coelom) · **-cle** small (tubercle, vesicle).
+[^pre-para]: **para-** — beside, abnormal: meralgia paraesthetica. Don't confuse with **peri-** around (peritoneum) · **pre-** before (preperitoneal) · **post-** after.
 ```
-
-**3. The Word Parts section.** A section `## 🔤 Word Parts — Prefixes & Suffixes` placed **after the page's last section and before Core Dictum**, with a one-callout rule (prefix + root + suffix), then two tables:
-
-```markdown
-### Prefixes
-| Prefix | Meaning | In this note | Don't confuse with |
-|---|---|---|---|
-| **para-** | beside, abnormal | meralgia **para**esthetica | **peri-** around (peritoneum) · **pre-** before (preperitoneal) · **post-** after |
-
-### Suffixes
-| Suffix | Meaning | In this note | Don't confuse with |
-|---|---|---|---|
-| **-tomy** | cutting into / opening | hernio**tomy** | **-ectomy** cutting out · **-stomy** making an opening · **-tome** the instrument or segment |
-```
-   - Every prefix and suffix that occurs in the note gets a row; "In this note" quotes the note's own words with the affix in bold; "Don't confuse with" lists the look-alikes with their meanings (a classic set — -tomy/-ectomy/-stomy, -plasia/-plasty/-trophy, -rrhage/-rrhoea/-rrhaphy, hypo-/hyper-/sub-, para-/peri-/pre-, ecto-/meso-/endo-, pro-/meso-/meta- — goes in even if only one member appears in the note, because the column exists to separate them).
-   - Typically 12–25 prefixes and 10–15 suffixes. `check` requires both tables with at least 6 rows each.
 
 Rules for all three layers:
-- Footnote key = `ety-` + the term in lower-case ASCII (`ety-corona-mortis`). The definition **starts with `**Etymology — <term>:**`** so the popover reads as etymology at a glance; `check` enforces both.
+- Keys: `ety-<term>` for terms and processes, `pre-<affix>` for prefixes, `suf-<affix>` for suffixes, lower-case ASCII (`ety-corona-mortis`, `pre-para`, `suf-rrhaphy`). The definition **starts with the bold word or affix, then an em dash** — never a label such as "Etymology"; `check` enforces this.
 - One to three lines each: root language, root words with meanings in quotes, the connecting sense, and the differentiation. For an eponym: full name, dates, nationality and role, year of the description. Add nothing you are unsure of — a wrong date in a footnote is worse than none; if the origin is disputed say so in four words ("origin uncertain").
-- One footnote per term; a term that recurs is marked once. Related words may share one note (`ety-tomes` for dermatome / myotome / sclerotome; `ety-section` for resection / dissection / excision / incision) and the same key may be referenced from each of them.
-- A marker never goes inside an image's alt text or a link — put it in the italic caption line instead.
-- Aim for **every** eponym, root-built term and process word on the page — typically 40–70 footnotes per note; `check` rejects fewer than 12.
-- These sit with the other footnotes at the end of the file. Obsidian shows the footnote text in a popover when the reader hovers the marker (core plugin **Page preview** must be on), so the reader never has to scroll.
+- One footnote per term or affix; a term that recurs is marked once. Related words may share one note (`ety-tomes` for dermatome / myotome / sclerotome; `ety-section` for resection / dissection / excision / incision) and one key may be referenced from each of them.
+- A marker never goes inside an image's alt text, a wikilink or a code block — put it in the italic caption line instead. Several markers may sit side by side after one word.
+- Aim for **every** eponym, root-built term, process word and affix on the page — typically 60–100 footnotes per note; `check` rejects fewer than 12 term/process notes or fewer than 10 affix notes.
+- Obsidian shows the footnote text in a popover when the reader hovers the marker (core plugin **Page preview** must be on), so the reader never has to scroll.
 
 ---
 
@@ -404,13 +391,13 @@ status: not-started
 
 ## L. Final self-check (silently, before writing to the vault)
 
-- [ ] `check` and `mapcheck` print `OK`.
+- [ ] `check` and `mapcheck` print `OK` (no Anki section — the user's cards come from the PYQ skill, not from these notes).
 - [ ] Every section heading from the page is present, in page order, with its table/list intact.
 - [ ] Every figure on the page has an image (seen by you) or an image prompt at the same place; every Wikimedia image has an italic caption with licence.
 - [ ] No figure was drawn by you (no SVG / HTML / data-URI images).
 - [ ] Every page crop is in the vault's attachments folder, embedded with `![[name]]`, captioned, and checked with your own eyes; crops from a low-resolution page are paired with an image prompt.
-- [ ] Etymology: every eponym, Greek/Latin term **and process/mechanism word** has a `[^ety-…]` footnote after its first use, each starting `**Etymology — term:**`, process notes split into prefix + root + suffix and differentiated from look-alikes; no marker inside alt text.
-- [ ] Word Parts section present with Prefixes and Suffixes tables, every affix in the note covered, "Don't confuse with" filled.
+- [ ] Etymology: every eponym, Greek/Latin term **and process/mechanism word** has a `[^ety-…]` footnote after its first use; every prefix and suffix has a `[^pre-…]` / `[^suf-…]` footnote on the first word that carries it; each definition starts with the bold word or affix and an em dash (no "Etymology" label); process notes split into prefix + root + suffix and differentiated from look-alikes; no marker inside alt text.
+- [ ] Every blurred crop or doubtful web image triggered a second, harder search before it was kept.
 - [ ] Every major section has a 🎬 line; one video embedded per section; all collected in the Video Library.
 - [ ] Footnotes: every fact not on the page has one; every `[^n]` is defined; the page's wording wins in the body.
 - [ ] Core Dictum block has all five callouts in the exact format, specific to this topic.
@@ -427,7 +414,8 @@ status: not-started
 - note path and mind-map path (vault, or `obsidian-pending/` and why)
 - page resolution and whether anything was reconstructed; every `[unclear]`
 - figures: how many from Wikimedia (and whether you could view them), how many cropped from the page (and whether the page was full-resolution), how many image prompts and for which figures
-- etymology footnotes added (count: terms / processes), Word Parts rows (prefixes / suffixes), and any term whose origin you could not source
+- etymology footnotes added (count: terms + processes / prefixes / suffixes), and any term whose origin you could not source
+- figures where a blurred crop or doubtful image sent you back to search, and what the second search found
 - videos used
 - anatomed names that may need the autocomplete
 - any page-vs-textbook conflicts (now in footnotes)
