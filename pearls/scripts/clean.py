@@ -7,16 +7,16 @@ PM_RE = re.compile(r'^\W*P\s*[MN]\s*([O0-9]{3,6})\s*[.,:;]?\s*')
 SECOND_PM = re.compile(r'\s+P\s*M\s*[O0-9]{3,5}\b.*$')
 BAD_HEADERS = {'mut', 'Wwtliwiw'}
 
-CUT = 'Cut off at the bottom of the screenshot; title incomplete'
+USER = 'Title cut off in the screenshot; full title supplied by the user'
 # (subject, raw y of the OCR row) -> (id, title, note); None drops the row
 ROW_FIXES = {
     ('Anaesthesia', 15493): ('PM0494', 'Muscle Relaxant and Effect on Cardiac Muscarinic Receptors', ''),
-    ('Community Medicine', 36437): ('PM1144', 'Surgical A…', CUT + '; ID partly hidden'),
+    ('Community Medicine', 36437): ('PM1144', 'Survival Analysis', USER),
     ('Paediatrics', 15581): ('PM2064', 'Thalassemia syndromes', 'Partly cut off at the bottom of the screenshot'),
-    ('Physiology', 33801): ('PM2479', 'Physiologic effects of …', CUT),
+    ('Physiology', 33801): ('PM2479', 'Physiologic effects of thyroid hormone', USER),
     ('Paediatrics', 14756): None,  # Endocrine pearl repeated inside a seam
     ('ENT', 13430): ('PM1097', 'Lymph Node Levels in the Neck', ''),
-    ('Obstetrics & Gynaecology', 20843): ('PM2497', 'Uterine Signs in P…', CUT),
+    ('Obstetrics & Gynaecology', 20843): ('PM2497', 'Uterine Signs in Pregnancy', USER),
     ('Psychiatry', 12227): ('PM2059', "BNS section 22, M'Naghten's rule",
                             'Title cut off in the screenshot; completed from the same pearl in Forensic Medicine'),
 }

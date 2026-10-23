@@ -86,7 +86,7 @@ for c in range(2, 6):
 notes = [
     'Source: the 18 subject screenshots in this repository, read with OCR and checked by hand at the stitching seams.',
     '"Pearl listings" counts every row; a pearl filed under two subtopics of one subject counts twice there and once in "Unique pearls".',
-    'Several subjects end on a pearl cut off at the bottom of the screenshot; those rows carry a note in the All Pearls tab.',
+    'A few titles were cut off at the bottom of a screenshot and completed by hand; those rows carry a note in the All Pearls tab.',
     'Each subject list is complete: no pearls follow the last one shown in its screenshot.',
 ]
 for k, n in enumerate(notes):
