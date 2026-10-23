@@ -26,7 +26,7 @@ review_day_15: false
 # 🩺 Hernia and Hernia Surgeries
 
 > [!abstract] Core Definition
-> A hernia is the **protrusion of a viscus (or part of it) through a defect in the wall that normally contains it**, inside a peritoneal sac. Everything in this topic follows from two questions:
+> A hernia[^ety-hernia] is the **protrusion of a viscus (or part of it) through a defect in the wall that normally contains it**, inside a peritoneal sac. Everything in this topic follows from two questions:
 > - ✅ **Is the sac still freely connected to the abdomen?** (reducible → obstructed → strangulated)
 > - ✅ **What is the defect, and how do we close it?** (herniotomy → herniorrhaphy → hernioplasty)
 
@@ -48,11 +48,11 @@ elective mesh repair   urgent surgery           emergency surgery
 
 ## 📋 Types of Hernia
 
-| Feature | Simple / uncomplicated | Obstructed | Strangulated |
+| Feature | Simple / uncomplicated | Obstructed | Strangulated[^ety-strangulated] |
 |---|---|---|---|
 | **Hernia** | Reducible | Irreducible | Obstructed hernia **+ compromised blood supply** → overlying **skin inflamed** |
 | **Cough impulse** | ⊕ | ⊖ | ⊖ |
-| **Forceful taxis** (manual reduction) | Possible | **Contraindicated** — risk of *reduction en masse* | **Contraindicated** — risk of *reduction en masse* |
+| **Forceful taxis**[^ety-taxis] (manual reduction) | Possible | **Contraindicated** — risk of *reduction en masse* | **Contraindicated** — risk of *reduction en masse* |
 
 > [!danger] Reduction *en masse*
 > Forceful taxis on an obstructed or strangulated hernia can push the **contents *and* the constricting ring** back into the abdomen together. The bowel is now "reduced" but is **still obstructed inside the ring**, so the patient keeps deteriorating with no lump to warn you.[^1]
@@ -66,14 +66,17 @@ elective mesh repair   urgent surgery           emergency surgery
 ![CT of an incarcerated inguinal hernia](https://upload.wikimedia.org/wikipedia/commons/e/e5/Inquinalhernia.png)
 *CT of an incarcerated (irreducible) inguinal hernia — bowel loops trapped in the sac (James Heilman, MD, CC BY-SA).*
 
-> [!example]- 🎨 Image prompt — Reduction en masse (generate if you want the exact diagram from your notes)
+![[Hernia - reduction en masse.png]]
+*Reduction en masse — the sac, its contents and the constriction ring pushed back together (cropped from the handwritten page; the page reached me at 346 px wide, so the crop is small — re-crop from the full-resolution page or regenerate with the prompt below).*
+
+> [!example]- 🎨 Image prompt — Reduction en masse (regenerate the diagram at full quality)
 > "Clean medical textbook line illustration, white background, side-view cross-section of the lower abdominal wall. Show a hernial sac with a loop of bowel inside it protruding through a narrow constriction ring in the abdominal wall. A large blue arrow pushes the whole sac — bowel AND constriction ring together — back inside the abdominal cavity, where the ring still squeezes the bowel. Label: 'Reduction en masse — contents reduced together with the constricting ring; obstruction persists'. Style: Gray's Anatomy / Bailey & Love, thin black outlines, pale pink bowel, muted colours, no text other than the labels."
 
 ---
 
 ## 🥣 Contents of the Sac — Omentocele vs Enterocele
 
-| Feature | Omentocele (omentum) | Enterocele (bowel) |
+| Feature | Omentocele[^ety-cele] (omentum) | Enterocele (bowel) |
 |---|---|---|
 | **Peristalsis** | ⊖ | ⊕ |
 | **Consistency** | Doughy | — |
@@ -84,7 +87,7 @@ elective mesh repair   urgent surgery           emergency surgery
 
 ## 🔪 Hernia Surgery — Herniotomy vs Herniorrhaphy vs Hernioplasty
 
-| | Herniotomy | Herniorrhaphy | Hernioplasty |
+| | Herniotomy[^ety-tomy] | Herniorrhaphy[^ety-rrhaphy] | Hernioplasty[^ety-plasty] |
 |---|---|---|---|
 | **Procedure** | Identify sac → cut open → reduce contents → excise sac | Same + | Same + |
 | **Defect** | **Not repaired** | Edges **sutured together** (no mesh, because of infection risk) | Closed with **mesh** |
@@ -111,7 +114,7 @@ elective mesh repair   urgent surgery           emergency surgery
 | Synthetic | Biological |
 |---|---|
 | **Avoid in infection and strangulation** | **Can be used in infection** |
-| e.g. **Prolene** (polypropylene), **Vypro** — *not used intraperitoneally* (bowel adhesions) | e.g. **Acellular human dermis** (AlloDerm) |
+| e.g. **Prolene**[^ety-prolene] (polypropylene), **Vypro** — *not used intraperitoneally* (bowel adhesions) | e.g. **Acellular human dermis** (AlloDerm) |
 | **PTFE** (ePTFE) — the one synthetic that *can* go intraperitoneally | **Acellular porcine dermis** |
 
 ![Polypropylene (Prolene) hernia mesh](https://upload.wikimedia.org/wikipedia/commons/2/20/Hernia_mesh_1.jpg)
@@ -125,7 +128,7 @@ elective mesh repair   urgent surgery           emergency surgery
 ## 📍 Inguinal Hernia
 
 > [!success] The "most common" chain — all point to the same answer
-> - Most common type of **hernia** → inguinal
+> - Most common type of **hernia** → inguinal[^ety-inguinal]
 > - Most common type of **inguinal hernia** → **indirect**
 > - Most common hernia **in females** → **indirect inguinal** (NOT femoral)
 > - Femoral hernia is **F ≫ M**, but is still rarer than inguinal hernia in women.[^3]
@@ -148,9 +151,12 @@ elective mesh repair   urgent surgery           emergency surgery
 
 | Type | Extent of the sac |
 |---|---|
-| **Bubonocele** | Sac limited to the **inguinal canal** |
-| **Funicular** | Sac comes through the superficial ring and reaches the **top of the testis** (testis still separate, palpable below the sac) |
+| **Bubonocele**[^ety-bubonocele] | Sac limited to the **inguinal canal** |
+| **Funicular**[^ety-funicular] | Sac comes through the superficial ring and reaches the **top of the testis** (testis still separate, palpable below the sac) |
 | **Inguinoscrotal (complete)** | Sac reaches the **bottom of the scrotum**, surrounding the testis |
+
+![[Hernia - types of indirect inguinal hernia.png]]
+*Bubonocele, funicular and inguinoscrotal (complete) indirect hernia (cropped from the handwritten page; the page reached me at 346 px wide, so the crop is small — re-crop from the full-resolution page or regenerate with the prompt below).*
 
 > [!example]- 🎨 Image prompt — Three types of indirect inguinal hernia
 > "Medical textbook illustration, three side-by-side panels on a white background, each showing the right inguinal canal and scrotum in coronal section. Panel 1 'Bubonocele': a small pink hernial sac entering the deep inguinal ring and stopping inside the canal above the superficial ring. Panel 2 'Funicular': the sac passes the superficial ring and reaches the top of the testis; testis drawn separately below. Panel 3 'Inguinoscrotal (complete)': the sac fills the scrotum and surrounds the testis. Label on every panel: deep inguinal ring, hernial sac, superficial inguinal ring, testis. Style: Netter-like, soft colours, thin outlines."
@@ -163,7 +169,7 @@ elective mesh repair   urgent surgery           emergency surgery
 
 ## 🔬 Inguinal Hernia Anatomy
 
-### Hesselbach's triangle (HT)
+### Hesselbach's triangle (HT)[^ety-hesselbach]
 
 | Boundary | Structure |
 |---|---|
@@ -179,6 +185,9 @@ elective mesh repair   urgent surgery           emergency surgery
 ![Inguinal (Hesselbach's) triangle marked in green](https://upload.wikimedia.org/wikipedia/commons/a/a8/Inguinal_triangle.png)
 *Hesselbach's triangle (green): inferior epigastric vessels laterally, rectus edge medially, inguinal ligament below (public domain, relabelled by Mikael Häggström).*
 
+![[Hernia - Hesselbach triangle.png]]
+*Hesselbach's triangle as drawn on the page — inferior epigastric vessels lateral, outer border of rectus medial, inguinal ligament inferior; ○ indirect hernia lateral to it, △ direct hernia through it (cropped from the handwritten page; the page reached me at 346 px wide, so the crop is small — re-crop from the full-resolution page or regenerate with the prompt below).*
+
 ![Gray's Anatomy — right inguinal region seen from behind](https://upload.wikimedia.org/wikipedia/commons/6/61/Hesselbach_triangle_547.gif)
 *Gray's Anatomy (1918): the right inguinal area viewed from inside the abdomen — the view a laparoscope gives you.*
 
@@ -189,17 +198,20 @@ elective mesh repair   urgent surgery           emergency surgery
 | **Deep ring** | **Fascia transversalis** |
 | **Superficial ring** | **External oblique aponeurosis** |
 
-### Myopectineal orifice of Fruchaud
+### Myopectineal orifice of Fruchaud[^ety-fruchaud]
 
 | Boundary | Structure |
 |---|---|
 | **Superior** | Arching fibres of internal oblique (and transversus abdominis) |
-| **Inferior** | **Pectineal (Cooper's) ligament** |
+| **Inferior** | **Pectineal (Cooper's) ligament**[^ety-pectineal] |
 | **Lateral** | Tendon of **iliopsoas** |
 | **Medial** | Outer border of **rectus abdominis** |
 
 > [!success] Significance
 > The inguinal ligament splits this one orifice into an upper (inguinal) and a lower (femoral) part. **A mesh placed over the whole orifice (preperitoneally) covers the defect of inguinal, femoral *and* obturator hernia at once** — the basis of laparoscopic repair.[^4]
+
+![[Hernia - myopectineal orifice of Fruchaud.png]]
+*Myopectineal orifice of Fruchaud — boundaries, with the cord structures and femoral vessels passing through it (cropped from the handwritten page; the page reached me at 346 px wide, so the crop is small — re-crop from the full-resolution page or regenerate with the prompt below).*
 
 > [!example]- 🎨 Image prompt — Myopectineal orifice of Fruchaud
 > "Anatomical illustration of the right groin, anterior view, white background, in the style of a surgical atlas. Show the bony pelvis (iliac crest, anterior superior iliac spine, pubic tubercle, superior pubic ramus) with the muscles: transversus abdominis and internal oblique arching above, rectus abdominis medially, iliopsoas laterally. Draw the inguinal ligament as a band from ASIS to pubic tubercle. Shade a single oval-shaped window — the myopectineal orifice — bounded above by the arching muscle fibres, below by Cooper's (pectineal) ligament, medially by the rectus and laterally by iliopsoas; the inguinal ligament crosses the middle of it. Inside the window show the spermatic cord above the ligament and the femoral vessels below it. Labels: anterior superior iliac spine, transversus abdominis, rectus abdominis, inguinal ligament, iliopsoas, cord structures, myopectineal orifice, femoral vessels, Cooper's (pectineal) ligament, lacunar ligament."
@@ -219,24 +231,27 @@ title: Inguinal region
 ## 🛠 Hernioplasty
 
 ### Open surgery
-> [!info] **Lichtenstein's tension-free mesh hernioplasty** — the standard open repair (mesh sutured over the posterior wall, no tension on the tissues).[^5]
+> [!info] **Lichtenstein's tension-free mesh hernioplasty**[^ety-lichtenstein] — the standard open repair (mesh sutured over the posterior wall, no tension on the tissues).[^5]
 
 ### Complications of open inguinal hernia surgery
 1. Haemorrhage
 2. Injury to the vas / cord structures
 3. **Nerve injury** — the most common nerve injured:
-   - **At the superficial ring → ilioinguinal nerve** (numbness of the upper medial thigh and scrotum / labium)
+   - **At the superficial ring → ilioinguinal nerve**[^ety-ilio] (numbness of the upper medial thigh and scrotum / labium)
    - **Entrapped below the mesh → iliohypogastric nerve → chronic inguinal pain**[^6]
 4. Recurrence
 5. Wound infection
 
-### Laparoscopic inguinal surgery
+### Laparoscopic[^ety-laparoscopy] inguinal surgery
 
 | | TEP | TAPP |
 |---|---|---|
 | **Full form** | **T**otally **E**xtra**p**eritoneal repair | **T**rans-**A**bdominal **P**re**p**eritoneal repair |
-| **Peritoneum** | **Remains intact** — a balloon trocar creates the preperitoneal space from the umbilicus | **Breached** — enter the abdomen, cut a peritoneal flap, place the mesh, close the flap |
+| **Peritoneum**[^ety-peritoneum] | **Remains intact** — a balloon trocar creates the preperitoneal space from the umbilicus | **Breached** — enter the abdomen, cut a peritoneal flap, place the mesh, close the flap |
 | **Character** | Technically **more challenging**, **better repair** (no peritoneal entry → no adhesions / bowel injury) | Easier to learn, larger working space, lets you see both groins |
+
+![[Hernia - TEP vs TAPP.png]]
+*TEP — balloon trocar opening the preperitoneal space, peritoneum intact; TAPP — laparoscope inside the abdomen, peritoneum opened (cropped from the handwritten page; the page reached me at 346 px wide, so the crop is small — re-crop from the full-resolution page or regenerate with the prompt below).*
 
 > [!example]- 🎨 Image prompt — TEP vs TAPP planes
 > "Two-panel medical illustration, sagittal section of the lower abdominal wall, white background. Both panels label from outside in: skin and subcutaneous tissue, anterior fascia and muscle, posterior fascia and peritoneum, preperitoneal space, abdominal cavity with bowel. Panel 1 'TEP': a balloon-dilating trocar enters below the umbilicus and inflates a space BETWEEN the posterior fascia and the peritoneum; the peritoneum stays intact as a continuous line. Panel 2 'TAPP': a laparoscope is inside the abdominal cavity and a flap of peritoneum is lifted to show a mesh laid in the preperitoneal space. Style: clean, pastel, surgical-textbook."
@@ -253,15 +268,21 @@ title: Inguinal region
 
 | | | Triangle of **Doom** | Triangle of **Pain** |
 |---|---|---|---|
-| **Boundaries** | Medial | Vas deferens | Testicular (gonadal) vessels |
+| **Boundaries** | Medial | Vas deferens[^ety-vas] | Testicular (gonadal) vessels |
 | | Lateral | Testicular vessels | Peritoneal reflection |
 | | Inferior | Peritoneal reflection | — |
-| | Superior | — | Iliopubic tract |
+| | Superior | — | Iliopubic tract[^ety-iliopubic] |
 | **Contents** | | a. External iliac artery b. External iliac vein c. Genital branch of genitofemoral nerve | a. Lateral cutaneous nerve of thigh b. Femoral nerve c. Femoral branch of genitofemoral nerve |
-| **Complication of tacking here** | | **Torrential bleeding** if a stapler / tacker is applied | **Meralgia paraesthetica** — shooting pain along the lateral thigh from entrapment of the **lateral cutaneous nerve of thigh** (most common) |
+| **Complication of tacking here** | | **Torrential bleeding** if a stapler / tacker is applied | **Meralgia paraesthetica**[^ety-meralgia] — shooting pain along the lateral thigh from entrapment of the **lateral cutaneous nerve of thigh** (most common) |
 
-> [!danger] Corona mortis — the "circle of death"
+> [!danger] Corona mortis[^ety-corona-mortis] — the "circle of death"
 > An **abnormal communication between the obturator and external iliac (inferior epigastric) vessels** running over the superior pubic ramus. Injury → **torrential bleeding** that retracts into the pelvis.[^7]
+
+![[Hernia - laparoscopic structures sketch.png]]
+*Your sketch of the structures met during laparoscopic repair — deep ring, iliopubic tract, peritoneal reflection, vas deferens (medial), testicular vessels (lateral), triangle of pain and triangle of doom (cropped from the handwritten page; the page reached me at 346 px wide, so the crop is small — re-crop from the full-resolution page or regenerate with the prompt below).*
+
+![[Hernia - triangles of doom and pain.png]]
+*Laparoscopic view — direct (D), indirect (I) and femoral (F) spaces, the triangle of pain and the triangle of doom (cropped from the handwritten page; the page reached me at 346 px wide, so the crop is small — re-crop from the full-resolution page or regenerate with the prompt below).*
 
 > [!example]- 🎨 Image prompt — Triangles of doom and pain (laparoscopic view)
 > "Laparoscopic-view schematic of the right groin from inside the abdomen, white background, medical-illustration style. Draw the deep inguinal ring as a circle at the top centre. From it the vas deferens runs down and medially (green) and the testicular vessels run down and laterally (red). Between them, below the ring, shade a red triangle labelled 'Triangle of DOOM' containing the external iliac artery and vein and the genital branch of the genitofemoral nerve. Lateral to the testicular vessels, below the iliopubic tract (drawn as a yellow band), shade an orange triangle labelled 'Triangle of PAIN' containing the lateral cutaneous nerve of thigh, femoral nerve and femoral branch of genitofemoral nerve. Also show the peritoneal reflection as the lower edge and label 'Corona mortis' as a vessel loop over the pubic ramus. Add small D / I / F / Pain / Doom letters like a surgical teaching slide."
@@ -276,7 +297,7 @@ title: Inguinal region
 
 | Sliding hernia | Sportsman's hernia |
 |---|---|
-| **Posterior boundary of the sac is formed by a viscus** (most common: **sigmoid colon** on the left; caecum on the right; bladder medially) | AKA **Gilmore's groin** |
+| **Posterior boundary of the sac is formed by a viscus** (most common: **sigmoid colon** on the left; caecum on the right; bladder medially) | AKA **Gilmore's groin**[^ety-gilmore] |
 | The viscus **can be injured during sac dissection** (don't try to "excise" the posterior wall) | Most common in **athletes** |
 | Seen in **elderly males** | **Tear in the posterior wall muscles** (conjoint tendon / transversalis fascia) ↓ **extreme pain** ⊕ |
 | **Left ≫ right** (sigmoid colon) | **Sac not palpable** (small / no true sac) |
@@ -313,14 +334,14 @@ title: Inguinal region
 | | Iliac | L3 |
 | | Lumbar | L4 |
 
-### Nyhus classification for inguinal hernias
+### Nyhus[^ety-nyhus] classification for inguinal hernias
 
 | Type | Description |
 |---|---|
 | **I** | Indirect inguinal hernia + **normal** deep ring (children) |
 | **II** | Indirect inguinal hernia + **enlarged** deep ring, posterior wall intact |
 | **IIIa** | **Direct** hernia + posterior floor defect |
-| **IIIb** | **Indirect** hernia + posterior floor defect (**pantaloon hernia** — direct + indirect on either side of the inferior epigastric vessels) |
+| **IIIb** | **Indirect** hernia + posterior floor defect (**pantaloon hernia**[^ety-pantaloon] — direct + indirect on either side of the inferior epigastric vessels) |
 | **IIIc** | **Femoral** hernia |
 | **IV** | **Recurrent** hernia |
 
@@ -577,7 +598,7 @@ LAP: DOOM (vas–vessels, iliac vessels, bleeds) · PAIN (vessels–peritoneum, 
 - European Hernia Society — Classification of primary and incisional abdominal wall hernias (Muysoms et al., Hernia 2009) and groin hernia classification (Miserez et al., Hernia 2007)
 - TeachMeAnatomy — [The Inguinal (Hesselbach's) Triangle](https://teachmeanatomy.info/abdomen/areas/inguinal-triangle)
 - World Laparoscopy Hospital — [Laparoscopic Repair of Inguinal Hernia](https://www.laparoscopyhospital.com/articlepdf/tb/Laparoscopic-Repair-of-Inguinal-Hernia.pdf)
-- Wikimedia Commons — all embedded images (public domain / CC BY / CC BY-SA, attributed in captions)
+- Wikimedia Commons — all embedded web images (public domain / CC BY / CC BY-SA, attributed in captions); the `Hernia - ….png` files in `attachments/` are crops of the handwritten page itself
 
 [^1]: Reduction en masse is why obstructed and strangulated hernias go to theatre instead of being "pushed back". If a hernia has been reduced by force and the patient still has features of obstruction, assume the ring went in with the bowel and explore.
 [^2]: The "first part" rule is the classical bedside difference: an enterocele's first loop is the hardest to get back through the neck and the rest follows with a gurgle; an omentocele's first part goes easily and the last, adherent part is the hardest.
@@ -588,3 +609,28 @@ LAP: DOOM (vas–vessels, iliac vessels, bleeds) · PAIN (vessels–peritoneum, 
 [^7]: "Corona mortis" is also called the "crown of death" or "circle of death": a venous (more often) or arterial anastomosis between the obturator and external iliac / inferior epigastric systems, crossing the superior pubic ramus about 6 cm from the symphysis — right where Cooper's ligament tacks are placed.
 [^8]: EHS groin classification (Miserez 2007): L = lateral/indirect, M = medial/direct, F = femoral; size 1 (< 1.5 cm, one finger), 2 (1.5–3 cm, two fingers), 3 (> 3 cm, more than two fingers); P = primary, R = recurrent. Your notes record "size of finger breadth" — this footnote adds the cut-offs.
 [^9]: In the EHS ventral classification (Muysoms 2009) L2 is the **flank** region (lateral to the rectus sheath, between the costal margin and the iliac crest). The original notes' entry for L2 is hard to read in the scan; "flank" is the published term.
+[^ety-hernia]: **Etymology — hernia:** Latin *hernia*, "a rupture" of the body wall; linked by some to Greek *hernos*, "a sprout" — the thing that buds out. Plural *herniae* or *hernias*.
+[^ety-strangulated]: **Etymology — strangulated:** Latin *strangulare*, from Greek *strangalē*, "a halter" — to throttle; the tight neck throttles the blood supply of the contents.
+[^ety-taxis]: **Etymology — taxis:** Greek *taxis*, "arrangement, putting in order" (*tassein*, to arrange) — manual reduction is literally putting the contents back in order.
+[^ety-cele]: **Etymology — -cele / omentocele / enterocele:** Greek *kēlē*, "swelling, hernia"; *omentum* is Latin for the fatty apron ("caul"); *enteron* is Greek for "intestine". Omentocele = omentum in the sac, enterocele = bowel in the sac.
+[^ety-tomy]: **Etymology — herniotomy:** Greek *tomē*, "a cutting" (*temnein*, to cut) — the sac is cut open and excised, nothing is repaired.
+[^ety-rrhaphy]: **Etymology — herniorrhaphy:** Greek *rhaphē*, "a seam" (*rhaptein*, to sew) — the defect is sewn closed with sutures.
+[^ety-plasty]: **Etymology — hernioplasty:** Greek *plassein*, "to mould, to form" — the wall is re-formed, today with a mesh.
+[^ety-prolene]: **Etymology — Prolene / Vypro / PTFE:** *Prolene* is Ethicon's trade name for polypropylene mesh; *Vypro* is a part-absorbable polypropylene + polyglactin 910 (Vicryl) composite; *PTFE* is polytetrafluoroethylene (Teflon), used as expanded ePTFE.
+[^ety-inguinal]: **Etymology — inguinal:** Latin *inguen*, *inguinis*, "the groin".
+[^ety-bubonocele]: **Etymology — bubonocele:** Greek *boubōn*, "groin; a swelling in the groin" (the same root as the *bubo* of bubonic plague) + *kēlē*, "hernia" — a hernia still within the groin.
+[^ety-funicular]: **Etymology — funicular:** Latin *funiculus*, "a small cord" (diminutive of *funis*, rope) — the hernia that runs along the spermatic cord (*funiculus spermaticus*).
+[^ety-hesselbach]: **Etymology — Hesselbach:** Franz Kaspar Hesselbach (1759–1816), German surgeon and anatomist at Würzburg, who described the triangle in 1814 (some sources 1806).
+[^ety-fruchaud]: **Etymology — myopectineal orifice of Fruchaud:** Greek *mys, myo-*, "muscle" + Latin *pecten*, *pectinis*, "comb" (the pectineal line is the comb-like ridge of the pubis) + Latin *orificium*, "mouth-opening". Henri Fruchaud (1894–1960), French surgeon, described it in 1956.
+[^ety-pectineal]: **Etymology — pectineal (Cooper's) ligament:** Latin *pecten*, "comb" — the ligament on the pectineal line of the pubis. Sir Astley Cooper (1768–1841), English surgeon, described it in his 1804 treatise on hernia.
+[^ety-lichtenstein]: **Etymology — Lichtenstein repair:** Irving L. Lichtenstein (1920–2000), American surgeon in Los Angeles, who introduced the tension-free mesh repair in the 1980s (published 1989).
+[^ety-ilio]: **Etymology — ilioinguinal / iliohypogastric:** Latin *ilia*, "the flanks" (the ilium bone) + *inguen*, "groin"; *hypogastric* from Greek *hypo*, "below" + *gastēr*, "belly" — the nerve to the lower belly wall.
+[^ety-laparoscopy]: **Etymology — laparoscopy:** Greek *lapara*, "the flank, the soft part between ribs and hip" + *skopein*, "to look" — looking into the abdomen through its wall.
+[^ety-peritoneum]: **Etymology — peritoneum:** Greek *peritonaion*, from *peri*, "around" + *teinein*, "to stretch" — the membrane stretched around the viscera.
+[^ety-vas]: **Etymology — vas deferens:** Latin *vas*, "vessel" + *deferens*, "carrying away" (*de-* + *ferre*) — the duct that carries sperm away from the epididymis.
+[^ety-iliopubic]: **Etymology — iliopubic tract:** ilium + Latin *pubes*, "the groin region" + *tractus*, "a drawn-out band" — the thickened band of transversalis fascia also called Thomson's ligament (Alexander Thomson, 1836).
+[^ety-meralgia]: **Etymology — meralgia paraesthetica:** Greek *mēros*, "thigh" + *algos*, "pain" + *para*, "beside, abnormal" + *aisthēsis*, "sensation" — abnormal thigh sensation. Named by Bernhardt and Roth (1895), hence Bernhardt–Roth syndrome.
+[^ety-corona-mortis]: **Etymology — corona mortis:** Latin, "crown of death" — the vessel loop that crowns the superior pubic ramus and bleeds fatally when cut.
+[^ety-gilmore]: **Etymology — Gilmore's groin:** Jerry Gilmore, London surgeon, who described the posterior-wall tear in professional footballers in 1980.
+[^ety-pantaloon]: **Etymology — pantaloon hernia:** French *pantalon*, trousers, from *Pantalone*, the Venetian comedy character who wore them — the sac has two "legs", one on each side of the inferior epigastric vessels.
+[^ety-nyhus]: **Etymology — Nyhus:** Lloyd M. Nyhus (1923–2008), American surgeon in Chicago, whose classification of groin hernias (1993) grades the deep ring and the posterior wall.

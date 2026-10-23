@@ -7,7 +7,7 @@ description: "Turn images of handwritten medical notes into Obsidian notes in th
 
 Turns photographed or scanned pages of the user's medical notes into **two Obsidian files per topic**:
 
-1. **The main note** — the page transcribed faithfully in the user's house style (section D), with every figure on the page replaced by a **free web image** or an **image-generation prompt**, one or more **videos** per section, **footnotes** for anything not on the page, a **Core Dictum & Pattern Recognition** block, an **anatomed** 3D block, Anki flash points, and an **infographic prompt** at the end.
+1. **The main note** — the page transcribed faithfully in the user's house style (section D), with every figure on the page replaced by a **free web image**, or **cropped out of the page itself** when the web has none (an **image-generation prompt** only as the last resort), one or more **videos** per section, **footnotes** for anything not on the page, **etymology footnotes** that pop up on hover for every eponym and Greek/Latin term, a **Core Dictum & Pattern Recognition** block, an **anatomed** 3D block, Anki flash points, and an **infographic prompt** at the end.
 2. **The mind-map note** — the same topic rebuilt as a heading-and-bullet tree for the **mdmap** plugin (section K). It is a different file with a different shape, never a copy of the main note.
 
 The page is the source of truth. You add structure, pictures, videos and footnotes; you do not change what the page says.
@@ -22,9 +22,10 @@ The page is the source of truth. You add structure, pictures, videos and footnot
    - `done/` — processed pages (moved, never deleted)
    - `obsidian-pending/` — notes that could not go straight into the vault
    - `_tools/` — the helper script
-2. **Helper script:** copy `scripts/notes_digitize.py` (next to this file) to `_tools/notes_digitize.py`. `pip install pillow`. If installing is blocked, run the steps in your workspace and copy the finished notes back.
+2. **Helper script:** copy `scripts/notes_digitize.py` (next to this file) to `_tools/notes_digitize.py`. `pip install pillow numpy`, plus `pip install pymupdf` for PDF pages (or poppler's `pdftoppm`). If installing is blocked, run the steps in your workspace and copy the finished notes back.
 3. **Vault:** `devd` must be a connected folder. Ask the user **once** which folder the notes go in (for example `ATLAS/<Subject>/`) and keep using it. Until the vault is connected, every note goes to `obsidian-pending/`.
-4. **Plugins the notes are written for** (both are optional on the user's side; the notes degrade gracefully without them):
+4. **Hover popovers:** the etymology footnotes show on hover only when Obsidian's core plugin **Page preview** is on (Settings → Core plugins → Page preview). Say so once if the user asks why they do not pop up.
+5. **Plugins the notes are written for** (both are optional on the user's side; the notes degrade gracefully without them):
    - **mdmap** (`pererinha/mdmap`) — opens the *current note* as an editable mind map ("Edit current note as mind map"). Headings and bullets are nodes; tables, callouts, code blocks and images are only *body text* of the node above. This is why the mind-map note is a separate, bare file.
    - **anatomed** (`pitfa19/anatomed-obsidian`) — renders a fenced ```anatomed block as a rotatable 3D model (Z-Anatomy catalogue). It is **not** a mind-map plugin. Section I has the syntax.
 
@@ -32,13 +33,13 @@ The page is the source of truth. You add structure, pictures, videos and footnot
 
 ## B. Each run ("digitise my notes", "make Obsidian notes from these pages", images dropped in)
 
-1. **Gather and group.** Each page image has a title at the top (e.g. `HERNIA, THORAX AND SKIN`, `EMBRYOLOGY`). One topic = one page title. A page usually holds several timestamped section headings (`Hernia and Hernia Surgeries 00:00:52`); keep them as `##` sections. Split a topic into two notes only when the transcript passes ~450 lines, and then at a major heading.
+1. **Gather and group.** Each page image has a title at the top (e.g. `HERNIA, THORAX AND SKIN`, `EMBRYOLOGY`). One topic = one page title. A **PDF** is rasterised first — `python3 _tools/notes_digitize.py pages inbox/<file>.pdf --out work/<topic>/pages` (one PNG per page at 200 dpi) — and each page PNG is then treated like a page image. A page usually holds several timestamped section headings (`Hernia and Hernia Surgeries 00:00:52`); keep them as `##` sections. Split a topic into two notes only when the transcript passes ~450 lines, and then at a major heading.
 2. **Resolution gate.** `python3 _tools/notes_digitize.py slice inbox/<page> --out work/<topic>/strips`. If it prints a **WARNING (< 1000 px wide)**, stop and ask the user for the original file (one full-size PNG/JPG per page, uploaded as a *file*, not pasted into the chat — pasted images arrive at 200–350 px). Only if the user says to go ahead anyway: write the note with `transcription_status: reconstructed-from-low-res-scan`, a `[!warning]` banner at the top saying what was and was not legible, and **⚠ verify** after every line you filled from a textbook instead of the page.
 3. **Read every strip in order** and write `work/<topic>/transcript.md` first — the raw, faithful transcript (section C). Do not start the note before the transcript is complete.
 4. **Build the main note** from the template in section D, section by section in page order.
-5. **Replace each figure** with an image or an image prompt (section E).
+5. **Replace each figure.** `python3 _tools/notes_digitize.py detect <page> --out work/<topic>/figs` boxes the pictures on the page; open the `_boxes.png` overlay, then for each figure in the transcript's list: web image → crop from the page → image prompt (section E).
 6. **Add videos** (section F).
-7. **Add footnotes** (section G).
+7. **Add footnotes** (section G) and **etymology footnotes** for every eponym and Greek/Latin term (section G2).
 8. **Write the Core Dictum & Pattern Recognition block** (section H).
 9. **Add the anatomed block** (section I) and the **infographic prompt** (section J).
 10. **Write the mind-map note** (section K): `python3 _tools/notes_digitize.py skeleton work/<topic>/<Title>.md --out "work/<topic>/<Title> — Mind Map.md"`, then fill it.
@@ -145,7 +146,7 @@ review_day_15: false
 
 ---
 
-## E. Figures → images or image prompts
+## E. Figures → web image, page crop, or image prompt
 
 For every figure listed in the transcript, in this order of preference:
 
@@ -154,16 +155,21 @@ For every figure listed in the transcript, in this order of preference:
    - Search `site:commons.wikimedia.org <term> file` (also try Gray's Anatomy plates, OpenStax, CDC, Wellcome Collection, NIH). Take the **exact file title from the result URL** (`File:Hernia_mesh_1.jpg` → `Hernia mesh 1.jpg`). Never guess a title.
    - `python3 _tools/notes_digitize.py wmurl "Hernia mesh 1.jpg" --width 800` prints the direct URL (and a thumbnail URL for SVG/GIF/TIFF, which Obsidian needs).
    - `python3 _tools/notes_digitize.py look <url> --out work/<topic>/img` then **open the file and look at it**. Embed it only if it shows what the page's figure shows. If you cannot download (network blocked), say so in the report and ask the user to glance at the images once.
-   - Embed as `![<alt>](<direct url>)` followed **on the next line** by an italic caption: what it shows, mapped to the page's wording, plus attribution and licence. `check` rejects a Wikimedia image without a caption.
-3. **No free image** → a collapsed image-generation prompt where the figure sat:
+   - Embed as `![<alt>](<direct url>)` followed **on the next line** by an italic caption: what it shows, mapped to the page's wording, plus attribution and licence. `check` rejects an image without a caption.
+3. **No free equivalent → crop the figure out of the page.** The page is the user's own notes, so its pictures belong in the user's vault:
+   - `detect` has already proposed boxes (it finds photographs and coloured diagrams; pale line drawings it misses you box by hand from the strip images — the strip file names carry the y offset, and strips are zoomed, so divide by the zoom).
+   - Write `work/<topic>/crops.json` — one entry per figure with the page file, the box `[x0, y0, x1, y1]` in page pixels (tight to the figure, keep its labels, leave out surrounding text and the page's own caption), the file name `"<Topic> - <figure>.png"` and a caption.
+   - `python3 _tools/notes_digitize.py crop --spec work/<topic>/crops.json --out "<vault>/<attachments folder>"` (ask once where the vault keeps attachments; default `attachments/` next to the note). It prints the `![[name]]` embeds with captions — paste each where the figure sits on the page. Open every crop and check nothing is cut off; adjust the box and re-run with `"overwrite": true`.
+   - Crops from a page narrower than ~1000 px are small and blurry. Still embed them (they are the user's own figure), but add the image prompt from step 4 directly below so the figure can be regenerated, and say in the caption that the crop came from a low-resolution page.
+4. **Image prompt** — only when there is no free image *and* the page's figure cannot be cropped (missing, illegible, or the user asked for a drawn version). A collapsed callout where the figure sat:
    ```markdown
    > [!example]- 🎨 Image prompt — <figure name>
    > "<style: medical textbook illustration / surgical atlas / Netter-like>, <view and section>, white background, <palette>. <Every structure and label from the page's figure, named explicitly>. Label: <the page's labels>. <what to exclude: no text other than labels, no watermark>."
    ```
    One prompt per figure; name every label the page shows so the generated image matches the notes.
-4. **Never** draw figures yourself as SVG, HTML or data-URI images, and never hotlink textbook scans or non-free sites. ASCII flowcharts in code blocks are fine (that is house style for flows and ladders).
+5. **Never** draw figures yourself as SVG, HTML or data-URI images, and never hotlink textbook scans or non-free sites. ASCII flowcharts in code blocks are fine (that is house style for flows and ladders).
 
-Place each image or prompt **exactly where the page had the figure** — not collected at the end.
+Place each image, crop or prompt **exactly where the page had the figure** — not collected at the end. A page with a photograph the web does not have (a clinical picture, an operative photo) is the normal case for step 3.
 
 ---
 
@@ -186,6 +192,25 @@ Obsidian footnotes: `[^n]` in the text, `[^n]: …` definitions as the last bloc
 - an abbreviation could be misread.
 
 Every main note needs at least a few footnotes; `check` rejects a note with none. Do not footnote things the page already explains.
+
+---
+
+## G2. Etymology footnotes (hover popovers)
+
+Every **eponym** (Hesselbach, Meckel, Bochdalek, DiGeorge…) and every term built from **Greek or Latin roots** that a student might not parse (hernia, -cele, -tomy / -rrhaphy / -plasty, meralgia paraesthetica, notochord, mesonephric…) gets its own footnote, placed **immediately after the term's first use** in the body (inside a table cell or heading is fine):
+
+```markdown
+**Bubonocele**[^ety-bubonocele] | sac limited to the canal
+…
+[^ety-bubonocele]: **Etymology — bubonocele:** Greek *boubōn*, "groin; a swelling in the groin" + *kēlē*, "hernia" — a hernia still within the groin.
+```
+
+Rules:
+- Key = `ety-` + the term in lower-case ASCII (`ety-corona-mortis`). The definition **starts with `**Etymology — <term>:**`** so the popover reads as etymology at a glance; `check` enforces both.
+- One to two lines: the root language, the root words with their meanings in quotes, and the sense that connects the root to the medical meaning. For an eponym: full name, dates, nationality and role, and the year of the description. Add nothing you are unsure of — a wrong date in a footnote is worse than none.
+- One footnote per term; a term that recurs is marked only once. Related terms may share one note (`ety-tomes` for dermatome / myotome / sclerotome).
+- Aim for **every** eponym and root-built term on the page — typically 15–30 per note; `check` rejects fewer than 5.
+- These sit with the other footnotes at the end of the file. Obsidian shows the footnote text in a popover when the reader hovers the marker (core plugin **Page preview** must be on), so the reader never has to scroll.
 
 ---
 
@@ -355,6 +380,8 @@ status: not-started
 - [ ] Every section heading from the page is present, in page order, with its table/list intact.
 - [ ] Every figure on the page has an image (seen by you) or an image prompt at the same place; every Wikimedia image has an italic caption with licence.
 - [ ] No figure was drawn by you (no SVG / HTML / data-URI images).
+- [ ] Every page crop is in the vault's attachments folder, embedded with `![[name]]`, captioned, and checked with your own eyes; crops from a low-resolution page are paired with an image prompt.
+- [ ] Etymology: every eponym and Greek/Latin term has a `[^ety-…]` footnote after its first use, each starting `**Etymology — term:**`.
 - [ ] Every major section has a 🎬 line; one video embedded per section; all collected in the Video Library.
 - [ ] Footnotes: every fact not on the page has one; every `[^n]` is defined; the page's wording wins in the body.
 - [ ] Core Dictum block has all five callouts in the exact format, specific to this topic.
@@ -370,7 +397,8 @@ status: not-started
 
 - note path and mind-map path (vault, or `obsidian-pending/` and why)
 - page resolution and whether anything was reconstructed; every `[unclear]`
-- images: how many from Wikimedia (and whether you could view them), how many image prompts and for which figures
+- figures: how many from Wikimedia (and whether you could view them), how many cropped from the page (and whether the page was full-resolution), how many image prompts and for which figures
+- etymology footnotes added (count), and any term whose origin you could not source
 - videos used
 - anatomed names that may need the autocomplete
 - any page-vs-textbook conflicts (now in footnotes)

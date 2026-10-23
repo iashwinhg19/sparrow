@@ -30,7 +30,7 @@ review_day_15: false
 > The image of this page reached me at **192 px wide**, so only the headings, tables' shapes and diagram layouts were legible; the body text was not. This note keeps **your page's exact section order and table structure** and fills the cells from standard embryology (Langman, Moore, Gray's). Lines where your handwriting may differ from the textbook are marked **⚠ verify**. Upload the original full-resolution page and I will reconcile it line by line.
 
 > [!abstract] Core Definition
-> Embryology is **geography plus history**: every adult structure is explained by **where its cells came from** (germ layer / mesoderm subdivision / neural crest), **how far they migrated or rotated**, and **what regressed on the way**. The anomalies in this note are all failures of one of those three steps.
+> Embryology[^ety-embryo] is **geography plus history**: every adult structure is explained by **where its cells came from** (germ layer / mesoderm subdivision / neural crest), **how far they migrated or rotated**, and **what regressed on the way**. The anomalies in this note are all failures of one of those three steps.
 
 ---
 
@@ -59,7 +59,7 @@ endoderm / NCC        ducts fuse (Müllerian)        Wolffian duct in ♀ → Ga
 
 | Subdivision | Divides into | Gives rise to |
 |---|---|---|
-| **Paraxial mesoderm** (somites) | **Dermatome** | Dermis of the back |
+| **Paraxial mesoderm**[^ety-mesoderm] (somites)[^ety-somite] | **Dermatome**[^ety-tomes] | Dermis of the back |
 | | **Myotome** | Skeletal muscle of trunk and limbs (except the exceptions below) |
 | | **Sclerotome** | Vertebrae, ribs, annulus fibrosus |
 | **Intermediate mesoderm** | **Urogenital system** | Kidneys (pronephros → mesonephros → metanephros), gonads, genital ducts, **adrenal cortex** ⚠ verify |
@@ -79,7 +79,7 @@ endoderm / NCC        ducts fuse (Müllerian)        Wolffian duct in ♀ → Ga
 ## 🧠 Neural Tube
 
 ### Formation
-Formed by **invagination of the ectoderm (neural plate) induced by the notochord** → neural groove → neural folds fuse in the midline → **neural tube**, which sinks beneath the surface ectoderm. Fusion starts at the level of the 4th–5th somite and spreads cranially and caudally; the **anterior neuropore closes on day 25** and the **posterior neuropore on day 27–28**.[^2]
+Formed by **invagination of the ectoderm (neural plate) induced by the notochord**[^ety-notochord] → neural groove → neural folds fuse in the midline → **neural tube**, which sinks beneath the surface ectoderm. Fusion starts at the level of the 4th–5th somite and spreads cranially and caudally; the **anterior neuropore closes on day 25** and the **posterior neuropore on day 27–28**.[^2]
 
 ![Neural crest formation during neurulation](https://upload.wikimedia.org/wikipedia/commons/8/8f/Neural_Crest.png)
 *Neural crest cells (green) arise at the crest of the neural folds — the junction of the neural tube and surface ectoderm — and migrate away as the tube closes.*
@@ -106,7 +106,7 @@ Formed by **invagination of the ectoderm (neural plate) induced by the notochord
 
 ---
 
-## ⭐ Neural Crest Cells (NCC)
+## ⭐ Neural Crest[^ety-crest] Cells (NCC)
 
 > [!info] Present at the **junction of the neural tube and surface ectoderm**. They migrate widely, which is why their derivatives are scattered through the body.
 
@@ -133,8 +133,8 @@ Formed by **invagination of the ectoderm (neural plate) induced by the notochord
 
 | | Structure | Derivative in the adult diaphragm |
 |---|---|---|
-| a | **Septum transversum** | **Central tendon** |
-| b | **Pleuroperitoneal membranes** | Posterolateral (dome) parts — the part that fails in CDH |
+| a | **Septum transversum**[^ety-septum] | **Central tendon** |
+| b | **Pleuroperitoneal membranes**[^ety-pleuroperitoneal] | Posterolateral (dome) parts — the part that fails in CDH |
 | c | **Dorsal mesentery of the oesophagus** | **Crura** of the diaphragm |
 | d | **Body wall mesoderm** (muscular ingrowth from the lateral body wall) | Peripheral muscular rim |
 
@@ -147,7 +147,7 @@ Formed by **invagination of the ectoderm (neural plate) induced by the notochord
 ### Applied anatomy — Congenital diaphragmatic hernia
 - Occurs due to **absence (non-closure) of the pleuroperitoneal membrane**
 - ↓
-- **Persistence of the pleuroperitoneal canal** (**Bochdalek foramen**, posterolateral)
+- **Persistence of the pleuroperitoneal canal** (**Bochdalek foramen**[^ety-bochdalek], posterolateral)
 - ↓
 - **Intestinal herniation** into the thorax
   - **Left > right** (the right canal closes earlier and the liver buttresses it)
@@ -159,7 +159,7 @@ Formed by **invagination of the ectoderm (neural plate) induced by the notochord
 
 ---
 
-## 🐟 Pharyngeal Arches
+## 🐟 Pharyngeal[^ety-pharyngeal] Arches
 
 > [!abstract] Each arch is a **core of mesoderm (with neural crest mesenchyme), lined by ectoderm on the outside and endoderm on the inside**. The outside groove between arches is a **cleft**; the inside pocket is a **pouch**; where they meet is a **membrane**.
 
@@ -172,7 +172,7 @@ Formed by **invagination of the ectoderm (neural plate) induced by the notochord
 ### Pharyngeal clefts (ectoderm)
 - **1st cleft** — the **only cleft that persists**
   - Derivatives: **external auditory meatus** and the **outer (epithelial) layer of the tympanic membrane**
-- **Cervical sinus**
+- **Cervical sinus**[^ety-cervical-sinus]
   - Formed by overgrowth of the **2nd arch** ectoderm, which buries the 2nd, 3rd and 4th clefts
   - Normally **obliterates** the 2nd–4th clefts
 
@@ -188,13 +188,13 @@ Formed by **invagination of the ectoderm (neural plate) induced by the notochord
 |---|---|
 | **1** | Inner layer of the tympanic membrane · **tympanic cavity** (middle ear) · **auditory (Eustachian) tube** · mastoid antrum |
 | **2** | **Palatine tonsil** (crypts; the lymphoid tissue is mesenchymal) |
-| **3** | **Thymus** · **Inferior parathyroid** |
+| **3** | **Thymus**[^ety-thymus] · **Inferior parathyroid**[^ety-parathyroid] |
 | **4** | **Superior parathyroid** |
-| Remnant of 5th pouch (ultimobranchial body) | **Ultimobranchial body** → parafollicular C cells |
+| Remnant of 5th pouch (ultimobranchial body)[^ety-ultimobranchial] | **Ultimobranchial body** → parafollicular C cells |
 
 > [!note] C cells are derived from **neural crest cells that migrate into the ultimobranchial body**, not from the endoderm itself.
 
-> [!danger] Applied anatomy — DiGeorge syndrome
+> [!danger] Applied anatomy — DiGeorge syndrome[^ety-digeorge]
 > - Anomaly of the **3rd and 4th pouches**
 > - **22q11.2 deletion** syndrome (CATCH-22: **C**ardiac defects, **A**bnormal facies, **T**hymic aplasia, **C**left palate, **H**ypocalcaemia)
 > - **Absent thymus** (T-cell deficiency) and **hypoparathyroidism** (hypocalcaemia, tetany)[^7]
@@ -206,8 +206,8 @@ Formed by **invagination of the ectoderm (neural plate) induced by the notochord
 
 | Arch | Cartilage | Derived structures |
 |---|---|---|
-| **1** | **Meckel's cartilage** | **Malleus**, **incus** · anterior ligament of malleus · sphenomandibular ligament · template for the **mandible** (which ossifies in membrane around it) |
-| **2** | **Reichert's cartilage** | **Stapes** · **styloid process** · **stylohyoid ligament** · **lesser cornu** and upper part of the body of the hyoid |
+| **1** | **Meckel's cartilage**[^ety-meckel] | **Malleus**, **incus** · anterior ligament of malleus · sphenomandibular ligament · template for the **mandible** (which ossifies in membrane around it) |
+| **2** | **Reichert's cartilage**[^ety-reichert] | **Stapes** · **styloid process** · **stylohyoid ligament** · **lesser cornu** and upper part of the body of the hyoid |
 | **3** | — | **Greater cornu** and lower part of the **body of the hyoid** |
 | **4 & 6** | — | **Laryngeal cartilages** (thyroid, cricoid, arytenoid, corniculate, cuneiform)[^8] |
 
@@ -236,13 +236,13 @@ title: Pharyngeal arch derivatives
 
 | Vein | Derivatives |
 |---|---|
-| Right anterior cardinal vein | **Right internal jugular**, right brachiocephalic, **superior vena cava** (with the right common cardinal) |
+| Right anterior cardinal[^ety-cardinal] vein | **Right internal jugular**, right brachiocephalic, **superior vena cava** (with the right common cardinal) |
 | Left anterior cardinal vein | Left internal jugular; the cross-anastomosis becomes the **left brachiocephalic vein**; the rest regresses (remnant: oblique vein of Marshall) |
 | Common cardinal veins | Right → **SVC** (terminal part) ; Left → **coronary sinus** (with the left horn of the sinus venosus) |
 | Posterior cardinal veins | Mostly regress → **common iliac veins** and root of the **azygos** ⚠ verify |
 | Subcardinal veins | **Renal veins**, gonadal veins, suprarenal veins, **renal (pre-renal) segment of the IVC** |
-| Supracardinal veins | Right → **infrarenal IVC** · Left → **hemiazygos** ; upper parts → **azygos / hemiazygos** |
-| Vitelline veins | **Hepatic sinusoids**, hepatic veins, **portal vein**, **hepatic segment of the IVC**, ductus venosus (part) |
+| Supracardinal veins | Right → **infrarenal IVC** · Left → **hemiazygos**[^ety-azygos] ; upper parts → **azygos / hemiazygos** |
+| Vitelline[^ety-vitelline] veins | **Hepatic sinusoids**, hepatic veins, **portal vein**, **hepatic segment of the IVC**, ductus venosus (part) |
 | Umbilical veins | Right → disappears · Left → **ductus venosus** (→ ligamentum venosum) and **ligamentum teres hepatis** |
 | Right horn of sinus venosus | **Smooth part of the right atrium** (sinus venarum) |
 | Left horn of sinus venosus | **Coronary sinus** |
@@ -256,14 +256,14 @@ title: Pharyngeal arch derivatives
 
 | Structure | Arch artery it comes from |
 |---|---|
-| **Arch of aorta** | Aortic sac (proximal) · **left horn of the aortic sac** · **left 4th arch artery** · left dorsal aorta (distal) |
+| **Arch of aorta**[^ety-aorta] | Aortic sac (proximal) · **left horn of the aortic sac** · **left 4th arch artery** · left dorsal aorta (distal) |
 | **Brachiocephalic trunk** | **Right horn of the aortic sac** |
 | **Common carotid artery** | **Proximal part of the 3rd arch artery** |
 | **Internal carotid artery** | **Distal part of the 3rd arch artery** + cranial part of the dorsal aorta |
 | **Subclavian artery — left** | **Left 7th cervical intersegmental artery** |
 | **Subclavian artery — right** | **Right 4th arch artery** + right dorsal aorta (short segment) + **right 7th cervical intersegmental artery** |
 | **Pulmonary artery** | **Proximal part of the 6th arch artery** |
-| **Ductus arteriosus** | **Distal part of the left 6th arch artery** |
+| **Ductus arteriosus**[^ety-ductus] | **Distal part of the left 6th arch artery** |
 
 ### Applied aspect — the recurrent laryngeal nerves
 
@@ -285,7 +285,7 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 
 | Anomaly | Embryological error | Result |
 |---|---|---|
-| **Aberrant (retro-oesophageal) right subclavian artery** | Obliteration of the **right 4th arch artery** → persistence of the caudal part of the **right dorsal aorta** | Right subclavian arises last from the arch and passes **behind the oesophagus** → **dysphagia lusoria**; the right RLN is **non-recurrent** |
+| **Aberrant (retro-oesophageal) right subclavian artery** | Obliteration of the **right 4th arch artery** → persistence of the caudal part of the **right dorsal aorta** | Right subclavian arises last from the arch and passes **behind the oesophagus** → **dysphagia lusoria**[^ety-lusoria]; the right RLN is **non-recurrent** |
 | **Double aortic arch** | Persistence of **both 4th arch arteries and both dorsal aortae** | **Vascular ring** around trachea and oesophagus → stridor, dysphagia |
 | Right aortic arch | Left dorsal aorta regresses instead of the right | Arch over the right bronchus; ± vascular ring with left ligamentum arteriosum |
 
@@ -306,7 +306,7 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 
 ---
 
-## 🍃 Mesogastrium & Derivatives
+## 🍃 Mesogastrium[^ety-mesogastrium] & Derivatives
 
 | Ventral mesogastrium | Dorsal mesogastrium |
 |---|---|
@@ -335,7 +335,7 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 |---|---|---|
 | **Non-rotation** | Loop returns **without rotating** beyond the first 90° | **Small intestine on the right**, **large intestine on the left** ("left-sided colon"); narrow mesenteric base → volvulus |
 | **Reversed rotation** | Normal first rotation then **clockwise** (−90°) instead of counter-clockwise | **Transverse colon passes behind the superior mesenteric artery** (duodenum in front) ⚠ verify |
-| **Mixed rotation (malrotation)** | Rotation stops at 180°; caecum fails to descend | **Subhepatic caecum**; **Ladd's bands** from the caecum cross the duodenum → obstruction; narrow base → volvulus |
+| **Mixed rotation (malrotation)** | Rotation stops at 180°; caecum fails to descend | **Subhepatic caecum**; **Ladd's bands**[^ety-ladd] from the caecum cross the duodenum → obstruction; narrow base → volvulus |
 | **Incomplete rotation** | Caecum does not complete its descent | **Subhepatic caecum**, appendix under the liver ("subhepatic appendix") |
 
 > [!example]- 🎨 Image prompt — Four rotation anomalies (the four-row picture table in your notes)
@@ -347,7 +347,7 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 
 ## 👶 Omphalocele vs Gastroschisis
 
-| | Omphalocele | Gastroschisis |
+| | Omphalocele[^ety-omphalocele] | Gastroschisis[^ety-gastroschisis] |
 |---|---|---|
 | **Defect** | **Failure of reduction of the physiological hernia** (midgut does not return by week 10) — herniation **through the umbilical ring** | **Defect of the anterior abdominal wall lateral (usually right) to the umbilicus** — incomplete lateral folding / involution of the right umbilical vein ⚠ verify |
 | **Covering** | **Covered** by amnion + peritoneum (membrane); cord inserts on the sac | **No covering** — bowel free in amniotic fluid, thickened and matted |
@@ -366,7 +366,7 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 
 ## ⚧ Genital Duct Derivatives
 
-> [!info] All from **intermediate mesoderm**: the **mesonephric (Wolffian) duct**, the **paramesonephric (Müllerian) duct** and the **genital ridge**.
+> [!info] All from **intermediate mesoderm**: the **mesonephric (Wolffian) duct**[^ety-wolffian], the **paramesonephric (Müllerian) duct**[^ety-mullerian] and the **genital ridge**.
 
 ![Gray's Anatomy — primitive urogenital organs before sexual differentiation](https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray1109.png)
 *Gray's Anatomy (1918): the indifferent stage — genital ridge, mesonephros, mesonephric (Wolffian) duct and paramesonephric (Müllerian) duct side by side.*
@@ -376,7 +376,7 @@ RECURRENT LARYNGEAL NERVE (branch of X, nerve of the 6th arch)
 
 | | Males | Females |
 |---|---|---|
-| **Mesonephric (Wolffian) duct** | **Epididymis**, **vas deferens**, **seminal vesicle**, **ejaculatory duct**; **ureteric bud** → ureter, pelvis, calyces, collecting ducts; **trigone** of the bladder ⚠ verify | **Remnants:** **Gartner's duct** (cyst in the anterolateral vaginal wall), **epoophoron**, **paroophoron**; ureteric bud and trigone as in the male |
+| **Mesonephric (Wolffian) duct** | **Epididymis**, **vas deferens**, **seminal vesicle**, **ejaculatory duct**; **ureteric bud** → ureter, pelvis, calyces, collecting ducts; **trigone** of the bladder ⚠ verify | **Remnants:** **Gartner's duct**[^ety-gartner] (cyst in the anterolateral vaginal wall), **epoophoron**, **paroophoron**; ureteric bud and trigone as in the male |
 | | **Remnant:** appendix of the epididymis ⚠ verify | |
 | **Paramesonephric (Müllerian) duct** | **Remnants:** **appendix of the testis**, **prostatic utricle** | **Fallopian tubes**, **uterus**, **cervix**, **upper ⅓ of the vagina**[^11] |
 | **Genital ridge** | **Testis** | **Ovary** |
@@ -679,3 +679,33 @@ ROTATE:   midgut 270° CCW around SMA → non / reversed / mixed / incomplete
 [^9]: Gray's plates 473–475 are the aortic-arch series listed in the Commons category "Arcus aortae"; if this plate shows the profile embryo rather than the arch scheme, swap the URL for `Gray473.png` or `Gray475.png` (same path pattern) — I could not preview the files from this environment.
 [^10]: The order of the four ventral derivatives in your notes was not readable; the four listed here are the standard set (falciform, lesser omentum, coronary, triangular).
 [^11]: The lower ⅓ (some texts: lower ⅔) of the vagina comes from the sinovaginal bulbs of the urogenital sinus (endoderm), not from the Müllerian duct — the basis of transverse vaginal septum at the junction.
+[^ety-embryo]: **Etymology — embryo:** Greek *embryon*, "that which grows within" (*en*, in + *bryein*, to swell, to grow).
+[^ety-mesoderm]: **Etymology — mesoderm / ectoderm / endoderm:** Greek *derma*, "skin" with *mesos* "middle", *ektos* "outside", *endon* "within" — the middle, outer and inner "skins" of the trilaminar disc. *Paraxial* = *para*, beside + *axis*.
+[^ety-somite]: **Etymology — somite:** Greek *sōma*, "body" + *-ite* — a body segment; the paired blocks of paraxial mesoderm.
+[^ety-tomes]: **Etymology — dermatome / myotome / sclerotome:** Greek *tomos*, "a cut, a segment" with *derma* "skin", *mys* "muscle", *sklēros* "hard" — the skin-, muscle- and hard-tissue (bone) segments of each somite.
+[^ety-notochord]: **Etymology — notochord:** Greek *nōton*, "the back" + *chordē*, "string, gut-string" — the string along the back; the first axial skeleton.
+[^ety-crest]: **Etymology — neural crest:** Latin *crista*, "a tuft, a ridge" (as on a helmet) — the ridge at the crest of each neural fold where these cells arise.
+[^ety-septum]: **Etymology — septum transversum:** Latin *septum*, "a partition, a fence" + *transversum*, "lying across" — the transverse partition between the pericardial cavity and the yolk sac.
+[^ety-pleuroperitoneal]: **Etymology — pleuroperitoneal:** Greek *pleura*, "the side, a rib" + *peritonaion*, "stretched around" — the membrane between the pleural and peritoneal cavities.
+[^ety-bochdalek]: **Etymology — Bochdalek foramen:** Vincenz Alexander Bochdalek (1801–1883), Czech anatomist in Prague, who described the posterolateral defect in 1848. The anterior, retrosternal hernia is named after Giovanni Battista Morgagni (1682–1771).
+[^ety-pharyngeal]: **Etymology — pharyngeal / branchial:** Greek *pharynx*, "the throat"; the older term *branchial* is from Greek *branchia*, "gills", because the arches of a fish become its gill bars.
+[^ety-cervical-sinus]: **Etymology — cervical sinus:** Latin *cervix*, "neck" + *sinus*, "a hollow, a bay" — the pocket in the neck left when the second arch grows over the clefts.
+[^ety-thymus]: **Etymology — thymus:** Greek *thymos*, "a warty growth", also the thyme plant — the gland was likened to a bunch of thyme.
+[^ety-parathyroid]: **Etymology — parathyroid:** Greek *para*, "beside" + *thyreos*, "an oblong shield" + *eidos*, "form" — the glands beside the shield-shaped (thyroid) cartilage and gland.
+[^ety-ultimobranchial]: **Etymology — ultimobranchial body:** Latin *ultimus*, "last" + *branchial*, "of the gill arches" — the body from the last pharyngeal pouch.
+[^ety-digeorge]: **Etymology — DiGeorge syndrome:** Angelo M. DiGeorge (1921–2009), American paediatric endocrinologist in Philadelphia, who described the thymic–parathyroid syndrome in 1965.
+[^ety-meckel]: **Etymology — Meckel's cartilage:** Johann Friedrich Meckel the Younger (1781–1833), German anatomist at Halle — also the Meckel of Meckel's diverticulum.
+[^ety-reichert]: **Etymology — Reichert's cartilage:** Karl Bogislaus Reichert (1811–1883), German anatomist and embryologist, who described the second-arch cartilage in 1837.
+[^ety-cardinal]: **Etymology — cardinal veins:** Latin *cardo*, *cardinis*, "a hinge" — the principal veins on which the embryo's venous drainage "hinges".
+[^ety-vitelline]: **Etymology — vitelline / umbilical:** Latin *vitellus*, "yolk" — the veins of the yolk sac; *umbilicus*, "the navel".
+[^ety-azygos]: **Etymology — azygos / hemiazygos:** Greek *a-*, "without" + *zygon*, "a yoke, a pair" — the unpaired vein; *hemi-*, "half".
+[^ety-aorta]: **Etymology — aorta:** Greek *aortē*, "that which is hung up" (*aeirein*, to lift) — Aristotle's name for the vessel from which the heart seemed to hang.
+[^ety-ductus]: **Etymology — ductus arteriosus:** Latin, "the arterial duct"; also called the duct of Botallo after Leonardo Botallo (1519–1588), Italian surgeon.
+[^ety-lusoria]: **Etymology — dysphagia lusoria:** Greek *dys-*, "bad" + *phagein*, "to eat" + Latin *lusus naturae*, "a trick (sport) of nature" — David Bayford's 1787 name for swallowing difficulty caused by an aberrant subclavian artery.
+[^ety-mesogastrium]: **Etymology — mesogastrium / mesentery:** Greek *mesos*, "middle" + *gastēr*, "belly" / *enteron*, "intestine" — the membrane in the middle, suspending the stomach / the gut.
+[^ety-ladd]: **Etymology — Ladd's bands:** William Edwards Ladd (1880–1967), Boston surgeon and founder of paediatric surgery, who described the bands and the operation for malrotation in 1932–36.
+[^ety-omphalocele]: **Etymology — omphalocele:** Greek *omphalos*, "navel" + *kēlē*, "hernia" — a hernia at the navel.
+[^ety-gastroschisis]: **Etymology — gastroschisis:** Greek *gastēr*, "belly" + *schisis*, "a splitting" — a split belly wall.
+[^ety-wolffian]: **Etymology — mesonephric (Wolffian) duct:** Greek *mesos*, "middle" + *nephros*, "kidney" — the duct of the middle kidney; named for Caspar Friedrich Wolff (1733–1794), German embryologist.
+[^ety-mullerian]: **Etymology — paramesonephric (Müllerian) duct:** Greek *para*, "beside" + mesonephric — the duct beside the mesonephric duct; named for Johannes Peter Müller (1801–1858), German physiologist, who described it in 1830.
+[^ety-gartner]: **Etymology — Gartner's duct:** Hermann Treschow Gartner (1785–1827), Danish surgeon and anatomist, who described the Wolffian duct remnant in the cow (1822) before it was found in women.
