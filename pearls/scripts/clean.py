@@ -18,16 +18,32 @@ ROW_FIXES = {
     ('ENT', 13430): ('PM1097', 'Lymph Node Levels in the Neck', ''),
     ('Obstetrics & Gynaecology', 20843): ('PM2497', 'Uterine Signs in P…', CUT),
     ('Psychiatry', 12227): ('PM2059', "BNS section 22, M'Naghten's rule",
-                            'Title cut off in the screenshot; completed from the same pearl listed earlier'),
+                            'Title cut off in the screenshot; completed from the same pearl in Forensic Medicine'),
 }
 ID_FIXES = {'PM19839': 'PM1989', 'PM16771': 'PM1671'}
 RAW_FIXES = {'PMO075/7.': 'PM0757.', 'PMO02339.': 'PM0239.'}
 TITLE_FIXES = {
+    'Foster-—Kennedy Syndrome': 'Foster-Kennedy Syndrome',
+    'Structural Alterations of the 8 -Globin Gene': 'Structural Alterations of the β-Globin Gene',
     'Carbamoy! phosphate synthetase | & Il': 'Carbamoyl phosphate synthetase I & II',
     'MHC Classes | and II': 'MHC Classes I and II',
     'Comparative Features of Type | and Type II Diabetes mellitus':
         'Comparative Features of Type I and Type II Diabetes mellitus',
 }
+
+# l/I confusions and line-break hyphens left by OCR
+WORD_FIXES = [
+    (r'\blon\b', 'Ion'), (r'\blonising\b', 'Ionising'), (r'\blvermectin\b', 'Ivermectin'),
+    (r'\bAlDS\b', 'AIDS'), (r'\bGl\b', 'GI'), (r'\bMl\b', 'MI'), (r'\blla\b', 'IIa'), (r'^Nat - K\+', 'Na+ - K+'),
+    (r'(?<=[a-z0-9])- (?=[a-z0-9])', '-'), (r'(?<=ICD)- ', '-'), (r'\bCL-', 'Cl-'), (r'\b(Non|Ehler|Peutz|Salter)—', r'\1-'),
+    (r'(?<=[a-z])—(?=[a-z])', '-'),
+]
+
+
+def fix_words(title):
+    for pat, rep in WORD_FIXES:
+        title = re.sub(pat, rep, title)
+    return title
 
 
 def norm_id(digits):
@@ -66,7 +82,7 @@ def clean(res):
                 continue  # seam debris with no pearl in it
             pid = norm_id(m.group(1))
             title = SECOND_PM.sub('', text[m.end():]).strip()
-            title = TITLE_FIXES.get(title, title)
+            title = fix_words(TITLE_FIXES.get(title, title))
             note = ''
         pearls = subs[cur]
         old = pearls.get(pid)
