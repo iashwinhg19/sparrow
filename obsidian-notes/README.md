@@ -53,3 +53,31 @@ Frontmatter → core definition → mental model → the page's sections in the 
 ## For the next batch
 
 Send each page as a **file upload** (PNG/JPG at full resolution, one file per page) rather than pasted into the chat — pasted images arrive at ~200–350 px wide. At full size every line can be transcribed exactly, with no reconstruction. If you want the pearl IDs from your PYQ list (`pearls/pearls.csv` in this repo) cross-referenced into the notes' `past_exam_questions` field, say so and I'll add them.
+
+---
+
+# Physiology main notes (Marrow 8) — `Physiology/`
+
+The whole Physiology course notes digitised: **61 chapters**, each a full note plus its own mind map, grouped in ten unit folders, with an index note.
+
+| What | Where |
+|---|---|
+| Start here | `Physiology/Physiology — Index.md` — every chapter in Marrow order, with page ranges, mind-map links and cross-chapter "threads" |
+| Main notes | `Physiology/<unit folder>/<Chapter>.md` |
+| Mind maps (mdmap plugin) | `Physiology/<unit folder>/Mind Maps/<Chapter> — Mind Map.md` |
+| Page crops | `Physiology/attachments/` — 435 figures cropped from your pages, shrunk to 256-colour PNGs; copy the folder next to the notes |
+
+**Unit folders:** 01 General Physiology · 02 Nerve-Muscle Physiology · 03 Central Nervous System · 04 Respiratory System · 05 Cardiovascular System and Blood · 06 Gastrointestinal System · 07 Renal Physiology · 08 Endocrine System · 09 Reproductive System · 10 Exercise and Body Temperature.
+
+**Chapters hidden inside PDFs.** Three of your PDFs held a second chapter, found by scanning every page for a title page: *Classification of Nerve Fibres* (inside the nerve-fibre PDF), *Mechanics of Breathing* (inside the lung-structure PDF) and *Learning and Memory* (inside the limbic PDF). Each has its own note, so 58 PDFs/titles became 61 chapters.
+
+**What every chapter has** — same layout as the Hernia and Embryology notes: core definition → mental model → your page's sections in page order (tables kept as tables, flowcharts as ASCII) → Core Dictum & Pattern Recognition → pearls → one-line recall → video library → infographic prompt → references → footnotes. Footnotes pop up on hover: numbered ones carry facts not on your page and **⚠ places where the page and the textbook differ** (the page's wording is kept in the body); `ety-` ones are etymology for every term and process word; `pre-` / `suf-` ones are the prefixes and suffixes.
+
+**Figures.** Each page figure is a crop of your page (clear at the native 1080 px), and 30 chapters also carry a Wikimedia / OpenStax diagram; where a page figure was blurred or hidden by a watermark there is a collapsed 🎨 image prompt under it. Third-party watermarks on your pages (an email address, an ID hash, a site name, the "Feedback" tab and the lecturer's thumbnail) are **not** in any note and are masked out of every crop.
+
+**Videos.** 314 real YouTube videos, every note with one embedded player and 2–10 links. Video links were taken from search results only and matched by title — I could not watch them, so glance at a few. Where no matching video turned up for a topic the link is a YouTube **search** link (235 such lines across 55 notes); swap in a video whenever you find one.
+
+**Things to check once in Obsidian**
+- Wikimedia is blocked in the environment I worked in, so I could not look at the 93 web images; each file name comes from a search result. A broken image means the file name needs fixing.
+- anatomed: each chapter has one 3D block; some structure names may show as "unmatched" and need the plugin's autocomplete.
+- ⚠ lines: wherever your page and the textbook disagree (for example "creatinine phosphate", the left-shift row in the O₂–Hb table, "300 mmol/L mannitol = hypertonic") the footnote says so.

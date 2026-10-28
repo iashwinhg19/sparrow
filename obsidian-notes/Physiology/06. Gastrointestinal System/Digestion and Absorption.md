@@ -97,7 +97,9 @@ title: Digestive tract — sites of digestion
 >
 > **Note: SGLT-2 is found in kidney.**[^4]
 
-🎬 **Watch:** [Carbohydrate digestion and absorption — SGLT1, GLUT5, GLUT2 (YouTube search)](https://www.youtube.com/results?search_query=carbohydrate+digestion+absorption+SGLT1+GLUT5+GLUT2+physiology)
+🎬 **Watch:** [Biochemistry — how are carbohydrates absorbed](https://www.youtube.com/watch?v=4rqlnaRfnYI) · [Digestion and Absorption of Carbohydrates, Fats, Proteins, Nucleic acids, Vitamins and Electrolytes](https://www.youtube.com/watch?v=7CLPSZlAHpE)
+
+![](https://www.youtube.com/watch?v=7CLPSZlAHpE)
 
 ---
 
@@ -166,7 +168,7 @@ Bile-salt micelles (HIGH concentration)               Mucosal cell (LOW concentr
 >   - **Acid base balance: absorbed in exchange for H⁺.**
 >   - **Prevents inflammation**[^ety-inflammation].[^6]
 
-🎬 **Watch:** [Fat digestion and absorption — emulsification, micelles, chylomicrons (YouTube search)](https://www.youtube.com/results?search_query=lipid+digestion+absorption+micelles+chylomicrons+physiology)
+🎬 **Watch:** [Digestion and Absorption of Lipids (Animation) — USMLE Step 1](https://www.youtube.com/watch?v=K4RX8dNYlTw) · [Bile Acids, Bile Salts — Lipid Emulsification (GI Physiology & Biochemistry)](https://www.youtube.com/watch?v=RU_jU_hJ7q0) · [Fat (lipid) digestion and absorption physiology](https://www.youtube.com/watch?v=tmZksHXtZtg)
 
 ---
 
@@ -218,7 +220,7 @@ Lumen: H+ ◄──Na+–H+ exchange──► Cell: Na+
 - **Cytoplasmic**[^ety-cytoplasm][^pre-cyto] **protease**[^ety-protease] → **amino acids**.
 - **Basolateral**[^ety-basolateral][^pre-baso] **amino acid transporter** → **blood**.[^7]
 
-🎬 **Watch:** [Protein digestion and absorption — endopeptidases, exopeptidases, PepT1 (YouTube search)](https://www.youtube.com/results?search_query=protein+digestion+absorption+PepT1+endopeptidase+exopeptidase)
+🎬 **Watch:** [Digestion & Absorption of Proteins (Animation) — USMLE Step 1](https://www.youtube.com/watch?v=8rdjnoKm8gQ) · [Protein Digestion and Absorption](https://www.youtube.com/watch?v=x-1yifFU1r8)
 
 ---
 
@@ -457,9 +459,12 @@ IRON: duodenum · Dcytb → DMT-1 → ferroportin → hephaestin → transferrin
 
 | What to watch | Link |
 |---|---|
-| Carbohydrate digestion and absorption — SGLT1, GLUT5, GLUT2 (YouTube search) | https://www.youtube.com/results?search_query=carbohydrate+digestion+absorption+SGLT1+GLUT5+GLUT2+physiology |
-| Fat digestion and absorption — emulsification, micelles, chylomicrons (YouTube search) | https://www.youtube.com/results?search_query=lipid+digestion+absorption+micelles+chylomicrons+physiology |
-| Protein digestion and absorption — PepT1 (YouTube search) | https://www.youtube.com/results?search_query=protein+digestion+absorption+PepT1+endopeptidase+exopeptidase |
+| Biochemistry — how are carbohydrates absorbed | https://www.youtube.com/watch?v=4rqlnaRfnYI |
+| Digestion and Absorption of Carbohydrates, Fats, Proteins, Nucleic acids, Vitamins and Electrolytes (overview) | https://www.youtube.com/watch?v=7CLPSZlAHpE |
+| Digestion and Absorption of Lipids (Animation) — USMLE Step 1 | https://www.youtube.com/watch?v=K4RX8dNYlTw |
+| Bile Acids, Bile Salts — Lipid Emulsification (GI Physiology & Biochemistry) | https://www.youtube.com/watch?v=RU_jU_hJ7q0 |
+| Digestion & Absorption of Proteins (Animation) — USMLE Step 1 | https://www.youtube.com/watch?v=8rdjnoKm8gQ |
+| Protein Digestion and Absorption | https://www.youtube.com/watch?v=x-1yifFU1r8 |
 | Vitamin B12 absorption (YouTube search) | https://www.youtube.com/results?search_query=vitamin+B12+absorption+intrinsic+factor+physiology |
 | Iron absorption and hepcidin (YouTube search) | https://www.youtube.com/results?search_query=iron+absorption+hepcidin+ferroportin+DMT1+physiology |
 
@@ -490,7 +495,7 @@ IRON: duodenum · Dcytb → DMT-1 → ferroportin → hephaestin → transferrin
 - Guyton & Hall Textbook of Medical Physiology — Digestion and absorption in the gastrointestinal tract
 - Ganong's Review of Medical Physiology — Digestion, absorption and nutritional principles; iron absorption
 - `Digestion and Absorption - ….png` files in `attachments/` are crops of the handwritten pages
-- Videos: no single matching YouTube video turned up for these topics, so the 🎬 links remain YouTube searches
+- Videos: no matching YouTube video turned up for vitamin B12/folate and iron absorption, so those two 🎬 links remain YouTube searches
 
 [^1]: Standard texts: α-amylase (salivary and pancreatic) splits internal **α-1,4** glycosidic bonds of starch into maltose, maltotriose and α-limit dextrins; it cannot split **α-1,6** branch points, which are cut by brush-border **isomaltase (α-dextrinase)**. Brush-border maltase, sucrase and lactase then split the disaccharides into glucose, fructose and galactose. The page's simplified scheme is kept in the body.
 [^2]: The page draws GLUT-5 on both membranes. Most textbooks give **GLUT-5 for apical fructose entry and GLUT-2 for basolateral exit of glucose, galactose and fructose** (some GLUT-5 is present basolaterally too).

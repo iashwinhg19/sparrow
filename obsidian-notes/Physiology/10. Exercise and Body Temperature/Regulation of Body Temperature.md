@@ -182,7 +182,7 @@ detail: related
 title: Hypothalamic thermoregulatory centres
 ```
 
-🎬 **Watch:** [Thermoregulation — hypothalamus, heat gain and heat loss (YouTube search)](https://www.youtube.com/results?search_query=thermoregulation+hypothalamus+heat+gain+heat+loss+physiology+lecture) · [Thermoregulation: Heat Transfer](https://www.youtube.com/watch?v=e7kmmj_qRss)
+🎬 **Watch:** [Induction of Fever, Control of Body Temperature, Hyperthermia — animation](https://www.youtube.com/watch?v=QV7j-XQ7wv8) · [Thermoregulation: Heat Transfer](https://www.youtube.com/watch?v=e7kmmj_qRss)
 
 ![](https://www.youtube.com/watch?v=e7kmmj_qRss)
 
@@ -231,7 +231,7 @@ Antipyretics block it (↓ PGE2)
 > [!example]- 🎨 Image prompt — Circumventricular organs and the OVLT
 > "Medical textbook illustration, mid-sagittal section of the human brain on a white background, soft grey brain tissue with the third and fourth ventricles in pale blue. Highlight and label the circumventricular organs (areas outside the blood–brain barrier) as coloured dots: 'OVLT — organum vasculosum laminae terminalis' (red, in the lamina terminalis at the front of the third ventricle, labelled 'fever: pyrogens → PGE2'), 'SFO — subfornical organ' (red), 'ME — median eminence' (cyan), 'NH — neurohypophysis' (cyan), 'PG — pineal gland' (cyan), 'AP — area postrema' (red, floor of the fourth ventricle). Show the preoptic/anterior hypothalamus just above the OVLT. Crisp labels, no watermark."
 
-🎬 **Watch:** [Fever pathophysiology — pyrogens, PGE2 and the set point (YouTube search)](https://www.youtube.com/results?search_query=fever+pathophysiology+pyrogens+PGE2+OVLT+set+point) · [Circumventricular organs — OVLT (YouTube search)](https://www.youtube.com/results?search_query=circumventricular+organs+OVLT+area+postrema+subfornical+organ)
+🎬 **Watch:** [Pathophysiology of fever explained](https://www.youtube.com/watch?v=R1b33YZ3jso) · [Pyrogens and Fever](https://www.youtube.com/watch?v=XTXbE3XjpgU) · [Circumventricular organs — OVLT (YouTube search)](https://www.youtube.com/results?search_query=circumventricular+organs+OVLT+area+postrema+subfornical+organ)
 
 ---
 
@@ -249,7 +249,7 @@ Antipyretics block it (↓ PGE2)
 > [!danger] The line that matters
 > Heat cramps, syncope and exhaustion are failures of **water, salt and circulation** — the **thermoregulatory mechanism is intact**, so they recover with rest and fluids. **Heat stroke** is failure of the **thermostat itself** — **sweating is absent**, the skin is hot and dry, the patient is comatose with a rectal temperature > 106 °F: **active cooling at once**.[^11] **Malignant hyperthermia** is a drug-triggered runaway of **muscle heat production** (ryanodine receptor → Ca²⁺ → sustained contraction) — treated with **dantrolene**.[^12]
 
-🎬 **Watch:** [Hyperthermia Pathophysiology — heat exhaustion and heat stroke](https://www.youtube.com/watch?v=WtXjtMYnfYA) · [Malignant hyperthermia — ryanodine receptor and dantrolene (YouTube search)](https://www.youtube.com/results?search_query=malignant+hyperthermia+ryanodine+receptor+dantrolene+succinylcholine)
+🎬 **Watch:** [Hyperthermia Pathophysiology — heat exhaustion and heat stroke](https://www.youtube.com/watch?v=WtXjtMYnfYA) · [Malignant hyperthermia — pathophysiology, presentation, treatment, dantrolene (USMLE/Nursing)](https://www.youtube.com/watch?v=j0MKDmTx7OY) · [Dantrolene — mechanism of action, clinical use (malignant hyperthermia)](https://www.youtube.com/watch?v=NrqHjEFCiXo)
 
 ---
 
@@ -299,7 +299,7 @@ Myocardial infarction ──► Return of spontaneous circulation (ROSC) ──�
 > [!example]- 🎨 Image prompt — Cardiomyocyte cooling and the RISK pathway
 > "Clean flat-vector medical diagram, white background, left-to-right flow. Top row in grey: 'Myocardial infarction → Return of spontaneous circulation (ROSC) → Oxidative stress → Death' (a red X over 'Death'). From 'Myocardial infarction' a blue arrow down to an ice-crystal icon 'Cardiomyocyte cooling — reduce body temperature by 5 °C' → 'activates' → a box 'Reperfusion Injury Salvage Kinase (RISK)' → two branches: left 'Survival kinase → Akt phosphorylation → mitochondrial protection (mitochondrion icon with a shield) → ↑ survival'; right 'Heat shock protein HSP27 → positive regulator of Akt' with a (+) arrow joining 'Akt phosphorylation'. Cool blues for protection, red for injury, crisp labels, no watermark."
 
-🎬 **Watch:** [Hypothermia — accidental and therapeutic (YouTube search)](https://www.youtube.com/results?search_query=therapeutic+hypothermia+targeted+temperature+management+physiology) · [Reperfusion injury salvage kinase (RISK) pathway (YouTube search)](https://www.youtube.com/results?search_query=reperfusion+injury+salvage+kinase+RISK+pathway+cardioprotection)
+🎬 **Watch:** [Hypothermia Pathophysiology](https://www.youtube.com/watch?v=eGbIlomgE8E) · [Reperfusion injury salvage kinase (RISK) pathway (YouTube search)](https://www.youtube.com/results?search_query=reperfusion+injury+salvage+kinase+RISK+pathway+cardioprotection)
 
 ---
 
@@ -464,10 +464,13 @@ HEAT: cramps → syncope → exhaustion → STROKE (dry, coma, >106 °F, cool) �
 | What to watch | Link |
 |---|---|
 | Thermoregulation: Heat Transfer — radiation, conduction, convection, evaporation | https://www.youtube.com/watch?v=e7kmmj_qRss |
-| Thermoregulation — hypothalamus, heat gain and heat loss (YouTube search) | https://www.youtube.com/results?search_query=thermoregulation+hypothalamus+heat+gain+heat+loss+physiology+lecture |
-| Fever pathophysiology — pyrogens, PGE2, set point (YouTube search) | https://www.youtube.com/results?search_query=fever+pathophysiology+pyrogens+PGE2+OVLT+set+point |
+| Induction of Fever, Control of Body Temperature, Hyperthermia — animation | https://www.youtube.com/watch?v=QV7j-XQ7wv8 |
+| Pathophysiology of fever explained | https://www.youtube.com/watch?v=R1b33YZ3jso |
+| Pyrogens and Fever | https://www.youtube.com/watch?v=XTXbE3XjpgU |
 | Hyperthermia Pathophysiology — heat exhaustion and heat stroke | https://www.youtube.com/watch?v=WtXjtMYnfYA |
-| Malignant hyperthermia — ryanodine receptor and dantrolene (YouTube search) | https://www.youtube.com/results?search_query=malignant+hyperthermia+ryanodine+receptor+dantrolene+succinylcholine |
+| Malignant hyperthermia — pathophysiology, presentation, treatment, dantrolene (USMLE/Nursing) | https://www.youtube.com/watch?v=j0MKDmTx7OY |
+| Dantrolene — mechanism of action, clinical use (malignant hyperthermia) | https://www.youtube.com/watch?v=NrqHjEFCiXo |
+| Hypothermia Pathophysiology | https://www.youtube.com/watch?v=eGbIlomgE8E |
 
 ---
 
