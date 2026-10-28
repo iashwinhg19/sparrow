@@ -30,7 +30,7 @@ review_day_15: false
 
 > [!abstract] Core Definition
 > **Somatosensory**[^ety-somatosensory][^pre-somato] pathways carry the **general sensations** of the body (touch, pressure, vibration, joint position, pain, temperature, itch) from the skin through the **spinal cord** and **thalamus**[^ety-thalamus] to the **sensory cortex**[^ety-cortex]. Everything in the chapter answers three questions:
-> - ✅ **Which pathway carries which sensation** — dorsal column medial lemniscal (DCML) vs anterolateral (spinothalamic)?
+> - ✅ **Which pathway carries which sensation** — dorsal column medial lemniscal (DCML) vs anterolateral (spinothalamic[^ety-spinothalamic][^pre-spino])?
 > - ✅ **Where does each pathway cross** — medulla vs spinal cord — and so which side is lost in a lesion (Brown-Séquard syndrome)?
 > - ✅ **How does the brain read the signal** — thalamic relay, cortical map (homunculus) and the laws of sensory physiology?
 
@@ -75,7 +75,7 @@ Sensory cortex
 
 ## 🛤️ Spinothalamic Pathways
 
-**From spinal cord to thalamus**[^ety-spinothalamic][^pre-spino].
+**From spinal cord to thalamus.**
 
 ### Pathways
 
