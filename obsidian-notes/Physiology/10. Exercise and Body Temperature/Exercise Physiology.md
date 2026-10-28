@@ -96,7 +96,9 @@ Muscle stores only a few seconds' worth of ATP, so it re-makes ATP from three sy
 > [!note] Note — activities requiring endurance[^ety-endurance]
 > **Carbohydrate**[^ety-carbohydrate][^pre-hydro]**-rich diet → ↑ muscle glycogen storage → provides energy for up to 4 hrs → improves endurance.**[^4]
 
-🎬 **Watch:** [Energy systems in exercise — ATP-PC, glycolytic, aerobic (YouTube search)](https://www.youtube.com/results?search_query=energy+systems+exercise+phosphocreatine+glycolytic+aerobic+physiology) · [Guyton sports physiology — sources of energy (YouTube search)](https://www.youtube.com/results?search_query=sports+physiology+phosphagen+system+glycogen+lactic+acid+system)
+🎬 **Watch:** [Energy Systems: ATP-PC, Glycolysis & Aerobic](https://www.youtube.com/watch?v=JLoG61pD7mM) · [Learn the 3 Energy Systems! ATP-PC, Lactic Acid & Aerobic](https://www.youtube.com/watch?v=PIrhiSJcapc)
+
+![](https://www.youtube.com/watch?v=JLoG61pD7mM)
 
 ---
 
@@ -207,7 +209,7 @@ detail: related
 title: Redistribution of blood flow in exercise
 ```
 
-🎬 **Watch:** [Cardiovascular response to exercise — CO, HR, SV, BP (YouTube search)](https://www.youtube.com/results?search_query=cardiovascular+response+to+exercise+cardiac+output+stroke+volume+heart+rate+physiology) · [Isotonic vs isometric exercise — blood pressure (YouTube search)](https://www.youtube.com/results?search_query=isotonic+vs+isometric+exercise+blood+pressure+diastolic+physiology)
+🎬 **Watch:** [Here's How Your Cardiac Output Increases With Exercise](https://www.youtube.com/watch?v=5oOH729y2GM) · [Isotonic vs isometric exercise — blood pressure (YouTube search)](https://www.youtube.com/results?search_query=isotonic+vs+isometric+exercise+blood+pressure+diastolic+physiology)
 
 ### 🫁 Changes in Respiratory System
 
@@ -253,7 +255,7 @@ title: Redistribution of blood flow in exercise
 - **Arteriovenous**[^ety-arteriovenous] **oxygen difference ↑ during exercise.**
 - **Cause: tissues extract more O₂.**[^18]
 
-🎬 **Watch:** [Oxygen debt and EPOC explained (YouTube search)](https://www.youtube.com/results?search_query=oxygen+debt+EPOC+excess+post+exercise+oxygen+consumption+explained) · [VO2 max and MET — exercise physiology (YouTube search)](https://www.youtube.com/results?search_query=VO2+max+MET+metabolic+equivalent+exercise+physiology)
+🎬 **Watch:** [Oxygen Deficit and Excess Post Exercise Oxygen Consumption EPOC - VO2 Kinetics](https://www.youtube.com/watch?v=xUr6tS7QSdM) · [VO2 max and MET — exercise physiology (YouTube search)](https://www.youtube.com/results?search_query=VO2+max+MET+metabolic+equivalent+exercise+physiology)
 
 ---
 
@@ -448,9 +450,11 @@ LUNGS: ↑ RR (K⁺, temp), gases normal · 1 MET = 250 ml/min · peak VO2 vs VO
 
 | What to watch | Link |
 |---|---|
-| Energy systems — phosphocreatine, glycolytic, aerobic (YouTube search) | https://www.youtube.com/results?search_query=energy+systems+exercise+phosphocreatine+glycolytic+aerobic+physiology |
-| Cardiovascular response to exercise (YouTube search) | https://www.youtube.com/results?search_query=cardiovascular+response+to+exercise+cardiac+output+stroke+volume+heart+rate+physiology |
-| Oxygen debt and EPOC (YouTube search) | https://www.youtube.com/results?search_query=oxygen+debt+EPOC+excess+post+exercise+oxygen+consumption+explained |
+| Energy Systems: ATP-PC, Glycolysis & Aerobic | https://www.youtube.com/watch?v=JLoG61pD7mM |
+| Learn the 3 Energy Systems! ATP-PC, Lactic Acid & Aerobic | https://www.youtube.com/watch?v=PIrhiSJcapc |
+| Here's How Your Cardiac Output Increases With Exercise | https://www.youtube.com/watch?v=5oOH729y2GM |
+| Oxygen Deficit and Excess Post Exercise Oxygen Consumption EPOC - VO2 Kinetics | https://www.youtube.com/watch?v=xUr6tS7QSdM |
+| Oxygen Deficit, Steady State, and EPOC: Understanding the Relationship Between Oxygen and Exercise | https://www.youtube.com/watch?v=19ZS-xmT460 |
 | Isotonic vs isometric exercise and blood pressure (YouTube search) | https://www.youtube.com/results?search_query=isotonic+vs+isometric+exercise+blood+pressure+diastolic+physiology |
 
 ---

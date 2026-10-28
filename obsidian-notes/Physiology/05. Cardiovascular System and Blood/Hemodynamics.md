@@ -83,7 +83,9 @@ WALL (Laplace)      P = 2T / r → T ∝ r → dilated heart fails · aneurysm r
 
 **5. Blood flow ∝ 1/area**[^3]
 
-🎬 **Watch:** [YouTube search — Poiseuille's law blood flow resistance physiology](https://www.youtube.com/results?search_query=poiseuille+law+blood+flow+resistance+physiology) · [YouTube search — Ninja Nerd hemodynamics](https://www.youtube.com/results?search_query=ninja+nerd+hemodynamics+blood+flow+pressure+resistance)
+🎬 **Watch:** [Unit 3, Part 9 — Blood Flow and Poiseuille's Law](https://www.youtube.com/watch?v=ArOtCLSteqU) · [Poiseuille's law](https://www.youtube.com/watch?v=r1_Uo9pGwy8)
+
+![](https://www.youtube.com/watch?v=ArOtCLSteqU)
 
 ---
 
@@ -166,7 +168,7 @@ WALL (Laplace)      P = 2T / r → T ∝ r → dilated heart fails · aneurysm r
 **Pulmonary**[^ety-pulmonary] **capillary wedge pressure (PCWP):**
 - **Measures left atrial pressure: 4–12 mm Hg (average 10 mm Hg).**[^12]
 
-🎬 **Watch:** [YouTube search — Korotkoff sounds blood pressure measurement](https://www.youtube.com/results?search_query=korotkoff+sounds+blood+pressure+measurement+phases) · [YouTube search — auscultatory gap explained](https://www.youtube.com/results?search_query=auscultatory+gap+explained) · [YouTube search — Osmosis blood pressure, MAP and pulse pressure](https://www.youtube.com/results?search_query=osmosis+mean+arterial+pressure+pulse+pressure)
+🎬 **Watch:** [Korotkoff sounds](https://www.youtube.com/watch?v=MDkU0d_mvsk) · [Auscultatory Gap and Korotkoff sounds](https://www.youtube.com/watch?v=vkGOecKkSi0) · [What causes auscultatory gap during blood pressure measurement?](https://www.youtube.com/watch?v=hZThKv3t9Vo) · [YouTube search — Osmosis blood pressure, MAP and pulse pressure](https://www.youtube.com/results?search_query=osmosis+mean+arterial+pressure+pulse+pressure)
 
 ---
 
@@ -223,7 +225,7 @@ detail: related
 title: Where pressure is measured and where Laplace bites
 ```
 
-🎬 **Watch:** [YouTube search — Reynolds number laminar turbulent blood flow](https://www.youtube.com/results?search_query=reynolds+number+laminar+turbulent+blood+flow+physiology) · [YouTube search — Laplace law heart aneurysm](https://www.youtube.com/results?search_query=law+of+laplace+heart+aneurysm+physiology)
+🎬 **Watch:** [YouTube search — Reynolds number laminar turbulent blood flow](https://www.youtube.com/results?search_query=reynolds+number+laminar+turbulent+blood+flow+physiology) · [LaPlace Law in Medicine — Pressure, Radius, Wall Tension, Wall Stress, Afterload, Cardiac Work](https://www.youtube.com/watch?v=FRefUrjrb6Q)
 
 ---
 
@@ -394,11 +396,12 @@ LAPLACE: P = 2T/r → T ∝ r → capillary safe · DCM → failure · aneurysm 
 
 | What to watch | Link |
 |---|---|
-| Poiseuille's law — flow, resistance and radius (YouTube search) | https://www.youtube.com/results?search_query=poiseuille+law+blood+flow+resistance+physiology |
-| Hemodynamics — blood flow, pressure, resistance (YouTube search: Ninja Nerd) | https://www.youtube.com/results?search_query=ninja+nerd+hemodynamics+blood+flow+pressure+resistance |
-| Korotkoff sounds and BP measurement (YouTube search) | https://www.youtube.com/results?search_query=korotkoff+sounds+blood+pressure+measurement+phases |
+| Unit 3, Part 9 — Blood Flow and Poiseuille's Law (pressure, radius, length, viscosity) | https://www.youtube.com/watch?v=ArOtCLSteqU |
+| Poiseuille's law — laminar flow through a tube applied to blood vessels | https://www.youtube.com/watch?v=r1_Uo9pGwy8 |
+| Korotkoff sounds — manual BP measurement with gap check | https://www.youtube.com/watch?v=MDkU0d_mvsk |
+| Auscultatory Gap and Korotkoff sounds | https://www.youtube.com/watch?v=vkGOecKkSi0 |
 | Reynolds number — laminar vs turbulent flow (YouTube search) | https://www.youtube.com/results?search_query=reynolds+number+laminar+turbulent+blood+flow+physiology |
-| Law of Laplace — heart and aneurysm (YouTube search) | https://www.youtube.com/results?search_query=law+of+laplace+heart+aneurysm+physiology |
+| LaPlace Law in Medicine — pressure, radius, wall tension, wall stress, afterload, cardiac work | https://www.youtube.com/watch?v=FRefUrjrb6Q |
 
 ---
 

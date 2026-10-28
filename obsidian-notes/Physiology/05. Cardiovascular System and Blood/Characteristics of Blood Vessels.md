@@ -117,7 +117,9 @@ A **mutation**[^ety-mutation][^suf-ation] in either supporting protein weakens t
 ![Blood vessel types compared — artery, vein and capillary wall structure (Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blood_vessels-en.svg/800px-Blood_vessels-en.svg.png)
 *Artery, vein and capillary side by side: the thick elastic–muscular wall of the artery, the thin wall and wide lumen of the vein, and the single endothelial layer of the capillary (Wikimedia Commons; licence on the file page).*
 
-🎬 **Watch:** [YouTube search — Ninja Nerd: blood vessels structure and function](https://www.youtube.com/results?search_query=ninja+nerd+blood+vessels+structure+and+function) · [YouTube search — Windkessel effect aorta physiology](https://www.youtube.com/results?search_query=windkessel+effect+aorta+physiology)
+🎬 **Watch:** [The Heart and Circulatory System Structure and Function](https://www.youtube.com/watch?v=Z-DMRsmppA4) · [Windkessel effect aorta physiology (YouTube search)](https://www.youtube.com/results?search_query=windkessel+effect+aorta+physiology)
+
+![](https://www.youtube.com/watch?v=Z-DMRsmppA4)
 
 ---
 
@@ -233,7 +235,7 @@ A **mutation**[^ety-mutation][^suf-ation] in either supporting protein weakens t
 | **2. ↑ Pc (beyond physiological limit)** | Filtration exceeds what lymph can remove | **Chronic hypertension**[^ety-hypertension][^pre-hyper] → **lymphatic regulation fails** |
 | **3. Lymphatic obstruction** | Filtrate cannot be drained | **Filariasis**[^ety-filariasis][^suf-iasis] |
 
-🎬 **Watch:** [YouTube search — Starling forces capillary exchange (Osmosis)](https://www.youtube.com/results?search_query=osmosis+starling+forces+capillary+exchange) · [YouTube search — oedema pathophysiology Starling forces](https://www.youtube.com/results?search_query=edema+pathophysiology+starling+forces) · [YouTube search — lymphatic system physiology](https://www.youtube.com/results?search_query=lymphatic+system+physiology+lymph+flow)
+🎬 **Watch:** [Capillary Fluid Exchange, Starling Forces & the Starling Equation](https://www.youtube.com/watch?v=TtxLsGBY4c0) · [Starling Forces Acting on a Systemic Blood Capillary & the Causes of Edema](https://www.youtube.com/watch?v=Y9LOgA4inn0) · [YouTube search — lymphatic system physiology](https://www.youtube.com/results?search_query=lymphatic+system+physiology+lymph+flow)
 
 ---
 
@@ -287,7 +289,7 @@ detail: related
 title: Aorta, venae cavae and thoracic duct
 ```
 
-🎬 **Watch:** [YouTube search — veins capacitance vessels compliance](https://www.youtube.com/results?search_query=veins+capacitance+vessels+compliance+physiology) · [YouTube search — orthopnea mechanism](https://www.youtube.com/results?search_query=orthopnea+mechanism+heart+failure)
+🎬 **Watch:** [Cardiac Output & Venous Return Curves — compliance and elasticity of veins and arteries](https://www.youtube.com/watch?v=WLzinspDoh0) · [YouTube search — orthopnea mechanism](https://www.youtube.com/results?search_query=orthopnea+mechanism+heart+failure)
 
 ---
 
@@ -457,11 +459,11 @@ VENA CAVA max diameter, min BP · AV shunt (fingertips, ear lobes) → temperatu
 
 | What to watch | Link |
 |---|---|
-| Blood vessels — structure and function (YouTube search: Ninja Nerd) | https://www.youtube.com/results?search_query=ninja+nerd+blood+vessels+structure+and+function |
+| The Heart and Circulatory System Structure and Function (arteries, veins, capillaries) | https://www.youtube.com/watch?v=Z-DMRsmppA4 |
 | Windkessel effect of the aorta (YouTube search) | https://www.youtube.com/results?search_query=windkessel+effect+aorta+physiology |
-| Starling forces and capillary exchange (YouTube search: Osmosis) | https://www.youtube.com/results?search_query=osmosis+starling+forces+capillary+exchange |
-| Oedema — pathophysiology through Starling forces (YouTube search) | https://www.youtube.com/results?search_query=edema+pathophysiology+starling+forces |
-| Veins as capacitance vessels — compliance (YouTube search) | https://www.youtube.com/results?search_query=veins+capacitance+vessels+compliance+physiology |
+| Capillary Fluid Exchange, Starling Forces & the Starling Equation | https://www.youtube.com/watch?v=TtxLsGBY4c0 |
+| Starling Forces Acting on a Systemic Blood Capillary & the Causes of Edema | https://www.youtube.com/watch?v=Y9LOgA4inn0 |
+| Cardiac Output & Venous Return Curves (compliance and elasticity of veins and arteries) | https://www.youtube.com/watch?v=WLzinspDoh0 |
 
 ---
 

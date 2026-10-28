@@ -182,7 +182,9 @@ detail: related
 title: Hypothalamic thermoregulatory centres
 ```
 
-🎬 **Watch:** [Thermoregulation — hypothalamus, heat gain and heat loss (YouTube search)](https://www.youtube.com/results?search_query=thermoregulation+hypothalamus+heat+gain+heat+loss+physiology+lecture) · [Mechanisms of heat loss — radiation, conduction, convection, evaporation (YouTube search)](https://www.youtube.com/results?search_query=mechanisms+of+heat+loss+radiation+conduction+convection+evaporation+physiology)
+🎬 **Watch:** [Thermoregulation — hypothalamus, heat gain and heat loss (YouTube search)](https://www.youtube.com/results?search_query=thermoregulation+hypothalamus+heat+gain+heat+loss+physiology+lecture) · [Thermoregulation: Heat Transfer](https://www.youtube.com/watch?v=e7kmmj_qRss)
+
+![](https://www.youtube.com/watch?v=e7kmmj_qRss)
 
 ---
 
@@ -247,7 +249,7 @@ Antipyretics block it (↓ PGE2)
 > [!danger] The line that matters
 > Heat cramps, syncope and exhaustion are failures of **water, salt and circulation** — the **thermoregulatory mechanism is intact**, so they recover with rest and fluids. **Heat stroke** is failure of the **thermostat itself** — **sweating is absent**, the skin is hot and dry, the patient is comatose with a rectal temperature > 106 °F: **active cooling at once**.[^11] **Malignant hyperthermia** is a drug-triggered runaway of **muscle heat production** (ryanodine receptor → Ca²⁺ → sustained contraction) — treated with **dantrolene**.[^12]
 
-🎬 **Watch:** [Heat exhaustion vs heat stroke (YouTube search)](https://www.youtube.com/results?search_query=heat+exhaustion+vs+heat+stroke+pathophysiology) · [Malignant hyperthermia — ryanodine receptor and dantrolene (YouTube search)](https://www.youtube.com/results?search_query=malignant+hyperthermia+ryanodine+receptor+dantrolene+succinylcholine)
+🎬 **Watch:** [Hyperthermia Pathophysiology — heat exhaustion and heat stroke](https://www.youtube.com/watch?v=WtXjtMYnfYA) · [Malignant hyperthermia — ryanodine receptor and dantrolene (YouTube search)](https://www.youtube.com/results?search_query=malignant+hyperthermia+ryanodine+receptor+dantrolene+succinylcholine)
 
 ---
 
@@ -461,9 +463,10 @@ HEAT: cramps → syncope → exhaustion → STROKE (dry, coma, >106 °F, cool) �
 
 | What to watch | Link |
 |---|---|
+| Thermoregulation: Heat Transfer — radiation, conduction, convection, evaporation | https://www.youtube.com/watch?v=e7kmmj_qRss |
 | Thermoregulation — hypothalamus, heat gain and heat loss (YouTube search) | https://www.youtube.com/results?search_query=thermoregulation+hypothalamus+heat+gain+heat+loss+physiology+lecture |
 | Fever pathophysiology — pyrogens, PGE2, set point (YouTube search) | https://www.youtube.com/results?search_query=fever+pathophysiology+pyrogens+PGE2+OVLT+set+point |
-| Heat exhaustion vs heat stroke (YouTube search) | https://www.youtube.com/results?search_query=heat+exhaustion+vs+heat+stroke+pathophysiology |
+| Hyperthermia Pathophysiology — heat exhaustion and heat stroke | https://www.youtube.com/watch?v=WtXjtMYnfYA |
 | Malignant hyperthermia — ryanodine receptor and dantrolene (YouTube search) | https://www.youtube.com/results?search_query=malignant+hyperthermia+ryanodine+receptor+dantrolene+succinylcholine |
 
 ---

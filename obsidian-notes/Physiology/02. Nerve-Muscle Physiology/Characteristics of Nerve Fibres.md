@@ -362,7 +362,9 @@ title: Spinal cord, DRG and spinal nerve — pseudounipolar vs multipolar neuron
 > [!info] 🧠 One idea behind the whole table
 > A graded potential is a **dimmer switch** — its size follows the stimulus, adds up with others and fades with distance. An action potential is an **on/off switch** — once threshold is reached it fires at full, constant size (all-or-none), and the refractory period stops two from piling on top of each other.[^26]
 
-🎬 **Watch (YouTube search):** [Action potential in neurons — phases and ion channels](https://www.youtube.com/results?search_query=action+potential+in+neurons+phases+ion+channels+physiology) · [Refractory periods and Na⁺ channel m and h gates](https://www.youtube.com/results?search_query=absolute+relative+refractory+period+sodium+channel+m+h+gate) · [Graded potential vs action potential](https://www.youtube.com/results?search_query=graded+potential+vs+action+potential)
+🎬 **Watch:** [The Nervous System, Part 2 — Action! Potential!: Crash Course Anatomy & Physiology #9](https://www.youtube.com/watch?v=OZG8M_ldA1M) · [Refractory periods and Na⁺ channel m and h gates (YouTube search)](https://www.youtube.com/results?search_query=absolute+relative+refractory+period+sodium+channel+m+h+gate) · [Graded potential vs action potential (YouTube search)](https://www.youtube.com/results?search_query=graded+potential+vs+action+potential)
+
+![](https://www.youtube.com/watch?v=OZG8M_ldA1M)
 
 ---
 
@@ -526,7 +528,7 @@ GP vs AP: summation yes/no · threshold no/yes · amplitude varies/constant · a
 
 ## 🎬 Video Library
 
-> No individual YouTube video could be verified in this run (web search limit reached), so each row is a YouTube search pre-filled with the topic — pick the Ninja Nerd, Osmosis, Armando Hasudungan or Khan Academy result.
+> Only the action-potential row is a verified video; the other rows are YouTube searches pre-filled with the topic — pick the Ninja Nerd, Osmosis, Armando Hasudungan or Khan Academy result.
 
 | What to watch | Link |
 |---|---|
@@ -535,7 +537,7 @@ GP vs AP: summation yes/no · threshold no/yes · amplitude varies/constant · a
 | Oligodendrocytes vs Schwann cells | https://www.youtube.com/results?search_query=oligodendrocytes+vs+schwann+cells+myelination |
 | Neuron structure and classification | https://www.youtube.com/results?search_query=neuron+structure+classification+unipolar+bipolar+pseudounipolar+multipolar |
 | Myelin, saltatory conduction and NCV | https://www.youtube.com/results?search_query=saltatory+conduction+myelin+nerve+conduction+velocity+physiology |
-| Action potential — phases and ion channels | https://www.youtube.com/results?search_query=action+potential+in+neurons+phases+ion+channels+physiology |
+| Action potential — The Nervous System, Part 2 (Crash Course Anatomy & Physiology #9) | https://www.youtube.com/watch?v=OZG8M_ldA1M |
 | Refractory periods and m / h gates | https://www.youtube.com/results?search_query=absolute+relative+refractory+period+sodium+channel+m+h+gate |
 | Graded potential vs action potential | https://www.youtube.com/results?search_query=graded+potential+vs+action+potential |
 

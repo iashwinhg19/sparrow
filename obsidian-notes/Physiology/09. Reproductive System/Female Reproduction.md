@@ -215,6 +215,9 @@ title: Hypothalamic–pituitary–ovarian axis and its targets
 
 ### 🛏 Changes in Endometrium[^ety-endometrium][^pre-endo][^suf-ium]
 
+![Hormone levels in the ovarian and menstrual cycles — ovarian cycle, uterine cycle and FSH, LH, estrogen and progesterone curves (OpenStax)](https://upload.wikimedia.org/wikipedia/commons/f/f3/Figure_28_02_07.jpg)
+*Timeline of the ovarian and menstrual (uterine) cycles with the hormone levels that drive them (OpenStax Anatomy & Physiology 2e, via Wikimedia Commons; licence on the file page).*
+
 ![[Female Reproduction - ovarian and uterine cycle with hormones.png]]
 *Endometrial changes lined up with the ovarian cycle: ovarian phases (follicle grows → released → corpus luteum) above the uterine phases (menstrual flow → proliferative phase → secretory phase) and the pituitary (FSH, LH) and ovarian (estradiol, progesterone) hormone curves, day 0–28 (cropped from the handwritten page; low-resolution reprint — see the prompt below).*
 
@@ -629,7 +632,7 @@ HORMONES: E2 / E3 pregnancy / E1 menopause · 2/60/38 % · P = BBT ↑, ↓ PCO2
 - Guyton & Hall Textbook of Medical Physiology — Female physiology before pregnancy and female hormones; Pregnancy and lactation
 - Ganong's Review of Medical Physiology — The female reproductive system
 - Speroff's Clinical Gynecologic Endocrinology and Infertility — the two cell two gonadotropin theory and ovulation timing
-- `Female Reproduction - ….png` files in `attachments/` are crops of the handwritten pages (no web images could be verified for this note)
+- `Female Reproduction - ….png` files in `attachments/` are crops of the handwritten pages (one web image — OpenStax Anatomy & Physiology 2e via Wikimedia Commons, licence on the file page)
 
 [^1]: The primary oocyte is diploid (46 chromosomes) but has already replicated its DNA (4c) before it stops in diplotene; high cAMP inside the oocyte (kept up by the surrounding granulosa cells) holds the arrest until the LH surge lowers it. About 2 million primary oocytes are present at birth, ~400 000 at puberty, and only ~400 are ever ovulated.
 [^2]: Theca cells carry LH receptors and the enzymes that build androgens from cholesterol (17α-hydroxylase / 17,20-lyase) but almost no aromatase; granulosa cells carry FSH receptors and aromatase (CYP19) but cannot make androgens. Each cell does half the job — hence "two cells, two gonadotropins". The page spells it "Androstenidione"; the standard spelling is **androstenedione**.

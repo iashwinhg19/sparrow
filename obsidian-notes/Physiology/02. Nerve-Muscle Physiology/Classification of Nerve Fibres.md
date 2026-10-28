@@ -114,7 +114,9 @@ Fibers are **sensory**[^ety-sensory] **(S)**, **motor (M)**, or **both**.
 > [!info] 🧠 Why two systems?
 > Erlanger–Gasser letters cover **every** fibre (motor, sensory, autonomic). Lloyd–Hunt Roman numerals were made for **sensory (afferent) fibres from muscle** — so spindle and tendon-organ afferents are named Ia and Ib, while the motor Aγ and the autonomic B have no Roman numeral.[^3]
 
-🎬 **Watch (YouTube search — no single video could be verified this run):** [Nerve fibre classification — Erlanger–Gasser and Lloyd–Hunt](https://www.youtube.com/results?search_query=nerve+fiber+classification+erlanger+gasser+lloyd+hunt) · [A, B and C fibres — susceptibility to pressure, hypoxia and local anaesthetics](https://www.youtube.com/results?search_query=A+B+C+nerve+fibers+susceptibility+pressure+hypoxia+local+anaesthetic)
+🎬 **Watch:** [Nerve Fiber — Erlanger–Gasser Classification, Myelination, Structure, Diameter, Conduction & Function](https://www.youtube.com/watch?v=7x1VOjp54i4) · [A, B and C fibres — susceptibility to pressure, hypoxia and local anaesthetics (YouTube search)](https://www.youtube.com/results?search_query=A+B+C+nerve+fibers+susceptibility+pressure+hypoxia+local+anaesthetic)
+
+![](https://www.youtube.com/watch?v=7x1VOjp54i4)
 
 ---
 
@@ -252,7 +254,7 @@ detail: related
 title: Arm nerves — radial nerve on the humerus, median nerve at the wrist
 ```
 
-🎬 **Watch (YouTube search):** [Wallerian degeneration and nerve regeneration](https://www.youtube.com/results?search_query=wallerian+degeneration+nerve+regeneration+chromatolysis) · [Seddon and Sunderland classification of nerve injury](https://www.youtube.com/results?search_query=seddon+sunderland+classification+nerve+injury)
+🎬 **Watch:** [Wallerian Degeneration](https://www.youtube.com/watch?v=dkU5VA041DI) · [Wallerian degeneration and regeneration](https://www.youtube.com/watch?v=jK8nk3NCxQE) · [Nerve Injury — Degeneration and Regeneration in Nerve fibers](https://www.youtube.com/watch?v=fngKCMvP7gs) · [Seddon and Sunderland classification of nerve injury (YouTube search)](https://www.youtube.com/results?search_query=seddon+sunderland+classification+nerve+injury)
 
 ---
 
@@ -418,15 +420,17 @@ SEDDON praxia → axonotmesis → neurotmesis · SUNDERLAND I–V (IV, V surgery
 
 ## 🎬 Video Library
 
-> No individual YouTube video could be verified in this run (web search limit reached), so each row is a YouTube search pre-filled with the topic — pick the Ninja Nerd, Osmosis, Armando Hasudungan or Khan Academy result.
+> Rows with a watch link are verified videos; the remaining rows are YouTube searches pre-filled with the topic — pick the Ninja Nerd, Osmosis, Armando Hasudungan or Khan Academy result.
 
 | What to watch | Link |
 |---|---|
-| Nerve fibre classification — Erlanger–Gasser and Lloyd–Hunt | https://www.youtube.com/results?search_query=nerve+fiber+classification+erlanger+gasser+lloyd+hunt |
+| Nerve fibre — Erlanger–Gasser classification, myelination, structure, diameter, conduction and function | https://www.youtube.com/watch?v=7x1VOjp54i4 |
 | A, B, C fibres — susceptibility to pressure, hypoxia, local anaesthetics | https://www.youtube.com/results?search_query=A+B+C+nerve+fibers+susceptibility+pressure+hypoxia+local+anaesthetic |
 | Strength–duration curve, rheobase and chronaxie | https://www.youtube.com/results?search_query=strength+duration+curve+rheobase+chronaxie+physiology |
 | Accommodation vs adaptation | https://www.youtube.com/results?search_query=accommodation+adaptation+nerve+fibre+physiology |
-| Wallerian degeneration and regeneration | https://www.youtube.com/results?search_query=wallerian+degeneration+nerve+regeneration+chromatolysis |
+| Wallerian degeneration | https://www.youtube.com/watch?v=dkU5VA041DI |
+| Wallerian degeneration and regeneration | https://www.youtube.com/watch?v=jK8nk3NCxQE |
+| Nerve injury — degeneration and regeneration in nerve fibres | https://www.youtube.com/watch?v=fngKCMvP7gs |
 | Seddon and Sunderland classification | https://www.youtube.com/results?search_query=seddon+sunderland+classification+nerve+injury |
 
 ---
