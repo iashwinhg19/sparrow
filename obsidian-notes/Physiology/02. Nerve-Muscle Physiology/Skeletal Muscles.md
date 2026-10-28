@@ -151,7 +151,9 @@ title: Skeletal muscles on bone — and the calf and diaphragm that Duchenne dys
 > [!tip] 🧠 Why the A band never changes
 > The A band *is* the myosin filament, and filaments do not shrink — they **slide**. Only the zones defined by the gap between filaments (I band, H zone) get smaller as actin is pulled towards the M line. "**A**lways the same = **A** band."[^4]
 
-🎬 **Watch (YouTube search — no single video could be verified this run):** [Sarcomere structure — A band, I band, H zone, Z and M lines](https://www.youtube.com/results?search_query=sarcomere+structure+A+band+I+band+H+zone+Z+line) · [Sliding filament theory animation](https://www.youtube.com/results?search_query=sliding+filament+theory+muscle+contraction+animation)
+🎬 **Watch:** [How Muscles REALLY Work: Sliding Filament Theory](https://www.youtube.com/watch?v=5_59Y2pfDGw) · [Sarcomere structure — A band, I band, H zone, Z and M lines (YouTube search)](https://www.youtube.com/results?search_query=sarcomere+structure+A+band+I+band+H+zone+Z+line)
+
+![](https://www.youtube.com/watch?v=5_59Y2pfDGw)
 
 ---
 
@@ -376,7 +378,7 @@ SERCA pumps Ca²⁺ back into SR (recycled) → RELAXATION
 
 - **Cross bridge cycling + Power stroke → enhanced muscle contraction.**[^18]
 
-🎬 **Watch (YouTube search):** [Excitation–contraction coupling — DHPR and ryanodine receptor](https://www.youtube.com/results?search_query=excitation+contraction+coupling+skeletal+muscle+DHPR+ryanodine+receptor) · [Cross-bridge cycle animation](https://www.youtube.com/results?search_query=cross+bridge+cycle+muscle+contraction+animation) · [Malignant hyperthermia and dantrolene](https://www.youtube.com/results?search_query=malignant+hyperthermia+ryanodine+receptor+dantrolene)
+🎬 **Watch:** [Excitation–contraction coupling — DHPR and ryanodine receptor (YouTube search)](https://www.youtube.com/results?search_query=excitation+contraction+coupling+skeletal+muscle+DHPR+ryanodine+receptor) · [Sliding Filament Theory — Cross Bridge Cycle](https://www.youtube.com/watch?v=uMkcchlOhss) · [Malignant hyperthermia and dantrolene (YouTube search)](https://www.youtube.com/results?search_query=malignant+hyperthermia+ryanodine+receptor+dantrolene)
 
 ---
 
@@ -540,18 +542,18 @@ CYCLE: ATP binds → hydrolysis 90° → cross-bridge → power stroke (ADP + Pi
 
 ## 🎬 Video Library
 
-> No individual YouTube video could be verified in this run (web search limit reached), so each row is a YouTube search pre-filled with the topic — pick the Ninja Nerd, Osmosis, Armando Hasudungan or Khan Academy result.
+> Rows with a watch link are verified videos; the remaining rows are YouTube searches pre-filled with the topic — pick the Ninja Nerd, Osmosis, Armando Hasudungan or Khan Academy result.
 
 | What to watch | Link |
 |---|---|
 | Sarcomere structure — bands and lines | https://www.youtube.com/results?search_query=sarcomere+structure+A+band+I+band+H+zone+Z+line |
-| Sliding filament theory | https://www.youtube.com/results?search_query=sliding+filament+theory+muscle+contraction+animation |
+| How muscles really work — sliding filament theory | https://www.youtube.com/watch?v=5_59Y2pfDGw |
 | Troponin and tropomyosin | https://www.youtube.com/results?search_query=troponin+tropomyosin+calcium+regulation+muscle+contraction |
 | Dystrophin and Duchenne muscular dystrophy | https://www.youtube.com/results?search_query=dystrophin+glycoprotein+complex+duchenne+muscular+dystrophy |
 | Neuromuscular junction step by step | https://www.youtube.com/results?search_query=neuromuscular+junction+physiology+step+by+step+acetylcholine |
 | Myasthenia gravis vs Lambert–Eaton | https://www.youtube.com/results?search_query=myasthenia+gravis+vs+lambert+eaton+syndrome |
 | Excitation–contraction coupling (DHPR, RyR) | https://www.youtube.com/results?search_query=excitation+contraction+coupling+skeletal+muscle+DHPR+ryanodine+receptor |
-| Cross-bridge cycle | https://www.youtube.com/results?search_query=cross+bridge+cycle+muscle+contraction+animation |
+| Sliding filament theory — cross-bridge cycle | https://www.youtube.com/watch?v=uMkcchlOhss |
 | Malignant hyperthermia and dantrolene | https://www.youtube.com/results?search_query=malignant+hyperthermia+ryanodine+receptor+dantrolene |
 
 ---
