@@ -23,7 +23,9 @@
              write a starting mind-map note from the headings of a main note
 
 CROPS.json = [{"page": "inbox/hernia.png", "box": [x0, y0, x1, y1], "name": "Hernia - reduction en masse.png",
-               "caption": "Reduction en masse — contents and constriction ring reduced together"}]
+               "caption": "Reduction en masse — contents and constriction ring reduced together",
+               "mask": [[x0, y0, x1, y1], ...]}]          # optional: page-pixel boxes painted white first
+             (watermarks, e-mail addresses, site names, IDs)
              boxes are in the page image's own pixels; "upscale": 2 optional (default: x2 when narrower than 600 px)
 
 Needs: pip install pillow numpy   (pymupdf for PDFs)
@@ -36,6 +38,7 @@ REQUIRED_SECTIONS = ["Core Dictum & Pattern Recognition", "Pearls", "One-Line Re
                      "Video Library", "Infographic Prompt", "References"]
 FORBIDDEN_SECTIONS = ["Anki Flash Points", "Word Parts"]
 CORE_DICTUM_CALLOUTS = ["[!check]+", "[!example]+", "[!warning]+", "[!danger]+", "[!tip]+"]
+WATERMARKS = ("ksusanta", "660eacb2787e5e31381ec737", "medicalstudyzone")
 ALLOWED_IMG_HOSTS = ("upload.wikimedia.org",)
 MIN_ETYMOLOGY = 12
 MIN_AFFIX = 10
@@ -47,6 +50,13 @@ def cmd_pages(a):
     os.makedirs(a.out, exist_ok=True)
     for pdf in a.pdfs:
         stem = os.path.splitext(os.path.basename(pdf))[0]
+        if shutil.which("pdfimages") and a.native:
+            out_dir = os.path.join(a.out, stem)
+            os.makedirs(out_dir, exist_ok=True)
+            subprocess.run(["pdfimages", "-j", pdf, os.path.join(out_dir, "p")], check=True)
+            for f in sorted(os.listdir(out_dir)):
+                print(os.path.join(out_dir, f))
+            continue
         try:
             import fitz                                            # PyMuPDF
             doc = fitz.open(pdf)
@@ -162,6 +172,11 @@ def cmd_crop(a):
     for item in json.load(open(a.spec)):
         im = Image.open(item["page"]).convert("RGB")
         x0, y0, x1, y1 = item["box"]
+        if item.get("mask"):                                   # blank out watermarks / third-party text
+            from PIL import ImageDraw
+            dr = ImageDraw.Draw(im)
+            for m in item["mask"]:
+                dr.rectangle(m, fill=tuple(item.get("mask_fill", (255, 255, 255))))
         c = im.crop((x0, y0, x1, y1))
         up = item.get("upscale") or (2 if c.width < 600 else 1)
         if up > 1:
@@ -257,7 +272,7 @@ def problems(path, s, vault=None):
     for c in CORE_DICTUM_CALLOUTS:
         if c not in body:
             p.append(f"Core Dictum block missing callout {c}")
-    refs = set(re.findall(r"\[\^([\w-]+)\](?!:)", body))
+    refs = set(re.findall(r"\[\^([\w-]+)\]", re.sub(r"^\[\^[\w-]+\]:", "", body, flags=re.M)))
     defs = set(re.findall(r"^\[\^([\w-]+)\]:", body, re.M))
     for r in sorted(refs - defs):
         p.append(f"footnote [^{r}] used but never defined")
@@ -280,6 +295,17 @@ def problems(path, s, vault=None):
     for sec in FORBIDDEN_SECTIONS:
         if re.search(r"^## .*" + re.escape(sec), body, re.M):
             p.append(f"section '{sec}' is not part of the format any more — remove it (affixes go in footnotes; cards come from the PYQ skill)")
+    for blk in re.findall(r"^```.*?^```", body, flags=re.S | re.M):
+        for mk in re.findall(r"\[\^[\w-]+\]", blk):
+            p.append(f"footnote marker {mk} inside a code block — it will not render; move it to a prose line")
+    for wm in WATERMARKS:
+        if wm.lower() in s.lower():
+            p.append(f"watermark / third-party text '{wm}' copied into the note — remove it")
+    if vault and getattr(problems, "check_links", False):
+        names = {os.path.splitext(f)[0] for _, _, fs in os.walk(vault) for f in fs if f.endswith(".md")}
+        for t in re.findall(r"(?<!!)\[\[([^\]|#]+)", body):
+            if t.strip() not in names:
+                p.append(f"wikilink [[{t}]] does not match any note in the vault")
     for m in re.finditer(r"!\[[^\]]*\[\^[\w-]+\][^\]]*\]\(", body):
         p.append("footnote marker inside an image's alt text — move it to the caption line")
     imgs = re.findall(r"!\[[^\]]*\]\((https?://[^)\s]+)\)", body)
@@ -326,6 +352,7 @@ def cmd_check(a):
     bad = 0
     for path in a.notes:
         s = open(path, encoding="utf-8").read()
+        problems.check_links = a.links
         p, imgs = problems(path, s, a.vault)
         if a.net:
             for u in imgs:
@@ -417,6 +444,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
     pg = sub.add_parser("pages"); pg.add_argument("pdfs", nargs="+"); pg.add_argument("--out", required=True); pg.add_argument("--dpi", type=int, default=200)
+    pg.add_argument("--native", action="store_true", help="extract the embedded page images as-is (best for scanned/photographed PDFs)")
     s = sub.add_parser("slice"); s.add_argument("pages", nargs="+"); s.add_argument("--out", required=True)
     s.add_argument("--zoom", type=int, default=0); s.add_argument("--strip", type=int, default=700)
     d = sub.add_parser("detect"); d.add_argument("pages", nargs="+"); d.add_argument("--out", required=True)
@@ -425,6 +453,7 @@ def main():
     l = sub.add_parser("look"); l.add_argument("urls", nargs="+"); l.add_argument("--out", required=True)
     k = sub.add_parser("check"); k.add_argument("notes", nargs="+"); k.add_argument("--vault", default="")
     k.add_argument("--net", action="store_true", help="also HEAD-request every image URL")
+    k.add_argument("--links", action="store_true", help="also require every [[wikilink]] to match a note in --vault")
     m = sub.add_parser("mapcheck"); m.add_argument("maps", nargs="+")
     sk = sub.add_parser("skeleton"); sk.add_argument("note"); sk.add_argument("--out", required=True)
     a = ap.parse_args()
