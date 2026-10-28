@@ -38,7 +38,9 @@ REQUIRED_SECTIONS = ["Core Dictum & Pattern Recognition", "Pearls", "One-Line Re
                      "Video Library", "Infographic Prompt", "References"]
 FORBIDDEN_SECTIONS = ["Anki Flash Points", "Word Parts"]
 CORE_DICTUM_CALLOUTS = ["[!check]+", "[!example]+", "[!warning]+", "[!danger]+", "[!tip]+"]
-WATERMARKS = ("ksusanta", "660eacb2787e5e31381ec737", "medicalstudyzone")
+WATERMARKS = ("medicalstudyzone", "active space")      # site names / scan furniture that must never be copied
+WATERMARK_RES = (r"[\w.+-]+@[\w-]+\.[\w.]+",          # any email address (buyer stamps on course notes)
+                 r"\b[0-9a-f]{20,}\b")                  # long hex ID hashes stamped on each page
 ALLOWED_IMG_HOSTS = ("upload.wikimedia.org",)
 MIN_ETYMOLOGY = 12
 MIN_AFFIX = 10
@@ -301,6 +303,9 @@ def problems(path, s, vault=None):
     for wm in WATERMARKS:
         if wm.lower() in s.lower():
             p.append(f"watermark / third-party text '{wm}' copied into the note — remove it")
+    for rx in WATERMARK_RES:
+        for hit in sorted(set(re.findall(rx, re.sub(r"https?://\S+", "", s)))):
+            p.append(f"watermark-like text '{hit[:6]}…' (email / ID hash) in the note — remove it")
     if vault and getattr(problems, "check_links", False):
         names = {os.path.splitext(f)[0] for _, _, fs in os.walk(vault) for f in fs if f.endswith(".md")}
         for t in re.findall(r"(?<!!)\[\[([^\]|#]+)", body):

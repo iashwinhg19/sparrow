@@ -33,7 +33,7 @@ The page is the source of truth. You add structure, pictures, videos and footnot
 
 ## B. Each run ("digitise my notes", "make Obsidian notes from these pages", images dropped in)
 
-1. **Gather and group.** Each page image has a title at the top (e.g. `HERNIA, THORAX AND SKIN`, `EMBRYOLOGY`). One topic = one page title. A **PDF** is rasterised first — `python3 _tools/notes_digitize.py pages inbox/<file>.pdf --out work/<topic>/pages` (one PNG per page at 200 dpi) — and each page PNG is then treated like a page image. A page usually holds several timestamped section headings (`Hernia and Hernia Surgeries 00:00:52`); keep them as `##` sections. Split a topic into two notes only when the transcript passes ~450 lines, and then at a major heading.
+1. **Gather and group.** Each page image has a title at the top (e.g. `HERNIA, THORAX AND SKIN`, `EMBRYOLOGY`). One topic = one page title. A **PDF** is turned into page images first — `python3 _tools/notes_digitize.py pages inbox/<file>.pdf --out work/<topic>/pages --native` pulls the scanned page images out at their own resolution (best for scanned or photographed notes; without `--native` the PDF is rendered at 200 dpi) — and each page image is then treated like a photographed page. A folder of many PDFs (a whole subject) follows section B2. A page usually holds several timestamped section headings (`Hernia and Hernia Surgeries 00:00:52`); keep them as `##` sections. Split a topic into two notes only when the transcript passes ~450 lines, and then at a major heading.
 2. **Resolution gate.** `python3 _tools/notes_digitize.py slice inbox/<page> --out work/<topic>/strips`. If it prints a **WARNING (< 1000 px wide)**, stop and ask the user for the original file (one full-size PNG/JPG per page, uploaded as a *file*, not pasted into the chat — pasted images arrive at 200–350 px). Only if the user says to go ahead anyway: write the note with `transcription_status: reconstructed-from-low-res-scan`, a `[!warning]` banner at the top saying what was and was not legible, and **⚠ verify** after every line you filled from a textbook instead of the page.
 3. **Read every strip in order** and write `work/<topic>/transcript.md` first — the raw, faithful transcript (section C). Do not start the note before the transcript is complete.
 4. **Build the main note** from the template in section D, section by section in page order.
@@ -47,6 +47,21 @@ The page is the source of truth. You add structure, pictures, videos and footnot
 12. **Write into the vault.** Never overwrite a note that already has content — if the target exists and is not empty, save the new version to `obsidian-pending/` and say so. If the vault is not connected, everything goes to `obsidian-pending/`.
 13. **Move** the page images from `inbox/` to `done/<topic>/`.
 14. **Report** (section M).
+
+---
+
+## B2. A whole subject (a folder of chapter PDFs)
+
+When the user hands over a subject split into many PDFs ("Physiology main notes", one PDF per topic):
+
+1. **Pages:** `pages <all pdfs> --out work/<subject>/pages --native` → one folder per PDF.
+2. **Chapter list first.** Read the big centred title on the first page of every PDF, and scan the remaining pages for **a second title page inside a PDF** (OCR every page and look for the title line next to the "Active space" marker, then look at the candidates) — several PDFs hold two chapters. Each chapter (not each PDF) gets one main note + one mind map, named exactly by its title in title case. Write the list (number, title, unit, page folder, image range, book pages) before writing any note; it fixes every file name and every cross-link.
+3. **Units:** group chapters into numbered unit folders that follow the book (`01. General Physiology/`, `02. Nerve-Muscle Physiology/` …) — the running header on inner pages ("74 Central Nervous System") tells you the unit. Mind maps go in `<unit>/Mind Maps/`; all crops in one `<subject>/attachments/` named `<Title> - <what it shows>.png`.
+4. **Frontmatter for a chapter:** add `chapter: <n>`, `pages: "<a>–<b>"`, `index: "[[<Subject> — Index]]"`; `topic:` is the subject, `subtopic:` the unit; `source:` lists every section heading with its timestamp.
+5. **Pilot, then fan out.** Write the first chapter yourself to the full standard and get it through `check`/`mapcheck`. Then split the rest across parallel workers (~15–20 pages each), each given this skill, the pilot as the exact template, its chapters from the list, the watermark list and the "no git" rule. Re-check every returned note yourself.
+6. **Index note** `<Subject> — Index.md` at the subject root: one table per unit (chapter link · map link · pages) plus a short "threads that run through the subject" callout linking chapters that belong together.
+7. **Cross-links:** each note's *Related Concepts* callout links 4–6 other chapters by exact title. When all notes exist, `check --vault <vault> --links` fails any wikilink that does not match a note.
+8. **Watermarks:** scanned course notes carry a buyer's email, an ID hash, a site name, "Active space", a "Feedback" tab, page footers and the lecturer's video thumbnail. None of it is transcribed; crops avoid it or white it out with `"mask"` rectangles in the crop spec. `check` fails a note that contains any email address, a long hex ID hash, or a string listed in the script's `WATERMARKS`.
 
 ---
 
@@ -157,7 +172,7 @@ For every figure listed in the transcript, in this order of preference:
 3. **No free equivalent → crop the figure out of the page.** The page is the user's own notes, so its pictures belong in the user's vault:
    - `detect` has already proposed boxes (it finds photographs and coloured diagrams; pale line drawings it misses you box by hand from the strip images — the strip file names carry the y offset, and strips are zoomed, so divide by the zoom).
    - Write `work/<topic>/crops.json` — one entry per figure with the page file, the box `[x0, y0, x1, y1]` in page pixels (tight to the figure, keep its labels, leave out surrounding text and the page's own caption), the file name `"<Topic> - <figure>.png"` and a caption.
-   - `python3 _tools/notes_digitize.py crop --spec work/<topic>/crops.json --out "<vault>/<attachments folder>"` (ask once where the vault keeps attachments; default `attachments/` next to the note). It prints the `![[name]]` embeds with captions — paste each where the figure sits on the page. Open every crop and check nothing is cut off; adjust the box and re-run with `"overwrite": true`.
+   - `python3 _tools/notes_digitize.py crop --spec work/<topic>/crops.json --out "<vault>/<attachments folder>"` (ask once where the vault keeps attachments; default `attachments/` next to the note). It prints the `![[name]]` embeds with captions — paste each where the figure sits on the page. A crop item can carry `"mask": [[x0, y0, x1, y1], …]` (page pixels) — those rectangles are painted white before cropping, for a watermark, an email or a video thumbnail that falls inside the figure. Open every crop and check nothing is cut off; adjust the box and re-run with `"overwrite": true`.
    - **If the crop is blurred** (page narrower than ~1000 px, labels unreadable, or the figure is itself a poor photocopy) or the page's figure is **not correct**, go back to step 2 and search again, harder, with new terms — a clear web image beats a blurred crop. Keep the crop only when that second search finds nothing, embed it anyway (it is the user's own figure), add the image prompt from step 4 directly below so the figure can be regenerated, and say in the caption that the crop came from a low-resolution page.
 4. **Image prompt** — only when there is no free image *and* the page's figure cannot be cropped (missing, illegible, or the user asked for a drawn version). A collapsed callout where the figure sat:
    ```markdown
@@ -396,6 +411,8 @@ status: not-started
 - [ ] Every figure on the page has an image (seen by you) or an image prompt at the same place; every Wikimedia image has an italic caption with licence.
 - [ ] No figure was drawn by you (no SVG / HTML / data-URI images).
 - [ ] Every page crop is in the vault's attachments folder, embedded with `![[name]]`, captioned, and checked with your own eyes; crops from a low-resolution page are paired with an image prompt.
+- [ ] No footnote marker inside a ``` code block (ASCII flows, recall blocks) — markers there do not render; `check` fails it.
+- [ ] No watermark text (emails, ID hashes, site names) anywhere in the note or inside a crop.
 - [ ] Etymology: every eponym, Greek/Latin term **and process/mechanism word** has a `[^ety-…]` footnote after its first use; every prefix and suffix has a `[^pre-…]` / `[^suf-…]` footnote on the first word that carries it; each definition starts with the bold word or affix and an em dash (no "Etymology" label); process notes split into prefix + root + suffix and differentiated from look-alikes; no marker inside alt text.
 - [ ] Every blurred crop or doubtful web image triggered a second, harder search before it was kept.
 - [ ] Every major section has a 🎬 line; one video embedded per section; all collected in the Video Library.
