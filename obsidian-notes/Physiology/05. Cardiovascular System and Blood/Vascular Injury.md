@@ -62,9 +62,10 @@ INJURY
 | Step | What happens | Key molecules |
 |---|---|---|
 | **1. Vasoconstriction**[^ety-constriction] | Temporary stop in blood flow | Serotonin, endothelin |
-| **2. Collagen**[^ety-collagen][^suf-gen] **& von Willebrand**[^ety-von-willebrand] **factor exposed** | Platelets[^ety-platelet] stick to the bare wall → **platelet adhesion**[^ety-adhesion][^pre-ad] | **Via GPIb/IX**[^ety-glycoprotein] **receptor** |
-| **3–4. Platelet activation → conformational**[^ety-conformational] **change → aggregation**[^ety-adhesion] | Platelets stick to each other → **primary hemostatic plug** | **GP IIb/IIIa receptor** |
-| **5. Clotting factors** | Fibrin mesh reinforces the plug → **definitive clot** | Coagulation cascade |
+| **2. Collagen**[^ety-collagen][^suf-gen] **& von Willebrand**[^ety-von-willebrand] **factor exposed** | Platelets[^ety-platelet] meet the bare wall → **platelet activation**, **conformational**[^ety-conformational] **change** | Collagen, vWF |
+| **3. Platelet adhesion**[^ety-adhesion][^pre-ad] | Platelets stick **to the wall** | **Via GPIb/IX**[^ety-glycoprotein] **receptor** |
+| **4. Platelet aggregation** | Platelets stick **to each other** → **primary hemostatic plug** | **GP IIb/IIIa receptor** |
+| **D/t clotting factors** | Fibrin mesh reinforces the plug → **definitive clot** | Coagulation cascade |
 
 **Clot formation** (primary hemostatic plug + definitive clot) **requires:**
 1. **Platelets.**

@@ -185,7 +185,7 @@ aortic closes → S2   volume same, pressure ↓     mitral opens      └──
 
 | Feature | **Mitral stenosis**[^ety-stenosis][^suf-osis] | **Aortic stenosis** | **Aortic regurgitation**[^ety-regurgitation] | **Mitral regurgitation** |
 |---|---|---|---|---|
-| **Pressure–volume alteration** | **Left shift** | Tall loop (high pressure) | Loop widened to the right, taller | Loop widened to the right, lower |
+| **Pressure–volume alteration** | **Left shift** | *(loop drawn tall and narrow)* | *(loop drawn wide and tall)* | *(loop drawn wide and low)* |
 | **EDV** | **↓** | Normal | **↑↑** | **↑↑** |
 | **ESV** | Normal | **↑↑** | Normal | — |
 | **Other features** | **↓ stroke volume** | **↑ left ventricular pressure** | • **Isovolumetric phase not straight line** · • **Height ↑, width ↑** | • **Isovolumetric phase not straight line** · • **Height ↓, width ↑** |
@@ -199,7 +199,7 @@ aortic closes → S2   volume same, pressure ↓     mitral opens      └──
 
 ---
 
-## 📉 Wiggers Diagram
+## 📉 Wiggers Diagram[^ety-wiggers]
 
 ![[Cardiac Cycle - Wiggers diagram.png]]
 *The page's Wiggers diagram — phases across the top (isovolumic contraction, ejection (RE & SE), isovolumic relaxation, rapid inflow, diastasis, atrial systole); traces of aortic pressure, atrial pressure (a, c, v), ventricular pressure, ventricular volume, ECG and phonocardiogram; valve events marked (cropped from the handwritten page).*
@@ -468,6 +468,7 @@ PV: MS left shift · AS tall, ↑ESV · AR wide + tall · MR wide + low · dicro
 [^8]: Echocardiographic categories: EF ≥ 50 % preserved, 41–49 % mildly reduced, ≤ 40 % reduced (heart failure with reduced EF). With EDV 120 and SV 70, EF = 58 %.
 [^9]: Standard teaching: in mitral regurgitation part of the stroke volume goes back into the left atrium, so there is no true isovolumetric contraction; ESV is often normal or ↓ early (the page leaves the ESV cell blank, "—"). In aortic regurgitation blood leaks back from the aorta during diastole, so there is no true isovolumetric relaxation. Aortic stenosis gives a tall, narrow loop with high systolic pressure.
 [^10]: Normal values (Weissler): PEP ≈ 0.10 s, LVET ≈ 0.30 s, PEP/LVET ≈ 0.35. In left ventricular failure PEP lengthens and LVET shortens, so the ratio rises as ejection fraction falls (ratio > 0.44 suggests reduced EF).
+[^ety-wiggers]: **Wiggers diagram** — **Carl John Wiggers** (1883–1963), American cardiovascular physiologist (Western Reserve University, Cleveland), who recorded and published these combined pressure, volume, ECG and heart-sound tracings in the 1910s–1920s; the composite plot of one cardiac cycle carries his name.
 [^ety-cycle]: **cycle** — Greek *kyklos*, "circle, wheel" → a series of events that returns to its start; the cardiac cycle runs from one beat to the next. Same root as *bicycle* and *cyclone*.
 [^ety-systole]: **systole** — Greek *systolē*, "a drawing together, contraction" (*syn-*, together + *stellein*, to place, draw in) → contraction of a heart chamber. **Differentiate:** *systole* (contraction, emptying) · *diastole* (relaxation, filling) · *diastasis* (the slow-filling phase of diastole).
 [^ety-diastole]: **diastole** — Greek *diastolē*, "a drawing apart, dilatation" (*dia-*, apart + *stellein*) → relaxation and filling of a chamber. Not the same as *diastasis* (a pause / separation, the 4th phase of diastole).
