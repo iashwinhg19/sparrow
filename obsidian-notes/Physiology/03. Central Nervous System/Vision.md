@@ -242,7 +242,9 @@ Closure of funny Na⁺ channel
 - **I/L** = ipsilateral[^ety-ipsilateral][^pre-ipsi], **C/L** = contralateral[^pre-contra].
 - **Significance: visual defect depends upon the location of lesion.**[^8]
 
-🎬 **Watch:** [YouTube search — visual pathway and its lesions (Ninja Nerd)](https://www.youtube.com/results?search_query=visual+pathway+lesions+ninja+nerd)
+🎬 **Watch:** [Visual pathway and its defects — optic nerve, chiasm, tract, lateral geniculate body](https://www.youtube.com/watch?v=7YCl0C5cCcU) · [Visual field defects and optic nerve pathway](https://www.youtube.com/watch?v=2ZbFBlwWm3Q)
+
+![](https://www.youtube.com/watch?v=7YCl0C5cCcU)
 
 ---
 
@@ -573,7 +575,8 @@ COLOUR: L red · M green · S blue · X-linked · protan / deutan / tritan · LI
 |---|---|
 | Phototransduction in rods (YouTube search) | https://www.youtube.com/results?search_query=phototransduction+rods+animation |
 | Retina — cell layers (YouTube search) | https://www.youtube.com/results?search_query=retina+layers+cells+physiology+lecture |
-| Visual pathway and its lesions (YouTube search, Ninja Nerd) | https://www.youtube.com/results?search_query=visual+pathway+lesions+ninja+nerd |
+| Visual pathway and its defects — optic nerve, chiasm, tract, lateral geniculate body | https://www.youtube.com/watch?v=7YCl0C5cCcU |
+| Visual field defects and optic nerve pathway | https://www.youtube.com/watch?v=2ZbFBlwWm3Q |
 | Colour vision and colour blindness (YouTube search) | https://www.youtube.com/results?search_query=colour+vision+cones+colour+blindness+physiology |
 | Pupillary light reflex pathway (YouTube search) | https://www.youtube.com/results?search_query=pupillary+light+reflex+pathway |
 

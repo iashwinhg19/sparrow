@@ -180,7 +180,9 @@ Clenching teeth   (or)   Interlocking fingers (and pulling)
 
 - 🧠 *Use at the bedside:* when a knee or ankle jerk seems absent, distracting the patient with this manoeuvre raises γ drive to all spindles and unmasks the reflex.[^8]
 
-🎬 **Watch:** [Stretch reflex & muscle spindle — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+stretch+reflex+muscle+spindle) · [Alpha–gamma coactivation explained (YouTube search)](https://www.youtube.com/results?search_query=alpha+gamma+coactivation+muscle+spindle+physiology) · [Muscle spindle and Golgi tendon organ — Armando Hasudungan (YouTube search)](https://www.youtube.com/results?search_query=armando+hasudungan+muscle+spindle+golgi+tendon+organ)
+🎬 **Watch:** [Stretch reflex, muscle spindle physiology](https://www.youtube.com/watch?v=K-ajO8Oz52I) · [Alpha–gamma coactivation explained (YouTube search)](https://www.youtube.com/results?search_query=alpha+gamma+coactivation+muscle+spindle+physiology) · [Muscle spindle and Golgi tendon organ — Armando Hasudungan (YouTube search)](https://www.youtube.com/results?search_query=armando+hasudungan+muscle+spindle+golgi+tendon+organ)
+
+![](https://www.youtube.com/watch?v=K-ajO8Oz52I)
 
 ---
 
@@ -345,7 +347,7 @@ detail: related
 title: Knee jerk — stretch reflex arc (L2–L4)
 ```
 
-🎬 **Watch:** [Withdrawal and crossed extensor reflex (YouTube search)](https://www.youtube.com/results?search_query=withdrawal+reflex+crossed+extensor+reflex+physiology) · [Postural reflexes — righting, placing, hopping (YouTube search)](https://www.youtube.com/results?search_query=postural+reflexes+righting+placing+hopping+physiology) · [Mass reflex / autonomic dysreflexia (YouTube search)](https://www.youtube.com/results?search_query=mass+reflex+spinal+cord+transection+autonomic+dysreflexia)
+🎬 **Watch:** [Spinal cord reflexes — flexor/withdrawal reflex and crossed extensor reflex (Guyton ch. 55)](https://www.youtube.com/watch?v=fL_qN134bPI) · [Postural reflexes — righting, placing, hopping (YouTube search)](https://www.youtube.com/results?search_query=postural+reflexes+righting+placing+hopping+physiology) · [Mass reflex / autonomic dysreflexia (YouTube search)](https://www.youtube.com/results?search_query=mass+reflex+spinal+cord+transection+autonomic+dysreflexia)
 
 ---
 
@@ -511,12 +513,13 @@ OTHERS: withdrawal (polysynaptic, crossed extensor) · support = cord · rightin
 
 | What to watch | Link |
 |---|---|
-| Stretch reflex & muscle spindle — Ninja Nerd (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+stretch+reflex+muscle+spindle |
+| Stretch reflex, muscle spindle physiology | https://www.youtube.com/watch?v=K-ajO8Oz52I |
 | Alpha–gamma coactivation explained (YouTube search) | https://www.youtube.com/results?search_query=alpha+gamma+coactivation+muscle+spindle+physiology |
 | Muscle spindle and Golgi tendon organ — Armando Hasudungan (YouTube search) | https://www.youtube.com/results?search_query=armando+hasudungan+muscle+spindle+golgi+tendon+organ |
 | Golgi tendon organ — inverse stretch reflex (YouTube search) | https://www.youtube.com/results?search_query=golgi+tendon+organ+inverse+stretch+reflex+autogenic+inhibition |
 | Clasp-knife spasticity and clonus (YouTube search) | https://www.youtube.com/results?search_query=clasp+knife+spasticity+clonus+upper+motor+neuron+lesion |
-| Withdrawal and crossed extensor reflex (YouTube search) | https://www.youtube.com/results?search_query=withdrawal+reflex+crossed+extensor+reflex+physiology |
+| Spinal cord reflexes — flexor/withdrawal reflex and crossed extensor reflex (Guyton ch. 55) | https://www.youtube.com/watch?v=fL_qN134bPI |
+| Polysynaptic flexor withdrawal reflex — reciprocal inhibition and crossed extensor reflex | https://www.youtube.com/watch?v=Z55eyfr53T8 |
 | Postural reflexes — righting, placing, hopping (YouTube search) | https://www.youtube.com/results?search_query=postural+reflexes+righting+placing+hopping+physiology |
 | Mass reflex / autonomic dysreflexia (YouTube search) | https://www.youtube.com/results?search_query=mass+reflex+spinal+cord+transection+autonomic+dysreflexia |
 

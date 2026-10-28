@@ -117,7 +117,9 @@ Low free Ca²⁺ makes nerve **Na⁺ channels** leaky, so the membrane **depolar
 | — | **Fatty acids** |
 | — | → all three **form insoluble Ca²⁺ complexes** |
 
-🎬 **Watch:** [Calcium regulation — PTH, vitamin D, calcitonin — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+calcium+regulation+PTH+vitamin+D+calcitonin) · [Hypocalcemia, Trousseau and Chvostek signs — Osmosis (YouTube search)](https://www.youtube.com/results?search_query=osmosis+hypocalcemia+trousseau+chvostek)
+🎬 **Watch:** [Calcium regulation — PTH, vitamin D, calcitonin (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+calcium+regulation+PTH+vitamin+D+calcitonin) · [Hypocalcemia (Signs and Symptoms) - CHVOSTEK'S & TROUSSEAU SIGN](https://www.youtube.com/watch?v=CBWURzvGaZg)
+
+![](https://www.youtube.com/watch?v=CBWURzvGaZg)
 
 ---
 
@@ -211,6 +213,9 @@ The **peritubular**[^ety-peritubular][^pre-peri] capillary on the left of the fi
 ```
 PTH ──→ ↑ Vit D ──→ ↑↑ Ca²⁺ absorption from GIT (indirect action)
 ```
+
+![The role of parathyroid hormone in maintaining blood calcium homeostasis (OpenStax)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/1817_The_Role_of_Parathyroid_Hormone_in_Maintaining_Blood_Calcium_Homeostasis.jpg/800px-1817_The_Role_of_Parathyroid_Hormone_in_Maintaining_Blood_Calcium_Homeostasis.jpg)
+*PTH in maintaining blood calcium homeostasis — the textbook summary of its actions on bone, kidney and (through vitamin D) the gut (OpenStax College, Anatomy & Physiology, via Wikimedia Commons; licence on the file page).*
 
 #### Calcium sensing receptors (CaSR)
 
@@ -499,8 +504,10 @@ MARKERS: formation = osteocalcin, ALP, P1NP · resorption = TRAP, MMP, cathepsin
 
 | What to watch | Link |
 |---|---|
-| Calcium regulation — PTH, vitamin D, calcitonin — Ninja Nerd (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+calcium+regulation+PTH+vitamin+D+calcitonin |
-| Hypocalcemia — Trousseau and Chvostek signs — Osmosis (YouTube search) | https://www.youtube.com/results?search_query=osmosis+hypocalcemia+trousseau+chvostek |
+| Hypocalcemia (Signs and Symptoms) - CHVOSTEK'S & TROUSSEAU SIGN | https://www.youtube.com/watch?v=CBWURzvGaZg |
+| Trousseau sign of hypocalcemia | https://www.youtube.com/watch?v=i1DyJsxrKo8 |
+| Chvostek's Sign and Trousseau's Sign due to Postoperative Acquired Hypoparathyroidism | https://www.youtube.com/watch?v=kvmwsTU0InQ |
+| Calcium regulation — PTH, vitamin D, calcitonin (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+calcium+regulation+PTH+vitamin+D+calcitonin |
 | Parathyroid hormone and vitamin D physiology — Osmosis (YouTube search) | https://www.youtube.com/results?search_query=osmosis+parathyroid+hormone+vitamin+D+physiology |
 | Calcium homeostasis — Armando Hasudungan (YouTube search) | https://www.youtube.com/results?search_query=armando+hasudungan+calcium+homeostasis |
 

@@ -490,7 +490,7 @@ IRON: duodenum · Dcytb → DMT-1 → ferroportin → hephaestin → transferrin
 - Guyton & Hall Textbook of Medical Physiology — Digestion and absorption in the gastrointestinal tract
 - Ganong's Review of Medical Physiology — Digestion, absorption and nutritional principles; iron absorption
 - `Digestion and Absorption - ….png` files in `attachments/` are crops of the handwritten pages
-- Videos: the web search tool was unavailable for this note, so the 🎬 links are YouTube searches rather than single videos
+- Videos: no single matching YouTube video turned up for these topics, so the 🎬 links remain YouTube searches
 
 [^1]: Standard texts: α-amylase (salivary and pancreatic) splits internal **α-1,4** glycosidic bonds of starch into maltose, maltotriose and α-limit dextrins; it cannot split **α-1,6** branch points, which are cut by brush-border **isomaltase (α-dextrinase)**. Brush-border maltase, sucrase and lactase then split the disaccharides into glucose, fructose and galactose. The page's simplified scheme is kept in the body.
 [^2]: The page draws GLUT-5 on both membranes. Most textbooks give **GLUT-5 for apical fructose entry and GLUT-2 for basolateral exit of glucose, galactose and fructose** (some GLUT-5 is present basolaterally too).

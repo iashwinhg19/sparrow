@@ -335,7 +335,9 @@ If situation favourable:
 >   - e. **Roughage —(microflora)→ short-chain fatty acids.**
 >   - f. **Prevent colonic diverticulum**[^ety-diverticulum][^suf-ulum].[^9]
 
-🎬 **Watch:** [Swallowing (deglutition) and oesophageal peristalsis (YouTube search)](https://www.youtube.com/results?search_query=deglutition+swallowing+reflex+esophageal+peristalsis+physiology) · [Gastric emptying and the enterogastric reflex (YouTube search)](https://www.youtube.com/results?search_query=gastric+emptying+enterogastric+reflex+physiology) · [Defecation reflex — internal and external anal sphincters (YouTube search)](https://www.youtube.com/results?search_query=defecation+reflex+internal+external+anal+sphincter+physiology)
+🎬 **Watch:** [Swallowing or Deglutition — anatomy and physiology](https://www.youtube.com/watch?v=tRIpwPD3gc8) · [Gastric emptying and the enterogastric reflex (YouTube search)](https://www.youtube.com/results?search_query=gastric+emptying+enterogastric+reflex+physiology) · [Defecation Reflex pathway animation](https://www.youtube.com/watch?v=eV4Y2i59ZF0)
+
+![](https://www.youtube.com/watch?v=tRIpwPD3gc8)
 
 ---
 
@@ -531,9 +533,11 @@ FASTING: MMC every 90 min, 5 cm/min, motilin (erythromycin) · I quiet · II irr
 | What to watch | Link |
 |---|---|
 | Interstitial cells of Cajal and slow waves (YouTube search) | https://www.youtube.com/results?search_query=interstitial+cells+of+cajal+slow+waves+basal+electrical+rhythm+GI+physiology |
-| Swallowing and oesophageal peristalsis (YouTube search) | https://www.youtube.com/results?search_query=deglutition+swallowing+reflex+esophageal+peristalsis+physiology |
+| Swallowing or Deglutition — anatomy and physiology | https://www.youtube.com/watch?v=tRIpwPD3gc8 |
+| Deglutition Physiology | https://www.youtube.com/watch?v=mrV-hHxlOf4 |
 | Gastric emptying and the enterogastric reflex (YouTube search) | https://www.youtube.com/results?search_query=gastric+emptying+enterogastric+reflex+physiology |
-| Defecation reflex — anal sphincters (YouTube search) | https://www.youtube.com/results?search_query=defecation+reflex+internal+external+anal+sphincter+physiology |
+| Defecation Reflex pathway animation | https://www.youtube.com/watch?v=eV4Y2i59ZF0 |
+| The Colon & The Defecation Reflex | https://www.youtube.com/watch?v=EWEyI0xGKRs |
 | Migrating motor complex and motilin (YouTube search) | https://www.youtube.com/results?search_query=migrating+motor+complex+phases+motilin+physiology |
 
 ---
@@ -559,7 +563,7 @@ FASTING: MMC every 90 min, 5 cm/min, motilin (erythromycin) · I quiet · II irr
 - Guyton & Hall Textbook of Medical Physiology — General principles of GI function: motility, nervous control; propulsion and mixing of food
 - Ganong's Review of Medical Physiology — Gastrointestinal motility
 - `Gastrointestinal Motility - ….png` files in `attachments/` are crops of the handwritten pages
-- Videos: the web search tool was unavailable for this note, so the 🎬 links are YouTube searches rather than single videos
+- Videos: single watch links where a matching video turned up; the remaining 🎬 links (slow waves, gastric emptying, migrating motor complex) are YouTube searches
 
 [^1]: The gastric pacemaker region lies high on the greater curvature in the mid-body, where ICC generate the fastest gastric slow waves (~3/min); waves spread distally towards the pylorus. ICC are found throughout the gut — between the circular and longitudinal muscle (myenteric ICC, the pacemakers) and within the muscle layers.
 [^2]: GIST is the commonest mesenchymal tumour of the GI tract (stomach ~60 %); ~95 % express KIT (CD117) and most carry activating KIT or PDGFRA mutations — the same receptor that marks ICC. It responds to imatinib, a tyrosine-kinase inhibitor.

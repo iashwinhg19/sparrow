@@ -190,7 +190,9 @@ P_{osm} = 2\,(\text{Na}^+) + 0.05\,(\text{Glu}) + 0.36\,(\text{Blood urea nitrog
 > | **mosm/L** of solvent | **mosm/Kg** of solvent |
 > | Most common | — |
 
-🎬 **Watch:** [YouTube search — passive transport, simple and facilitated diffusion, osmosis](https://www.youtube.com/results?search_query=passive+transport+simple+facilitated+diffusion+osmosis+physiology) · [YouTube search — Fick's law of diffusion physiology](https://www.youtube.com/results?search_query=fick%27s+law+of+diffusion+physiology+lecture)
+🎬 **Watch:** [Cell Membrane Transport — simple and facilitated diffusion, osmosis, active transport, vesicular](https://www.youtube.com/watch?v=J9Cym-86Cto) · [Cell Membrane Transport (passive and active) — diffusion, osmosis, hydrostatic and oncotic pressure](https://www.youtube.com/watch?v=hsG2IzLGotY) · [Diffusion, Facilitated Diffusion & Active Transport — movement across the cell membrane](https://www.youtube.com/watch?v=UgN76naeA1Q) · [YouTube search — Fick's law of diffusion physiology](https://www.youtube.com/results?search_query=fick%27s+law+of+diffusion+physiology+lecture)
+
+![](https://www.youtube.com/watch?v=J9Cym-86Cto)
 
 ---
 
@@ -341,7 +343,7 @@ detail: isolated
 title: Membrane transport — where it happens
 ```
 
-🎬 **Watch:** [YouTube search — sodium potassium pump (Na-K ATPase) mechanism](https://www.youtube.com/results?search_query=sodium+potassium+pump+Na+K+ATPase+mechanism+animation) · [YouTube search — secondary active transport symport antiport SGLT](https://www.youtube.com/results?search_query=secondary+active+transport+symport+antiport+SGLT) · [YouTube search — exocytosis, endocytosis and SNARE proteins](https://www.youtube.com/results?search_query=exocytosis+endocytosis+SNARE+proteins+physiology)
+🎬 **Watch:** [The Sodium-Potassium (Na+/K+) ATPase Pump](https://www.youtube.com/watch?v=ifcuzgI9AUc) · [Active Transport](https://www.youtube.com/watch?v=RDeSzra_iX4) · [Endocytosis, exocytosis, phagocytosis, and pinocytosis explained](https://www.youtube.com/watch?v=18kXAnFOx_w)
 
 ---
 
@@ -505,11 +507,13 @@ Posm = 2 Na⁺ + 0.05 Glu + 0.36 BUN ≈ 300 · SATURATION: carriers & pumps pla
 
 | What to watch | Link |
 |---|---|
-| Passive transport — simple and facilitated diffusion, osmosis (YouTube search) | https://www.youtube.com/results?search_query=passive+transport+simple+facilitated+diffusion+osmosis+physiology |
+| Cell membrane transport — simple and facilitated diffusion, osmosis, active transport, vesicular | https://www.youtube.com/watch?v=J9Cym-86Cto |
+| Cell membrane transport (passive and active) — diffusion, osmosis, hydrostatic and oncotic pressure | https://www.youtube.com/watch?v=hsG2IzLGotY |
+| Diffusion, facilitated diffusion and active transport — movement across the cell membrane | https://www.youtube.com/watch?v=UgN76naeA1Q |
 | Fick's law of diffusion (YouTube search) | https://www.youtube.com/results?search_query=fick%27s+law+of+diffusion+physiology+lecture |
-| Sodium–potassium pump mechanism (YouTube search) | https://www.youtube.com/results?search_query=sodium+potassium+pump+Na+K+ATPase+mechanism+animation |
-| Secondary active transport — symport, antiport, SGLT (YouTube search) | https://www.youtube.com/results?search_query=secondary+active+transport+symport+antiport+SGLT |
-| Exocytosis, endocytosis and SNARE proteins (YouTube search) | https://www.youtube.com/results?search_query=exocytosis+endocytosis+SNARE+proteins+physiology |
+| The sodium–potassium (Na+/K+) ATPase pump | https://www.youtube.com/watch?v=ifcuzgI9AUc |
+| Active transport | https://www.youtube.com/watch?v=RDeSzra_iX4 |
+| Endocytosis, exocytosis, phagocytosis and pinocytosis explained | https://www.youtube.com/watch?v=18kXAnFOx_w |
 
 ---
 
@@ -538,7 +542,7 @@ Posm = 2 Na⁺ + 0.05 Glu + 0.36 BUN ≈ 300 · SATURATION: carriers & pumps pla
 - Guyton & Hall Textbook of Medical Physiology — Ch. 4, Transport of substances through cell membranes
 - Ganong's Review of Medical Physiology — Ch. 2, Overview of cellular physiology (transport across cell membranes)
 - `Membrane Transport - ….png` files in `attachments/` are crops of the handwritten pages (no Commons image could be searched for this run)
-- Video links are YouTube searches (no verified individual video could be searched for this run)
+- The Fick's-law link is a YouTube search (no suitable single video was found for that topic)
 
 [^1]: The 1997 Nobel Prize in Chemistry was shared by **Paul D. Boyer** and **John E. Walker** (for the enzymatic mechanism of ATP **synthase**) and **Jens C. Skou** (for the first discovery of an ion-transporting enzyme, the **Na⁺–K⁺ ATPase**, 1957). ATP itself was discovered in 1929 (Karl Lohmann; Fiske and Subbarow). The page's heading "Nobel prize for ATP discovery" is kept.
 [^2]: Fick's first law in full: net diffusion rate J = D × A × (C₁ − C₂) / ΔX, where D (the diffusion coefficient) ∝ solubility / √molecular weight. This is why CO₂, though heavier than O₂, diffuses about 20 times faster — it is ~24 times more soluble.

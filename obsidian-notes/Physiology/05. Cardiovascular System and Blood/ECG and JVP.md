@@ -175,7 +175,9 @@ JVP  a (RA contraction) · c (tricuspid bulge) · x (RA relaxation) · v (RA fil
 | **QT interval** | Changes with heart rate, therefore **Bazett's**[^ety-bazett] **formula** : **QTc (corrected QT) = QT interval / √RR interval**[^9] |
 | **RR interval** | Used to calculate heart rate (HR) : **HR = 1500 / no. of small squares b/w 2 successive R waves**[^10] |
 
-🎬 **Watch:** [ECG leads and Einthoven's triangle (YouTube search)](https://www.youtube.com/results?search_query=ECG+leads+einthoven+triangle+augmented+leads+physiology) · [Ninja Nerd — ECG basics, waves and intervals (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+ECG+basics+waves+intervals) · [Osmosis — ECG basics (YouTube search)](https://www.youtube.com/results?search_query=osmosis+ECG+basics)
+🎬 **Watch:** [Understanding ECG part 2: Evolution of ECG, Limb leads and Einthoven's triangle](https://www.youtube.com/watch?v=v9DLCUCflLk) · [Introduction to ECG — Einthoven's triangle, lead placement, limb, augmented and precordial leads](https://www.youtube.com/watch?v=BKJfB9KyQxc) · [The Normal 12 Lead EKG and Einthoven's Triangle](https://www.youtube.com/watch?v=pM4kFQ8J2J8)
+
+![](https://www.youtube.com/watch?v=BKJfB9KyQxc)
 
 ### 🧭 Cardiac axis[^ety-axis]
 
@@ -265,7 +267,7 @@ detail: related
 title: Coronary territories and the JVP route
 ```
 
-🎬 **Watch:** [JVP waveform — a, c, v waves and x, y descents (YouTube search)](https://www.youtube.com/results?search_query=JVP+waveform+a+c+v+wave+x+y+descent) · [His bundle electrogram — AH and HV intervals (YouTube search)](https://www.youtube.com/results?search_query=his+bundle+electrogram+AH+HV+interval)
+🎬 **Watch:** [JVP waveform — a wave, c wave, x descent, v wave, y descent](https://www.youtube.com/watch?v=T-vKVuvHTSs) · [Jugular Venous Pressure — JVP Waveforms](https://www.youtube.com/watch?v=YAjklRDPpP8) · [His bundle electrogram — AH and HV intervals (YouTube search)](https://www.youtube.com/results?search_query=his+bundle+electrogram+AH+HV+interval)
 
 ---
 
@@ -434,10 +436,11 @@ HIS ECG: A–H–V (AH, HV prolonged in block) · JVP: a c x v y
 
 | What to watch | Link |
 |---|---|
-| ECG leads, Einthoven's triangle and augmented leads (search) | https://www.youtube.com/results?search_query=ECG+leads+einthoven+triangle+augmented+leads+physiology |
-| Ninja Nerd — ECG basics: waves, segments, intervals (search) | https://www.youtube.com/results?search_query=ninja+nerd+ECG+basics+waves+intervals |
-| Osmosis — ECG basics (search) | https://www.youtube.com/results?search_query=osmosis+ECG+basics |
-| JVP waveform — a, c, v waves and x, y descents (search) | https://www.youtube.com/results?search_query=JVP+waveform+a+c+v+wave+x+y+descent |
+| Understanding ECG part 2 — evolution of the ECG, limb leads and Einthoven's triangle | https://www.youtube.com/watch?v=v9DLCUCflLk |
+| Introduction to ECG — Einthoven's triangle, lead placement, limb, augmented and precordial leads | https://www.youtube.com/watch?v=BKJfB9KyQxc |
+| The Normal 12 Lead EKG and Einthoven's Triangle | https://www.youtube.com/watch?v=pM4kFQ8J2J8 |
+| JVP waveform — a wave, c wave, x descent, v wave, y descent | https://www.youtube.com/watch?v=T-vKVuvHTSs |
+| Jugular Venous Pressure — JVP Waveforms | https://www.youtube.com/watch?v=YAjklRDPpP8 |
 | His bundle electrogram — AH and HV intervals (search) | https://www.youtube.com/results?search_query=his+bundle+electrogram+AH+HV+interval |
 
 ---

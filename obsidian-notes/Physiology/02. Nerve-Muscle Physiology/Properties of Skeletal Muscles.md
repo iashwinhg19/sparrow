@@ -92,7 +92,9 @@ Reading the graph from left to right:
 - **B–C** — the plateau, about **2μ** wide on the page's length axis: every myosin head faces actin → **T max**.[^1]
 - **C → D** — fibre over-stretched: actin is pulled out from between the myosin → fewer cross-bridges → at **D** there is **no overlap and no tension**.
 
-🎬 **Watch:** [Length–tension relationship of skeletal muscle (YouTube search)](https://www.youtube.com/results?search_query=length+tension+relationship+skeletal+muscle+physiology) · [Sarcomere overlap and active tension (YouTube search)](https://www.youtube.com/results?search_query=sarcomere+length+tension+curve+actin+myosin+overlap)
+🎬 **Watch:** [Length–tension relationship — PhysioStasis](https://www.youtube.com/watch?v=eTs9EnlbFew) · [Sarcomere overlap and active tension (YouTube search)](https://www.youtube.com/results?search_query=sarcomere+length+tension+curve+actin+myosin+overlap)
+
+![](https://www.youtube.com/watch?v=eTs9EnlbFew)
 
 ---
 
@@ -169,7 +171,7 @@ Reading the graph from left to right:
 
 🧠 Red = myoglobin + mitochondria + O₂ → aerobic, slow, tireless. White = little myoglobin → anaerobic glycolysis → fast, strong, but lactate builds and it tires quickly.[^4]
 
-🎬 **Watch:** [Type I vs type II muscle fibres (YouTube search)](https://www.youtube.com/results?search_query=type+1+type+2a+type+2b+muscle+fibres+physiology) · [Active, passive and total tension (YouTube search)](https://www.youtube.com/results?search_query=active+passive+total+tension+muscle+length+graph)
+🎬 **Watch:** [Type 2a (IIa) aerobic fast-twitch fibres — Two Minutes of Anatomy](https://www.youtube.com/watch?v=UjI0DlGWcak) · [Passive, active and total tension curves — PhysioStasis](https://www.youtube.com/watch?v=eTs9EnlbFew)
 
 ---
 
@@ -268,7 +270,7 @@ T_f = \frac{1}{\text{Contraction period}}
 
 🧠 If a new stimulus comes at least once per contraction period, the fibre never gets the chance to relax — so the shorter the contraction period (fast fibres), the higher the frequency needed to tetanise it.[^11]
 
-🎬 **Watch:** [Muscle twitch, summation and tetanus (YouTube search)](https://www.youtube.com/results?search_query=muscle+twitch+summation+incomplete+complete+tetanus) · [Motor units and size principle (YouTube search)](https://www.youtube.com/results?search_query=motor+unit+recruitment+size+principle+physiology)
+🎬 **Watch:** [Twitch, summation and tetanus of skeletal muscle](https://www.youtube.com/watch?v=v5Nm_LaAQVo) · [Motor units and size principle (YouTube search)](https://www.youtube.com/results?search_query=motor+unit+recruitment+size+principle+physiology)
 
 ---
 
@@ -450,9 +452,9 @@ FIBRILLATION = 1 fibre · FASCICULATION = many fibres/units
 
 | What to watch | Link |
 |---|---|
-| Length–tension relationship of skeletal muscle (YouTube search) | https://www.youtube.com/results?search_query=length+tension+relationship+skeletal+muscle+physiology |
-| Type I vs type II muscle fibres (YouTube search) | https://www.youtube.com/results?search_query=type+1+type+2a+type+2b+muscle+fibres+physiology |
-| Muscle twitch, summation and tetanus (YouTube search) | https://www.youtube.com/results?search_query=muscle+twitch+summation+incomplete+complete+tetanus |
+| Length–tension relationship, passive/active/total tension — PhysioStasis | https://www.youtube.com/watch?v=eTs9EnlbFew |
+| Type 2a (IIa) aerobic fast-twitch fibres — Two Minutes of Anatomy | https://www.youtube.com/watch?v=UjI0DlGWcak |
+| Twitch, summation and tetanus of skeletal muscle | https://www.youtube.com/watch?v=v5Nm_LaAQVo |
 | Fibrillation vs fasciculation (YouTube search) | https://www.youtube.com/results?search_query=fibrillation+vs+fasciculation+lower+motor+neuron |
 
 ---

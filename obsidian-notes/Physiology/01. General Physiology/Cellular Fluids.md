@@ -121,7 +121,9 @@ Total body weight ───┼──→ 15 % Fats
 - **LBM ∝ TBW.**
 - **Water content of LBW = 70 mL / 100 g.**[^3]
 
-🎬 **Watch:** [YouTube search — body fluid compartments (Osmosis)](https://www.youtube.com/results?search_query=osmosis+body+fluid+compartments) · [YouTube search — total body water ICF ECF distribution physiology](https://www.youtube.com/results?search_query=total+body+water+ICF+ECF+distribution+physiology)
+🎬 **Watch:** [BODY FLUID COMPARTMENTS](https://www.youtube.com/watch?v=FY2ofvD5GNo) · [General Physiology: body fluids and compartments — quick revision](https://www.youtube.com/watch?v=8TwJJkJ3hw0)
+
+![](https://www.youtube.com/watch?v=8TwJJkJ3hw0)
 
 ---
 
@@ -177,7 +179,7 @@ A = C \times V \qquad\Longrightarrow\qquad V = \frac{A}{C}
 
 🧠 Plasma is only part of blood; the haematocrit[^ety-haematocrit] is the fraction that is cells, so dividing plasma volume by the plasma fraction (1 − Hct) scales it up to the whole blood volume.
 
-🎬 **Watch:** [YouTube search — indicator dilution method body fluid volume measurement](https://www.youtube.com/results?search_query=indicator+dilution+method+measurement+of+body+fluid+volumes)
+🎬 **Watch:** [Measuring Volume of Body Fluid Compartments](https://www.youtube.com/watch?v=QNefdYJy91M)
 
 ---
 
@@ -367,7 +369,7 @@ Fluid moves from ECF to ICF
 ![[Cellular Fluids - Darrow Yannet adrenal insufficiency.png]]
 *DY: adrenal insufficiency — **hypo-osmotic volume contraction**: the whole box drops below 300 mOsm/L, the ECF narrows and the ICF widens (axes: osmolarity 0–300 mOsm/L, volume 0–40 L) (cropped from the handwritten page).*
 
-🎬 **Watch:** [YouTube search — Darrow-Yannet diagram explained](https://www.youtube.com/results?search_query=darrow+yannet+diagram+explained) · [YouTube search — volume expansion and contraction body fluid shifts](https://www.youtube.com/results?search_query=isosmotic+hyperosmotic+hyposmotic+volume+contraction+expansion)
+🎬 **Watch:** [Darrow Yannet Diagrams: Isotonic, hypotonic and hypertonic saline solutions](https://www.youtube.com/watch?v=ID41SsTy-So) · [Isotonic, Hypotonic & Hypertonic Disorders — Darrow Yannet Diagrams, Fluids & Electrolytes playlist](https://www.youtube.com/watch?v=dMzeGhsJOJc) · [Body fluid compartments osmolarity and volume diagrams](https://www.youtube.com/watch?v=nVw1pLKhBJ8)
 
 ---
 
@@ -529,11 +531,13 @@ DARROW–YANNET: saline ECF↑ · diarrhoea ECF↓ · HTN ECF↑ ICF↓ osm↑ �
 
 | What to watch | Link |
 |---|---|
-| Body fluid compartments (YouTube search — Osmosis) | https://www.youtube.com/results?search_query=osmosis+body+fluid+compartments |
-| Total body water — ICF and ECF distribution (YouTube search) | https://www.youtube.com/results?search_query=total+body+water+ICF+ECF+distribution+physiology |
-| Indicator dilution method (YouTube search) | https://www.youtube.com/results?search_query=indicator+dilution+method+measurement+of+body+fluid+volumes |
+| Body fluid compartments | https://www.youtube.com/watch?v=FY2ofvD5GNo |
+| General physiology — body fluids and compartments, quick revision | https://www.youtube.com/watch?v=8TwJJkJ3hw0 |
+| Measuring volume of body fluid compartments (indicator dilution) | https://www.youtube.com/watch?v=QNefdYJy91M |
 | Osmolarity vs tonicity — RBC in isotonic, hypotonic, hypertonic solutions (YouTube search) | https://www.youtube.com/results?search_query=osmolarity+vs+tonicity+RBC+isotonic+hypotonic+hypertonic |
-| Darrow–Yannet diagram (YouTube search) | https://www.youtube.com/results?search_query=darrow+yannet+diagram+explained |
+| Darrow Yannet diagrams — isotonic, hypotonic and hypertonic saline solutions | https://www.youtube.com/watch?v=ID41SsTy-So |
+| Isotonic, hypotonic and hypertonic disorders — Darrow Yannet diagrams (Fluids & Electrolytes playlist) | https://www.youtube.com/watch?v=dMzeGhsJOJc |
+| Body fluid compartments — osmolarity and volume diagrams | https://www.youtube.com/watch?v=nVw1pLKhBJ8 |
 
 ---
 
@@ -560,7 +564,7 @@ DARROW–YANNET: saline ECF↑ · diarrhoea ECF↓ · HTN ECF↑ ICF↓ osm↑ �
 - Guyton & Hall Textbook of Medical Physiology — Ch. 25, The body fluid compartments; Ch. 16, the safety factors against oedema
 - Ganong's Review of Medical Physiology — Ch. 1, body fluid compartments and their measurement
 - Wikimedia Commons — the embedded fluid-compartment schematic (licence on the file page); `Cellular Fluids - ….png` files in `attachments/` are crops of the handwritten pages
-- Video links are YouTube searches (no verified individual video could be searched for this run)
+- The osmolarity-vs-tonicity and safety-factors-against-oedema links are YouTube searches (no suitable single video was found for those topics)
 
 [^1]: The page heads the last column "% of body water", but the figures 60 / 40 / 20 % are percentages of **body weight** (60 % of 70 kg = 42 L). As fractions of TBW the same compartments are 100 % / 67 % / 33 %. Guyton gives plasma ≈ 3 L and IF ≈ 11 L; the page's 3.5 L and 10.5 L (¼ and ¾ of the ECF) are the usual exam values.
 [^2]: The page's formula is kept. In standard terms, **fat-free mass** = body mass − all fat, and **lean body mass** = body mass − storage (adipose) fat — LBM still includes bone, muscle, organs, water and a little essential fat. Because fat holds little water, TBW tracks LBM closely.

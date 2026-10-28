@@ -129,7 +129,9 @@ CONDUCTION:  SA node (100/min) → AV node (delay 0.1 s, 0.04 m/s, slowest)
 > [!example]- 🎨 Image prompt — Ion channels of the two cardiac action potentials
 > "Clean flat-vector physiology diagram, white background, two panels side by side. LEFT 'SA nodal potential (pacemaker)': y-axis mV with ticks −60 and −40; a slowly rising phase 4 line labelled 'Prepotential: Ca²⁺T in, Na⁺f (funny) in, ↓K⁺ out', a slanted phase 0 labelled 'Ca²⁺L long-lasting', a falling phase 3 labelled 'K⁺ out'. RIGHT 'Ventricular action potential': y-axis mV with tick −90; vertical phase 0 'Na⁺ in', small notch phase 1 'K⁺T transient', flat phase 2 'plateau: Ca²⁺L in = K⁺ out', phase 3 'K⁺DR delayed rectifier', flat phase 4 at −90 'Na⁺–K⁺ pump'. Arrows into/out of a membrane strip under each curve, Na⁺ blue, K⁺ green, Ca²⁺ orange. Textbook style, no other text, no watermark."
 
-🎬 **Watch:** [Ninja Nerd — cardiac action potentials (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+cardiac+action+potentials) · [Armando Hasudungan — pacemaker and ventricular action potential (YouTube search)](https://www.youtube.com/results?search_query=armando+hasudungan+cardiac+action+potential) · [Funny current and ivabradine (YouTube search)](https://www.youtube.com/results?search_query=funny+current+HCN+channel+ivabradine+physiology)
+🎬 **Watch:** [Cardiac Action Potential, Animation](https://www.youtube.com/watch?v=v7Q9BrNfIpQ) · [Action Potential Through the Heart: Pacemaker Cells](https://www.youtube.com/watch?v=CsNtkL9ZOT8) · [Ventricular Action Potential — Medzcool](https://www.youtube.com/watch?v=DMOelVeSQ1w) · [Funny current and ivabradine (YouTube search)](https://www.youtube.com/results?search_query=funny+current+HCN+channel+ivabradine+physiology)
+
+![](https://www.youtube.com/watch?v=v7Q9BrNfIpQ)
 
 ---
 
@@ -183,7 +185,7 @@ detail: related
 title: Conduction system of the heart
 ```
 
-🎬 **Watch:** [Osmosis — cardiac conduction system (YouTube search)](https://www.youtube.com/results?search_query=osmosis+cardiac+conduction+system) · [Ninja Nerd — conduction system of the heart (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+conduction+system+of+the+heart)
+🎬 **Watch:** [The Heart's Electrical Conduction System](https://www.youtube.com/watch?v=4g5pI_UB_Aw) · [Ninja Nerd — conduction system of the heart (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+conduction+system+of+the+heart)
 
 ---
 
@@ -338,11 +340,11 @@ AV node 0.1 s delay · 0.04 m/s SLOWEST → His → Purkinje 4 m/s FASTEST → s
 
 | What to watch | Link |
 |---|---|
-| Ninja Nerd — cardiac action potentials (search: pick the Ninja Nerd lecture) | https://www.youtube.com/results?search_query=ninja+nerd+cardiac+action+potentials |
-| Armando Hasudungan — pacemaker and ventricular action potentials (search) | https://www.youtube.com/results?search_query=armando+hasudungan+cardiac+action+potential |
+| Cardiac Action Potential, Animation (pacemaker cells and contractile myocytes) | https://www.youtube.com/watch?v=v7Q9BrNfIpQ |
+| Action Potential Through the Heart: Pacemaker Cells (SA node phases 0, 3, 4) | https://www.youtube.com/watch?v=CsNtkL9ZOT8 |
+| Ventricular Action Potential — Medzcool (phases 0–4) | https://www.youtube.com/watch?v=DMOelVeSQ1w |
+| The Heart's Electrical Conduction System (SA node, AV node, Purkinje fibres) | https://www.youtube.com/watch?v=4g5pI_UB_Aw |
 | Funny current, HCN channels and ivabradine (search) | https://www.youtube.com/results?search_query=funny+current+HCN+channel+ivabradine+physiology |
-| Osmosis — cardiac conduction system (search) | https://www.youtube.com/results?search_query=osmosis+cardiac+conduction+system |
-| Ninja Nerd — conduction system of the heart (search) | https://www.youtube.com/results?search_query=ninja+nerd+conduction+system+of+the+heart |
 
 ---
 

@@ -200,7 +200,9 @@ b) **Phosphate**[^ety-phosphate][^suf-ate]: **urinary buffer**.
 | Luminal | **HCO₃⁻ Cl⁻ exchanger** | **HCO₃⁻ out → HCO₃⁻ excretion**; Cl⁻ in |
 | Basolateral | **H⁺ K⁺ ATPase** | **H⁺ to blood → H⁺ reabsorption**; K⁺ in |
 
-🎬 **Watch:** [YouTube search — Ninja Nerd: renal regulation of acid–base balance](https://www.youtube.com/results?search_query=ninja+nerd+renal+regulation+of+acid+base+balance) · [YouTube search — Osmosis: buffering and renal acid–base handling](https://www.youtube.com/results?search_query=osmosis+renal+acid+base+bicarbonate+ammonia+buffer) · [YouTube search — intercalated cells type A and type B](https://www.youtube.com/results?search_query=type+A+type+B+intercalated+cells+acid+base+physiology)
+🎬 **Watch:** [Acid Base Balance in The Kidney](https://www.youtube.com/watch?v=KcPDl6heMBs) · [Reabsorption of Bicarbonate by Kidneys as a Homeostasis Regulation Mechanism](https://www.youtube.com/watch?v=ozlj0M24pOw) · [Intercalated cells aid pH regulation](https://www.youtube.com/watch?v=EMq9I_HpCPE)
+
+![](https://www.youtube.com/watch?v=KcPDl6heMBs)
 
 ---
 
@@ -263,7 +265,7 @@ H+ and Ca2+ compete for albumin
 ![Anion gap in normal state, high-anion-gap and normal-anion-gap metabolic acidosis (Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Anion_Gap.svg/800px-Anion_Gap.svg.png)
 *Graphical representation of the anion gap and how it changes: in HAGMA the unmeasured-anion block grows as HCO₃⁻ falls; in NAGMA chloride replaces the lost HCO₃⁻ and the gap stays normal — the two mini gamblegrams of the page's table (Wikimedia Commons).*
 
-🎬 **Watch:** [YouTube search — Armando Hasudungan: anion gap and metabolic acidosis](https://www.youtube.com/results?search_query=armando+hasudungan+anion+gap+metabolic+acidosis) · [YouTube search — acid–base disorders and compensation](https://www.youtube.com/results?search_query=acid+base+disorders+compensation+physiology+lecture) · [YouTube search — HAGMA vs NAGMA](https://www.youtube.com/results?search_query=HAGMA+vs+NAGMA+anion+gap+explained)
+🎬 **Watch:** [High Anion Gap Metabolic Acidosis (HAGMA)](https://www.youtube.com/watch?v=tKQ77w_gz94) · [YouTube search — acid–base disorders and compensation](https://www.youtube.com/results?search_query=acid+base+disorders+compensation+physiology+lecture) · [AGMA vs. NAGMA: Understanding the Two Pathways to Metabolic Acidosis](https://www.youtube.com/watch?v=-Ahjxv5FK0A)
 
 ---
 
@@ -429,12 +431,13 @@ AG = Na − (Cl + HCO3) = 12 (8–16): HAGMA = DKA, lactate, salicylate · NAGMA
 
 | What to watch | Link |
 |---|---|
-| YouTube search — Ninja Nerd: renal regulation of acid–base balance | https://www.youtube.com/results?search_query=ninja+nerd+renal+regulation+of+acid+base+balance |
-| YouTube search — Osmosis: buffering and renal acid–base handling | https://www.youtube.com/results?search_query=osmosis+renal+acid+base+bicarbonate+ammonia+buffer |
-| YouTube search — Type A and type B intercalated cells | https://www.youtube.com/results?search_query=type+A+type+B+intercalated+cells+acid+base+physiology |
-| YouTube search — Armando Hasudungan: anion gap and metabolic acidosis | https://www.youtube.com/results?search_query=armando+hasudungan+anion+gap+metabolic+acidosis |
+| Acid Base Balance in The Kidney — overview of renal handling | https://www.youtube.com/watch?v=KcPDl6heMBs |
+| Reabsorption of Bicarbonate by Kidneys as a Homeostasis Regulation Mechanism | https://www.youtube.com/watch?v=ozlj0M24pOw |
+| Intercalated cells aid pH regulation — type A and type B cells | https://www.youtube.com/watch?v=EMq9I_HpCPE |
+| High Anion Gap Metabolic Acidosis (HAGMA) — anion gap, delta ratio | https://www.youtube.com/watch?v=tKQ77w_gz94 |
+| Metabolic Acidosis - Anion Gap (M Lam) | https://www.youtube.com/watch?v=7657dEp51so |
+| AGMA vs. NAGMA: Understanding the Two Pathways to Metabolic Acidosis | https://www.youtube.com/watch?v=-Ahjxv5FK0A |
 | YouTube search — Acid–base disorders and compensation | https://www.youtube.com/results?search_query=acid+base+disorders+compensation+physiology+lecture |
-| YouTube search — HAGMA vs NAGMA | https://www.youtube.com/results?search_query=HAGMA+vs+NAGMA+anion+gap+explained |
 
 ---
 

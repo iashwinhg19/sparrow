@@ -163,7 +163,9 @@ HEADACHE
 ![[CSF, CBF and BBB - lumbar puncture.png]]
 *Lumbar puncture (LP) — a needle introduced between the lumbar spinous processes into the subarachnoid space below the end of the spinal cord (cropped from the handwritten page).*
 
-🎬 **Watch:** [CSF production and circulation — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+cerebrospinal+fluid+production+circulation) · [Ventricles of the brain and CSF flow (YouTube search)](https://www.youtube.com/results?search_query=ventricles+of+brain+CSF+flow+foramen+monro+magendie+luschka) · [Post-dural puncture headache (YouTube search)](https://www.youtube.com/results?search_query=post+dural+puncture+headache+mechanism)
+🎬 **Watch:** [Cerebrospinal Fluid (CSF): Production, Circulation, Blood-Brain Barrier & Clinical Correlations](https://www.youtube.com/watch?v=CVwFnJPZJcM) · [Formation and Circulation of Cerebrospinal Fluid](https://www.youtube.com/watch?v=FvnoS1TCUCk) · [Post-dural puncture headache (YouTube search)](https://www.youtube.com/results?search_query=post+dural+puncture+headache+mechanism)
+
+![](https://www.youtube.com/watch?v=CVwFnJPZJcM)
 
 ---
 
@@ -199,7 +201,7 @@ HEADACHE
 - **Significance of hypothermia:** **therapeutic**[^ety-therapeutic] **hypothermia used in neurosurgeries to ↓ blood loss.**[^11]
 - 🧠 *Why CO₂ dilates:* CO₂ crosses into the vessel wall and brain fluid, forms H⁺, and H⁺ relaxes cerebral arterioles — more flow washes the CO₂ out. That is why **hyperventilation (↓ pCO₂) shrinks the brain's blood volume** and is used briefly to lower raised intracranial pressure.[^12]
 
-🎬 **Watch:** [Cerebral blood flow and autoregulation (YouTube search)](https://www.youtube.com/results?search_query=cerebral+blood+flow+autoregulation+physiology+PaCO2) · [Circle of Willis anatomy (YouTube search)](https://www.youtube.com/results?search_query=circle+of+willis+anatomy+explained)
+🎬 **Watch:** [Cerebral blood flow and autoregulation (YouTube search)](https://www.youtube.com/results?search_query=cerebral+blood+flow+autoregulation+physiology+PaCO2) · [Brain Blood Supply — Cerebral Circulation — Circle of Willis](https://www.youtube.com/watch?v=Kl3QTgaE3lo)
 
 ---
 
@@ -270,7 +272,7 @@ Eg:  (↑) CSF ──┬──► ↓ Blood flow
 
 - 🧠 *Plain words:* the adult skull cannot stretch, so a growing haematoma, tumour, oedema or blocked CSF can only make room by squeezing out CSF and venous blood; once those reserves are used up, intracranial pressure shoots up and brain tissue is compressed or herniates.[^19]
 
-🎬 **Watch:** [Blood–brain barrier — structure and transport (YouTube search)](https://www.youtube.com/results?search_query=blood+brain+barrier+structure+transport+physiology) · [Circumventricular organs (YouTube search)](https://www.youtube.com/results?search_query=circumventricular+organs+area+postrema+OVLT+subfornical) · [Monro–Kellie doctrine and raised ICP (YouTube search)](https://www.youtube.com/results?search_query=monro+kellie+doctrine+intracranial+pressure)
+🎬 **Watch:** [Blood Brain Barrier, Animation](https://www.youtube.com/watch?v=noWwbvmdhL0) · [Circumventricular organs (YouTube search)](https://www.youtube.com/results?search_query=circumventricular+organs+area+postrema+OVLT+subfornical) · [Monro–Kellie doctrine and raised ICP (YouTube search)](https://www.youtube.com/results?search_query=monro+kellie+doctrine+intracranial+pressure)
 
 ---
 
@@ -436,12 +438,14 @@ CVO (no BBB) SOAP: SFO (thirst) · OVLT · AP (BP, vomiting) · posterior pituit
 
 | What to watch | Link |
 |---|---|
-| CSF production and circulation — Ninja Nerd (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+cerebrospinal+fluid+production+circulation |
-| Ventricles of the brain and CSF flow (YouTube search) | https://www.youtube.com/results?search_query=ventricles+of+brain+CSF+flow+foramen+monro+magendie+luschka |
+| Cerebrospinal Fluid (CSF): Production, Circulation, Blood-Brain Barrier & Clinical Correlations | https://www.youtube.com/watch?v=CVwFnJPZJcM |
+| Formation and Circulation of Cerebrospinal Fluid | https://www.youtube.com/watch?v=FvnoS1TCUCk |
 | Post-dural puncture headache (YouTube search) | https://www.youtube.com/results?search_query=post+dural+puncture+headache+mechanism |
 | Cerebral blood flow and autoregulation (YouTube search) | https://www.youtube.com/results?search_query=cerebral+blood+flow+autoregulation+physiology+PaCO2 |
-| Circle of Willis anatomy (YouTube search) | https://www.youtube.com/results?search_query=circle+of+willis+anatomy+explained |
-| Blood–brain barrier — structure and transport (YouTube search) | https://www.youtube.com/results?search_query=blood+brain+barrier+structure+transport+physiology |
+| Brain Blood Supply — Cerebral Circulation — Circle of Willis | https://www.youtube.com/watch?v=Kl3QTgaE3lo |
+| Blood Brain Barrier, Animation (physical, transport and metabolic barrier) | https://www.youtube.com/watch?v=noWwbvmdhL0 |
+| The Blood-Brain Barrier (structure) | https://www.youtube.com/watch?v=cnBYuoBXPy0 |
+| BBB Impermeability and Receptor-mediated Transport | https://www.youtube.com/watch?v=y0VRMULNZmQ |
 | Circumventricular organs (YouTube search) | https://www.youtube.com/results?search_query=circumventricular+organs+area+postrema+OVLT+subfornical |
 | Monro–Kellie doctrine and raised ICP (YouTube search) | https://www.youtube.com/results?search_query=monro+kellie+doctrine+intracranial+pressure |
 
@@ -470,7 +474,7 @@ CVO (no BBB) SOAP: SFO (thirst) · OVLT · AP (BP, vomiting) · posterior pituit
 - Guyton & Hall Textbook of Medical Physiology — Cerebral blood flow, cerebrospinal fluid and brain metabolism
 - Ganong's Review of Medical Physiology — Circulation through special regions: the brain; CSF; blood–brain barrier
 - Kandel, *Principles of Neural Science* — The blood–brain barrier and CSF
-- `CSF, CBF and BBB - ….png` files in `attachments/` are crops of the handwritten pages (no web images: the web search budget was exhausted when this note was made)
+- `CSF, CBF and BBB - ….png` files in `attachments/` are crops of the handwritten pages
 
 [^1]: CSF also gives **buoyancy** — a 1400 g brain weighs only about 50 g in its CSF bath — and removes metabolites. About two-thirds of CSF is secreted by the choroid plexuses; the rest comes from the ependymal lining and brain interstitial fluid.
 [^2]: The choroid plexus epithelium is modified ependyma; its tight junctions form the blood–CSF barrier. In the rest of the brain the barrier lies at the capillary endothelium (blood–brain barrier) instead.

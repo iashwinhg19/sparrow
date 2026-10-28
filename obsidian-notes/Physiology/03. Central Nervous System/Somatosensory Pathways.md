@@ -119,7 +119,9 @@ Sensory cortex
 ![Ascending pathways of the spinal cord — dorsal column system and spinothalamic tract (OpenStax)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1417_Ascending_Pathways_of_Spinal_Cord.jpg/800px-1417_Ascending_Pathways_of_Spinal_Cord.jpg)
 *The same two ascending pathways drawn in colour: the dorsal column system crossing in the medulla and the spinothalamic tract crossing in the spinal cord, both relaying in the thalamus (OpenStax Anatomy & Physiology, Wikimedia Commons, CC BY).*
 
-🎬 **Watch:** [YouTube search — DCML pathway (Ninja Nerd)](https://www.youtube.com/results?search_query=dorsal+column+medial+lemniscus+pathway+ninja+nerd) · [YouTube search — spinothalamic tract / anterolateral system](https://www.youtube.com/results?search_query=spinothalamic+tract+anterolateral+system+animation)
+🎬 **Watch:** [Dorsal column–medial lemniscus pathway](https://www.youtube.com/watch?v=7U-pRc4YLhw) · [Spinothalamic and dorsal column–medial lemniscus pathways in 3D](https://www.youtube.com/watch?v=hszPOt51J5Y)
+
+![](https://www.youtube.com/watch?v=hszPOt51J5Y)
 
 ### Somatotopic arrangement
 
@@ -165,7 +167,7 @@ Sensory cortex
 ![Brown-Séquard syndrome — lateral hemisection of the spinal cord and the side of each deficit (Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/3/3e/Brown-Sequard-Syndrom_3.PNG)
 *Cross-section of a lateral hemisection explaining why proprioception and motor power are lost on the side of the lesion and pain/temperature on the opposite side (Wikimedia Commons, CC BY-SA).*
 
-🎬 **Watch:** [YouTube search — Brown-Séquard syndrome (Osmosis)](https://www.youtube.com/results?search_query=brown+sequard+syndrome+osmosis)
+🎬 **Watch:** [2-Minute Neuroscience: Brown-Séquard syndrome](https://www.youtube.com/watch?v=R45w3Y5Js4o)
 
 ---
 
@@ -206,7 +208,7 @@ Sensory cortex
 > [!note] Note — Referred pain
 > **Referred**[^pre-re] **pain:** **visceral organ pain is referred to a somatic structure with the same embryonic**[^ety-embryonic] **origin.**[^10]
 
-🎬 **Watch:** [YouTube search — sensory homunculus and somatosensory cortex](https://www.youtube.com/results?search_query=sensory+homunculus+somatosensory+cortex+physiology)
+🎬 **Watch:** [Sensory homunculus, somatosensory cortex, Brodmann areas 3a, 3b, 1 and 2](https://www.youtube.com/watch?v=CyO0MqSJNXQ)
 
 ---
 
@@ -430,10 +432,11 @@ LAWS: Bell-Magendie · Müller · projection · plasticity (phantom limb) · Web
 
 | What to watch | Link |
 |---|---|
-| Dorsal column–medial lemniscus pathway (YouTube search, Ninja Nerd) | https://www.youtube.com/results?search_query=dorsal+column+medial+lemniscus+pathway+ninja+nerd |
-| Spinothalamic tract / anterolateral system (YouTube search) | https://www.youtube.com/results?search_query=spinothalamic+tract+anterolateral+system+animation |
-| Brown-Séquard syndrome (YouTube search, Osmosis) | https://www.youtube.com/results?search_query=brown+sequard+syndrome+osmosis |
-| Sensory homunculus and somatosensory cortex (YouTube search) | https://www.youtube.com/results?search_query=sensory+homunculus+somatosensory+cortex+physiology |
+| Dorsal column–medial lemniscus pathway | https://www.youtube.com/watch?v=7U-pRc4YLhw |
+| Spinothalamic and dorsal column–medial lemniscus pathways in 3D | https://www.youtube.com/watch?v=hszPOt51J5Y |
+| 2-Minute Neuroscience: Brown-Séquard syndrome | https://www.youtube.com/watch?v=R45w3Y5Js4o |
+| Brown-Séquard syndrome — causes, symptoms, diagnosis, treatment, pathology | https://www.youtube.com/watch?v=6A9oBSwfsLs |
+| Sensory homunculus, somatosensory cortex, Brodmann areas 3a, 3b, 1 and 2 | https://www.youtube.com/watch?v=CyO0MqSJNXQ |
 
 ---
 

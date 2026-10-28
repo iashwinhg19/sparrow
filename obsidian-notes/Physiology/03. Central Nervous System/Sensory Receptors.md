@@ -138,6 +138,8 @@ title: Sensory pathway — receptor to cortex
 
 🎬 **Watch:** [Sensory receptors — classification and properties (YouTube search)](https://www.youtube.com/results?search_query=sensory+receptors+classification+properties+physiology) · [Receptive field and two-point discrimination (YouTube search)](https://www.youtube.com/results?search_query=receptive+field+two+point+discrimination+physiology)
 
+![](https://www.youtube.com/watch?v=qFntaYZ1Oxo)
+
 ---
 
 ## 🤚 General Senses
@@ -295,7 +297,7 @@ Aβ touch fibres ──(+)──► Inhibitory neuron in spinal cord
 ![[Sensory Receptors - rapidly and slowly adapting receptors.png]]
 *Adaptation[^ety-adaptation][^pre-ad] of receptors — rapidly adapting receptors (RARs, phasic) fire only at the start and end of a stimulus; slowly adapting receptors (SARs, tonic) keep firing throughout it (cropped from the handwritten page).*[^19]
 
-🎬 **Watch:** [Touch receptors — Meissner, Merkel, Pacinian, Ruffini (YouTube search)](https://www.youtube.com/results?search_query=meissner+merkel+pacinian+ruffini+receptors+physiology) · [Pain pathways — fast vs slow pain, gate control theory (YouTube search)](https://www.youtube.com/results?search_query=fast+slow+pain+gate+control+theory+physiology) · [Thermoreceptors TRPV TRPM and receptor adaptation (YouTube search)](https://www.youtube.com/results?search_query=thermoreceptors+TRPV1+TRPM8+receptor+adaptation)
+🎬 **Watch:** [Mechanoreceptors — Merkel, Meissner, Pacinian, Ruffini](https://www.youtube.com/watch?v=qFntaYZ1Oxo) · [Gate control theory of pain](https://www.youtube.com/watch?v=oQLFfvGM7nI) · [Thermoreceptors TRPV TRPM and receptor adaptation (YouTube search)](https://www.youtube.com/results?search_query=thermoreceptors+TRPV1+TRPM8+receptor+adaptation)
 
 ---
 
@@ -469,8 +471,9 @@ TEMP: cold ≫ warm · TRPM 10–24 / <5 · TRPV 30–45 / >45 · TRPV3 body tem
 | What to watch | Link |
 |---|---|
 | Sensory receptors — classification and properties (YouTube search) | https://www.youtube.com/results?search_query=sensory+receptors+classification+properties+physiology |
-| Touch receptors — Meissner, Merkel, Pacinian, Ruffini (YouTube search) | https://www.youtube.com/results?search_query=meissner+merkel+pacinian+ruffini+receptors+physiology |
-| Pain pathways — fast vs slow pain, gate control theory (YouTube search) | https://www.youtube.com/results?search_query=fast+slow+pain+gate+control+theory+physiology |
+| Mechanoreceptors — Merkel, Meissner, Pacinian, Ruffini | https://www.youtube.com/watch?v=qFntaYZ1Oxo |
+| Meissner corpuscle, Pacinian corpuscle, Ruffini ending, Merkel disc | https://www.youtube.com/watch?v=KJB_WNR-DBw |
+| Gate control theory of pain | https://www.youtube.com/watch?v=oQLFfvGM7nI |
 | Thermoreceptors TRPV, TRPM and receptor adaptation (YouTube search) | https://www.youtube.com/results?search_query=thermoreceptors+TRPV1+TRPM8+receptor+adaptation |
 
 ---

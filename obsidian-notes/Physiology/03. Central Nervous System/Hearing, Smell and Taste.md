@@ -172,7 +172,9 @@ Auditory cortex                   (A)
 ![[Hearing, Smell and Taste - auditory cortex Brodmann 41 42.png]]
 *Auditory cortex — Brodmann areas 41, 42 on the superior temporal (Heschl's) gyrus, in the floor of the lateral sulcus (cropped from the handwritten page).*
 
-🎬 **Watch:** [YouTube search — auditory pathway (Ninja Nerd)](https://www.youtube.com/results?search_query=auditory+pathway+ninja+nerd)
+🎬 **Watch:** [Auditory pathway](https://www.youtube.com/watch?v=J7ZQsK6_Zcc)
+
+![](https://www.youtube.com/watch?v=J7ZQsK6_Zcc)
 
 #### Stapedial reflex[^ety-stapedius]
 
@@ -309,7 +311,7 @@ detail: related
 title: Hearing, smell and taste — receptors, relays and nerves
 ```
 
-🎬 **Watch:** [YouTube search — taste pathway and gustation](https://www.youtube.com/results?search_query=taste+pathway+gustation+physiology)
+🎬 **Watch:** [Taste pathway (gustatory system)](https://www.youtube.com/watch?v=_E06PQrasw8)
 
 ---
 
@@ -477,9 +479,9 @@ TASTE: T1R sweet · ENaC salt · HCN sour · T2R bitter · mGluR4 umami · VII /
 |---|---|
 | Physiology of hearing — organ of Corti and hair cells (YouTube search) | https://www.youtube.com/results?search_query=physiology+of+hearing+organ+of+corti+hair+cells |
 | Basilar membrane travelling wave (YouTube search) | https://www.youtube.com/results?search_query=basilar+membrane+travelling+wave+cochlea+animation |
-| Auditory pathway (YouTube search, Ninja Nerd) | https://www.youtube.com/results?search_query=auditory+pathway+ninja+nerd |
+| Auditory pathway | https://www.youtube.com/watch?v=J7ZQsK6_Zcc |
 | Olfactory pathway (YouTube search) | https://www.youtube.com/results?search_query=olfactory+pathway+physiology |
-| Taste pathway — gustation (YouTube search) | https://www.youtube.com/results?search_query=taste+pathway+gustation+physiology |
+| Taste pathway (gustatory system) | https://www.youtube.com/watch?v=_E06PQrasw8 |
 
 ---
 

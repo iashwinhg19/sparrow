@@ -170,7 +170,9 @@ Intake of food rich in fats, proteins ──► Stimulation of I-cells ──Rel
 > [!example]- 🎨 Image prompt — CCK-PZ: one hormone, four targets
 > "Clean flat-vector medical textbook illustration, white background, soft blue and orange palette. Centre: a cut-away duodenum with fat droplets and protein chains in the lumen and small purple 'I cells' in the mucosa releasing dots labelled 'CCK-PZ' into a capillary. Arrows from the capillary to four targets: (1) gall bladder shown contracting, labelled 'Cholagogue — contraction of gall bladder (CCK-A receptor)'; (2) sphincter of Oddi shown opening, labelled 'Relaxation of sphincter of Oddi → release of bile'; (3) pancreatic acini with enzyme granules, labelled 'PZ — enzyme-rich pancreatic juice'; (4) stomach with a 'slow' sign at the pylorus, labelled 'Inhibits gastric emptying'. A fifth thin arrow to a brain outline labelled 'Satiety ↓ food intake · anxiety · analgesia'. Small caption 'Stimulus: food rich in fats, proteins'. Labels only, no other text, no watermark."
 
-🎬 **Watch:** [Gastrin and CCK — release and actions (YouTube search)](https://www.youtube.com/results?search_query=gastrin+cholecystokinin+GI+hormones+physiology) · [GI hormones overview — gastrin, CCK, secretin, GIP, motilin (YouTube search)](https://www.youtube.com/results?search_query=gastrointestinal+hormones+gastrin+CCK+secretin+GIP+motilin+lecture)
+🎬 **Watch:** [Gastrointestinal Secretions (Hormones) — GI physiology series, Physiology Playlist](https://www.youtube.com/watch?v=l2JGnqccztE) · [Gastrin and CCK — release and actions (YouTube search)](https://www.youtube.com/results?search_query=gastrin+cholecystokinin+GI+hormones+physiology)
+
+![](https://www.youtube.com/watch?v=l2JGnqccztE)
 
 ---
 
@@ -294,7 +296,7 @@ Oral intake of glucose ──Stimulates──► K-cells ──release──► 
 > [!example]- 🎨 Image prompt — Ghrelin vs peptide YY: hunger and satiety
 > "Flat-vector medical infographic, white background, two-sided seesaw design. Left side (orange, 'Fasting'): an empty stomach with oxyntic glands releasing 'Ghrelin — hunger hormone', arrows to a brain hypothalamus labelled 'Orexinergic: ↑ food intake', to the pituitary labelled '↑ GH release (GH-REL-IN)', to fat cells labelled '↑ adipogenesis', and back to the stomach labelled '↑ gastric acid, ↑ gastric motility, hunger contractions'. A small gauge 'high in anorexia nervosa · low in obesity'. Right side (blue, 'Fat-rich meal'): ileum and colon releasing 'Peptide YY', arrows to the stomach '↓ gastric motility, ↓ acid secretion' and to the ileum 'ileal brake'. Beside it a duodenum releasing 'CCK → satiety'. Labels only, no other text, no watermark."
 
-🎬 **Watch:** [Motilin, erythromycin and the migrating motor complex (YouTube search)](https://www.youtube.com/results?search_query=motilin+migrating+motor+complex+erythromycin) · [Ghrelin and peptide YY — hunger and satiety hormones (YouTube search)](https://www.youtube.com/results?search_query=ghrelin+peptide+YY+hunger+satiety+physiology)
+🎬 **Watch:** [Motilin, erythromycin and the migrating motor complex (YouTube search)](https://www.youtube.com/results?search_query=motilin+migrating+motor+complex+erythromycin) · [The Neuroscience of Hunger — leptin, ghrelin, obesity and regulating hunger](https://www.youtube.com/watch?v=jH1C-EDEtLw)
 
 ---
 
@@ -464,12 +466,12 @@ PYY: fat → ileal brake   GHRELIN: oxyntic, fasting, hunger, anorexia ↑ / obe
 
 | What to watch | Link |
 |---|---|
+| Gastrointestinal Secretions (Hormones) — GI physiology series, Physiology Playlist | https://www.youtube.com/watch?v=l2JGnqccztE |
 | Gastrin and CCK — release and actions (YouTube search) | https://www.youtube.com/results?search_query=gastrin+cholecystokinin+GI+hormones+physiology |
-| GI hormones overview — gastrin, CCK, secretin, GIP, motilin (YouTube search) | https://www.youtube.com/results?search_query=gastrointestinal+hormones+gastrin+CCK+secretin+GIP+motilin+lecture |
 | Secretin, GIP and the incretin effect (YouTube search) | https://www.youtube.com/results?search_query=secretin+GIP+incretin+effect+physiology |
 | VIPoma — WDHA / Verner–Morrison syndrome (YouTube search) | https://www.youtube.com/results?search_query=VIPoma+WDHA+syndrome+Verner+Morrison |
 | Motilin, erythromycin and the migrating motor complex (YouTube search) | https://www.youtube.com/results?search_query=motilin+migrating+motor+complex+erythromycin |
-| Ghrelin and peptide YY — hunger and satiety hormones (YouTube search) | https://www.youtube.com/results?search_query=ghrelin+peptide+YY+hunger+satiety+physiology |
+| The Neuroscience of Hunger — leptin, ghrelin, obesity and regulating hunger | https://www.youtube.com/watch?v=jH1C-EDEtLw |
 
 ---
 
@@ -496,7 +498,7 @@ PYY: fat → ileal brake   GHRELIN: oxyntic, fasting, hunger, anorexia ↑ / obe
 - Guyton & Hall Textbook of Medical Physiology — General principles of gastrointestinal function; secretory functions of the alimentary tract
 - Ganong's Review of Medical Physiology — Gastrointestinal hormones
 - `Gastrointestinal Hormones - ….png` files in `attachments/` are crops of the handwritten pages
-- Videos: the web search tool was unavailable for this note, so the 🎬 links are YouTube searches rather than single videos
+- Videos: single watch links where a matching video turned up; the remaining 🎬 links (gastrin and CCK, secretin and GIP, VIPoma, motilin) are YouTube searches
 
 [^1]: Gastrin and CCK share an identical C-terminal pentapeptide (Gly-Trp-Met-Asp-Phe-NH₂), which carries their activity — so gastrin binds CCK-B (= gastrin) receptors and CCK binds both CCK-A and CCK-B. Secretin, glucagon, VIP, GIP (and GLP-1) share sequence homology and act on class B G-protein-coupled receptors.
 [^2]: Standard locations: G cells — gastric antrum (and some in the duodenum); I cells — duodenum and jejunum; S cells — duodenum; K cells — duodenum and jejunum; Mo cells — duodenum and jejunum; L cells (GLP-1, PYY) — ileum and colon; D cells (somatostatin) — throughout.

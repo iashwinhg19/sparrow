@@ -227,7 +227,9 @@ CN VII ──►  Submandibular ganglion ──►  Submandibular gland  ──�
 ![[Gastrointestinal Secretions - xerostomia dry tongue.png]]
 *Xerostomia (dry mouth) — a dry, reddened tongue with no film of saliva; commonly seen in mumps and Sjögren syndrome (cropped from the handwritten page).*
 
-🎬 **Watch:** [Saliva — composition, salivon and regulation (YouTube search)](https://www.youtube.com/results?search_query=saliva+physiology+salivon+regulation+of+salivary+secretion) · [Salivary gland innervation — otic and submandibular ganglia (YouTube search)](https://www.youtube.com/results?search_query=salivary+gland+innervation+otic+ganglion+submandibular+ganglion)
+🎬 **Watch:** [Salivary Secretion — Physiology](https://www.youtube.com/watch?v=OMLb59flRPU) · [Regulation of salivary secretion — parasympathetic fibers, Part 1](https://www.youtube.com/watch?v=q48tX4Azgk8)
+
+![](https://www.youtube.com/watch?v=OMLb59flRPU)
 
 ---
 
@@ -328,7 +330,7 @@ CO2 + H2O ──CA──► H2CO3 ──► H+  ──(a: H+/K+ ATPase)──►
 
 🧠 *In plain words:* the brain starts the acid before food arrives (cephalic, vagal), the stomach makes most of it once food stretches it and protein reaches the antral G cells (gastric), and a little more comes when protein products reach the duodenum (intestinal).[^11]
 
-🎬 **Watch:** [Gastric acid secretion — parietal cell mechanism (YouTube search)](https://www.youtube.com/results?search_query=gastric+acid+secretion+parietal+cell+physiology) · [Phases of gastric secretion — cephalic, gastric, intestinal (YouTube search)](https://www.youtube.com/results?search_query=phases+of+gastric+secretion+cephalic+gastric+intestinal)
+🎬 **Watch:** [Parietal Cell: Mechanism of HCl Secretion in Stomach](https://www.youtube.com/watch?v=M45ojGU_s2M) · [Phases of gastric secretion](https://www.youtube.com/watch?v=JdqnUm-2UnU)
 
 ---
 
@@ -405,7 +407,7 @@ CO2 + H2O ──CA──► H2CO3 ──► H+  ──(a: H+/K+ ATPase)──►
 
 🧠 *In plain words:* the exchanger can only push HCO₃⁻ out if Cl⁻ is waiting in the lumen to swap with it. CFTR keeps returning that Cl⁻. A faulty CFTR (cystic fibrosis) → no luminal Cl⁻ → no HCO₃⁻ and no water → thick secretions plug the pancreatic ducts.[^15]
 
-🎬 **Watch:** [Exocrine pancreas — zymogen activation and secretin/CCK (YouTube search)](https://www.youtube.com/results?search_query=exocrine+pancreas+secretion+physiology+trypsinogen+enterokinase) · [Pancreatic bicarbonate secretion and CFTR (YouTube search)](https://www.youtube.com/results?search_query=pancreatic+duct+bicarbonate+secretion+CFTR)
+🎬 **Watch:** [Anatomy and Physiology of the Pancreas, Animation — CCK and secretin](https://www.youtube.com/watch?v=VIyrIMaNmC0) · [Pancreatic bicarbonate secretion and CFTR (YouTube search)](https://www.youtube.com/results?search_query=pancreatic+duct+bicarbonate+secretion+CFTR)
 
 ---
 
@@ -657,11 +659,13 @@ INTESTINE succus entericus · crypts of Lieberkühn · goblet mucus · Paneth zi
 
 | What to watch | Link |
 |---|---|
-| Saliva — composition, salivon and regulation (YouTube search) | https://www.youtube.com/results?search_query=saliva+physiology+salivon+regulation+of+salivary+secretion |
-| Salivary gland innervation — otic and submandibular ganglia (YouTube search) | https://www.youtube.com/results?search_query=salivary+gland+innervation+otic+ganglion+submandibular+ganglion |
-| Gastric acid secretion — parietal cell mechanism (YouTube search) | https://www.youtube.com/results?search_query=gastric+acid+secretion+parietal+cell+physiology |
-| Phases of gastric secretion (YouTube search) | https://www.youtube.com/results?search_query=phases+of+gastric+secretion+cephalic+gastric+intestinal |
-| Exocrine pancreas — zymogens, secretin and CCK (YouTube search) | https://www.youtube.com/results?search_query=exocrine+pancreas+secretion+physiology+trypsinogen+enterokinase |
+| Salivary Secretion — Physiology | https://www.youtube.com/watch?v=OMLb59flRPU |
+| Salivary secretion and saliva function | https://www.youtube.com/watch?v=WESCt9oang8 |
+| Regulation of salivary secretion — parasympathetic fibers, Part 1 | https://www.youtube.com/watch?v=q48tX4Azgk8 |
+| Parietal Cell: Mechanism of HCl Secretion in Stomach | https://www.youtube.com/watch?v=M45ojGU_s2M |
+| Mechanism of Gastric Acid secretion by Parietal Cells | https://www.youtube.com/watch?v=03kFZmmyYDM |
+| Phases of gastric secretion | https://www.youtube.com/watch?v=JdqnUm-2UnU |
+| Anatomy and Physiology of the Pancreas, Animation — CCK and secretin | https://www.youtube.com/watch?v=VIyrIMaNmC0 |
 | Pancreatic bicarbonate secretion and CFTR (YouTube search) | https://www.youtube.com/results?search_query=pancreatic+duct+bicarbonate+secretion+CFTR |
 | Bile acids, bile salts and enterohepatic circulation (YouTube search) | https://www.youtube.com/results?search_query=bile+acids+bile+salts+enterohepatic+circulation+physiology |
 | Crypts of Lieberkühn — Paneth and goblet cells (YouTube search) | https://www.youtube.com/results?search_query=crypts+of+lieberkuhn+paneth+cells+goblet+cells+intestinal+secretion |
@@ -695,7 +699,7 @@ INTESTINE succus entericus · crypts of Lieberkühn · goblet mucus · Paneth zi
 - Guyton & Hall Textbook of Medical Physiology — Secretory functions of the alimentary tract
 - Ganong's Review of Medical Physiology — Overview of gastrointestinal function and regulation; digestion and absorption
 - Wikimedia Commons — the embedded web image (licence noted in its caption); `Gastrointestinal Secretions - ….png` files in `attachments/` are crops of the handwritten pages
-- Videos: the web search tool was unavailable for this note, so the 🎬 links are YouTube searches rather than single videos
+- Videos: single watch links where a matching video turned up; the remaining 🎬 links (pancreatic bicarbonate, bile, intestinal secretions) are YouTube searches
 
 [^1]: The myenteric plexus lies between the outer longitudinal and inner circular muscle coats and mainly controls motility; the submucosal plexus mainly controls secretion, local blood flow and absorption. Together they form the enteric nervous system (~100 million neurons, the "second brain"), which can work without the vagus.
 [^2]: Textbooks give resting saliva a pH of about 6.0–7.0, rising towards 8 at high flow because more HCO₃⁻ is secreted; total volume about 1–1.5 L/day. The page's "pH 7" is kept.

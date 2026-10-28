@@ -167,7 +167,9 @@ Spinal cord → Mossy fibres                                             ├─�
 
 - 🧠 *One rule explains them all:* the cerebellum controls **timing** — so movements start late, overshoot (past pointing, rebound), break into pieces (decomposition), cannot alternate quickly (dysdiadochokinesia) and wobble more as they approach a target (intention tremor). Signs are on the **same side** as the lesion.[^7]
 
-🎬 **Watch:** [Cerebellum physiology — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+cerebellum+physiology) · [Cerebellar cortex circuitry — Purkinje, climbing and mossy fibres (YouTube search)](https://www.youtube.com/results?search_query=cerebellar+cortex+purkinje+climbing+mossy+fibres+circuit) · [Signs of cerebellar lesion — DANISH (YouTube search)](https://www.youtube.com/results?search_query=cerebellar+signs+DANISH+examination)
+🎬 **Watch:** [Cerebellum physiology — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+cerebellum+physiology) · [Cerebellar nuclei, tracts, peduncles — mossy fibres, climbing fibres, Purkinje cells](https://www.youtube.com/watch?v=OecY4ZhGSps) · [Signs of cerebellar lesion — DANISH (YouTube search)](https://www.youtube.com/results?search_query=cerebellar+signs+DANISH+examination)
+
+![](https://www.youtube.com/watch?v=OecY4ZhGSps)
 
 ---
 
@@ -484,7 +486,7 @@ CHOREA caudate · ATHETOSIS GP · HEMIBALLISMUS STN
 | What to watch | Link |
 |---|---|
 | Cerebellum physiology — Ninja Nerd (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+cerebellum+physiology |
-| Cerebellar cortex circuitry — Purkinje, climbing and mossy fibres (YouTube search) | https://www.youtube.com/results?search_query=cerebellar+cortex+purkinje+climbing+mossy+fibres+circuit |
+| Cerebellar nuclei, tracts, peduncles — mossy fibres, climbing fibres, Purkinje cells | https://www.youtube.com/watch?v=OecY4ZhGSps |
 | Signs of cerebellar lesion — DANISH (YouTube search) | https://www.youtube.com/results?search_query=cerebellar+signs+DANISH+examination |
 | Basal ganglia direct and indirect pathways — Ninja Nerd (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+basal+ganglia+direct+indirect+pathway |
 | Parkinson's disease pathophysiology — Osmosis (YouTube search) | https://www.youtube.com/results?search_query=osmosis+parkinson+disease+pathophysiology |

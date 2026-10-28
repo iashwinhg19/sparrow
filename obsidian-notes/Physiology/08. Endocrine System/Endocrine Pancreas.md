@@ -239,7 +239,9 @@ Rapid actions (within seconds)         Long term actions (in days)
 | **Hypoglycemic hormone: Insulin.** | **Counter regulatory**[^ety-counter-regulatory][^pre-counter] **hyperglycemic hormones:** |
 | **Blood glucose < 30 mg/dl → Coma**[^ety-coma].[^6] | • **Growth hormone** – **Dawn phenomenon**[^ety-dawn]**: early morning ↑ in glucose.** • **Glucagon** • **T₃** • **Cortisol**[^ety-cortisol] • **Epinephrine**[^ety-epinephrine][^pre-epi] |
 
-🎬 **Watch:** [YouTube search — Ninja Nerd: insulin and glucagon](https://www.youtube.com/results?search_query=ninja+nerd+insulin+glucagon+endocrine+pancreas) · [YouTube search — Armando Hasudungan: insulin secretion from the beta cell](https://www.youtube.com/results?search_query=armando+hasudungan+insulin+secretion+beta+cell) · [YouTube search — incretin effect, GLP-1 and DPP-4 inhibitors](https://www.youtube.com/results?search_query=incretin+effect+GLP-1+DPP-4+inhibitors+explained)
+🎬 **Watch:** [The Endocrine Pancreas (Insulin, Glucagon & Somatostatin)](https://www.youtube.com/watch?v=kNTCm241SiE) · [Regulation of Insulin Release and Insulin Action](https://www.youtube.com/watch?v=5x8v404rA24) · [YouTube search — incretin effect, GLP-1 and DPP-4 inhibitors](https://www.youtube.com/results?search_query=incretin+effect+GLP-1+DPP-4+inhibitors+explained)
+
+![](https://www.youtube.com/watch?v=kNTCm241SiE)
 
 ---
 
@@ -405,10 +407,11 @@ INCRETINS GLP-1, GIP (DPP-4) → exenatide, gliptins · COUNTER: GH (dawn), gluc
 
 | What to watch | Link |
 |---|---|
-| YouTube search — Ninja Nerd: insulin and glucagon | https://www.youtube.com/results?search_query=ninja+nerd+insulin+glucagon+endocrine+pancreas |
-| YouTube search — Armando Hasudungan: insulin secretion from the beta cell | https://www.youtube.com/results?search_query=armando+hasudungan+insulin+secretion+beta+cell |
+| The Endocrine Pancreas (Insulin, Glucagon & Somatostatin) | https://www.youtube.com/watch?v=kNTCm241SiE |
+| Pancreas: insulin & glucagon | https://www.youtube.com/watch?v=fd7eT3PqX8A |
+| Regulation of Insulin Release and Insulin Action — beta-cell secretion, glucose uptake | https://www.youtube.com/watch?v=5x8v404rA24 |
+| Pancreatic Hormones (Insulin, Glucagon, Somatostatin) | https://www.youtube.com/watch?v=Ck2tOAQiXBA |
 | YouTube search — Incretin effect, GLP-1 and DPP-4 inhibitors | https://www.youtube.com/results?search_query=incretin+effect+GLP-1+DPP-4+inhibitors+explained |
-| YouTube search — Osmosis: insulin receptor signalling and actions | https://www.youtube.com/results?search_query=osmosis+insulin+receptor+signaling+actions |
 
 ---
 

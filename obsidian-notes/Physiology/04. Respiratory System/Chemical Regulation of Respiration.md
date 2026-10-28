@@ -186,7 +186,9 @@ ASPHYXIA                               CENTRAL + PERIPHERAL            CHEMOREFL
 | Stagnant | normal | normal | **↑** | Not stimulated |
 | Histotoxic | normal | normal | **↓** | Stimulated (cyanide) |
 
-🎬 **Watch:** [Types of hypoxia — hypoxic, anaemic, stagnant, histotoxic (YouTube search)](https://www.youtube.com/results?search_query=types+of+hypoxia+hypoxic+anemic+stagnant+histotoxic) · [Cyanide and CO poisoning physiology (YouTube search)](https://www.youtube.com/results?search_query=cyanide+carbon+monoxide+poisoning+hypoxia+physiology)
+🎬 **Watch:** [Hypoxia: Types (Hypoxic, Anemic, Stagnant, Histotoxic)](https://www.youtube.com/watch?v=4PokI0oD0zM) · [Types of Hypoxia (Stagnant, Hypoxemic, Anemic & Cytotoxic) — Pathophysiology](https://www.youtube.com/watch?v=V8Bvrs4sEsA) · [Cyanide and CO poisoning physiology (YouTube search)](https://www.youtube.com/results?search_query=cyanide+carbon+monoxide+poisoning+hypoxia+physiology)
+
+![](https://www.youtube.com/watch?v=4PokI0oD0zM)
 
 ---
 
@@ -353,7 +355,9 @@ HYPOXIA: hypoxic (↓PaO2, stimulated, O2 works) · anaemic/CO (left shift, not 
 |---|---|
 | Central vs peripheral chemoreceptors (YouTube search) | https://www.youtube.com/results?search_query=central+vs+peripheral+chemoreceptors+respiration |
 | Carotid body — glomus cell O₂ sensing (YouTube search) | https://www.youtube.com/results?search_query=carotid+body+glomus+cell+oxygen+sensing+mechanism |
-| Types of hypoxia (YouTube search) | https://www.youtube.com/results?search_query=types+of+hypoxia+hypoxic+anemic+stagnant+histotoxic |
+| Hypoxia: Types (Hypoxic, Anemic, Stagnant, Histotoxic) | https://www.youtube.com/watch?v=4PokI0oD0zM |
+| Types of Hypoxia (Stagnant, Hypoxemic, Anemic & Cytotoxic) — Pathophysiology | https://www.youtube.com/watch?v=V8Bvrs4sEsA |
+| Tissue Hypoxia — types (Hypoxic, Ischemic, Anemic, Cytotoxic) — Pathophysiology | https://www.youtube.com/watch?v=xA7i9T6U464 |
 | Cyanide and CO poisoning — physiology (YouTube search) | https://www.youtube.com/results?search_query=cyanide+carbon+monoxide+poisoning+hypoxia+physiology |
 
 ---

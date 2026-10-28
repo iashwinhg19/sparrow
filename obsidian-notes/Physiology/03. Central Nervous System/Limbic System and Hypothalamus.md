@@ -119,7 +119,9 @@ title: Limbic system and hypothalamus
 ![[Limbic System and Hypothalamus - Papez circuit.png]]
 *Papez circuit — cingulate cortex → (cingulum) → entorhinal cortex → hippocampus → (fornix) → mamillary bodies → (mammillothalamic tract) → anterior nucleus of thalamus → cingulate cortex (cropped from the handwritten page).*
 
-🎬 **Watch:** [Limbic system anatomy and functions — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+limbic+system) · [Papez circuit explained (YouTube search)](https://www.youtube.com/results?search_query=papez+circuit+limbic+system+explained) · [Klüver–Bucy syndrome (YouTube search)](https://www.youtube.com/results?search_query=kluver+bucy+syndrome+amygdala)
+🎬 **Watch:** [Neurology | Limbic System Anatomy & Function — Ninja Nerd](https://www.youtube.com/watch?v=3Bvz6DHBB1g) · [The Limbic System & Papez Circuit — emotions, memory, hippocampus, amygdala](https://www.youtube.com/watch?v=dzCCYR5uGqw) · [Limbic System Components, Functions & Clinical Relevance (includes Klüver–Bucy)](https://www.youtube.com/watch?v=-y5EJCndRPU)
+
+![](https://www.youtube.com/watch?v=3Bvz6DHBB1g)
 
 ---
 
@@ -219,7 +221,7 @@ On decortication
 ![[Limbic System and Hypothalamus - sham rage.png]]
 *Sham rage in a decorticate cat — a mild touch provokes arching of the back, hissing and biting; centre: dorsomedial nucleus; removal of the hypothalamus abolishes sham rage (cropped from the handwritten page).*
 
-🎬 **Watch:** [Hypothalamus functions — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+hypothalamus+functions) · [Hypothalamic regulation of food intake — leptin, NPY, POMC (YouTube search)](https://www.youtube.com/results?search_query=hypothalamus+food+intake+arcuate+NPY+POMC+leptin) · [Wernicke–Korsakoff syndrome — Osmosis (YouTube search)](https://www.youtube.com/results?search_query=osmosis+wernicke+korsakoff+syndrome)
+🎬 **Watch:** [Hypothalamus physiology](https://www.youtube.com/watch?v=1X5uGB3eP7o) · [Hypothalamic regulation of food intake — leptin, NPY, POMC (YouTube search)](https://www.youtube.com/results?search_query=hypothalamus+food+intake+arcuate+NPY+POMC+leptin) · [2-Minute Neuroscience: Wernicke-Korsakoff Syndrome](https://www.youtube.com/watch?v=otIBWpiQISI)
 
 ---
 
@@ -383,12 +385,13 @@ SHAM RAGE: cortex ⊖ dorsomedial nucleus → decortication = rage · remove hyp
 
 | What to watch | Link |
 |---|---|
-| Limbic system anatomy and functions — Ninja Nerd (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+limbic+system |
-| Papez circuit explained (YouTube search) | https://www.youtube.com/results?search_query=papez+circuit+limbic+system+explained |
-| Klüver–Bucy syndrome (YouTube search) | https://www.youtube.com/results?search_query=kluver+bucy+syndrome+amygdala |
-| Hypothalamus functions — Ninja Nerd (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+hypothalamus+functions |
+| Neurology | Limbic System Anatomy & Function — Ninja Nerd | https://www.youtube.com/watch?v=3Bvz6DHBB1g |
+| The Limbic System & Papez Circuit — emotions, memory, hippocampus, amygdala | https://www.youtube.com/watch?v=dzCCYR5uGqw |
+| Limbic System Components, Functions & Clinical Relevance (includes Klüver–Bucy) | https://www.youtube.com/watch?v=-y5EJCndRPU |
+| Hypothalamus physiology | https://www.youtube.com/watch?v=1X5uGB3eP7o |
 | Hypothalamic regulation of food intake — leptin, NPY, POMC (YouTube search) | https://www.youtube.com/results?search_query=hypothalamus+food+intake+arcuate+NPY+POMC+leptin |
-| Wernicke–Korsakoff syndrome — Osmosis (YouTube search) | https://www.youtube.com/results?search_query=osmosis+wernicke+korsakoff+syndrome |
+| 2-Minute Neuroscience: Wernicke-Korsakoff Syndrome | https://www.youtube.com/watch?v=otIBWpiQISI |
+| Wernicke-Korsakoff Syndrome Visually Explained | https://www.youtube.com/watch?v=eAQrudxX9tE |
 
 ---
 
@@ -417,7 +420,7 @@ SHAM RAGE: cortex ⊖ dorsomedial nucleus → decortication = rage · remove hyp
 - Guyton & Hall Textbook of Medical Physiology — Behavioural and motivational mechanisms of the brain: the limbic system and the hypothalamus
 - Ganong's Review of Medical Physiology — Hypothalamic regulation of hormonal functions; emotions
 - Kandel, *Principles of Neural Science* — Emotions and feelings; the hypothalamus
-- `Limbic System and Hypothalamus - ….png` files in `attachments/` are crops of the handwritten pages (no web images: the web search budget was exhausted when this note was made)
+- `Limbic System and Hypothalamus - ….png` files in `attachments/` are crops of the handwritten pages
 
 [^1]: The page says "oldest part of human body"; it means the oldest part of the **cerebral cortex**. Limbic cortex is phylogenetically old **allocortex** (three-layered: archicortex of the hippocampus, paleocortex of the olfactory areas) as opposed to the six-layered neocortex. Paul Broca named the *grand lobe limbique* in 1878.
 [^2]: The orbitofrontal and ventromedial prefrontal cortex damp amygdala output; damage there (e.g. Phineas Gage, 1848) produces disinhibited, impulsive emotional behaviour.

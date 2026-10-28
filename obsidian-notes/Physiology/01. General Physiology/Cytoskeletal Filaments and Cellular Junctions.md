@@ -285,7 +285,9 @@ junction  junctions       junctions
 **Clinical significance:**
 - **Metastatic**[^ety-metastasis][^pre-meta] **— cancer cells disrupt the cell-to-basal-lamina junction.**[^28]
 
-🎬 **Watch:** [Cell junctions — tight, adherens, desmosomes, gap, hemidesmosomes (YouTube search: Ninja Nerd)](https://www.youtube.com/results?search_query=ninja+nerd+cell+junctions) · [Pemphigus vulgaris vs bullous pemphigoid (YouTube search: Osmosis)](https://www.youtube.com/results?search_query=osmosis+pemphigus+vulgaris+bullous+pemphigoid)
+🎬 **Watch:** [Cell Junctions: Gap Junction, Tight Junction, and Anchoring Junction](https://www.youtube.com/watch?v=wKf1zcxIVhs) · [Tight junctions, desmosomes and gap junctions](https://www.youtube.com/watch?v=K3UMcOmn6z4) · [Pemphigus vulgaris vs bullous pemphigoid (YouTube search: Osmosis)](https://www.youtube.com/results?search_query=osmosis+pemphigus+vulgaris+bullous+pemphigoid)
+
+![](https://www.youtube.com/watch?v=wKf1zcxIVhs)
 
 ---
 
@@ -456,7 +458,8 @@ JUNCTIONS: tight (occludin, claudin-16 → Mg↓ Ca-uria) · ZA (E-cadherin, β-
 | Axonal transport — kinesin and dynein (Ninja Nerd, YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+axonal+transport+kinesin+dynein |
 | Cytoskeleton — the three filament types (Armando Hasudungan, YouTube search) | https://www.youtube.com/results?search_query=armando+hasudungan+cytoskeleton |
 | Primary ciliary dyskinesia / Kartagener syndrome (Osmosis, YouTube search) | https://www.youtube.com/results?search_query=osmosis+primary+ciliary+dyskinesia+kartagener |
-| Cell junctions — tight, adherens, desmosome, gap, hemidesmosome (Ninja Nerd, YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+cell+junctions |
+| Cell Junctions: Gap Junction, Tight Junction, and Anchoring Junction | https://www.youtube.com/watch?v=wKf1zcxIVhs |
+| Tight junctions, desmosomes and gap junctions | https://www.youtube.com/watch?v=K3UMcOmn6z4 |
 
 ---
 

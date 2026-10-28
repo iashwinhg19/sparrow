@@ -169,6 +169,9 @@ Type B  Spermatogonium (stem cell)  [2n]  ◄─────┐
 
 **Leydig cells:** **produce testosterone.**[^10]
 
+![Seminiferous tubules in transverse section (H&E) — Sertoli cells, spermatogonia and Leydig cells (Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/0/03/Seminiferous_tubule_and_sperm.jpg)
+*Seminiferous tubules in transverse section (H&E micrograph) — spermatogonia and Sertoli cells inside the tubule, Leydig cells in the interstitium between tubules (Wikimedia Commons; licence on the file page).*
+
 ![[Male Reproduction - cells in testis.png]]
 *Cells in the testis — inside the tubule a Sertoli cell holds, from base to lumen, spermatogonia, primary and secondary spermatocytes, round spermatids and spermatozoa; outside it lie myoid cells and the interstitial (Leydig) cells that produce testosterone (cropped from the handwritten page).*
 
@@ -236,7 +239,9 @@ Fluid ──produced by──→       • Prostate (30 %)
 
 **Buffers**[^ety-buffer]**:** **bicarbonate, phosphate.**[^17]
 
-🎬 **Watch:** [Spermatogenesis — Osmosis (YouTube search)](https://www.youtube.com/results?search_query=osmosis+spermatogenesis) · [Male reproductive physiology — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+male+reproductive+physiology) · [Sertoli and Leydig cells — Armando Hasudungan (YouTube search)](https://www.youtube.com/results?search_query=armando+hasudungan+sertoli+leydig+cells)
+🎬 **Watch:** [Spermatogenesis — Osmosis (YouTube search)](https://www.youtube.com/results?search_query=osmosis+spermatogenesis) · [Male reproductive physiology — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+male+reproductive+physiology) · [Leydig and Sertoli cells promote spermatogenesis](https://www.youtube.com/watch?v=al7aPDznAnI)
+
+![](https://www.youtube.com/watch?v=al7aPDznAnI)
 
 ---
 
@@ -515,7 +520,9 @@ AXIS: LH → Leydig → T (⊣ GnRH/LH) · FSH → Sertoli → inhibin B (⊣ FS
 |---|---|
 | Spermatogenesis — Osmosis (YouTube search) | https://www.youtube.com/results?search_query=osmosis+spermatogenesis |
 | Male reproductive physiology — Ninja Nerd (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+male+reproductive+physiology |
-| Sertoli and Leydig cells — Armando Hasudungan (YouTube search) | https://www.youtube.com/results?search_query=armando+hasudungan+sertoli+leydig+cells |
+| Leydig and Sertoli cells promote spermatogenesis | https://www.youtube.com/watch?v=al7aPDznAnI |
+| Sertoli cell vs. Leydig cell - Reproductive System Physiology | https://www.youtube.com/watch?v=761jnQFfrhc |
+| Microscopic Anatomy of Testis | https://www.youtube.com/watch?v=o05dXl0GECc |
 | Erection physiology — NO, cGMP, PDE5 and sildenafil (YouTube search) | https://www.youtube.com/results?search_query=erection+physiology+nitric+oxide+cGMP+PDE5+sildenafil |
 
 ---

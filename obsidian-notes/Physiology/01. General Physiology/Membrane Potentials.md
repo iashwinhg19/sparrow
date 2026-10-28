@@ -161,7 +161,9 @@ detail: related
 title: Pacemakers and excitable tissues
 ```
 
-🎬 **Watch:** [YouTube search — resting membrane potential (Ninja Nerd)](https://www.youtube.com/results?search_query=ninja+nerd+resting+membrane+potential) · [YouTube search — hyperkalemia and hypokalemia effect on membrane potential](https://www.youtube.com/results?search_query=hyperkalemia+hypokalemia+resting+membrane+potential+excitability)
+🎬 **Watch:** [Resting membrane potential physiology](https://www.youtube.com/watch?v=E9chvgniwIM) · [Hyperkalemia — the effects of hyperkalemia on resting membrane potential (depolarized), why and how](https://www.youtube.com/watch?v=vqyY2bP7UIM)
+
+![](https://www.youtube.com/watch?v=E9chvgniwIM)
 
 ---
 
@@ -212,7 +214,7 @@ E = \pm 61 \log \frac{C_o}{C_i} \qquad \text{(OR)} \qquad E = \pm 61 \log \frac{
   - b. **Permeability.**
 - **Applied aspect: rapid changes in permeability of multiple ions → generation of action potential.**[^9]
 
-🎬 **Watch:** [YouTube search — Nernst equation and equilibrium potential explained](https://www.youtube.com/results?search_query=nernst+equation+equilibrium+potential+explained) · [YouTube search — Goldman equation membrane potential](https://www.youtube.com/results?search_query=goldman+hodgkin+katz+equation+membrane+potential)
+🎬 **Watch:** [Nernst Potential and Goldman's Equation — Nerve Physiology, Physiology Series](https://www.youtube.com/watch?v=S_Cyh6QNy_0) · [Nernst Potential & Goldman equation](https://www.youtube.com/watch?v=-56EEMMzui0)
 
 ---
 
@@ -274,7 +276,7 @@ Plasma proteins (non-diffusible) → colloid oncotic pressure (πc) → fluid re
 Kidney disease → protein lost → ↓ πc → fluid stays in interstitium → EDEMA                          [pathology]
 ```
 
-🎬 **Watch:** [YouTube search — Gibbs-Donnan equilibrium physiology](https://www.youtube.com/results?search_query=gibbs+donnan+equilibrium+physiology) · [YouTube search — driving force electrochemical gradient membrane potential](https://www.youtube.com/results?search_query=driving+force+electrochemical+gradient+membrane+potential)
+🎬 **Watch:** [Gibbs Donnan Equilibrium](https://www.youtube.com/watch?v=u08Lrfebh6s) · [YouTube search — driving force electrochemical gradient membrane potential](https://www.youtube.com/results?search_query=driving+force+electrochemical+gradient+membrane+potential)
 
 ---
 
@@ -434,11 +436,11 @@ GIBBS–DONNAN: trapped protein anions → negative RMP · plasma proteins → �
 
 | What to watch | Link |
 |---|---|
-| Resting membrane potential (YouTube search — Ninja Nerd) | https://www.youtube.com/results?search_query=ninja+nerd+resting+membrane+potential |
-| Hyperkalaemia and hypokalaemia — effect on membrane potential (YouTube search) | https://www.youtube.com/results?search_query=hyperkalemia+hypokalemia+resting+membrane+potential+excitability |
-| Nernst equation and equilibrium potential (YouTube search) | https://www.youtube.com/results?search_query=nernst+equation+equilibrium+potential+explained |
-| Goldman–Hodgkin–Katz equation (YouTube search) | https://www.youtube.com/results?search_query=goldman+hodgkin+katz+equation+membrane+potential |
-| Gibbs–Donnan equilibrium (YouTube search) | https://www.youtube.com/results?search_query=gibbs+donnan+equilibrium+physiology |
+| Resting membrane potential physiology | https://www.youtube.com/watch?v=E9chvgniwIM |
+| Hyperkalaemia — effect on resting membrane potential (depolarisation) | https://www.youtube.com/watch?v=vqyY2bP7UIM |
+| Nernst potential and Goldman's equation (Nerve Physiology series) | https://www.youtube.com/watch?v=S_Cyh6QNy_0 |
+| Nernst potential and Goldman equation | https://www.youtube.com/watch?v=-56EEMMzui0 |
+| Gibbs–Donnan equilibrium | https://www.youtube.com/watch?v=u08Lrfebh6s |
 
 ---
 
@@ -465,7 +467,7 @@ GIBBS–DONNAN: trapped protein anions → negative RMP · plasma proteins → �
 - Guyton & Hall Textbook of Medical Physiology — Ch. 5, Membrane potentials and action potentials
 - Ganong's Review of Medical Physiology — Ch. 2 and 4 (membrane potential, Nernst and Goldman equations)
 - `Membrane Potentials - ….png` files in `attachments/` are crops of the handwritten pages (no Commons image could be searched for this run)
-- Video links are YouTube searches (no verified individual video could be searched for this run)
+- The driving-force link is a YouTube search (no suitable single video was found for that topic)
 
 [^1]: The voltmeter figure comes from OpenStax *Anatomy & Physiology* ("Measuring charge across a membrane with a voltmeter"): by convention the potential is given as the inside relative to the outside, so a resting neuron reads about −70 mV.
 [^2]: Textbook values vary a little: large myelinated nerve fibres about −90 mV (Guyton), many CNS neurons −65 to −70 mV, smooth muscle about −50 to −60 mV, erythrocytes only about −10 mV. The page's values are kept.

@@ -220,7 +220,9 @@ detail: related
 title: Memory structures and speech areas
 ```
 
-🎬 **Watch:** [Long-term potentiation — NMDA and AMPA receptors (YouTube search)](https://www.youtube.com/results?search_query=long+term+potentiation+NMDA+AMPA+hippocampus) · [Types of memory — explicit vs implicit (YouTube search)](https://www.youtube.com/results?search_query=types+of+memory+explicit+implicit+declarative+procedural+physiology) · [Hippocampal circuit — perforant path, Schaffer collaterals (YouTube search)](https://www.youtube.com/results?search_query=hippocampus+trisynaptic+circuit+perforant+path+schaffer+collateral)
+🎬 **Watch:** [Long Term Potentiation and NMDA Receptors Part 1](https://www.youtube.com/watch?v=yvhUamMFIak) · [Long Term Memory & types — declarative, procedural, episodic, semantic, implicit](https://www.youtube.com/watch?v=qb8jiQb0FZk) · [Memory and the Hippocampus — trisynaptic circuit](https://www.youtube.com/watch?v=2K3GAaC2SEI)
+
+![](https://www.youtube.com/watch?v=yvhUamMFIak)
 
 ---
 
@@ -241,7 +243,7 @@ title: Memory structures and speech areas
 
 - 🧠 *How to read an aphasia question:* ask three things — is speech **fluent**? is **comprehension** intact? can the patient **repeat**? Non-fluent + comprehension intact = **Broca's**; fluent + comprehension lost = **Wernicke's**; fluent + comprehension intact + repetition lost = **conduction**; only naming lost = **anomic**.[^12]
 
-🎬 **Watch:** [Aphasias — Broca, Wernicke, conduction — Osmosis (YouTube search)](https://www.youtube.com/results?search_query=osmosis+aphasia+broca+wernicke+conduction) · [Cerebral dominance and split brain (YouTube search)](https://www.youtube.com/results?search_query=cerebral+dominance+categorical+representational+hemisphere+split+brain)
+🎬 **Watch:** [Types of Aphasia — Broca's, Wernicke's, amnestic, conduction, mixed](https://www.youtube.com/watch?v=MaVXYh4pwiI) · [Split-Brain — Scientific American video](https://www.youtube.com/watch?v=lq3wqLtR8qA)
 
 ---
 
@@ -410,11 +412,15 @@ SPEECH: Broca 44 non-fluent · Wernicke 22 fluent, no comprehension · arcuate �
 
 | What to watch | Link |
 |---|---|
-| Long-term potentiation — NMDA and AMPA receptors (YouTube search) | https://www.youtube.com/results?search_query=long+term+potentiation+NMDA+AMPA+hippocampus |
-| Types of memory — explicit vs implicit (YouTube search) | https://www.youtube.com/results?search_query=types+of+memory+explicit+implicit+declarative+procedural+physiology |
-| Hippocampal circuit — perforant path, Schaffer collaterals (YouTube search) | https://www.youtube.com/results?search_query=hippocampus+trisynaptic+circuit+perforant+path+schaffer+collateral |
-| Aphasias — Broca, Wernicke, conduction — Osmosis (YouTube search) | https://www.youtube.com/results?search_query=osmosis+aphasia+broca+wernicke+conduction |
-| Cerebral dominance and split brain (YouTube search) | https://www.youtube.com/results?search_query=cerebral+dominance+categorical+representational+hemisphere+split+brain |
+| Long Term Potentiation and NMDA Receptors Part 1 | https://www.youtube.com/watch?v=yvhUamMFIak |
+| Long Term Memory (LTM) & types: declarative, procedural, episodic, semantic, flashbulb, implicit | https://www.youtube.com/watch?v=qb8jiQb0FZk |
+| What is Procedural Memory | https://www.youtube.com/watch?v=igl9hn1gt74 |
+| Memory and the Hippocampus (trisynaptic circuit) | https://www.youtube.com/watch?v=2K3GAaC2SEI |
+| The Hippocampus and episodic memory | https://www.youtube.com/watch?v=lkegFMnGY74 |
+| Types of Aphasia — Broca's, Wernicke's, amnestic, conduction, mixed | https://www.youtube.com/watch?v=MaVXYh4pwiI |
+| Broca's Aphasia vs. Wernicke's Aphasia — Broca's area, Wernicke's area, Brodmann areas | https://www.youtube.com/watch?v=qfKE1YvNTg8 |
+| Split-Brain — Scientific American video | https://www.youtube.com/watch?v=lq3wqLtR8qA |
+| 06 Brain & Behavior — Split Brain (severed corpus callosum) | https://www.youtube.com/watch?v=0PVd-Erv5us |
 
 ---
 
@@ -443,7 +449,7 @@ SPEECH: Broca 44 non-fluent · Wernicke 22 fluent, no comprehension · arcuate �
 - Guyton & Hall Textbook of Medical Physiology — Cerebral cortex, intellectual functions of the brain, learning and memory
 - Ganong's Review of Medical Physiology — Learning, memory, language and speech
 - Kandel, *Principles of Neural Science* — Learning and memory; language
-- `Learning and Memory - ….png` files in `attachments/` are crops of the handwritten pages (no web images: the web search budget was exhausted when this note was made)
+- `Learning and Memory - ….png` files in `attachments/` are crops of the handwritten pages
 
 [^1]: Textbooks give the left hemisphere as language-dominant in about 95–99 % of right-handed and about 60–70 % of left-handed people; the page's 96 % and 70 % fall within these ranges. Ganong introduced the terms *categorical* (sequential, analytic, language) and *representational* (visuospatial, holistic) hemisphere.
 [^2]: The word *engram* was coined by the German zoologist Richard Semon (1904) for the physical trace a memory leaves in neural tissue; the page defines it as the "collection of memories".

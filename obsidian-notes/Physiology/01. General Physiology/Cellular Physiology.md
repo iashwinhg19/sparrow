@@ -88,7 +88,9 @@ CARBOHYDRATES  → glycoproteins · glycolipids → BLOOD GROUPS
 ![Detailed diagram of the cell membrane — phospholipid bilayer with integral and peripheral proteins, cholesterol, glycoproteins and glycolipids](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cell_membrane_detailed_diagram_en.svg/800px-Cell_membrane_detailed_diagram_en.svg.png)
 *Cell membrane — the page labels carbohydrates (sugar chains on the outer surface), lipids (the bilayer), cholesterol ("critical lipids") and proteins (LadyofHats / Mariana Ruiz, Wikimedia Commons, public domain).*
 
-🎬 **Watch:** [Cell membrane structure — fluid mosaic model (YouTube search: Ninja Nerd)](https://www.youtube.com/results?search_query=ninja+nerd+cell+membrane+fluid+mosaic+model) · [Plasma membrane components (YouTube search: Armando Hasudungan)](https://www.youtube.com/results?search_query=armando+hasudungan+plasma+membrane)
+🎬 **Watch:** [Fluid mosaic model of cell membranes](https://www.youtube.com/watch?v=cP8iQu57dQo) · [Fluid Mosaic Model of the Plasma Membrane — phospholipid bilayer](https://www.youtube.com/watch?v=xQjzPZZ4olE)
+
+![](https://www.youtube.com/watch?v=cP8iQu57dQo)
 
 ---
 
@@ -258,7 +260,7 @@ The night-time fall in pH is the page's trigger for complement activation.[^17]
   - **Ravulizumab** (long acting).[^18]
 - **Hematopoietic**[^ety-hematopoietic][^suf-poiesis] **stem cell transplant**[^ety-transplant] — **definitive**.
 
-🎬 **Watch:** [Paroxysmal nocturnal hemoglobinuria (YouTube search: Osmosis)](https://www.youtube.com/results?search_query=osmosis+paroxysmal+nocturnal+hemoglobinuria) · [Membrane proteins — integral, peripheral, lipid-anchored (YouTube search)](https://www.youtube.com/results?search_query=integral+peripheral+lipid+anchored+membrane+proteins)
+🎬 **Watch:** [Paroxysmal Nocturnal Hemoglobinuria (PNH) — hemolytic anemia and the alternative complement pathway](https://www.youtube.com/watch?v=96ai63StNiI) · [The Fluid Mosaic Model of the Cell Membrane — bilayer, transport proteins, glycoproteins](https://www.youtube.com/watch?v=jEY9Bie92aM)
 
 ---
 
@@ -285,7 +287,7 @@ The night-time fall in pH is the page's trigger for complement activation.[^17]
 > - **Repair of damaged cell membrane** is by **resealing of the lipid bilayer**.[^21]
 > - **Deficiency of lecithin in a pre-term baby: Hyaline**[^ety-hyaline] **Membrane Disease.**[^22]
 
-🎬 **Watch:** [Membrane fluidity and cholesterol (YouTube search: Khan Academy)](https://www.youtube.com/results?search_query=khan+academy+membrane+fluidity+cholesterol) · [ABO blood group antigens on RBC (YouTube search)](https://www.youtube.com/results?search_query=ABO+blood+group+antigens+glycolipids+RBC+membrane)
+🎬 **Watch:** [Membrane fluidity and cholesterol (YouTube search: Khan Academy)](https://www.youtube.com/results?search_query=khan+academy+membrane+fluidity+cholesterol) · [Structure of the cell surface membrane — phospholipids and glycolipids (fluid mosaic model)](https://www.youtube.com/watch?v=5OzhJowmJFI)
 
 ---
 
@@ -452,9 +454,11 @@ CARBS: glycoprotein + glycolipid → blood groups · inner mito membrane = most 
 
 | What to watch | Link |
 |---|---|
-| Cell membrane structure — fluid mosaic model (Ninja Nerd, YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+cell+membrane+fluid+mosaic+model |
-| Plasma membrane components (Armando Hasudungan, YouTube search) | https://www.youtube.com/results?search_query=armando+hasudungan+plasma+membrane |
-| Paroxysmal nocturnal hemoglobinuria (Osmosis, YouTube search) | https://www.youtube.com/results?search_query=osmosis+paroxysmal+nocturnal+hemoglobinuria |
+| Fluid mosaic model of cell membranes — overview (phospholipids, proteins, glycoproteins, cholesterol, glycolipids) | https://www.youtube.com/watch?v=cP8iQu57dQo |
+| Fluid Mosaic Model of the Plasma Membrane — phospholipid bilayer | https://www.youtube.com/watch?v=xQjzPZZ4olE |
+| The Fluid Mosaic Model of the Cell Membrane — bilayer, transport proteins, glycoproteins | https://www.youtube.com/watch?v=jEY9Bie92aM |
+| Structure of the cell surface membrane — phospholipids and glycolipids | https://www.youtube.com/watch?v=5OzhJowmJFI |
+| Paroxysmal Nocturnal Hemoglobinuria (PNH) — hemolytic anemia, alternative complement pathway | https://www.youtube.com/watch?v=96ai63StNiI |
 | Membrane fluidity and cholesterol (Khan Academy, YouTube search) | https://www.youtube.com/results?search_query=khan+academy+membrane+fluidity+cholesterol |
 
 ---

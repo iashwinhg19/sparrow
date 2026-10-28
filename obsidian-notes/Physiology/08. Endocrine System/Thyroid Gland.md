@@ -306,7 +306,9 @@ T3 → ↑ metabolism → ↑ O2 consumption → HYPOXIA → shift of O2 dissoci
 - **Permissive**[^ety-permissive] **role in normal reproductive function.**
 - **In liver, T3 ↑ sex steroid binding globulin.**[^10]
 
-🎬 **Watch:** [YouTube search — Ninja Nerd: thyroid hormone synthesis](https://www.youtube.com/results?search_query=ninja+nerd+thyroid+hormone+synthesis) · [YouTube search — Armando Hasudungan: thyroid hormone physiology](https://www.youtube.com/results?search_query=armando+hasudungan+thyroid+hormone+physiology) · [YouTube search — actions of thyroid hormone (BMR, heart, development)](https://www.youtube.com/results?search_query=actions+of+thyroid+hormone+physiology+lecture)
+🎬 **Watch:** [Thyroid Hormone Synthesis](https://www.youtube.com/watch?v=uCjpGlnCjeA) · [Thyroid Gland - Thyroid Hormones](https://www.youtube.com/watch?v=b7JFqGMi9pk) · [L3: Thyroid hormones; Physiology](https://www.youtube.com/watch?v=eX4pC4ncwB0)
+
+![](https://www.youtube.com/watch?v=b7JFqGMi9pk)
 
 ---
 
@@ -469,10 +471,11 @@ ACTIONS: ↑BMR (not adult brain, testes, uterus, spleen) · UCP1 heat · catabo
 
 | What to watch | Link |
 |---|---|
-| YouTube search — Ninja Nerd: thyroid hormone synthesis | https://www.youtube.com/results?search_query=ninja+nerd+thyroid+hormone+synthesis |
-| YouTube search — Armando Hasudungan: thyroid hormone physiology | https://www.youtube.com/results?search_query=armando+hasudungan+thyroid+hormone+physiology |
-| YouTube search — Actions of thyroid hormone (BMR, heart, development) | https://www.youtube.com/results?search_query=actions+of+thyroid+hormone+physiology+lecture |
-| YouTube search — Osmosis: hypothyroidism and hyperthyroidism | https://www.youtube.com/results?search_query=osmosis+hypothyroidism+hyperthyroidism |
+| Thyroid Hormone Synthesis — iodide trapping to T3/T4 secretion | https://www.youtube.com/watch?v=uCjpGlnCjeA |
+| Thyroid Gland - Thyroid Hormones — synthesis, regulation and actions | https://www.youtube.com/watch?v=b7JFqGMi9pk |
+| L3: Thyroid hormones; Physiology — lecture | https://www.youtube.com/watch?v=eX4pC4ncwB0 |
+| Hypothalamic Pituitary Thyroid Axis (regulation, TRH, TSH, thyroid hormones T3 and T4) | https://www.youtube.com/watch?v=KzM8BiSnKQM |
+| System Endocrine Hypothyroidism and Hyperthyroidism | https://www.youtube.com/watch?v=NGKaGOsCgGc |
 
 ---
 

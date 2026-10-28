@@ -152,7 +152,9 @@ The **hypothalamus**[^ety-hypothalamus][^pre-hypo] releases **corticotropin-rele
 ![The HPA axis — hypothalamus → CRH → anterior pituitary → ACTH → adrenal cortex → cortisol, with cortisol's negative feedback](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/HPA_Axis_Diagram_(Brian_M_Sweis_2012).png/800px-HPA_Axis_Diagram_(Brian_M_Sweis_2012).png)
 *The hypothalamic–pituitary–adrenal axis with its negative feedback loops — the same chain as the page's flowchart (Brian M. Sweis 2012, Wikimedia Commons — free licence, see file page).*
 
-🎬 **Watch:** [Adrenal cortex hormones and steroid synthesis — Osmosis (YouTube search)](https://www.youtube.com/results?search_query=osmosis+adrenal+cortex+hormones+steroid+synthesis) · [Adrenal gland physiology — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+adrenal+gland+physiology) · [HPA axis explained (YouTube search)](https://www.youtube.com/results?search_query=HPA+axis+CRH+ACTH+cortisol+physiology)
+🎬 **Watch:** [Adrenal Cortex: Synthesis and Secretion](https://www.youtube.com/watch?v=lq_s0bgC5L4) · [Anatomy and Physiology of the Adrenal Glands, Animation](https://www.youtube.com/watch?v=-d-9gRgz9pY) · [HPA axis explained (YouTube search)](https://www.youtube.com/results?search_query=HPA+axis+CRH+ACTH+cortisol+physiology)
+
+![](https://www.youtube.com/watch?v=-d-9gRgz9pY)
 
 ---
 
@@ -515,10 +517,12 @@ SEX STEROIDS: DHEAS most circulating · ↑ adrenal androgens → girls virilise
 
 | What to watch | Link |
 |---|---|
-| Adrenal cortex hormones and steroid synthesis — Osmosis (YouTube search) | https://www.youtube.com/results?search_query=osmosis+adrenal+cortex+hormones+steroid+synthesis |
-| Adrenal gland physiology — Ninja Nerd (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+adrenal+gland+physiology |
+| Adrenal Cortex: Synthesis and Secretion — steroid hormones of the cortex | https://www.youtube.com/watch?v=lq_s0bgC5L4 |
+| Anatomy and Physiology of the Adrenal Glands, Animation — cortex zones, medulla, regulation | https://www.youtube.com/watch?v=-d-9gRgz9pY |
+| Zones of the Adrenal Cortex | https://www.youtube.com/watch?v=-wweKu9SI7s |
+| Mineralocorticoids (Aldosterone) - Zona Glomerulosa - Adrenal Cortex - Endocrine Physiology Series | https://www.youtube.com/watch?v=P7EWCs0bWqk |
+| Conn's Syndrome (Primary Hyperaldosteronism) | https://www.youtube.com/watch?v=cnaeJtq10vo |
 | HPA axis — CRH, ACTH, cortisol (YouTube search) | https://www.youtube.com/results?search_query=HPA+axis+CRH+ACTH+cortisol+physiology |
-| Aldosterone, Conn's, Cushing's and Addison's — Armando Hasudungan (YouTube search) | https://www.youtube.com/results?search_query=armando+hasudungan+aldosterone+cortisol+adrenal |
 
 ---
 

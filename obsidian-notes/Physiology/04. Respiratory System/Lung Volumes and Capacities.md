@@ -146,7 +146,9 @@ P_{m_i} \times V_{L_i} \;=\; P_{m_f} \times \left( V_{L_i} + \Delta V \right)
 > - **Helium**[^ety-helium] **dilution**[^ety-dilution][^pre-di] **technique.**
 > - **Nitrogen**[^ety-nitrogen] **washout technique.**[^5]
 
-🎬 **Watch:** [Lung volumes and capacities — spirogram (YouTube search)](https://www.youtube.com/results?search_query=lung+volumes+and+capacities+spirogram+physiology) · [Body plethysmography and Boyle's law (YouTube search)](https://www.youtube.com/results?search_query=body+plethysmography+FRC+Boyle+law) · [Ninja Nerd — pulmonary function tests (YouTube search)](https://www.youtube.com/results?search_query=Ninja+Nerd+pulmonary+function+tests)
+🎬 **Watch:** [Respiratory System 7 — Lung volumes and spirogram](https://www.youtube.com/watch?v=iLB0hHGKf5M) · [Pulmonary function tests — functional residual capacity measurement](https://www.youtube.com/watch?v=ukK8EbfEN5Y) · [Ninja Nerd — pulmonary function tests (YouTube search)](https://www.youtube.com/results?search_query=Ninja+Nerd+pulmonary+function+tests)
+
+![](https://www.youtube.com/watch?v=iLB0hHGKf5M)
 
 ---
 
@@ -240,7 +242,7 @@ detail: related
 title: Upper and lower airway, lungs and diaphragm
 ```
 
-🎬 **Watch:** [Flow volume loops — obstructive vs restrictive (YouTube search)](https://www.youtube.com/results?search_query=flow+volume+loop+obstructive+restrictive+physiology) · [Upper airway obstruction flow volume loops — fixed vs variable (YouTube search)](https://www.youtube.com/results?search_query=fixed+variable+extrathoracic+intrathoracic+obstruction+flow+volume+loop) · [FEV1/FVC ratio — spirometry interpretation (YouTube search)](https://www.youtube.com/results?search_query=FEV1+FVC+ratio+spirometry+interpretation)
+🎬 **Watch:** [Flow Volume Loop](https://www.youtube.com/watch?v=kc2oK-GW1ic) · [Flow Volume Loops Explained — variable intrathoracic, extrathoracic and fixed obstructions](https://www.youtube.com/watch?v=WTAv9GDTFJQ) · [FEV1/FVC ratio — spirometry interpretation (YouTube search)](https://www.youtube.com/results?search_query=FEV1+FVC+ratio+spirometry+interpretation)
 
 ---
 
@@ -405,10 +407,10 @@ UAO: variable extrathoracic (OSA) = insp flat · variable intrathoracic (foreign
 
 | What to watch | Link |
 |---|---|
-| Lung volumes and capacities — spirogram (YouTube search) | https://www.youtube.com/results?search_query=lung+volumes+and+capacities+spirogram+physiology |
-| Body plethysmography and Boyle's law (YouTube search) | https://www.youtube.com/results?search_query=body+plethysmography+FRC+Boyle+law |
-| Flow volume loops — obstructive vs restrictive (YouTube search) | https://www.youtube.com/results?search_query=flow+volume+loop+obstructive+restrictive+physiology |
-| Fixed vs variable upper airway obstruction loops (YouTube search) | https://www.youtube.com/results?search_query=fixed+variable+extrathoracic+intrathoracic+obstruction+flow+volume+loop |
+| Respiratory System 7 — Lung volumes and spirogram | https://www.youtube.com/watch?v=iLB0hHGKf5M |
+| Pulmonary function tests — functional residual capacity measurement | https://www.youtube.com/watch?v=ukK8EbfEN5Y |
+| Flow Volume Loop | https://www.youtube.com/watch?v=kc2oK-GW1ic |
+| Flow Volume Loops Explained — variable intrathoracic, extrathoracic and fixed obstructions | https://www.youtube.com/watch?v=WTAv9GDTFJQ |
 
 ---
 

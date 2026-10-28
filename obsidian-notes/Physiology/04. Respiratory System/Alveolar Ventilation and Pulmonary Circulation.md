@@ -196,7 +196,9 @@ V_D = V_T \times \frac{P_ACO_2 - P_ECO_2}{P_ACO_2}
 | **Alveolar** | **Nil** | Dead space occurs | — |
 | **Total physiological** | = anatomical | Alveolar + anatomical | **Bohr's equation** |
 
-🎬 **Watch:** [Alveolar gas equation & A–a gradient (YouTube search)](https://www.youtube.com/results?search_query=alveolar+gas+equation+A-a+gradient+physiology) · [Dead space — anatomical vs physiological, Fowler & Bohr (YouTube search)](https://www.youtube.com/results?search_query=anatomical+physiological+dead+space+Fowler+Bohr+equation) · [Ninja Nerd — alveolar ventilation (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+alveolar+ventilation+dead+space)
+🎬 **Watch:** [Alveolar Gas Equation — alveolar, arterial (A–a gradient), oxygen and carbon dioxide — Lung Physiology](https://www.youtube.com/watch?v=vrjK4gxa-48) · [Measurement of dead space — Fowler's and Bohr's method](https://www.youtube.com/watch?v=x4Wc9oIzwWw) · [Ninja Nerd — alveolar ventilation (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+alveolar+ventilation+dead+space)
+
+![](https://www.youtube.com/watch?v=vrjK4gxa-48)
 
 ---
 
@@ -266,7 +268,7 @@ Vasoconstriction
 >
 > 🧠 *Why the difference?* A tissue short of O₂ needs **more blood**, so systemic vessels dilate. A lung alveolus short of O₂ is **not getting air**, so sending blood there would be wasted — the pulmonary vessel constricts and sends the blood to alveoli that are ventilated. This keeps ventilation and perfusion matched.
 
-🎬 **Watch:** [West zones of the lung (YouTube search)](https://www.youtube.com/results?search_query=west+zones+of+the+lung+pulmonary+blood+flow) · [Hypoxic pulmonary vasoconstriction mechanism (YouTube search)](https://www.youtube.com/results?search_query=hypoxic+pulmonary+vasoconstriction+mechanism) · [Pulmonary circulation physiology lecture (YouTube search)](https://www.youtube.com/results?search_query=pulmonary+circulation+physiology+lecture)
+🎬 **Watch:** [Zones of Pulmonary Blood Flow — a comprehensive overview](https://www.youtube.com/watch?v=R3AHkQcsFsg) · [Hypoxic pulmonary vasoconstriction mechanism (YouTube search)](https://www.youtube.com/results?search_query=hypoxic+pulmonary+vasoconstriction+mechanism) · [Pulmonary circulation physiology lecture (YouTube search)](https://www.youtube.com/results?search_query=pulmonary+circulation+physiology+lecture)
 
 ---
 
@@ -430,9 +432,12 @@ PULMONARY CIRCULATION: 5 L, distensible, low pressure · HYPOXIA → K+ shut →
 
 | What to watch | Link |
 |---|---|
-| Alveolar gas equation and the A–a gradient (YouTube search) | https://www.youtube.com/results?search_query=alveolar+gas+equation+A-a+gradient+physiology |
-| Dead space — anatomical vs physiological, Fowler's method & Bohr's equation (YouTube search) | https://www.youtube.com/results?search_query=anatomical+physiological+dead+space+Fowler+Bohr+equation |
-| West zones of the lung — pulmonary blood flow (YouTube search) | https://www.youtube.com/results?search_query=west+zones+of+the+lung+pulmonary+blood+flow |
+| Alveolar Gas Equation — alveolar, arterial (A–a gradient), oxygen and carbon dioxide — Lung Physiology | https://www.youtube.com/watch?v=vrjK4gxa-48 |
+| A-a Gradient Explained: definition, equation, physiology and clinical use | https://www.youtube.com/watch?v=GOaNcOo5sQk |
+| Measurement of dead space — Fowler's and Bohr's method | https://www.youtube.com/watch?v=x4Wc9oIzwWw |
+| Calculating Physiological Dead Space — Bohr's method | https://www.youtube.com/watch?v=auEP24n38fQ |
+| Fowler's Method | https://www.youtube.com/watch?v=GGX0SOThWmA |
+| Zones of Pulmonary Blood Flow — a comprehensive overview | https://www.youtube.com/watch?v=R3AHkQcsFsg |
 | Hypoxic pulmonary vasoconstriction — mechanism (YouTube search) | https://www.youtube.com/results?search_query=hypoxic+pulmonary+vasoconstriction+mechanism |
 
 ---

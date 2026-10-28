@@ -190,7 +190,9 @@ Conivaptan ⊣ V2
 
 🧠 Free-water clearance = urine flow − osmolar clearance. Positive means the kidney is excreting water without solute (dilute urine — no ADH); negative means it is holding water back (concentrated urine — ADH acting); zero means urine is isotonic, as when the medullary gradient or the diluting segment is lost.[^8]
 
-🎬 **Watch:** [Aldosterone on principal cells — ENaC, ROMK, spironolactone (YouTube search)](https://www.youtube.com/results?search_query=aldosterone+principal+cell+ENaC+ROMK+spironolactone+amiloride) · [ADH mechanism — V2, cAMP, aquaporin-2 (YouTube search)](https://www.youtube.com/results?search_query=ADH+vasopressin+V2+receptor+aquaporin+2+mechanism) · [Free water clearance, SIADH vs diabetes insipidus (YouTube search)](https://www.youtube.com/results?search_query=free+water+clearance+SIADH+diabetes+insipidus+physiology)
+🎬 **Watch:** [Aldosterone on principal cells — ENaC, ROMK, spironolactone (YouTube search)](https://www.youtube.com/results?search_query=aldosterone+principal+cell+ENaC+ROMK+spironolactone+amiloride) · [How does Antidiuretic Hormone (ADH) work?](https://www.youtube.com/watch?v=MR8BABoFTP8) · [SIADH vs Diabetes Insipidus](https://www.youtube.com/watch?v=i_wGj7Fx2Kw)
+
+![](https://www.youtube.com/watch?v=MR8BABoFTP8)
 
 ---
 
@@ -336,7 +338,7 @@ P = \frac{2T}{r}
 
 🧠 Laplace's law: as the bladder fills, the wall tension (T) rises but so does the radius (r), so pressure (P) barely changes — the bladder can store 400 mL without leaking.[^14]
 
-🎬 **Watch:** [Micturition reflex — neural control of the bladder (YouTube search)](https://www.youtube.com/results?search_query=micturition+reflex+physiology+neural+control+bladder) · [Cystometrogram and Laplace's law (YouTube search)](https://www.youtube.com/results?search_query=cystometrogram+bladder+physiology+laplace+law)
+🎬 **Watch:** [Micturition Reflex — Neural Control of Urination (animation)](https://www.youtube.com/watch?v=US0vNoxsW-k) · [Cystometrogram and Laplace's law (YouTube search)](https://www.youtube.com/results?search_query=cystometrogram+bladder+physiology+laplace+law)
 
 ---
 
@@ -503,9 +505,13 @@ CMG: Ia slight rise → Ib flat (Laplace) → 150 urge → 400 full → II spike
 | What to watch | Link |
 |---|---|
 | Aldosterone on the principal cell — ENaC, ROMK, spironolactone, amiloride (YouTube search) | https://www.youtube.com/results?search_query=aldosterone+principal+cell+ENaC+ROMK+spironolactone+amiloride |
-| ADH mechanism — V2, cAMP, aquaporin-2 (YouTube search) | https://www.youtube.com/results?search_query=ADH+vasopressin+V2+receptor+aquaporin+2+mechanism |
+| How does Antidiuretic Hormone (ADH) work? | https://www.youtube.com/watch?v=MR8BABoFTP8 |
+| SIADH vs Diabetes Insipidus | https://www.youtube.com/watch?v=i_wGj7Fx2Kw |
+| SIADH — Understanding the Pathophysiology | https://www.youtube.com/watch?v=f-TUv7Fgiec |
 | Natriuretic peptides — ANP and BNP (YouTube search) | https://www.youtube.com/results?search_query=natriuretic+peptides+ANP+BNP+physiology |
-| Micturition reflex — neural control of the bladder (YouTube search) | https://www.youtube.com/results?search_query=micturition+reflex+physiology+neural+control+bladder |
+| Micturition Reflex — Neural Control of Urination (animation) | https://www.youtube.com/watch?v=US0vNoxsW-k |
+| Micturition Reflex — animation | https://www.youtube.com/watch?v=DpVWl6ILB1s |
+| The Micturition Reflex — lecture | https://www.youtube.com/watch?v=Zl4VoTpxluQ |
 
 ---
 

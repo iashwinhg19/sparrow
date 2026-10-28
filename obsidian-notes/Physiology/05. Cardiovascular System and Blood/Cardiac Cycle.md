@@ -133,7 +133,9 @@ aortic closes → S2   volume same, pressure ↓     mitral opens      └──
 ![[Cardiac Cycle - phases of ventricular diastole.png]]
 *Ventricular diastole on the page — protodiastole (aortic valve closes → S2), isovolumetric relaxation (volume same, pressure ↓), rapid filling (mitral valve opens) and slow filling / diastasis (together passive, 80 %), then atrial contraction (20 %, atrial kick) to an EDV of 120 mL (cropped from the handwritten page).*
 
-🎬 **Watch:** [Ninja Nerd — cardiac cycle (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+cardiac+cycle) · [Armando Hasudungan — cardiac cycle (YouTube search)](https://www.youtube.com/results?search_query=armando+hasudungan+cardiac+cycle) · [Khan Academy — cardiac cycle phases (YouTube search)](https://www.youtube.com/results?search_query=khan+academy+cardiac+cycle+phases)
+🎬 **Watch:** [The Cardiac Cycle, Animation](https://www.youtube.com/watch?v=IS9TD9fHFv0) · [The Cardiac Cycle in 5 Minutes — Wigger's Diagram Decoded](https://www.youtube.com/watch?v=ejWErSBwlyg) · [The Cardiac Cycle Explained: Wigger's Diagram, ECG & Heart Sounds](https://www.youtube.com/watch?v=U5MCOKhewEU)
+
+![](https://www.youtube.com/watch?v=IS9TD9fHFv0)
 
 ---
 
@@ -195,7 +197,7 @@ aortic closes → S2   volume same, pressure ↓     mitral opens      └──
 
 🧠 *Read each loop from the valve that is wrong: a **stenotic** valve blocks one direction (MS → can't fill → small EDV; AS → can't empty → high pressure, high ESV); a **regurgitant** valve leaks, so there is no true "both valves shut" phase — the isovolumetric sides of the loop are no longer straight vertical lines.*
 
-🎬 **Watch:** [Pressure–volume loop explained (YouTube search)](https://www.youtube.com/results?search_query=pressure+volume+loop+left+ventricle+explained) · [PV loops in valvular heart disease (YouTube search)](https://www.youtube.com/results?search_query=pressure+volume+loops+valvular+heart+disease+stenosis+regurgitation)
+🎬 **Watch:** [Left Ventricular Pressure-Volume Loops: An Illustrative Conceptual Approach](https://www.youtube.com/watch?v=mPgJPvOrHxw) · [Ventricular pressure-volume loops](https://www.youtube.com/watch?v=Iqxgzcyu99s) · [PV loops in valvular heart disease (YouTube search)](https://www.youtube.com/results?search_query=pressure+volume+loops+valvular+heart+disease+stenosis+regurgitation)
 
 ---
 
@@ -260,7 +262,7 @@ detail: related
 title: Valves of the heart
 ```
 
-🎬 **Watch:** [Wiggers diagram explained (YouTube search)](https://www.youtube.com/results?search_query=wiggers+diagram+explained) · [Heart sounds S1 S2 S3 S4 physiology (YouTube search)](https://www.youtube.com/results?search_query=heart+sounds+S1+S2+S3+S4+physiology)
+🎬 **Watch:** [The Wiggers diagram of the cardiac cycle](https://www.youtube.com/watch?v=9vGfc1FBVwQ) · [Heart Sounds: S1, S2, S3, S4 Explained](https://www.youtube.com/watch?v=YpHsstGk89g)
 
 ---
 
@@ -423,12 +425,11 @@ PV: MS left shift · AS tall, ↑ESV · AR wide + tall · MR wide + low · dicro
 
 | What to watch | Link |
 |---|---|
-| Ninja Nerd — cardiac cycle (search) | https://www.youtube.com/results?search_query=ninja+nerd+cardiac+cycle |
-| Armando Hasudungan — cardiac cycle (search) | https://www.youtube.com/results?search_query=armando+hasudungan+cardiac+cycle |
-| Khan Academy — cardiac cycle phases (search) | https://www.youtube.com/results?search_query=khan+academy+cardiac+cycle+phases |
-| Pressure–volume loop explained (search) | https://www.youtube.com/results?search_query=pressure+volume+loop+left+ventricle+explained |
+| The Cardiac Cycle, Animation (phases, ECG and valve timing) | https://www.youtube.com/watch?v=IS9TD9fHFv0 |
+| The Wiggers diagram of the cardiac cycle | https://www.youtube.com/watch?v=9vGfc1FBVwQ |
+| Left Ventricular Pressure-Volume Loops: An Illustrative Conceptual Approach | https://www.youtube.com/watch?v=mPgJPvOrHxw |
+| Heart Sounds: S1, S2, S3, S4 Explained | https://www.youtube.com/watch?v=YpHsstGk89g |
 | PV loops in valvular heart disease (search) | https://www.youtube.com/results?search_query=pressure+volume+loops+valvular+heart+disease+stenosis+regurgitation |
-| Wiggers diagram explained (search) | https://www.youtube.com/results?search_query=wiggers+diagram+explained |
 
 ---
 

@@ -186,7 +186,9 @@ RAAS activation: ↑ aldosterone
 | Share | **15 % of total nephrons** | **85 % of total nephrons (maximum)** |
 | Role | **Responsible for conc. & dilution of urine** | Most of the filtering and reabsorbing[^8] |
 
-🎬 **Watch:** [Countercurrent multiplier and exchanger — YouTube search](https://www.youtube.com/results?search_query=countercurrent+multiplier+loop+of+henle+vasa+recta+physiology) · [Loop of Henle — NKCC2, loop diuretics and Bartter syndrome — YouTube search](https://www.youtube.com/results?search_query=thick+ascending+limb+NKCC2+loop+diuretic+bartter+syndrome)
+🎬 **Watch:** [Countercurrent Multiplier and Countercurrent Exchanger](https://www.youtube.com/watch?v=5LfkQ6cfPOU) · [Loop of Henle — NKCC2, loop diuretics and Bartter syndrome — YouTube search](https://www.youtube.com/results?search_query=thick+ascending+limb+NKCC2+loop+diuretic+bartter+syndrome)
+
+![](https://www.youtube.com/watch?v=5LfkQ6cfPOU)
 
 ---
 
@@ -217,7 +219,7 @@ RAAS activation: ↑ aldosterone
 
 🧠 The two DCT stories are linked: thiazides block NCC → cell Na⁺ falls → the basolateral Na⁺–Ca²⁺ exchanger works harder → more Ca²⁺ is reabsorbed. So **thiazides cause hypocalciuria**, the opposite of loop diuretics.[^11]
 
-🎬 **Watch:** [Distal convoluted tubule — NCC, thiazides and calcium — YouTube search](https://www.youtube.com/results?search_query=distal+convoluted+tubule+NCC+thiazide+calcium+TRPV5) · [Bartter vs Gitelman syndrome — YouTube search](https://www.youtube.com/results?search_query=bartter+vs+gitelman+syndrome)
+🎬 **Watch:** [NCLEX Prep: The Nephron — early distal convoluted tubule, thiazide diuretics, HCTZ](https://www.youtube.com/watch?v=f1WCIChPzUA) · [Bartter vs Gitelman syndrome — YouTube search](https://www.youtube.com/results?search_query=bartter+vs+gitelman+syndrome)
 
 ---
 
@@ -292,7 +294,7 @@ detail: related
 title: RAAS — liver, kidney, lung and adrenal gland
 ```
 
-🎬 **Watch:** [Juxtaglomerular apparatus and renin release — YouTube search](https://www.youtube.com/results?search_query=juxtaglomerular+apparatus+renin+macula+densa+physiology) · [RAAS explained — YouTube search](https://www.youtube.com/results?search_query=renin+angiotensin+aldosterone+system+explained)
+🎬 **Watch:** [Renin Angiotensin Aldosterone System (RAAS) and Juxtaglomerular Apparatus](https://www.youtube.com/watch?v=jqNvkeLEi2g) · [Renin Angiotensin Aldosterone System](https://www.youtube.com/watch?v=4_wWG7DTun4)
 
 ---
 
@@ -456,10 +458,14 @@ JGA: JG cells → renin (↑ low BP, ↓Na+, SNS, diuretics, bleed) · macula de
 
 | What to watch | Link |
 |---|---|
-| Countercurrent multiplier, vasa recta and urine concentration (YouTube search) | https://www.youtube.com/results?search_query=countercurrent+multiplier+loop+of+henle+vasa+recta+physiology |
+| Countercurrent Multiplier and Countercurrent Exchanger | https://www.youtube.com/watch?v=5LfkQ6cfPOU |
+| Counter Current Multiplication Explained — how the kidneys concentrate urine | https://www.youtube.com/watch?v=9ASHDbvf3mQ |
+| LOOP OF HENLE explained | https://www.youtube.com/watch?v=cYyJF_aSC6o |
 | Thick ascending limb, loop diuretics and Bartter syndrome (YouTube search) | https://www.youtube.com/results?search_query=thick+ascending+limb+NKCC2+loop+diuretic+bartter+syndrome |
-| Distal convoluted tubule — NCC, thiazides, TRPV5 (YouTube search) | https://www.youtube.com/results?search_query=distal+convoluted+tubule+NCC+thiazide+calcium+TRPV5 |
-| Juxtaglomerular apparatus and RAAS (YouTube search) | https://www.youtube.com/results?search_query=juxtaglomerular+apparatus+renin+macula+densa+physiology |
+| NCLEX Prep: The Nephron — early distal convoluted tubule, thiazide diuretics, HCTZ | https://www.youtube.com/watch?v=f1WCIChPzUA |
+| Thiazide diuretics: what are they and how they work | https://www.youtube.com/watch?v=lPpScDHDav4 |
+| Renin Angiotensin Aldosterone System (RAAS) and Juxtaglomerular Apparatus | https://www.youtube.com/watch?v=jqNvkeLEi2g |
+| Renin Angiotensin Aldosterone System | https://www.youtube.com/watch?v=4_wWG7DTun4 |
 
 ---
 

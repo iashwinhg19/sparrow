@@ -123,7 +123,9 @@ Pulmonary fibrosis:  fibrosis → ↑ thickness of Rm ────────�
 > [!note] Note
 > **Diffusion of CO₂ (20 times solubility of O₂) > O₂.**[^6]
 
-🎬 **Watch:** [Diffusion across the respiratory membrane — Fick's law (YouTube search)](https://www.youtube.com/results?search_query=fick%27s+law+diffusion+respiratory+membrane) · [DLCO explained (YouTube search)](https://www.youtube.com/results?search_query=DLCO+diffusing+capacity+explained) · [Emphysema vs pulmonary fibrosis diffusion (YouTube search)](https://www.youtube.com/results?search_query=emphysema+vs+pulmonary+fibrosis+DLCO)
+🎬 **Watch:** [Diffusion across the respiratory membrane — Fick's law (YouTube search)](https://www.youtube.com/results?search_query=fick%27s+law+diffusion+respiratory+membrane) · [Diffusing capacity of lung (DLCO) — carbon monoxide](https://www.youtube.com/watch?v=VujnokrlIms) · [Emphysema vs pulmonary fibrosis diffusion (YouTube search)](https://www.youtube.com/results?search_query=emphysema+vs+pulmonary+fibrosis+DLCO)
+
+![](https://www.youtube.com/watch?v=VujnokrlIms)
 
 ---
 
@@ -244,7 +246,7 @@ Tissue (PCO2 = 45 mmHg) → CO2 → interstitial fluid → plasma → RBC
 
 🧠 Unlike the O₂ curve, the CO₂ curve has **no plateau** in the physiological range — more PCO₂ always means more CO₂ carried. That is why hyperventilation can wash CO₂ out (but cannot load more O₂ onto saturated Hb).[^15]
 
-🎬 **Watch:** [Oxygen–haemoglobin dissociation curve and shifts (YouTube search)](https://www.youtube.com/results?search_query=oxygen+hemoglobin+dissociation+curve+shift+bohr+haldane) · [CO₂ transport and the chloride shift (YouTube search)](https://www.youtube.com/results?search_query=carbon+dioxide+transport+chloride+shift+hamburger) · [Myoglobin vs haemoglobin — cooperative binding (YouTube search)](https://www.youtube.com/results?search_query=myoglobin+vs+hemoglobin+cooperative+binding)
+🎬 **Watch:** [Gas transport in the blood — oxygen–haemoglobin dissociation curve, Bohr effect, Haldane effect](https://www.youtube.com/watch?v=PbwWOYciN5I) · [CO2 Transport — chloride-shift phenomenon, bicarbonate, carbonic anhydrase](https://www.youtube.com/watch?v=wqwgnAKbhhY) · [Myoglobin vs haemoglobin — cooperative binding (YouTube search)](https://www.youtube.com/results?search_query=myoglobin+vs+hemoglobin+cooperative+binding)
 
 ---
 
@@ -415,9 +417,14 @@ MYOGLOBIN: 1:1, hyperbola, store · CO2: CA → HCO3− out, Cl− in (Hamburger
 | What to watch | Link |
 |---|---|
 | Fick's law and diffusion across the respiratory membrane (YouTube search) | https://www.youtube.com/results?search_query=fick%27s+law+diffusion+respiratory+membrane |
-| DLCO — diffusing capacity explained (YouTube search) | https://www.youtube.com/results?search_query=DLCO+diffusing+capacity+explained |
-| Oxygen–haemoglobin dissociation curve, Bohr and Haldane effects (YouTube search) | https://www.youtube.com/results?search_query=oxygen+hemoglobin+dissociation+curve+shift+bohr+haldane |
-| CO₂ transport and the chloride shift (YouTube search) | https://www.youtube.com/results?search_query=carbon+dioxide+transport+chloride+shift+hamburger |
+| Diffusing capacity of lung (DLCO) — carbon monoxide | https://www.youtube.com/watch?v=VujnokrlIms |
+| DLCO — carbon monoxide method for measuring the diffusing capacity of the respiratory membrane (graph) | https://www.youtube.com/watch?v=Kkvdq0ldsPA |
+| Gas transport in the blood — oxygen–haemoglobin dissociation curve, Bohr effect, Haldane effect | https://www.youtube.com/watch?v=PbwWOYciN5I |
+| Oxygen-Hemoglobin Dissociation Curve — Bohr's effect | https://www.youtube.com/watch?v=z6zCRHHcarM |
+| Hemoglobin Oxygen Dissociation Curve Part 3 — right and left shifts | https://www.youtube.com/watch?v=H711jfo-CqM |
+| CO2 Transport — chloride-shift phenomenon, bicarbonate, carbonic anhydrase | https://www.youtube.com/watch?v=wqwgnAKbhhY |
+| Carbon Dioxide Transport in Blood — CO2 and ventilation | https://www.youtube.com/watch?v=DvsZ4xVzX5Q |
+| Chloride shift (Hamburger's principle) | https://www.youtube.com/watch?v=lznw7o_g1Aw |
 
 ---
 

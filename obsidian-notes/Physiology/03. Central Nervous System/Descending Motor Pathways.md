@@ -147,7 +147,9 @@ Spinal cord → LMN → Skeletal muscle
 ![[Descending Motor Pathways - corticospinal tract.png]]
 *Corticospinal (pyramidal) tract — origin (Betz cells; 30 % primary motor, 30 % premotor and supplementary, 40 % sensory parietal and association areas = sensory–motor integration) → internal capsule (posterior limb) → midbrain → pons → pyramid → decussation → lateral CST (80–90 %, opposite side) and anterior CST (10 %, same side) → spinal cord → LMN → skeletal muscle (cropped from the handwritten page).*
 
-🎬 **Watch:** [YouTube search — corticospinal (pyramidal) tract, Ninja Nerd](https://www.youtube.com/results?search_query=corticospinal+tract+pyramidal+pathway+ninja+nerd)
+🎬 **Watch:** [Corticospinal tract explained — motor cortex to spinal cord, decussation and UMN signs](https://www.youtube.com/watch?v=ifFwHyTfFgo)
+
+![](https://www.youtube.com/watch?v=ifFwHyTfFgo)
 
 ### Brain stem
 
@@ -213,7 +215,7 @@ Controls neck musculature                     ↓
 | **Function** | **Fine, skilled, voluntary movements** | **Maintenance of posture** |
 | **Type of muscle supplied** | **Flexors** | **Extensors (antigravity muscles)** |
 
-🎬 **Watch:** [YouTube search — extrapyramidal tracts (rubro-, vestibulo-, reticulo-, tectospinal)](https://www.youtube.com/results?search_query=extrapyramidal+tracts+rubrospinal+vestibulospinal+reticulospinal)
+🎬 **Watch:** [Extrapyramidal tracts — vestibulo-, reticulo-, rubro- and tectospinal](https://www.youtube.com/watch?v=sx3xe7qMDCo)
 
 ### Spinal cord
 
@@ -324,7 +326,7 @@ Decerebellate / α rigidity
 ![[Descending Motor Pathways - Babinski sign.png]]
 *Babinski sign — positive (+) in UMN lesion: dorsiflexion of the big toe; negative (−) in LMN lesion = the normal response, toe plantar flexion (cropped from the handwritten page).*[^9]
 
-🎬 **Watch:** [YouTube search — UMN vs LMN lesions](https://www.youtube.com/results?search_query=upper+motor+neuron+vs+lower+motor+neuron+lesions)
+🎬 **Watch:** [UMN vs LMN lesions — corticospinal pathway, signs and lesion localisation](https://www.youtube.com/watch?v=1fnsiYmTTDs)
 
 ---
 
@@ -488,10 +490,11 @@ UMN vs LMN: atrophy −/+++ · fasciculation −/+++ · tone ↑↑/↓ · regio
 
 | What to watch | Link |
 |---|---|
-| Corticospinal (pyramidal) tract (YouTube search, Ninja Nerd) | https://www.youtube.com/results?search_query=corticospinal+tract+pyramidal+pathway+ninja+nerd |
-| Extrapyramidal tracts (YouTube search) | https://www.youtube.com/results?search_query=extrapyramidal+tracts+rubrospinal+vestibulospinal+reticulospinal |
+| Corticospinal tract explained — motor cortex to spinal cord, decussation and UMN signs | https://www.youtube.com/watch?v=ifFwHyTfFgo |
+| Lateral and anterior corticospinal tracts | https://www.youtube.com/watch?v=yOdU4lFzfi0 |
+| Extrapyramidal tracts — vestibulo-, reticulo-, rubro- and tectospinal | https://www.youtube.com/watch?v=sx3xe7qMDCo |
 | Decerebrate vs decorticate posturing (YouTube search) | https://www.youtube.com/results?search_query=decerebrate+vs+decorticate+posturing |
-| UMN vs LMN lesions (YouTube search) | https://www.youtube.com/results?search_query=upper+motor+neuron+vs+lower+motor+neuron+lesions |
+| UMN vs LMN lesions — corticospinal pathway, signs and lesion localisation | https://www.youtube.com/watch?v=1fnsiYmTTDs |
 
 ---
 

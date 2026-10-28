@@ -155,7 +155,9 @@ title: Upright lungs — apex vs base
 
 🧠 *How to read it:* every alveolus must lie somewhere on this one curved line, because its gases can only be a mixture of what the air brings (point A) and what the blood brings (point C). More air → slide right towards A; more blood → slide left towards C. The apex (V/Q 3.2) sits to the right of B, the base (V/Q 0.6) to the left.[^7]
 
-🎬 **Watch:** [Ventilation–perfusion ratio and mismatch (YouTube search)](https://www.youtube.com/results?search_query=ventilation+perfusion+ratio+mismatch+physiology) · [V/Q apex vs base — West zones (YouTube search)](https://www.youtube.com/results?search_query=V%2FQ+ratio+apex+base+lung) · [Shunt vs dead space (YouTube search)](https://www.youtube.com/results?search_query=shunt+vs+dead+space+physiology)
+🎬 **Watch:** [V/Q Ratio and Mismatch: Ventilation Perfusion Explained — Pulmonary Physiology 42](https://www.youtube.com/watch?v=B7BbHlqjpq0) · [Ventilation/Perfusion Ratio (V/Q) and V/Q Mismatch — Respiratory Physiology & Pulmonology](https://www.youtube.com/watch?v=pjgOA7l8urE) · [Physiology of V/Q Mismatch Explained: ventilation, perfusion, high vs low V/Q, and shunt](https://www.youtube.com/watch?v=lHEzgqx33HI)
+
+![](https://www.youtube.com/watch?v=B7BbHlqjpq0)
 
 ---
 
@@ -310,9 +312,11 @@ O2–CO2 LINE: C (0, venous 40/45) ← LEFT: PO2↓ PCO2↑ ── B (normal 100
 
 | What to watch | Link |
 |---|---|
-| Ventilation–perfusion ratio and mismatch (YouTube search) | https://www.youtube.com/results?search_query=ventilation+perfusion+ratio+mismatch+physiology |
-| V/Q ratio — apex vs base of the lung (YouTube search) | https://www.youtube.com/results?search_query=V%2FQ+ratio+apex+base+lung |
-| Shunt vs dead space (YouTube search) | https://www.youtube.com/results?search_query=shunt+vs+dead+space+physiology |
+| V/Q Ratio and Mismatch: Ventilation Perfusion Explained — Pulmonary Physiology 42 | https://www.youtube.com/watch?v=B7BbHlqjpq0 |
+| Alveolar Ventilation perfusion ratio physiology (VQ ratio) and V/Q mismatch | https://www.youtube.com/watch?v=ZhoqX5Zdi9g |
+| Ventilation/Perfusion Ratio (V/Q) and V/Q Mismatch — Respiratory Physiology & Pulmonology | https://www.youtube.com/watch?v=pjgOA7l8urE |
+| Physiology of V/Q Mismatch Explained: ventilation, perfusion, high vs low V/Q, and shunt | https://www.youtube.com/watch?v=lHEzgqx33HI |
+| Shunting, dead space and additional respiratory calculations | https://www.youtube.com/watch?v=IxySoJpGEXw |
 | O₂–CO₂ diagram / V/Q line (YouTube search) | https://www.youtube.com/results?search_query=O2+CO2+diagram+ventilation+perfusion+line |
 
 ---

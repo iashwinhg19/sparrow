@@ -179,7 +179,9 @@ Addison's disease → ↑↑↑ ACTH (pathologically) → action of MSH → SKIN
 | **Prolactin release – inhibiting hormone (PIH) / dopamine**[^ety-dopamine] | **Inhibits prolactin release** |
 | **Growth hormone release – inhibiting hormone / somatostatin**[^ety-somatostatin][^suf-statin] | **Inhibits GH release** |
 
-🎬 **Watch:** [YouTube search — Ninja Nerd: hypothalamus and pituitary gland](https://www.youtube.com/results?search_query=ninja+nerd+hypothalamus+pituitary+gland+physiology) · [YouTube search — Armando Hasudungan: pituitary hormones](https://www.youtube.com/results?search_query=armando+hasudungan+pituitary+gland+hormones) · [YouTube search — anterior pituitary cell types and POMC](https://www.youtube.com/results?search_query=anterior+pituitary+cell+types+acidophils+basophils+POMC)
+🎬 **Watch:** [Hypothalamus and Pituitary Gland](https://www.youtube.com/watch?v=xCXtcoUxJZc) · [Hypothalamic Pituitary Hormones](https://www.youtube.com/watch?v=2JNrEnUWX4s) · [YouTube search — anterior pituitary cell types and POMC](https://www.youtube.com/results?search_query=anterior+pituitary+cell+types+acidophils+basophils+POMC)
+
+![](https://www.youtube.com/watch?v=2JNrEnUWX4s)
 
 ---
 
@@ -356,7 +358,7 @@ Prolactin → inhibit GnRH → inhibit FSH & LH → lactational amenorrhoea (♀
                                            → loss of libido & ↓ spermatogenesis (♂)
 ```
 
-🎬 **Watch:** [YouTube search — growth hormone regulation and actions (IGF-1, JAK–STAT)](https://www.youtube.com/results?search_query=growth+hormone+regulation+IGF-1+physiology+lecture) · [YouTube search — Osmosis: acromegaly and gigantism](https://www.youtube.com/results?search_query=osmosis+acromegaly+gigantism) · [YouTube search — prolactin regulation, dopamine and stalk effect](https://www.youtube.com/results?search_query=prolactin+regulation+dopamine+stalk+effect+physiology)
+🎬 **Watch:** [Insulin-like growth factor (IGF-1) - Somatomedin C - GH - Dwarfism, Gigantism, Acromegaly](https://www.youtube.com/watch?v=XRm0RciWBf0) · [YouTube search — prolactin regulation, dopamine and stalk effect](https://www.youtube.com/results?search_query=prolactin+regulation+dopamine+stalk+effect+physiology)
 
 ---
 
@@ -521,11 +523,12 @@ LARON: receptor defect, GH ↑, IGF-1 ↓ → mecasermin · PRL: dopamine brake 
 
 | What to watch | Link |
 |---|---|
-| YouTube search — Ninja Nerd: hypothalamus and pituitary gland | https://www.youtube.com/results?search_query=ninja+nerd+hypothalamus+pituitary+gland+physiology |
-| YouTube search — Armando Hasudungan: pituitary hormones | https://www.youtube.com/results?search_query=armando+hasudungan+pituitary+gland+hormones |
+| Hypothalamic Pituitary Hormones — hypothalamic control of the anterior and posterior lobes | https://www.youtube.com/watch?v=2JNrEnUWX4s |
+| Hypothalamus and Pituitary Gland — anatomy, posterior pituitary hormones (oxytocin, ADH) | https://www.youtube.com/watch?v=xCXtcoUxJZc |
+| Hypothalamic control of anterior pituitary | https://www.youtube.com/watch?v=z1HmF9K5cjI |
+| Physiology: Hypothalamus and Pituitary Gland (Part 1) (Endocrine Physiology) | https://www.youtube.com/watch?v=0tmm9x7ZZmA |
+| Insulin-like growth factor (IGF-1) - Somatomedin C - GH - Dwarfism, Gigantism, Acromegaly | https://www.youtube.com/watch?v=XRm0RciWBf0 |
 | YouTube search — Anterior pituitary cell types and POMC | https://www.youtube.com/results?search_query=anterior+pituitary+cell+types+acidophils+basophils+POMC |
-| YouTube search — Growth hormone regulation and actions (IGF-1, JAK–STAT) | https://www.youtube.com/results?search_query=growth+hormone+regulation+IGF-1+physiology+lecture |
-| YouTube search — Osmosis: acromegaly and gigantism | https://www.youtube.com/results?search_query=osmosis+acromegaly+gigantism |
 | YouTube search — Prolactin regulation, dopamine and stalk effect | https://www.youtube.com/results?search_query=prolactin+regulation+dopamine+stalk+effect+physiology |
 
 ---

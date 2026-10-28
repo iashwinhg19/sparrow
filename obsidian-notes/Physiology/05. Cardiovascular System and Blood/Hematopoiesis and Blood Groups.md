@@ -146,7 +146,9 @@ Erythrocyte  (mature RBC, ~7.2 µm)
   - **Indications :** 1. **Anemia**[^ety-anaemia][^pre-an] **of chronic disease (Eg : CKD).** 2. **Dialysis**[^ety-dialysis][^pre-dia][^suf-lysis].
 - **Blood doping**[^ety-doping] **: misused by athletes to ↑ RBC count.**
 
-🎬 **Watch:** [Ninja Nerd — hematopoiesis / erythropoiesis (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+erythropoiesis+hematopoiesis) · [Erythropoietin regulation — HIF and VHL (YouTube search)](https://www.youtube.com/results?search_query=erythropoietin+regulation+HIF+VHL+hypoxia) · [Armando Hasudungan — hematopoiesis (YouTube search)](https://www.youtube.com/results?search_query=armando+hasudungan+haematopoiesis)
+🎬 **Watch:** [Hematopoiesis — Formation of Blood Cells, Animation](https://www.youtube.com/watch?v=0deCbmh7PHs) · [Erythropoietin regulation — HIF and VHL (YouTube search)](https://www.youtube.com/results?search_query=erythropoietin+regulation+HIF+VHL+hypoxia) · [Erythropoiesis in 3D: Red Blood Cell Formation Process](https://www.youtube.com/watch?v=FQ1_kwKxYOM)
+
+![](https://www.youtube.com/watch?v=0deCbmh7PHs)
 
 ### ⚪ Leucopoiesis[^ety-leucopoiesis][^pre-leuco]
 
@@ -276,7 +278,7 @@ detail: isolated
 title: Sites of hematopoiesis and the EPO-producing kidney
 ```
 
-🎬 **Watch:** [ABO and Rh blood groups (YouTube search)](https://www.youtube.com/results?search_query=ABO+and+Rh+blood+group+system+physiology) · [Bombay blood group (YouTube search)](https://www.youtube.com/results?search_query=bombay+blood+group+H+antigen) · [Hemolytic disease of the newborn — Rh incompatibility (YouTube search)](https://www.youtube.com/results?search_query=hemolytic+disease+of+newborn+rh+incompatibility+kernicterus)
+🎬 **Watch:** [ABO and Rh blood groups (YouTube search)](https://www.youtube.com/results?search_query=ABO+and+Rh+blood+group+system+physiology) · [Bombay blood group (YouTube search)](https://www.youtube.com/results?search_query=bombay+blood+group+H+antigen) · [Differences Between ABO & RH Hemolytic Disease of Newborn — blood group and Rhesus factor incompatibility](https://www.youtube.com/watch?v=zpKBXNOcwgo) · [Hemolytic Disease of the Newborn due to ABO Blood Group Incompatibility](https://www.youtube.com/watch?v=C7-YkrBk5BI)
 
 ---
 
@@ -449,12 +451,13 @@ Kell absent → McLeod acanthocytes · P → PCH, parvo B19, E. coli · Duffy �
 
 | What to watch | Link |
 |---|---|
-| Ninja Nerd — erythropoiesis / hematopoiesis (search) | https://www.youtube.com/results?search_query=ninja+nerd+erythropoiesis+hematopoiesis |
+| Hematopoiesis — Formation of Blood Cells, Animation | https://www.youtube.com/watch?v=0deCbmh7PHs |
+| Erythropoiesis in 3D: Red Blood Cell Formation Process | https://www.youtube.com/watch?v=FQ1_kwKxYOM |
 | Erythropoietin regulation — HIF and VHL (search) | https://www.youtube.com/results?search_query=erythropoietin+regulation+HIF+VHL+hypoxia |
-| Armando Hasudungan — haematopoiesis (search) | https://www.youtube.com/results?search_query=armando+hasudungan+haematopoiesis |
 | ABO and Rh blood group system (search) | https://www.youtube.com/results?search_query=ABO+and+Rh+blood+group+system+physiology |
 | Bombay blood group (search) | https://www.youtube.com/results?search_query=bombay+blood+group+H+antigen |
-| Haemolytic disease of the newborn — Rh incompatibility (search) | https://www.youtube.com/results?search_query=hemolytic+disease+of+newborn+rh+incompatibility+kernicterus |
+| Differences Between ABO & RH Hemolytic Disease of Newborn | https://www.youtube.com/watch?v=zpKBXNOcwgo |
+| Hemolytic Disease of the Newborn due to ABO Blood Group Incompatibility | https://www.youtube.com/watch?v=C7-YkrBk5BI |
 
 ---
 

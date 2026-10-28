@@ -139,7 +139,9 @@ Synaptic facilitation
 ![[Synaptic Transmission and Neurotransmitters - types of synaptic inhibition.png]]
 *Synaptic inhibition — 1. postsynaptic (GABA-mediated) inhibition; 2. presynaptic inhibition via an inhibitory interneuron (lateral inhibition in the retina); 3. feedback inhibition of the α motor neuron by the Renshaw cell through glycine (cropped from the handwritten page).*
 
-🎬 **Watch:** [Synaptic transmission — EPSP, IPSP and summation (YouTube search)](https://www.youtube.com/results?search_query=synaptic+transmission+EPSP+IPSP+summation+physiology) · [Presynaptic vs postsynaptic inhibition, Renshaw cell (YouTube search)](https://www.youtube.com/results?search_query=presynaptic+postsynaptic+inhibition+renshaw+cell)
+🎬 **Watch:** [EPSP and IPSP — postsynaptic potential physiology](https://www.youtube.com/watch?v=SWSsHpRocjk) · [Presynaptic vs postsynaptic inhibition, Renshaw cell (YouTube search)](https://www.youtube.com/results?search_query=presynaptic+postsynaptic+inhibition+renshaw+cell)
+
+![](https://www.youtube.com/watch?v=SWSsHpRocjk)
 
 ---
 
@@ -417,7 +419,7 @@ Heme  ─────────────────────►  CO
   - **Pain transmission.**
   - **Learning and memory.**[^22]
 
-🎬 **Watch:** [Neurotransmitters — classification and receptors (YouTube search)](https://www.youtube.com/results?search_query=neurotransmitters+classification+receptors+physiology+lecture) · [Dopamine pathways — nigrostriatal, mesolimbic, mesocortical, tuberoinfundibular (YouTube search)](https://www.youtube.com/results?search_query=dopamine+pathways+nigrostriatal+mesolimbic+mesocortical+tuberoinfundibular) · [NMDA and AMPA receptors, excitotoxicity (YouTube search)](https://www.youtube.com/results?search_query=NMDA+AMPA+receptor+magnesium+block+excitotoxicity)
+🎬 **Watch:** [Ionotropic receptors — Chapter 11](https://www.youtube.com/watch?v=D1by6KCQ2oI) · [Neurotransmitters — Dopamine and dopaminergic neural pathways (Physiology & Pharmacology)](https://www.youtube.com/watch?v=XWNCLtG-d7o) · [NMDA and AMPA receptors, excitotoxicity (YouTube search)](https://www.youtube.com/results?search_query=NMDA+AMPA+receptor+magnesium+block+excitotoxicity)
 
 ---
 
@@ -590,10 +592,10 @@ CLASS IV NO (arginine, cGMP, memory) · CO (heme oxygenase 2, smell, pain, memor
 
 | What to watch | Link |
 |---|---|
-| Synaptic transmission — EPSP, IPSP and summation (YouTube search) | https://www.youtube.com/results?search_query=synaptic+transmission+EPSP+IPSP+summation+physiology |
+| EPSP and IPSP — postsynaptic potential physiology | https://www.youtube.com/watch?v=SWSsHpRocjk |
 | Presynaptic vs postsynaptic inhibition, Renshaw cell (YouTube search) | https://www.youtube.com/results?search_query=presynaptic+postsynaptic+inhibition+renshaw+cell |
-| Neurotransmitters — classification and receptors (YouTube search) | https://www.youtube.com/results?search_query=neurotransmitters+classification+receptors+physiology+lecture |
-| Dopamine pathways (YouTube search) | https://www.youtube.com/results?search_query=dopamine+pathways+nigrostriatal+mesolimbic+mesocortical+tuberoinfundibular |
+| Ionotropic receptors — Chapter 11 | https://www.youtube.com/watch?v=D1by6KCQ2oI |
+| Neurotransmitters — dopamine and dopaminergic neural pathways (Physiology & Pharmacology) | https://www.youtube.com/watch?v=XWNCLtG-d7o |
 | NMDA and AMPA receptors, excitotoxicity (YouTube search) | https://www.youtube.com/results?search_query=NMDA+AMPA+receptor+magnesium+block+excitotoxicity |
 
 ---

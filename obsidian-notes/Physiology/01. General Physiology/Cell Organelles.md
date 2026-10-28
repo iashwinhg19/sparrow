@@ -134,7 +134,9 @@ title: Smooth ER at work — steroid glands and the detoxifying liver
 - **Major site: liver SER.**
 - **Enzyme: cytochrome P450**[^ety-cytochrome][^pre-cyto] **(CYP450).**[^9]
 
-🎬 **Watch:** [Endoplasmic reticulum and Golgi — protein processing (YouTube search: Ninja Nerd)](https://www.youtube.com/results?search_query=ninja+nerd+endoplasmic+reticulum+golgi+apparatus) · [ERAD, ubiquitin and the proteasome (YouTube search)](https://www.youtube.com/results?search_query=ER+associated+degradation+ubiquitin+proteasome)
+🎬 **Watch:** [Endoplasmic Reticulum, Golgi Apparatus, Lysosomes & Peroxisomes](https://www.youtube.com/watch?v=HaOcH9SXnzM) · [ERAD, ubiquitin and the proteasome (YouTube search)](https://www.youtube.com/results?search_query=ER+associated+degradation+ubiquitin+proteasome)
+
+![](https://www.youtube.com/watch?v=HaOcH9SXnzM)
 
 ---
 
@@ -243,7 +245,7 @@ Patient is more prone to bacterial infections
 ```
 **Chediak–Higashi syndrome**[^ety-chediak-higashi] — the neutrophil's lysosomes cannot be moved to and fused with the phagosome, so bacteria are swallowed but not killed.[^15]
 
-🎬 **Watch:** [Lysosomes, autophagy and I-cell disease (YouTube search: Osmosis)](https://www.youtube.com/results?search_query=osmosis+lysosomal+storage+I+cell+disease) · [Chediak–Higashi syndrome (YouTube search)](https://www.youtube.com/results?search_query=chediak+higashi+syndrome+LYST)
+🎬 **Watch:** [Chediak-Higashi Syndrome, I-Cell Disease, Kartagener's, Microtubules, Inclusion Cell Disease](https://www.youtube.com/watch?v=RSQ1rKOLRoI) · [Chediak Higashi Syndrome Animation — pathophysiology, clinical features, diagnosis, treatment](https://www.youtube.com/watch?v=O66eaviJT4E)
 
 ---
 
@@ -324,7 +326,7 @@ Patient is more prone to bacterial infections
 > - **L**actic **A**cidosis
 > - **S**troke (-like episodes)
 
-🎬 **Watch:** [Mitochondria structure and mitochondrial inheritance (YouTube search: Armando Hasudungan)](https://www.youtube.com/results?search_query=armando+hasudungan+mitochondria) · [MELAS and mitochondrial myopathy (YouTube search: Osmosis)](https://www.youtube.com/results?search_query=osmosis+mitochondrial+myopathy+MELAS)
+🎬 **Watch:** [Endoplasmic Reticulum, Lysosomes, Golgi Apparatus, Mitochondria, Plastids and Vacuoles (school-level organelle overview)](https://www.youtube.com/watch?v=ktXFa73eezQ) · [MELAS and mitochondrial myopathy (YouTube search: Osmosis)](https://www.youtube.com/results?search_query=osmosis+mitochondrial+myopathy+MELAS)
 
 ---
 
@@ -534,9 +536,10 @@ NUCLEUS: chromatin = DNA + histones · nucleosome · NPC/NLS · importins in / e
 
 | What to watch | Link |
 |---|---|
-| Endoplasmic reticulum and Golgi apparatus (Ninja Nerd, YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+endoplasmic+reticulum+golgi+apparatus |
-| Lysosomal storage and I-cell disease (Osmosis, YouTube search) | https://www.youtube.com/results?search_query=osmosis+lysosomal+storage+I+cell+disease |
-| Mitochondria structure and inheritance (Armando Hasudungan, YouTube search) | https://www.youtube.com/results?search_query=armando+hasudungan+mitochondria |
+| Endoplasmic Reticulum, Golgi Apparatus, Lysosomes & Peroxisomes | https://www.youtube.com/watch?v=HaOcH9SXnzM |
+| Chediak-Higashi syndrome, I-cell disease, Kartagener's, microtubules, inclusion cell disease | https://www.youtube.com/watch?v=RSQ1rKOLRoI |
+| Chediak Higashi Syndrome animation — pathophysiology, clinical features, diagnosis, treatment | https://www.youtube.com/watch?v=O66eaviJT4E |
+| Endoplasmic reticulum, lysosomes, Golgi apparatus, mitochondria, plastids and vacuoles (school-level overview) | https://www.youtube.com/watch?v=ktXFa73eezQ |
 | Peroxisomal disorders — Zellweger, Refsum, adrenoleukodystrophy (YouTube search) | https://www.youtube.com/results?search_query=peroxisomal+disorders+zellweger+refsum+adrenoleukodystrophy |
 
 ---

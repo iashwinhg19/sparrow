@@ -116,7 +116,9 @@ detail: related
 title: Kidney — cortex (PCT, S1–S2) and outer medulla (S3)
 ```
 
-🎬 **Watch:** [Proximal convoluted tubule — structure and function (YouTube search)](https://www.youtube.com/results?search_query=proximal+convoluted+tubule+physiology+reabsorption+lecture) · [Nephron segments explained (YouTube search)](https://www.youtube.com/results?search_query=nephron+segments+physiology+ninja+nerd)
+🎬 **Watch:** [Renal Physiology: Proximal Convoluted Tubule](https://www.youtube.com/watch?v=4kuU-AfmUUk) · [Tubular Reabsorption & Secretion — Lecture 5](https://www.youtube.com/watch?v=zRirZx9p6g0)
+
+![](https://www.youtube.com/watch?v=4kuU-AfmUUk)
 
 ---
 
@@ -207,7 +209,7 @@ Excretion of excess glucose
 | **Splay** | The rounded bend before the plateau |
 | **Excretion = Renal glycosuria**[^ety-glycosuria][^pre-glyco][^suf-uria] | Starts at **200 mg/dl** (renal threshold) |
 
-🎬 **Watch:** [Renal glucose handling — threshold, Tm and splay (YouTube search)](https://www.youtube.com/results?search_query=renal+glucose+titration+curve+transport+maximum+splay) · [SGLT2 inhibitors — mechanism (YouTube search)](https://www.youtube.com/results?search_query=SGLT2+inhibitors+mechanism+of+action+gliflozins)
+🎬 **Watch:** [Plasma load, tubular load, renal threshold, transport maximum](https://www.youtube.com/watch?v=Ldc_IJmytgg) · [SGLT2 inhibitors — mechanism (YouTube search)](https://www.youtube.com/results?search_query=SGLT2+inhibitors+mechanism+of+action+gliflozins)
 
 ### WATER REABSORPTION
 
@@ -428,8 +430,11 @@ PAH: secreted, saturable → E = F + S, then E = F
 
 | What to watch | Link |
 |---|---|
-| Proximal convoluted tubule — physiology and reabsorption (YouTube search) | https://www.youtube.com/results?search_query=proximal+convoluted+tubule+physiology+reabsorption+lecture |
-| Renal glucose titration curve — threshold, Tm and splay (YouTube search) | https://www.youtube.com/results?search_query=renal+glucose+titration+curve+transport+maximum+splay |
+| Renal Physiology: Proximal Convoluted Tubule | https://www.youtube.com/watch?v=4kuU-AfmUUk |
+| Reabsorption in the Proximal Convoluted Tubule in the Kidney | https://www.youtube.com/watch?v=thQRwi2W1Zc |
+| Bicarbonate Reabsorption at the PCT — mechanisms and clinical correlates | https://www.youtube.com/watch?v=01Ia971S7Bw |
+| Tubular Reabsorption & Secretion — Lecture 5 | https://www.youtube.com/watch?v=zRirZx9p6g0 |
+| Plasma load, tubular load, renal threshold, transport maximum | https://www.youtube.com/watch?v=Ldc_IJmytgg |
 | SGLT2 inhibitors — mechanism of action (YouTube search) | https://www.youtube.com/results?search_query=SGLT2+inhibitors+mechanism+of+action+gliflozins |
 | TF/P ratio in the proximal tubule (YouTube search) | https://www.youtube.com/results?search_query=TF%2FP+ratio+proximal+tubule+physiology |
 

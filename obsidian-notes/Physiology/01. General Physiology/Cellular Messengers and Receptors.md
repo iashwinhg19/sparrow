@@ -274,7 +274,9 @@ By nitric oxide & natriuretic peptide
 
 - cGMP does the **opposite of Ca²⁺** → **relaxation & vasodilatation** — produced **by nitric oxide & natriuretic**[^ety-natriuretic] **peptide** (e.g. **atrial natriuretic peptide**).[^10]
 
-🎬 **Watch:** [YouTube search — G protein-coupled receptors and second messengers (Ninja Nerd)](https://www.youtube.com/results?search_query=ninja+nerd+g+protein+coupled+receptors+second+messengers) · [YouTube search — cAMP and IP3/DAG pathways (Armando Hasudungan)](https://www.youtube.com/results?search_query=armando+hasudungan+second+messenger+cAMP+IP3+DAG) · [YouTube search — cholera and pertussis toxin mechanism](https://www.youtube.com/results?search_query=cholera+toxin+pertussis+toxin+Gs+Gi+mechanism)
+🎬 **Watch:** [YouTube search — G protein-coupled receptors and second messengers](https://www.youtube.com/results?search_query=ninja+nerd+g+protein+coupled+receptors+second+messengers) · [cAMP and phosphatidylinositol signal pathway](https://www.youtube.com/watch?v=Emj1-leJq04) · [YouTube search — cholera and pertussis toxin mechanism](https://www.youtube.com/results?search_query=cholera+toxin+pertussis+toxin+Gs+Gi+mechanism)
+
+![](https://www.youtube.com/watch?v=Emj1-leJq04)
 
 ### Tyrosine kinase receptor
 
@@ -367,7 +369,7 @@ Pathological cell growth & differentiation
 | **Androgen**[^ety-androgen] receptor (**Testosterone**) | **Estrogen receptor** |
 | **Vitamin D receptor**[^15] | **Progesterone**[^ety-progesterone] **receptor** |
 
-🎬 **Watch:** [YouTube search — intracellular (nuclear) hormone receptors mechanism](https://www.youtube.com/results?search_query=intracellular+nuclear+hormone+receptor+mechanism+steroid) · [YouTube search — JAK-STAT and receptor tyrosine kinase signalling](https://www.youtube.com/results?search_query=JAK+STAT+pathway+receptor+tyrosine+kinase+animation)
+🎬 **Watch:** [YouTube search — intracellular (nuclear) hormone receptors mechanism](https://www.youtube.com/results?search_query=intracellular+nuclear+hormone+receptor+mechanism+steroid) · [JAK-STAT Pathway — Non-receptor Tyrosine Kinase (NRTK), Cell Signaling, Endocrinology playlist](https://www.youtube.com/watch?v=HPd6zcprGEc)
 
 ---
 
@@ -557,10 +559,10 @@ NUCLEAR: A/B AF-1 · C DNA · D hinge · E ligand · F AF-2 | SAFETY: internalis
 
 | What to watch | Link |
 |---|---|
-| G protein-coupled receptors and second messengers (YouTube search — Ninja Nerd) | https://www.youtube.com/results?search_query=ninja+nerd+g+protein+coupled+receptors+second+messengers |
-| cAMP and IP3/DAG second-messenger pathways (YouTube search — Armando Hasudungan) | https://www.youtube.com/results?search_query=armando+hasudungan+second+messenger+cAMP+IP3+DAG |
+| G protein-coupled receptors and second messengers (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+g+protein+coupled+receptors+second+messengers |
+| cAMP and phosphatidylinositol (IP3/DAG) signal pathway | https://www.youtube.com/watch?v=Emj1-leJq04 |
 | Cholera and pertussis toxin mechanism (YouTube search) | https://www.youtube.com/results?search_query=cholera+toxin+pertussis+toxin+Gs+Gi+mechanism |
-| JAK-STAT and receptor tyrosine kinase signalling (YouTube search) | https://www.youtube.com/results?search_query=JAK+STAT+pathway+receptor+tyrosine+kinase+animation |
+| JAK-STAT pathway — non-receptor tyrosine kinase (NRTK), Cell Signaling / Endocrinology playlist | https://www.youtube.com/watch?v=HPd6zcprGEc |
 | Intracellular (nuclear) hormone receptors (YouTube search) | https://www.youtube.com/results?search_query=intracellular+nuclear+hormone+receptor+mechanism+steroid |
 
 ---
@@ -592,7 +594,7 @@ NUCLEAR: A/B AF-1 · C DNA · D hinge · E ligand · F AF-2 | SAFETY: internalis
 - Guyton & Hall Textbook of Medical Physiology — Ch. 75, Introduction to endocrinology (hormone receptors and second messengers)
 - Ganong's Review of Medical Physiology — Ch. 2, Overview of cellular physiology (intercellular communication)
 - Wikimedia Commons — the embedded GPCR schematic (licence on the file page); `Cellular Messengers and Receptors - ….png` files in `attachments/` are crops of the handwritten pages
-- Video links are YouTube searches (no verified individual video could be searched for this run)
+- Where a video is not linked directly, the link is a YouTube search (no suitable single video was found for that topic)
 
 [^1]: Thyroid hormones (T3, T4) are written in colour in the amino-acid row because they are the exception: though made from tyrosine, they are lipophilic, enter cells through transporters (e.g. MCT8) and act on a **nuclear** receptor — the page lists "Thyroid hormone receptor" among the nuclear receptors further down.
 [^2]: TRH is a tripeptide (pyroGlu–His–Pro-NH₂); insulin's 51 amino acids form an A chain (21) and a B chain (30) joined by two disulfide bonds — the two chains drawn in the page's figure; PTH is a single chain of 84 amino acids whose first 34 carry full activity (the basis of teriparatide).

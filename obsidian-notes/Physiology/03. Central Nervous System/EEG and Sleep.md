@@ -81,7 +81,9 @@ Focused attention         γ       > 60      fastest
 > [!info] **α block**: replacement of α wave with β wave.
 > Close your eyes and relax → α appears over the back of the head; open them or start mental arithmetic → α vanishes and fast, low β takes over.[^3]
 
-🎬 **Watch:** [EEG waves — alpha, beta, theta, delta (YouTube search)](https://www.youtube.com/results?search_query=EEG+brain+waves+alpha+beta+theta+delta+physiology) · [Electroencephalogram explained (YouTube search)](https://www.youtube.com/results?search_query=electroencephalogram+EEG+physiology+lecture)
+🎬 **Watch:** [Understanding EEG Part 2: Brain waves (Beta, Alpha, Theta, Delta) appearing during a recorded EEG](https://www.youtube.com/watch?v=wTnUMm7AXog) · [Electroencephalogram explained (YouTube search)](https://www.youtube.com/results?search_query=electroencephalogram+EEG+physiology+lecture)
+
+![](https://www.youtube.com/watch?v=wTnUMm7AXog)
 
 ---
 
@@ -170,7 +172,7 @@ Lateral geniculate body — activation of magnocellular pathway
 > [!note] Why REM dreams are long, emotional and strange
 > REM periods lengthen towards morning (see the hypnogram), the limbic system is highly active while the prefrontal "logic" cortex is relatively quiet — so the morning dream is long, vivid, emotional and unrelated to the day's events. NREM mentation is short, thought-like and replays the day.[^8]
 
-🎬 **Watch:** [Sleep stages — NREM and REM (YouTube search)](https://www.youtube.com/results?search_query=sleep+stages+NREM+REM+physiology) · [Ninja Nerd — sleep physiology (YouTube search)](https://www.youtube.com/results?search_query=Ninja+Nerd+sleep+physiology) · [Osmosis — sleep (YouTube search)](https://www.youtube.com/results?search_query=Osmosis+sleep+physiology)
+🎬 **Watch:** [Sleep Physiology — sleep stages, NREM and REM](https://www.youtube.com/watch?v=4rbz88e3lrE) · [Sleep Physiology, Animation](https://www.youtube.com/watch?v=H25DD0sztSA) · [Osmosis — sleep (YouTube search)](https://www.youtube.com/results?search_query=Osmosis+sleep+physiology)
 
 ---
 
@@ -426,9 +428,9 @@ NREM parasomnias: walk · talk · brux (N2) · enuresis · night terror  |  REM:
 
 | What to watch | Link |
 |---|---|
-| EEG brain waves — alpha, beta, theta, delta (YouTube search) | https://www.youtube.com/results?search_query=EEG+brain+waves+alpha+beta+theta+delta+physiology |
-| Sleep stages — NREM and REM (YouTube search) | https://www.youtube.com/results?search_query=sleep+stages+NREM+REM+physiology |
-| Ninja Nerd — sleep physiology (YouTube search) | https://www.youtube.com/results?search_query=Ninja+Nerd+sleep+physiology |
+| Understanding EEG Part 2: Brain waves (Beta, Alpha, Theta, Delta) appearing during a recorded EEG | https://www.youtube.com/watch?v=wTnUMm7AXog |
+| Sleep Physiology — sleep stages, NREM and REM | https://www.youtube.com/watch?v=4rbz88e3lrE |
+| Sleep Physiology, Animation | https://www.youtube.com/watch?v=H25DD0sztSA |
 | Sleep–wake regulation — VLPO, orexin, RAS (YouTube search) | https://www.youtube.com/results?search_query=sleep+wake+regulation+VLPO+orexin+reticular+activating+system |
 
 ---

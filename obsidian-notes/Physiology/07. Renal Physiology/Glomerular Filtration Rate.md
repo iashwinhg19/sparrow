@@ -128,7 +128,9 @@ NFP = Pc − (πc + Pb) = 60 − (32 + 18) = 10 mm Hg   →   GFR 125 mL/min = 1
 | 2. **Podocin** | **Steroid resistant nephrotic syndrome**[^ety-steroid] |
 | 3. **α-actinin**[^ety-actinin] | **Focal segmental glomerulosclerosis (FSGS)**[^ety-fsgs][^suf-osis] |
 
-🎬 **Watch:** [Glomerular filtration barrier — YouTube search](https://www.youtube.com/results?search_query=glomerular+filtration+barrier+podocyte+slit+diaphragm+physiology) · [Nephrin, podocin and nephrotic syndrome — YouTube search](https://www.youtube.com/results?search_query=nephrin+podocin+congenital+nephrotic+syndrome+finnish+type)
+🎬 **Watch:** [GLOMERULAR FILTRATION made easy — ultrafiltration barrier, Starling forces, GFR](https://www.youtube.com/watch?v=9A2dAyWyK6o) · [Nephrin, podocin and nephrotic syndrome — YouTube search](https://www.youtube.com/results?search_query=nephrin+podocin+congenital+nephrotic+syndrome+finnish+type)
+
+![](https://www.youtube.com/watch?v=9A2dAyWyK6o)
 
 ### Filtration forces
 
@@ -203,7 +205,7 @@ IV inulin ──► Plasma ──(Filtered)──► Kidneys ──(Excreted)─
 
 🧠 Compare every substance with inulin: if more is cleared than was filtered, the tubule must have **added** some (secretion); if less, it must have **taken some back** (reabsorption).
 
-🎬 **Watch:** [Glomerular filtration rate and Starling forces — YouTube search](https://www.youtube.com/results?search_query=glomerular+filtration+rate+starling+forces+net+filtration+pressure) · [Renal clearance — inulin, creatinine, PAH — YouTube search](https://www.youtube.com/results?search_query=renal+clearance+inulin+creatinine+PAH+physiology)
+🎬 **Watch:** [GLOMERULAR FILTRATION made easy — GFR and Starling forces](https://www.youtube.com/watch?v=9A2dAyWyK6o) · [Renal clearance — inulin, creatinine, PAH — YouTube search](https://www.youtube.com/results?search_query=renal+clearance+inulin+creatinine+PAH+physiology)
 
 ---
 
@@ -309,7 +311,7 @@ detail: related
 title: Kidney — cortex (glomeruli), medulla and renal vessels
 ```
 
-🎬 **Watch:** [Renal blood flow, RPF and filtration fraction — YouTube search](https://www.youtube.com/results?search_query=renal+plasma+flow+PAH+filtration+fraction+physiology) · [Autoregulation of GFR — myogenic and tubuloglomerular feedback — YouTube search](https://www.youtube.com/results?search_query=autoregulation+GFR+myogenic+tubuloglomerular+feedback) · [Afferent vs efferent arteriole — Ang II, NSAIDs, ACE inhibitors — YouTube search](https://www.youtube.com/results?search_query=afferent+efferent+arteriole+angiotensin+II+ACE+inhibitor+GFR)
+🎬 **Watch:** [Renal blood flow, RPF and filtration fraction — YouTube search](https://www.youtube.com/results?search_query=renal+plasma+flow+PAH+filtration+fraction+physiology) · [Renal Autoregulation — myogenic and tubuloglomerular feedback](https://www.youtube.com/watch?v=kt2ENBU1qrc) · [Afferent vs efferent arteriole — Ang II, NSAIDs, ACE inhibitors — YouTube search](https://www.youtube.com/results?search_query=afferent+efferent+arteriole+angiotensin+II+ACE+inhibitor+GFR)
 
 ---
 
@@ -472,10 +474,11 @@ CONTROL: NE↓↓ · AngII ↑then↓ GFR ↓RBF · PGE2 ↑↑ · ACE-I ↓GFR 
 
 | What to watch | Link |
 |---|---|
-| Glomerular filtration rate and Starling forces (YouTube search) | https://www.youtube.com/results?search_query=glomerular+filtration+rate+starling+forces+net+filtration+pressure |
-| Glomerular filtration barrier — podocytes and slit diaphragm (YouTube search) | https://www.youtube.com/results?search_query=glomerular+filtration+barrier+podocyte+slit+diaphragm+physiology |
+| GLOMERULAR FILTRATION made easy — ultrafiltration barrier, Starling forces and GFR | https://www.youtube.com/watch?v=9A2dAyWyK6o |
 | Renal clearance — inulin, creatinine, PAH (YouTube search) | https://www.youtube.com/results?search_query=renal+clearance+inulin+creatinine+PAH+physiology |
-| Autoregulation of GFR — myogenic and tubuloglomerular feedback (YouTube search) | https://www.youtube.com/results?search_query=autoregulation+GFR+myogenic+tubuloglomerular+feedback |
+| Renal Autoregulation — myogenic and tubuloglomerular feedback | https://www.youtube.com/watch?v=kt2ENBU1qrc |
+| Renal blood flow (RBF) autoregulation — tubuloglomerular feedback | https://www.youtube.com/watch?v=MGluYJ4Rl1k |
+| Tubuloglomerular feedback mechanism | https://www.youtube.com/watch?v=EP9G-s-VPDI |
 
 ---
 

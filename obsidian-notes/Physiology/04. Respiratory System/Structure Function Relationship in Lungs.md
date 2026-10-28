@@ -146,7 +146,9 @@ Cystic fibrosis transmembrane conductance regulator (CFTR) gene mutation
 ![[Structure Function Relationship in Lungs - bronchoconstriction vs bronchodilation.png]]
 *The table's "Image" row — left: bronchoconstriction (smooth muscle contracted, lumen star-shaped and narrow → resistance ↑, airflow ↓); right: bronchodilation (muscle relaxed, lumen wide → resistance ↓, airflow ↑) (cropped from the handwritten page).*[^5]
 
-🎬 **Watch:** [Conducting vs respiratory zone — airway anatomy (YouTube search)](https://www.youtube.com/results?search_query=conducting+zone+respiratory+zone+airway+generations+physiology) · [Mucociliary clearance and Kartagener syndrome (YouTube search)](https://www.youtube.com/results?search_query=Kartagener+syndrome+primary+ciliary+dyskinesia+dynein) · [Cystic fibrosis CFTR pathophysiology (YouTube search)](https://www.youtube.com/results?search_query=cystic+fibrosis+CFTR+pathophysiology+osmosis)
+🎬 **Watch:** [Conducting vs respiratory zone — airway anatomy (YouTube search)](https://www.youtube.com/results?search_query=conducting+zone+respiratory+zone+airway+generations+physiology) · [Mucociliary clearance and Kartagener syndrome (YouTube search)](https://www.youtube.com/results?search_query=Kartagener+syndrome+primary+ciliary+dyskinesia+dynein) · [Cystic Fibrosis — CFTR, pathophysiology, signs and symptoms, diagnosis](https://www.youtube.com/watch?v=y1ItXfl00LQ)
+
+![](https://www.youtube.com/watch?v=y1ItXfl00LQ)
 
 ---
 
@@ -441,6 +443,8 @@ LAPLACE P = 2T/r → surfactant ↓T → no collapse · RDS/HMD → beractant, l
 | Kartagener syndrome — primary ciliary dyskinesia, dynein (YouTube search) | https://www.youtube.com/results?search_query=Kartagener+syndrome+primary+ciliary+dyskinesia+dynein |
 | Pulmonary surfactant and Laplace's law (YouTube search) | https://www.youtube.com/results?search_query=pulmonary+surfactant+Laplace+law+physiology |
 | Neonatal respiratory distress syndrome (YouTube search) | https://www.youtube.com/results?search_query=neonatal+respiratory+distress+syndrome+hyaline+membrane+disease |
+| Cystic Fibrosis — CFTR, pathophysiology, signs and symptoms, diagnosis | https://www.youtube.com/watch?v=y1ItXfl00LQ |
+| Cystic Fibrosis Transmembrane conductance Regulator (CFTR) — structure, function and mutation | https://www.youtube.com/watch?v=bf68jLhGGLo |
 
 ---
 

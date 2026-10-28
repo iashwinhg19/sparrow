@@ -112,7 +112,9 @@ detail: related
 title: Muscles of respiration and pleura
 ```
 
-🎬 **Watch:** [Mechanics of breathing — intrapleural and alveolar pressure (YouTube search)](https://www.youtube.com/results?search_query=mechanics+of+breathing+intrapleural+alveolar+transpulmonary+pressure) · [Ninja Nerd — mechanics of ventilation (YouTube search)](https://www.youtube.com/results?search_query=Ninja+Nerd+mechanics+of+ventilation) · [Muscles of respiration (YouTube search)](https://www.youtube.com/results?search_query=muscles+of+respiration+inspiration+expiration+physiology)
+🎬 **Watch:** [Mechanics of Breathing — Pressures (atmospheric, intrapulmonary, intrapleural)](https://www.youtube.com/watch?v=M1gt4mE5UT8) · [Ninja Nerd — mechanics of ventilation (YouTube search)](https://www.youtube.com/results?search_query=Ninja+Nerd+mechanics+of+ventilation) · [Muscles of respiration (YouTube search)](https://www.youtube.com/results?search_query=muscles+of+respiration+inspiration+expiration+physiology)
+
+![](https://www.youtube.com/watch?v=M1gt4mE5UT8)
 
 ---
 
@@ -243,7 +245,7 @@ So the work of breathing is the area of the pressure–volume loop: how much pre
 > [!example]- 🎨 Image prompt — Work of breathing pie
 > "Flat-vector medical infographic, white background. A large donut chart titled 'Work of breathing (100 %)'. Outer ring split 65 % (teal, 'Elastic forces') and 35 % (orange, 'Resistance'). Inner ring: teal part split into '2/3 surface tension forces' and '1/3 tissue elasticity'; orange part split into '28 % airway resistance' and '7 % lung tissue resistance'. Above the chart the formula 'Work = Force × Displacement = 0.5 kg·m/min (by lung)', with 'Force → pressure changes' and 'Displacement → volume changes' as small arrows. Clean sans-serif labels, no other text, no watermark."
 
-🎬 **Watch:** [Work of breathing — elastic vs resistive work (YouTube search)](https://www.youtube.com/results?search_query=work+of+breathing+elastic+resistive+physiology)
+🎬 **Watch:** [Pathophysiological Understanding of Respiratory Failure: Balancing Work of Breathing and Workload (resistance and elastance load)](https://www.youtube.com/watch?v=YdOtgwOM5lo)
 
 ---
 
@@ -403,10 +405,10 @@ WORK 0.5 kg·m/min = 65 % elastic (⅔ ST, ⅓ tissue) + 35 % resistance (28 air
 
 | What to watch | Link |
 |---|---|
-| Mechanics of breathing — intrapleural, alveolar, transpulmonary pressure (YouTube search) | https://www.youtube.com/results?search_query=mechanics+of+breathing+intrapleural+alveolar+transpulmonary+pressure |
+| Mechanics of Breathing — Pressures (atmospheric, intrapulmonary, intrapleural) | https://www.youtube.com/watch?v=M1gt4mE5UT8 |
 | Ninja Nerd — mechanics of ventilation (YouTube search) | https://www.youtube.com/results?search_query=Ninja+Nerd+mechanics+of+ventilation |
 | Lung compliance, elastance and hysteresis (YouTube search) | https://www.youtube.com/results?search_query=lung+compliance+elastance+physiology |
-| Work of breathing — elastic vs resistive work (YouTube search) | https://www.youtube.com/results?search_query=work+of+breathing+elastic+resistive+physiology |
+| Pathophysiological Understanding of Respiratory Failure: Balancing Work of Breathing and Workload (resistance and elastance load) | https://www.youtube.com/watch?v=YdOtgwOM5lo |
 
 ---
 

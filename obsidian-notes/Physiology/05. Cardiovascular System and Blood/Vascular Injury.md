@@ -166,7 +166,9 @@ COMMON              X ──────────────→ Xa ←──
 4. **Bleeding time: 2–8 mins.**
 5. **Clotting time: 3–6 mins.**[^10]
 
-🎬 **Watch:** [YouTube search — Ninja Nerd coagulation cascade](https://www.youtube.com/results?search_query=ninja+nerd+coagulation+cascade) · [YouTube search — Armando Hasudungan coagulation cascade](https://www.youtube.com/results?search_query=armando+hasudungan+coagulation+cascade) · [YouTube search — PT vs APTT interpretation](https://www.youtube.com/results?search_query=PT+vs+APTT+interpretation+coagulation+profile)
+🎬 **Watch:** [Coagulation cascade (simple!) — haemostasis, intrinsic and extrinsic pathways](https://www.youtube.com/watch?v=baranVkkRLo) · [The Blood Coagulation Cascade — intrinsic, extrinsic and common pathways](https://www.youtube.com/watch?v=7FgbMkPUPnY) · [Hemostasis II — coagulation cascade, PT and PTT, thrombin, endothelium](https://www.youtube.com/watch?v=eMP3DXE_Yuk)
+
+![](https://www.youtube.com/watch?v=baranVkkRLo)
 
 ---
 
@@ -395,9 +397,10 @@ VIT K: Glu → γ-carboxy-Glu → II, VII, IX, X, C, S · warfarin ⊣
 
 | What to watch | Link |
 |---|---|
-| Coagulation cascade (YouTube search: Ninja Nerd) | https://www.youtube.com/results?search_query=ninja+nerd+coagulation+cascade |
-| Coagulation cascade (YouTube search: Armando Hasudungan) | https://www.youtube.com/results?search_query=armando+hasudungan+coagulation+cascade |
-| PT vs APTT — reading a coagulation profile (YouTube search) | https://www.youtube.com/results?search_query=PT+vs+APTT+interpretation+coagulation+profile |
+| Coagulation cascade (simple!) — haemostasis, intrinsic and extrinsic pathways | https://www.youtube.com/watch?v=baranVkkRLo |
+| The Blood Coagulation Cascade — intrinsic, extrinsic and common pathways | https://www.youtube.com/watch?v=7FgbMkPUPnY |
+| Hemostasis II — coagulation cascade, PT and PTT, thrombin, endothelium | https://www.youtube.com/watch?v=eMP3DXE_Yuk |
+| Coagulation cascade made easy — extrinsic, intrinsic and common pathway | https://www.youtube.com/watch?v=ti1nAhUcX_o |
 | Natural anticoagulants — protein C, protein S, antithrombin (YouTube search) | https://www.youtube.com/results?search_query=natural+anticoagulants+protein+C+protein+S+antithrombin+physiology |
 | Vitamin K and warfarin — γ-carboxylation (YouTube search) | https://www.youtube.com/results?search_query=vitamin+K+warfarin+mechanism+gamma+carboxylation |
 

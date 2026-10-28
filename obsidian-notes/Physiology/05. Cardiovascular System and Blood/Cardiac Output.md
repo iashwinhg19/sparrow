@@ -87,7 +87,9 @@ FAILURE: shock → hypovolaemic (m/c) · neurogenic · cardiogenic · anaphylact
   - **↑ HR → ↑ force of contraction.**[^4]
 - **Anrep**[^ety-anrep] **effect : abrupt ↑ in afterload → ↑ force of contraction.**[^5]
 
-🎬 **Watch:** [Ninja Nerd — cardiac output, preload, afterload, contractility (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+cardiac+output+preload+afterload+contractility) · [Frank–Starling law of the heart (YouTube search)](https://www.youtube.com/results?search_query=frank+starling+law+of+the+heart+physiology) · [Osmosis — cardiac output (YouTube search)](https://www.youtube.com/results?search_query=osmosis+cardiac+output)
+🎬 **Watch:** [Frank-Starling Curve & Cardiac Output Masterclass: Preload, Afterload, and Contractility](https://www.youtube.com/watch?v=eEWGl7OGKaM) · [Frank-Starling Curve Explained: Preload, Stroke Volume, and Contractility](https://www.youtube.com/watch?v=7g_e2X31Ae8) · [Cardiac Output and Cardiac Index — Preload, Afterload…](https://www.youtube.com/watch?v=NEDln5Gc6SU)
+
+![](https://www.youtube.com/watch?v=eEWGl7OGKaM)
 
 ---
 
@@ -167,7 +169,7 @@ detail: related
 title: Aorta, coronary arteries and the calf muscle pump
 ```
 
-🎬 **Watch:** [Fick principle for cardiac output (YouTube search)](https://www.youtube.com/results?search_query=fick+principle+cardiac+output+physiology) · [Coronary circulation physiology (YouTube search)](https://www.youtube.com/results?search_query=coronary+circulation+physiology+subendocardial+ischemia)
+🎬 **Watch:** [CVS 186 — Oxygen Fick principle for measurement of cardiac output](https://www.youtube.com/watch?v=y2uk7RTG7aA) · [Fick Equation Explained: Cardiac Output, Oxygen Consumption, and Clinical Application](https://www.youtube.com/watch?v=0G5amzUM4DY) · [Coronary circulation physiology (YouTube search)](https://www.youtube.com/results?search_query=coronary+circulation+physiology+subendocardial+ischemia)
 
 ---
 
@@ -224,7 +226,7 @@ ADH ↑ → ↑ water reabsorption → ↑ blood volume
 
 🧠 *In the irreversible stage the cells have broken their ATP down so far (to adenosine, which diffuses away) that even if circulation is restored they cannot rebuild their energy stores fast enough — so death follows whatever is done.*
 
-🎬 **Watch:** [Types of shock — hypovolemic, cardiogenic, distributive (YouTube search)](https://www.youtube.com/results?search_query=types+of+shock+hypovolemic+cardiogenic+distributive+physiology) · [Stages of hemorrhagic shock (YouTube search)](https://www.youtube.com/results?search_query=stages+of+hemorrhagic+shock+compensated+progressive+irreversible)
+🎬 **Watch:** [Mastering Shock — Hypovolemic, Cardiogenic, Obstructive, Distributive & Septic Shock Explained](https://www.youtube.com/watch?v=3nqSQwEBkP0) · [Types of shock, hypovolemic shock, cardiogenic shock, distributive shock — physiology made easy](https://www.youtube.com/watch?v=HoOCUhFERbk) · [Stages of hemorrhagic shock (YouTube search)](https://www.youtube.com/results?search_query=stages+of+hemorrhagic+shock+compensated+progressive+irreversible)
 
 ---
 
@@ -393,11 +395,11 @@ SHOCK: hypovolaemic m/c · neurogenic ↓TPR · cardiogenic · anaphylactic (his
 
 | What to watch | Link |
 |---|---|
-| Ninja Nerd — cardiac output, preload, afterload, contractility (search) | https://www.youtube.com/results?search_query=ninja+nerd+cardiac+output+preload+afterload+contractility |
-| Frank–Starling law of the heart (search) | https://www.youtube.com/results?search_query=frank+starling+law+of+the+heart+physiology |
-| Osmosis — cardiac output (search) | https://www.youtube.com/results?search_query=osmosis+cardiac+output |
-| Fick principle for cardiac output (search) | https://www.youtube.com/results?search_query=fick+principle+cardiac+output+physiology |
-| Types of shock (search) | https://www.youtube.com/results?search_query=types+of+shock+hypovolemic+cardiogenic+distributive+physiology |
+| Frank-Starling Curve & Cardiac Output Masterclass: Preload, Afterload, and Contractility | https://www.youtube.com/watch?v=eEWGl7OGKaM |
+| Frank-Starling Curve Explained: Preload, Stroke Volume, and Contractility | https://www.youtube.com/watch?v=7g_e2X31Ae8 |
+| CVS 186 — Oxygen Fick principle for measurement of cardiac output | https://www.youtube.com/watch?v=y2uk7RTG7aA |
+| Mastering Shock — Hypovolemic, Cardiogenic, Obstructive, Distributive & Septic Shock Explained | https://www.youtube.com/watch?v=3nqSQwEBkP0 |
+| Types of shock, physiology made easy | https://www.youtube.com/watch?v=HoOCUhFERbk |
 | Stages of haemorrhagic shock (search) | https://www.youtube.com/results?search_query=stages+of+hemorrhagic+shock+compensated+progressive+irreversible |
 
 ---

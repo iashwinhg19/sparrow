@@ -223,7 +223,9 @@ Activation of RVLM (SNS)
 
 - Stimulus: **MAP ≤ 40 mmHg** → **↓ cerebral perfusion**[^ety-perfusion][^pre-per] **(d/t low perfusion pressure)** → **activation of RVLM (SNS)** → **↑↑ MAP (as high as 250 mmHg) (most powerful)**.[^13]
 
-🎬 **Watch:** [YouTube search — Ninja Nerd baroreceptor reflex](https://www.youtube.com/results?search_query=ninja+nerd+baroreceptor+reflex+blood+pressure+regulation) · [YouTube search — short-term vs long-term regulation of blood pressure](https://www.youtube.com/results?search_query=short+term+intermediate+long+term+regulation+of+blood+pressure+physiology) · [YouTube search — orthostatic hypotension physiology](https://www.youtube.com/results?search_query=orthostatic+hypotension+physiology+baroreflex)
+🎬 **Watch:** [Baroreceptor reflex physiology — short-term regulation of blood pressure](https://www.youtube.com/watch?v=nSYKNobSEVI) · [Short term regulation of blood pressure](https://www.youtube.com/watch?v=Ndasjvw52ek) · [YouTube search — orthostatic hypotension physiology](https://www.youtube.com/results?search_query=orthostatic+hypotension+physiology+baroreflex)
+
+![](https://www.youtube.com/watch?v=nSYKNobSEVI)
 
 ---
 
@@ -276,7 +278,7 @@ Ex: Congestive cardiac   ──→   (Right atrium        ──→   Tachycardi
 
 - **Fluid overload** (Ex: **congestive**[^ety-congestion] **cardiac failure**) → **activates SA node (right atrium enlargement)** → **tachycardia**[^ety-tachycardia] **(↑ HR).**[^18]
 
-🎬 **Watch:** [YouTube search — Bezold-Jarisch, Cushing and Bainbridge reflexes](https://www.youtube.com/results?search_query=bezold+jarisch+reflex+cushing+reflex+bainbridge+reflex) · [YouTube search — Mayer and Traube-Hering waves](https://www.youtube.com/results?search_query=mayer+waves+traube+hering+waves+blood+pressure)
+🎬 **Watch:** [The Bezold Jarisch Reflex](https://www.youtube.com/watch?v=5Cu7G-mycJc) · [Bainbridge, Bezold-Jarisch and baroreceptor reflexes — cardiopulmonary receptors, vasomotor centre](https://www.youtube.com/watch?v=jcNccmy0vAg) · [YouTube search — Mayer and Traube-Hering waves](https://www.youtube.com/results?search_query=mayer+waves+traube+hering+waves+blood+pressure)
 
 ---
 
@@ -498,10 +500,12 @@ CHEMICALS: constrict — urotensin > NE, ET (bosentan), AVP-V1 (terlipressin), A
 
 | What to watch | Link |
 |---|---|
-| Baroreceptor reflex (YouTube search: Ninja Nerd) | https://www.youtube.com/results?search_query=ninja+nerd+baroreceptor+reflex+blood+pressure+regulation |
-| Short-, intermediate- and long-term BP regulation (YouTube search) | https://www.youtube.com/results?search_query=short+term+intermediate+long+term+regulation+of+blood+pressure+physiology |
+| Baroreceptor reflex physiology — short-term regulation of blood pressure | https://www.youtube.com/watch?v=nSYKNobSEVI |
+| Short term regulation of blood pressure | https://www.youtube.com/watch?v=Ndasjvw52ek |
+| Blood pressure regulation — short term, baroreceptor and chemoreceptor mechanism | https://www.youtube.com/watch?v=P8ntecqi2Qw |
 | Orthostatic hypotension — the standing reflex (YouTube search) | https://www.youtube.com/results?search_query=orthostatic+hypotension+physiology+baroreflex |
-| Bezold–Jarisch, Cushing and Bainbridge reflexes (YouTube search) | https://www.youtube.com/results?search_query=bezold+jarisch+reflex+cushing+reflex+bainbridge+reflex |
+| The Bezold Jarisch Reflex | https://www.youtube.com/watch?v=5Cu7G-mycJc |
+| Bainbridge, Bezold-Jarisch and baroreceptor reflexes — cardiopulmonary receptors, vasomotor centre | https://www.youtube.com/watch?v=jcNccmy0vAg |
 | Vasoconstrictors and vasodilators — endothelin, NO (YouTube search) | https://www.youtube.com/results?search_query=vasoconstrictors+vasodilators+endothelin+nitric+oxide+physiology |
 
 ---
