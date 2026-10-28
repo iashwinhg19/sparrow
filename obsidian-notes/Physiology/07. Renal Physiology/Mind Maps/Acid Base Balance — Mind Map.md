@@ -18,7 +18,7 @@ status: not-started
 ## Maintenance of Acid Base Balance
 ### pH
 - Normal 7.35–7.45
-  - > 7.8 or < 6.9 → death
+  - pH > 7.8 or < 6.9 → death
 - Derangement of pH
   - → Demineralization of proteinaceous enzymes (↓ activity)
   - → Alkalosis: ↑ CNS excitability
@@ -50,14 +50,14 @@ status: not-started
   - HCO₃⁻ excretion / reabsorption
 
 ### PCT
-- 1. H⁺ excretion and HCO₃⁻ reabsorption
+- (1) H⁺ excretion and HCO₃⁻ reabsorption
   - Na⁺–H⁺ exchanger → H⁺ into lumen
   - Filtered HCO₃⁻ acts as buffer for H⁺
   - H₂CO₃ → (CA) → CO₂ + H₂O → CO₂ recycled into cell
   - Cell: CO₂ + H₂O → (CA II) → H⁺ + HCO₃⁻
   - Generated HCO₃⁻ reabsorbed
   - No net gain → filtered = generated
-- 2. New HCO₃⁻ with substitute buffers (unique to kidney)
+- (2) New HCO₃⁻ with substitute buffers (unique to kidney)
   - a. HPO₄²⁻ as buffer
     - H⁺ + HPO₄²⁻ → H₂PO₄⁻
     - H₂PO₄⁻ = titratable acid excreted in urine
@@ -74,12 +74,12 @@ status: not-started
 
 ### Collecting duct
 - Regulated by protein hensin
-- 1. H⁺ excretion — acidosis — type A intercalated cell
+- (1) H⁺ excretion — acidosis — type A intercalated cell
   - Luminal H⁺–K⁺ ATPase → excretion of H⁺
   - Under control of aldosterone
   - Basolateral Cl⁻–HCO₃⁻ exchanger
   - → HCO₃⁻ reabsorption & replenishment
-- 2. HCO₃⁻ excretion — alkalosis — type B intercalated cell
+- (2) HCO₃⁻ excretion — alkalosis — type B intercalated cell
   - Luminal HCO₃⁻–Cl⁻ exchanger → HCO₃⁻ excretion
   - Basolateral H⁺–K⁺ ATPase → H⁺ reabsorption
 

@@ -95,15 +95,15 @@ status: not-started
 - Deiodinase contains selenocysteine (21st amino acid)
 
 ### Actions 1–3 (mediated by T3)
-- 1. ↑ BMR
+- (1) ↑ BMR
   - ↑ O₂ consumption everywhere except
     - Adult brain, testes, uterus, spleen
   - ↑ end products → vasodilation → ↓ PVR
-- 2. Physiologic uncoupler
+- (2) Physiologic uncoupler
   - T3 → UCP1 → heat dissipation → thermogenic
   - Hyperthyroid → ↑↑ heat → heat intolerance
   - Hypothyroid → no heat → cold intolerance
-- 3. Catabolism
+- (3) Catabolism
   - Glycogenolysis → ↑ blood glucose
   - Lipolysis → ↑ free fatty acids
   - Proteolysis
@@ -111,28 +111,28 @@ status: not-started
   - Hypothyroid → ↑ cholesterol → atherosclerosis
 
 ### Actions 4–6
-- 4. GAGs
+- (4) GAGs
   - T3 prevents GAG accumulation (hyaluronic acid, chondroitin)
   - Hypothyroid → GAGs bind water → myxedema (puffy face)
-- 5. Development
+- (5) Development
   - Brain growth → ↑ myelination in CNS
   - Bone growth
   - Congenital hypothyroidism
     - Mental retardation (m/c reversible cause) → low IQ
     - Stunted growth
-- 6. Heart
+- (6) Heart
   - ↑ responsiveness to catecholamines (NE)
   - → ↑ HR, ↑ SV, ↑ contractility (β-receptor)
   - Thyroid storm → ↑ NE action → Rx propranolol
 
 ### Actions 7–9
-- 7. Lungs
+- (7) Lungs
   - ↑ metabolism → ↑ O₂ use → hypoxia
   - → ODC shift to right
   - → stimulates respiration → ↑ respiratory rate
-- 8. GIT
+- (8) GIT
   - ↑ motility & ↑ secretions
   - Hypothyroid → ↓ motility → constipation
-- 9. Reproductive system
+- (9) Reproductive system
   - Permissive role in reproduction
   - Liver → ↑ sex steroid binding globulin
