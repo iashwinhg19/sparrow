@@ -183,14 +183,12 @@ P_{osm} = 2\,(\text{Na}^+) + 0.05\,(\text{Glu}) + 0.36\,(\text{Blood urea nitrog
 - **Normal osmolarity of Na⁺: 300 mosm/L.**[^7]
 
 > [!note] Note
-> **Osmoles: concentration of osmotically active substance.**
+> **Osmoles: concentration of osmotically active substance.**[^8]
 >
 > | Osmolarity[^ety-osmolarity] | Osmolality |
 > |---|---|
 > | **mosm/L** of solvent | **mosm/Kg** of solvent |
 > | Most common | — |
->
-> [^8]
 
 🎬 **Watch:** [YouTube search — passive transport, simple and facilitated diffusion, osmosis](https://www.youtube.com/results?search_query=passive+transport+simple+facilitated+diffusion+osmosis+physiology) · [YouTube search — Fick's law of diffusion physiology](https://www.youtube.com/results?search_query=fick%27s+law+of+diffusion+physiology+lecture)
 
@@ -235,22 +233,19 @@ P_{osm} = 2\,(\text{Na}^+) + 0.05\,(\text{Glu}) + 0.36\,(\text{Blood urea nitrog
 
 **Functions:**
 1. **Regulation of cell volume:** cell swollen with H₂O → pump expels Na⁺ (and water follows) → **cell shape returns back to normal**.
-
-   ![[Membrane Transport - Na-K pump regulates cell volume.png]]
-   *Regulation of cell volume — a cell swollen with H₂O → the Na⁺–K⁺ pump moves Na⁺ out (water follows) → cell shape returns to normal (cropped from the handwritten page).*
-
 2. **Resting membrane potential: contributes 4 mV (minor).**
 3. **Indirect energy source: for secondary active transport.**
 
-**Regulation: activity of Na⁺–K⁺ pump**
+![[Membrane Transport - Na-K pump regulates cell volume.png]]
+*Regulation of cell volume — a cell swollen with H₂O → the Na⁺–K⁺ pump moves Na⁺ out (water follows) → cell shape returns to normal (cropped from the handwritten page).*
+
+**Regulation: activity of Na⁺–K⁺ pump**[^10]
 
 | | **Increase** [↑ ATP hydrolysis[^ety-hydrolysis][^pre-hydro][^suf-lysis] (metabolically[^ety-metabolism][^pre-meta] active)] | **Decrease** |
 |---|---|---|
 | **Examples** | **Thyroid hormone** | **Ouabain** |
 | | **Insulin**[^ety-insulin] | **Digitalis**[^ety-digitalis] |
 | | **Aldosterone** | **Dopamine (Physiological)** |
-
-[^10]
 
 ### Secondary active transport
 
@@ -263,14 +258,12 @@ P_{osm} = 2\,(\text{Na}^+) + 0.05\,(\text{Glu}) + 0.36\,(\text{Blood urea nitrog
 
 **1. Symporter**[^ety-symport][^pre-syn]**: both substances move in same direction.**
 
-| Example | | Site |
+| Example | | Site[^11] |
 |---|---|---|
 | **SGLT (Sodium glucose linked transporter)** | **SGLT-1** | **GIT** |
 | | **SGLT-2** | **PCT** |
 | **Na⁺–K⁺–2Cl⁻ cotransporter**[^pre-co] | | **Thick ascending limb of loop of Henle**[^ety-henle] |
 | **Na⁺–I⁻ symporter** | | **Thyroid gland** |
-
-[^11]
 
 **2. Antiport**[^pre-anti] **(Exchanger): substances move in opposite direction.**
 - **Eg: Cl⁻–HCO₃⁻ exchanger (Anion**[^ety-anion][^pre-ana] **exchanger) in RBC.**[^12]
@@ -569,7 +562,7 @@ Posm = 2 Na⁺ + 0.05 Glu + 0.36 BUN ≈ 300 · SATURATION: carriers & pumps pla
 [^ety-nitrogen]: **nitrogen / nitrogenous** — Greek *nitron*, "native soda, saltpetre" + *-gen*, "producing" → "saltpetre-former" (Chaptal, 1790); a nitrogenous base is a ring compound rich in nitrogen — adenine in ATP.
 [^ety-ribose]: **ribose** — a rearranged form of *arabinose* (from *gum arabic*) + *-ose*, sugar → the five-carbon sugar of RNA and ATP; *deoxyribose* (one oxygen less) is the sugar of DNA.
 [^ety-boyer-walker]: **Boyer and Walker** — **Paul Delos Boyer** (1918–2018), American biochemist, proposed the "binding change" (rotary) mechanism of ATP synthase; **Sir John Ernest Walker** (born 1941), British chemist, solved its structure — they shared half of the 1997 Nobel Prize in Chemistry.
-[^ety-skou]: **Jens Christian Skou** (1918–2018) — Danish physician and physiologist who discovered the Na⁺–K⁺ ATPase in crab nerves (1957), the first known ion-pumping enzyme; the other half of the 1997 Nobel Prize in Chemistry.
+[^ety-skou]: **Jens Christian Skou** — Danish physician and physiologist (1918–2018) who discovered the Na⁺–K⁺ ATPase in crab nerves (1957), the first known ion-pumping enzyme; the other half of the 1997 Nobel Prize in Chemistry.
 [^ety-diffusion]: **diffusion** — Latin *dis-*, "apart, in different directions" + *fundere*, "to pour" + *-ion*, the process → pouring out in all directions: random molecular movement from high to low concentration. **Differentiate:** *diffusion* (random, down a gradient) · *osmosis* (diffusion of water across a semipermeable membrane) · *filtration* (movement driven by pressure) · *bulk flow / convection* (movement with a moving fluid).
 [^ety-facilitated]: **facilitated** — Latin *facilis*, "easy" (*facere*, to do) + *-ate* → made easy: the carrier makes it easy for a molecule to cross, but cannot push it uphill.
 [^ety-osmosis]: **osmosis / osmotic** — Greek *ōsmos*, "a push, thrust" + *-osis*, the process → the "push" of water through a membrane towards the solute (term from Dutrochet's *endosmose*, 1826). **Differentiate:** *osmosis* (water moves) · *diffusion* (solute moves) · *oncotic pressure* (osmotic pressure due to proteins).
