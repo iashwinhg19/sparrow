@@ -193,7 +193,7 @@ No tetany
 
 🧠 By the time the muscle can respond to a new stimulus (end of the **absolute**[^ety-absolute] **refractory**[^ety-refractory][^pre-re] period), the contraction is already over — so a second twitch cannot ride on the first. A heart in tetanus could not fill, so this is a life-saving design.[^11]
 
-🎬 **Watch:** [Cardiac muscle — CICR, phospholamban, Frank–Starling (YouTube search)](https://www.youtube.com/results?search_query=cardiac+muscle+physiology+calcium+induced+calcium+release+phospholamban) · [Why cardiac muscle cannot be tetanised (YouTube search)](https://www.youtube.com/results?search_query=why+cardiac+muscle+cannot+be+tetanized+refractory+period)
+🎬 **Watch:** [Frank-Starling Curve Explained: Preload, Stroke Volume, and Contractility](https://www.youtube.com/watch?v=7g_e2X31Ae8) · [Cardiac muscle — CICR, phospholamban (YouTube search)](https://www.youtube.com/results?search_query=cardiac+muscle+physiology+calcium+induced+calcium+release+phospholamban) · [Why cardiac muscle cannot be tetanised (YouTube search)](https://www.youtube.com/results?search_query=why+cardiac+muscle+cannot+be+tetanized+refractory+period)
 
 ---
 
@@ -319,7 +319,9 @@ Myosin actin overlap
 - **Sustained contraction with low ATP.**
 - **Eg: Sustained contraction of GIT for digestion**[^ety-digestion].[^17]
 
-🎬 **Watch:** [Smooth muscle contraction — calmodulin, MLCK, MLCP (YouTube search)](https://www.youtube.com/results?search_query=smooth+muscle+contraction+calmodulin+MLCK+MLCP+physiology) · [Single-unit vs multi-unit smooth muscle, latch bridge (YouTube search)](https://www.youtube.com/results?search_query=single+unit+multiunit+smooth+muscle+latch+bridge)
+🎬 **Watch:** [Smooth Muscle Tissue Anatomy — mnemonic, structure, contraction, single-unit, multi-unit](https://www.youtube.com/watch?v=AYkcBUGZt6g) · [Latch mechanism smooth muscle: simplified view](https://www.youtube.com/watch?v=LyQx0yp7BdQ) · [Smooth muscle Physiology Part 2](https://www.youtube.com/watch?v=XNJxcQBo7Uc) · [Smooth muscle contraction — calmodulin, MLCK, MLCP (YouTube search)](https://www.youtube.com/results?search_query=smooth+muscle+contraction+calmodulin+MLCK+MLCP+physiology)
+
+![](https://www.youtube.com/watch?v=AYkcBUGZt6g)
 
 ---
 
@@ -487,10 +489,12 @@ PLASTICITY (uterus, bladder) · LATCH BRIDGE (low ATP, sustained GIT tone)
 
 | What to watch | Link |
 |---|---|
-| Cardiac muscle — CICR, phospholamban, Frank–Starling (YouTube search) | https://www.youtube.com/results?search_query=cardiac+muscle+physiology+calcium+induced+calcium+release+phospholamban |
+| Frank–Starling curve — preload, stroke volume, contractility | https://www.youtube.com/watch?v=7g_e2X31Ae8 |
+| Cardiac muscle — CICR, phospholamban (YouTube search) | https://www.youtube.com/results?search_query=cardiac+muscle+physiology+calcium+induced+calcium+release+phospholamban |
 | Why cardiac muscle cannot be tetanised (YouTube search) | https://www.youtube.com/results?search_query=why+cardiac+muscle+cannot+be+tetanized+refractory+period |
+| Smooth muscle tissue — structure, contraction, single-unit vs multi-unit | https://www.youtube.com/watch?v=AYkcBUGZt6g |
+| Latch mechanism in smooth muscle (simplified view) | https://www.youtube.com/watch?v=LyQx0yp7BdQ |
 | Smooth muscle contraction — calmodulin, MLCK, MLCP (YouTube search) | https://www.youtube.com/results?search_query=smooth+muscle+contraction+calmodulin+MLCK+MLCP+physiology |
-| Single-unit vs multi-unit smooth muscle, latch bridge (YouTube search) | https://www.youtube.com/results?search_query=single+unit+multiunit+smooth+muscle+latch+bridge |
 
 ---
 
