@@ -142,7 +142,9 @@ Pneumotaxic center ────────────────────�
 > [!example]- 🎨 Image prompt — Breathing waveforms after brainstem transection at levels A–D
 > "Clean physiology textbook figure, white background, four stacked panels each with a thin grey frame and a black trace drawn left to right, labelled on the left with the lesion and on the right with the effect: A 'Complete transection above pons — all respiratory areas intact' with a regular sine-like breathing trace labelled 'Normal'; B 'Mid-pontine section with vagus cut — apneusis' with a trace that rises and stays up in a long, slightly wavy plateau before falling, labelled 'Prolonged inspiration'; C 'Midway between pons and medulla — initiation present, regularisation absent' with small irregular waves of varying height, labelled 'Irregular inspiration'; D 'Complete transection below medulla — death inevitable' with a straight horizontal line, labelled 'Flat line'. A small brainstem outline at the side with dotted lines at levels A–D. No other text, no watermark."
 
-🎬 **Watch:** [Respiratory centres — pneumotaxic, apneustic, DRG, VRG (YouTube search)](https://www.youtube.com/results?search_query=respiratory+centres+pneumotaxic+apneustic+DRG+VRG+pre-botzinger) · [Brainstem transection and breathing patterns (YouTube search)](https://www.youtube.com/results?search_query=brainstem+transection+respiration+apneusis) · [Ninja Nerd — control of respiration (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+neural+control+of+respiration)
+🎬 **Watch:** [Medullary Respiratory Center: Control of Breathing (DRGs vs. VRGs)](https://www.youtube.com/watch?v=AK6u-n5fDuU) · [Regulation of Respiration: Pneumotaxic Center and Ventral Respiratory Group](https://www.youtube.com/watch?v=SGHM7alISmA) · [Respiratory System 11, Regulation of respiration](https://www.youtube.com/watch?v=XVGxZw6Vhac) · [Brainstem transection and breathing patterns (YouTube search)](https://www.youtube.com/results?search_query=brainstem+transection+respiration+apneusis)
+
+![](https://www.youtube.com/watch?v=AK6u-n5fDuU)
 
 ---
 
@@ -159,7 +161,7 @@ Pneumotaxic center ────────────────────�
 
 🧠 *How to keep them apart:* the two **Hering–Breuer** reflexes are **opposite brakes** — too much inflation stops inspiration, too much deflation stops expiration — both carried by **myelinated** vagal fibres. **Head's** reflex is **paradoxical** because inflation causes **more** inspiration instead of less — useful only at birth, to open the fluid-filled newborn lung. The **J reflex** is the **"distress" reflex** of the lung's interstitium: **unmyelinated C fibres** fire when fluid collects beside the capillaries (pulmonary oedema, embolism), causing apnoea followed by rapid shallow breathing, with a fall in heart rate and BP.[^7]
 
-🎬 **Watch:** [Hering–Breuer reflex (YouTube search)](https://www.youtube.com/results?search_query=hering+breuer+reflex+physiology) · [J receptors and the J reflex (YouTube search)](https://www.youtube.com/results?search_query=J+receptors+juxtacapillary+reflex) · [Pulmonary reflexes — Head's paradoxical reflex (YouTube search)](https://www.youtube.com/results?search_query=head%27s+paradoxical+reflex+newborn)
+🎬 **Watch:** [Hering-Breuer Reflex — factors affecting the respiratory centres](https://www.youtube.com/watch?v=G-Xqp3FQNp8) · [J receptors and the J reflex (YouTube search)](https://www.youtube.com/results?search_query=J+receptors+juxtacapillary+reflex) · [Pulmonary reflexes — Head's paradoxical reflex (YouTube search)](https://www.youtube.com/results?search_query=head%27s+paradoxical+reflex+newborn)
 
 ---
 
@@ -214,7 +216,7 @@ Gradual HYPERPNOEA (CO2 washout) → gradual HYPOPNOEA → APNOEA (complete buil
 | **Biot's (ataxic)** | Hyperpnoea broken **abruptly** by apnoea | **Damage to medulla, meningitis** |
 | **Kussmaul's (acidotic)** | Deep, fast, regular — **↑ rate & depth** | **Diabetic ketoacidosis** |
 
-🎬 **Watch:** [Abnormal breathing patterns — Cheyne–Stokes, Biot, Kussmaul (YouTube search)](https://www.youtube.com/results?search_query=abnormal+breathing+patterns+cheyne+stokes+biot+kussmaul) · [Cheyne–Stokes respiration mechanism (YouTube search)](https://www.youtube.com/results?search_query=cheyne+stokes+respiration+mechanism) · [Kussmaul breathing in DKA (YouTube search)](https://www.youtube.com/results?search_query=kussmaul+breathing+diabetic+ketoacidosis)
+🎬 **Watch:** [Abnormal breathing patterns: Kussmaul, Biot's, Cheyne-Stokes respirations, and more (animation)](https://www.youtube.com/watch?v=Z4AJhNI5Aqk) · [Kussmaul, Cheyne-Stokes & Biot's Breathing Explained](https://www.youtube.com/watch?v=GKE4pShykhI) · [Breathing Patterns! Cheyne Stokes, Biot's, Kussmaul's, Apnea, and more](https://www.youtube.com/watch?v=xK8erjpCdOA)
 
 ---
 
@@ -384,10 +386,11 @@ PATTERNS: Cheyne–Stokes (sleep, CCF, uraemia) · Biot's (medulla, meningitis) 
 
 | What to watch | Link |
 |---|---|
-| Respiratory centres — pneumotaxic, apneustic, DRG, VRG, Pre-Bötzinger (YouTube search) | https://www.youtube.com/results?search_query=respiratory+centres+pneumotaxic+apneustic+DRG+VRG+pre-botzinger |
-| Hering–Breuer reflex (YouTube search) | https://www.youtube.com/results?search_query=hering+breuer+reflex+physiology |
+| Medullary respiratory centre — DRG vs VRG | https://www.youtube.com/watch?v=AK6u-n5fDuU |
+| Pneumotaxic centre and ventral respiratory group | https://www.youtube.com/watch?v=SGHM7alISmA |
+| Hering–Breuer reflex | https://www.youtube.com/watch?v=G-Xqp3FQNp8 |
 | J receptors and the J reflex (YouTube search) | https://www.youtube.com/results?search_query=J+receptors+juxtacapillary+reflex |
-| Abnormal breathing patterns — Cheyne–Stokes, Biot, Kussmaul (YouTube search) | https://www.youtube.com/results?search_query=abnormal+breathing+patterns+cheyne+stokes+biot+kussmaul |
+| Abnormal breathing patterns — Kussmaul, Biot's, Cheyne–Stokes (animation) | https://www.youtube.com/watch?v=Z4AJhNI5Aqk |
 
 ---
 

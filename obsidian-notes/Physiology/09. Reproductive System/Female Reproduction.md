@@ -276,7 +276,9 @@ Cervical mucus changes under the influence of the two ovarian steroids — it op
 > - **↑ by 0.5–1 °C during ovulation.**
 > - **D/t progesterone (thermogenic**[^ety-thermogenic][^pre-thermo] **action).**[^12]
 
-🎬 **Watch:** [Menstrual cycle — ovarian and uterine cycle, hormones (YouTube search)](https://www.youtube.com/results?search_query=menstrual+cycle+physiology+ovarian+uterine+cycle+LH+surge+lecture) · [Two cell two gonadotropin theory (YouTube search)](https://www.youtube.com/results?search_query=two+cell+two+gonadotropin+theory+theca+granulosa+aromatase) · [Cervical mucus spinnbarkeit and fern test (YouTube search)](https://www.youtube.com/results?search_query=cervical+mucus+spinnbarkeit+fern+test)
+🎬 **Watch:** [Female Reproductive Cycle — Ninja Nerd (menstrual cycle lecture)](https://www.youtube.com/watch?v=EfexbuyIqCY) · [Female Reproductive Cycle — Ninja Nerd (ovulation and menstrual cycle overview)](https://www.youtube.com/watch?v=CwgaFwHJM4g) · [Female Reproductive Cycle — Ninja Nerd (ovulation)](https://www.youtube.com/watch?v=pzgUbyD6mCM) · [Two cell two gonadotropin theory (YouTube search)](https://www.youtube.com/results?search_query=two+cell+two+gonadotropin+theory+theca+granulosa+aromatase) · [Cervical mucus spinnbarkeit and fern test (YouTube search)](https://www.youtube.com/results?search_query=cervical+mucus+spinnbarkeit+fern+test)
+
+![](https://www.youtube.com/watch?v=EfexbuyIqCY)
 
 ---
 
@@ -401,7 +403,7 @@ of pregnancy                             No fetal rejection
 3. **Immunosuppressive**[^ety-immunosuppressive][^pre-sub] **activity → no fetal rejection.**
 4. **Corpus luteum → relaxin.**[^20]
 
-🎬 **Watch:** [Estrogen and progesterone — actions (YouTube search)](https://www.youtube.com/results?search_query=estrogen+progesterone+actions+physiology+lecture) · [hCG — structure and functions (YouTube search)](https://www.youtube.com/results?search_query=hCG+human+chorionic+gonadotropin+physiology+functions)
+🎬 **Watch:** [Estrogen and progesterone — actions (YouTube search)](https://www.youtube.com/results?search_query=estrogen+progesterone+actions+physiology+lecture) · [hCG — structure and functions (YouTube search)](https://www.youtube.com/results?search_query=hCG+human+chorionic+gonadotropin+physiology+functions) · [Parturition — pregnancy, hormones, giving birth](https://www.youtube.com/watch?v=lsSbSKlThgQ)
 
 ---
 
@@ -599,7 +601,11 @@ HORMONES: E2 / E3 pregnancy / E1 menopause · 2/60/38 % · P = BBT ↑, ↓ PCO2
 | What to watch | Link |
 |---|---|
 | Oogenesis — meiotic arrests and polar bodies (YouTube search) | https://www.youtube.com/results?search_query=oogenesis+primary+oocyte+diplotene+arrest+metaphase+II+polar+body+animation |
-| Menstrual cycle — ovarian and uterine cycle, LH surge (YouTube search) | https://www.youtube.com/results?search_query=menstrual+cycle+physiology+ovarian+uterine+cycle+LH+surge+lecture |
+| Female Reproductive Cycle — Ninja Nerd (menstrual cycle lecture) | https://www.youtube.com/watch?v=EfexbuyIqCY |
+| Female Reproductive Cycle — Ninja Nerd (ovulation and menstrual cycle overview) | https://www.youtube.com/watch?v=CwgaFwHJM4g |
+| Female Reproductive Cycle — Ninja Nerd (ovulation) | https://www.youtube.com/watch?v=pzgUbyD6mCM |
+| Reproductive System — Ninja Nerd (anatomy and physiology overview) | https://www.youtube.com/watch?v=H5hqwZRnBBw |
+| Parturition — pregnancy, hormones, giving birth | https://www.youtube.com/watch?v=lsSbSKlThgQ |
 | Two cell two gonadotropin theory (YouTube search) | https://www.youtube.com/results?search_query=two+cell+two+gonadotropin+theory+theca+granulosa+aromatase |
 | Lactation — prolactin, oxytocin and the let-down reflex (YouTube search) | https://www.youtube.com/results?search_query=lactation+physiology+prolactin+oxytocin+milk+ejection+reflex |
 

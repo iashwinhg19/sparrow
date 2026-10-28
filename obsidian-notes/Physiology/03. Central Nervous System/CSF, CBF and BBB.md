@@ -163,7 +163,7 @@ HEADACHE
 ![[CSF, CBF and BBB - lumbar puncture.png]]
 *Lumbar puncture (LP) — a needle introduced between the lumbar spinous processes into the subarachnoid space below the end of the spinal cord (cropped from the handwritten page).*
 
-🎬 **Watch:** [Cerebrospinal Fluid (CSF): Production, Circulation, Blood-Brain Barrier & Clinical Correlations](https://www.youtube.com/watch?v=CVwFnJPZJcM) · [Formation and Circulation of Cerebrospinal Fluid](https://www.youtube.com/watch?v=FvnoS1TCUCk) · [Post-dural puncture headache (YouTube search)](https://www.youtube.com/results?search_query=post+dural+puncture+headache+mechanism)
+🎬 **Watch:** [Cerebrospinal Fluid (CSF): Production, Circulation, Blood-Brain Barrier & Clinical Correlations](https://www.youtube.com/watch?v=CVwFnJPZJcM) · [Formation and Circulation of Cerebrospinal Fluid](https://www.youtube.com/watch?v=FvnoS1TCUCk) · [Emerging Concepts in Post-Dural Puncture Headache — Dr. Jürgen Beck](https://www.youtube.com/watch?v=bFgjuldebDE)
 
 ![](https://www.youtube.com/watch?v=CVwFnJPZJcM)
 
@@ -272,7 +272,7 @@ Eg:  (↑) CSF ──┬──► ↓ Blood flow
 
 - 🧠 *Plain words:* the adult skull cannot stretch, so a growing haematoma, tumour, oedema or blocked CSF can only make room by squeezing out CSF and venous blood; once those reserves are used up, intracranial pressure shoots up and brain tissue is compressed or herniates.[^19]
 
-🎬 **Watch:** [Blood Brain Barrier, Animation](https://www.youtube.com/watch?v=noWwbvmdhL0) · [Circumventricular organs (YouTube search)](https://www.youtube.com/results?search_query=circumventricular+organs+area+postrema+OVLT+subfornical) · [Monro–Kellie doctrine and raised ICP (YouTube search)](https://www.youtube.com/results?search_query=monro+kellie+doctrine+intracranial+pressure)
+🎬 **Watch:** [Blood Brain Barrier, Animation](https://www.youtube.com/watch?v=noWwbvmdhL0) · [Human Brain Circumventricular Organs 7 — Area Postrema (Sanjoy Sanyal)](https://www.youtube.com/watch?v=rFJLc4vUNn8) · [The Monro-Kellie Doctrine — Intracranial Volume & Pressure](https://www.youtube.com/watch?v=f_4o43XqmNc) · [The Body's Response to Increased Intracranial Pressure (ICP) — American Academy of Neurology](https://www.youtube.com/watch?v=ICmk1TMK-6E)
 
 ---
 
@@ -440,14 +440,15 @@ CVO (no BBB) SOAP: SFO (thirst) · OVLT · AP (BP, vomiting) · posterior pituit
 |---|---|
 | Cerebrospinal Fluid (CSF): Production, Circulation, Blood-Brain Barrier & Clinical Correlations | https://www.youtube.com/watch?v=CVwFnJPZJcM |
 | Formation and Circulation of Cerebrospinal Fluid | https://www.youtube.com/watch?v=FvnoS1TCUCk |
-| Post-dural puncture headache (YouTube search) | https://www.youtube.com/results?search_query=post+dural+puncture+headache+mechanism |
+| Emerging Concepts in Post-Dural Puncture Headache — Dr. Jürgen Beck | https://www.youtube.com/watch?v=bFgjuldebDE |
 | Cerebral blood flow and autoregulation (YouTube search) | https://www.youtube.com/results?search_query=cerebral+blood+flow+autoregulation+physiology+PaCO2 |
 | Brain Blood Supply — Cerebral Circulation — Circle of Willis | https://www.youtube.com/watch?v=Kl3QTgaE3lo |
 | Blood Brain Barrier, Animation (physical, transport and metabolic barrier) | https://www.youtube.com/watch?v=noWwbvmdhL0 |
 | The Blood-Brain Barrier (structure) | https://www.youtube.com/watch?v=cnBYuoBXPy0 |
 | BBB Impermeability and Receptor-mediated Transport | https://www.youtube.com/watch?v=y0VRMULNZmQ |
-| Circumventricular organs (YouTube search) | https://www.youtube.com/results?search_query=circumventricular+organs+area+postrema+OVLT+subfornical |
-| Monro–Kellie doctrine and raised ICP (YouTube search) | https://www.youtube.com/results?search_query=monro+kellie+doctrine+intracranial+pressure |
+| Human Brain Circumventricular Organs 7 — Area Postrema (Sanjoy Sanyal) | https://www.youtube.com/watch?v=rFJLc4vUNn8 |
+| The Monro-Kellie Doctrine — Intracranial Volume & Pressure | https://www.youtube.com/watch?v=f_4o43XqmNc |
+| The Body's Response to Increased Intracranial Pressure (ICP) — American Academy of Neurology | https://www.youtube.com/watch?v=ICmk1TMK-6E |
 
 ---
 

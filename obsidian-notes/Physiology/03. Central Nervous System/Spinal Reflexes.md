@@ -180,7 +180,7 @@ Clenching teeth   (or)   Interlocking fingers (and pulling)
 
 - 🧠 *Use at the bedside:* when a knee or ankle jerk seems absent, distracting the patient with this manoeuvre raises γ drive to all spindles and unmasks the reflex.[^8]
 
-🎬 **Watch:** [Stretch reflex, muscle spindle physiology](https://www.youtube.com/watch?v=K-ajO8Oz52I) · [Alpha–gamma coactivation explained (YouTube search)](https://www.youtube.com/results?search_query=alpha+gamma+coactivation+muscle+spindle+physiology) · [Muscle spindle and Golgi tendon organ — Armando Hasudungan (YouTube search)](https://www.youtube.com/results?search_query=armando+hasudungan+muscle+spindle+golgi+tendon+organ)
+🎬 **Watch:** [Stretch reflex, muscle spindle physiology](https://www.youtube.com/watch?v=K-ajO8Oz52I) · [Alpha Gamma Coactivation — importance of gamma innervation to the muscle spindle (short)](https://www.youtube.com/watch?v=B64x5CSpcGA) · [Muscle Spindle vs. Golgi Tendon Organ — Explained](https://www.youtube.com/watch?v=aboOT94CaR8)
 
 ![](https://www.youtube.com/watch?v=K-ajO8Oz52I)
 
@@ -248,7 +248,7 @@ Skeletal muscle (effector) → Response (Relaxation)
 - **Clasp knife spasticity**[^ety-spasticity][^suf-ity] — bending a spastic limb meets a **rising resistance** (overactive stretch reflex) that **suddenly melts away** (inverse stretch reflex) like the blade of a folding pocket-knife.[^11]
 - **Ankle clonus**[^ety-clonus] — a sharp, sustained dorsiflexion of the foot sets off **rhythmic beats**: stretch reflex contracts the calf → tendon organ relaxes it → the foot is stretched again → and round it goes.[^12]
 
-🎬 **Watch:** [Golgi tendon organ — inverse stretch reflex (YouTube search)](https://www.youtube.com/results?search_query=golgi+tendon+organ+inverse+stretch+reflex+autogenic+inhibition) · [Clasp-knife spasticity and clonus (YouTube search)](https://www.youtube.com/results?search_query=clasp+knife+spasticity+clonus+upper+motor+neuron+lesion)
+🎬 **Watch:** [Inverse myotatic (Golgi) reflex](https://www.youtube.com/watch?v=E7cpE_O3mpo) · [Hypertonia — clasp-knife, cogwheel rigidity, ankle clonus, lead pipe rigidity](https://www.youtube.com/watch?v=dYVo2z1CIZY)
 
 ---
 
@@ -347,7 +347,7 @@ detail: related
 title: Knee jerk — stretch reflex arc (L2–L4)
 ```
 
-🎬 **Watch:** [Spinal cord reflexes — flexor/withdrawal reflex and crossed extensor reflex (Guyton ch. 55)](https://www.youtube.com/watch?v=fL_qN134bPI) · [Postural reflexes — righting, placing, hopping (YouTube search)](https://www.youtube.com/results?search_query=postural+reflexes+righting+placing+hopping+physiology) · [Mass reflex / autonomic dysreflexia (YouTube search)](https://www.youtube.com/results?search_query=mass+reflex+spinal+cord+transection+autonomic+dysreflexia)
+🎬 **Watch:** [Spinal cord reflexes — flexor/withdrawal reflex and crossed extensor reflex (Guyton ch. 55)](https://www.youtube.com/watch?v=fL_qN134bPI) · [Postural reflexes physiology](https://www.youtube.com/watch?v=1yubUYNManI) · [Spinal Shock, Neurogenic shock, and Autonomic Dysreflexia Explained](https://www.youtube.com/watch?v=DC2bEiatAcA)
 
 ---
 
@@ -514,14 +514,15 @@ OTHERS: withdrawal (polysynaptic, crossed extensor) · support = cord · rightin
 | What to watch | Link |
 |---|---|
 | Stretch reflex, muscle spindle physiology | https://www.youtube.com/watch?v=K-ajO8Oz52I |
-| Alpha–gamma coactivation explained (YouTube search) | https://www.youtube.com/results?search_query=alpha+gamma+coactivation+muscle+spindle+physiology |
-| Muscle spindle and Golgi tendon organ — Armando Hasudungan (YouTube search) | https://www.youtube.com/results?search_query=armando+hasudungan+muscle+spindle+golgi+tendon+organ |
-| Golgi tendon organ — inverse stretch reflex (YouTube search) | https://www.youtube.com/results?search_query=golgi+tendon+organ+inverse+stretch+reflex+autogenic+inhibition |
-| Clasp-knife spasticity and clonus (YouTube search) | https://www.youtube.com/results?search_query=clasp+knife+spasticity+clonus+upper+motor+neuron+lesion |
+| Alpha Gamma Coactivation — importance of gamma innervation to the muscle spindle (short) | https://www.youtube.com/watch?v=B64x5CSpcGA |
+| Muscle Spindle vs. Golgi Tendon Organ — Explained | https://www.youtube.com/watch?v=aboOT94CaR8 |
+| Inverse myotatic (Golgi) reflex | https://www.youtube.com/watch?v=E7cpE_O3mpo |
+| Stretch Reflex and Inverse stretch reflex (Tendon reflex) | https://www.youtube.com/watch?v=SQAx4lzX9eQ |
+| Hypertonia — clasp-knife, cogwheel rigidity, ankle clonus, lead pipe rigidity | https://www.youtube.com/watch?v=dYVo2z1CIZY |
 | Spinal cord reflexes — flexor/withdrawal reflex and crossed extensor reflex (Guyton ch. 55) | https://www.youtube.com/watch?v=fL_qN134bPI |
 | Polysynaptic flexor withdrawal reflex — reciprocal inhibition and crossed extensor reflex | https://www.youtube.com/watch?v=Z55eyfr53T8 |
-| Postural reflexes — righting, placing, hopping (YouTube search) | https://www.youtube.com/results?search_query=postural+reflexes+righting+placing+hopping+physiology |
-| Mass reflex / autonomic dysreflexia (YouTube search) | https://www.youtube.com/results?search_query=mass+reflex+spinal+cord+transection+autonomic+dysreflexia |
+| Postural reflexes physiology | https://www.youtube.com/watch?v=1yubUYNManI |
+| Spinal Shock, Neurogenic shock, and Autonomic Dysreflexia Explained | https://www.youtube.com/watch?v=DC2bEiatAcA |
 
 ---
 

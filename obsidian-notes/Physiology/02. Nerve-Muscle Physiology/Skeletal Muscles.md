@@ -151,7 +151,7 @@ title: Skeletal muscles on bone — and the calf and diaphragm that Duchenne dys
 > [!tip] 🧠 Why the A band never changes
 > The A band *is* the myosin filament, and filaments do not shrink — they **slide**. Only the zones defined by the gap between filaments (I band, H zone) get smaller as actin is pulled towards the M line. "**A**lways the same = **A** band."[^4]
 
-🎬 **Watch:** [How Muscles REALLY Work: Sliding Filament Theory](https://www.youtube.com/watch?v=5_59Y2pfDGw) · [Sarcomere structure — A band, I band, H zone, Z and M lines (YouTube search)](https://www.youtube.com/results?search_query=sarcomere+structure+A+band+I+band+H+zone+Z+line)
+🎬 **Watch:** [How Muscles REALLY Work: Sliding Filament Theory](https://www.youtube.com/watch?v=5_59Y2pfDGw) · [Physiology: Sarcomere — actin, myosin, Z line, H zone, A band, I band and M line](https://www.youtube.com/watch?v=HOvocjAClcE)
 
 ![](https://www.youtube.com/watch?v=5_59Y2pfDGw)
 
@@ -546,7 +546,7 @@ CYCLE: ATP binds → hydrolysis 90° → cross-bridge → power stroke (ADP + Pi
 
 | What to watch | Link |
 |---|---|
-| Sarcomere structure — bands and lines | https://www.youtube.com/results?search_query=sarcomere+structure+A+band+I+band+H+zone+Z+line |
+| Physiology: Sarcomere — actin, myosin, Z line, H zone, A band, I band, M line | https://www.youtube.com/watch?v=HOvocjAClcE |
 | How muscles really work — sliding filament theory | https://www.youtube.com/watch?v=5_59Y2pfDGw |
 | Troponin and tropomyosin | https://www.youtube.com/results?search_query=troponin+tropomyosin+calcium+regulation+muscle+contraction |
 | Dystrophin and Duchenne muscular dystrophy | https://www.youtube.com/results?search_query=dystrophin+glycoprotein+complex+duchenne+muscular+dystrophy |

@@ -174,7 +174,7 @@ Glutamate ──► neuroligin receptor (astrocyte) ──► arachidonic acid d
 > [!tip] 🧠 Why it matters
 > One oligodendrocyte wraps segments of many axons, so losing one cell (multiple sclerosis) strips many axons at once; one Schwann cell serves one segment of one axon and also guides regrowth — which is why peripheral nerves regenerate and central tracts do not.[^9]
 
-🎬 **Watch (YouTube search — no single video could be verified this run):** [Neuroglia / glial cells — Ninja Nerd](https://www.youtube.com/results?search_query=ninja+nerd+glial+cells+neuroglia) · [Astrocyte functions — BBB, glutamate–glutamine cycle](https://www.youtube.com/results?search_query=astrocyte+functions+blood+brain+barrier+glutamate+glutamine+cycle) · [Oligodendrocytes vs Schwann cells](https://www.youtube.com/results?search_query=oligodendrocytes+vs+schwann+cells+myelination)
+🎬 **Watch:** [2-Minute Neuroscience: Glial Cells](https://www.youtube.com/watch?v=AwES6R1_9PM) · [Astrocytes, Microglia, Schwann Cells, Oligodendrocytes and other Glial Cells](https://www.youtube.com/watch?v=2dkcLUtTqA8) · [Schwann Cells and Oligodendrocytes](https://www.youtube.com/watch?v=_vxToo5kmdA)
 
 ---
 
@@ -257,7 +257,7 @@ DEMYELINATION (MS) ──► leak + charge stored in the bare membrane ──►
 **3. Temperature**[^ety-temperature]**:**
 - **Temperature ∝ nerve conduction velocity.**[^17]
 
-🎬 **Watch (YouTube search):** [Neuron structure and classification](https://www.youtube.com/results?search_query=neuron+structure+classification+unipolar+bipolar+pseudounipolar+multipolar) · [Myelin, saltatory conduction and nerve conduction velocity](https://www.youtube.com/results?search_query=saltatory+conduction+myelin+nerve+conduction+velocity+physiology)
+🎬 **Watch:** [Types of Neurons based on structure — multipolar, bipolar, anaxonic, unipolar, pseudounipolar](https://www.youtube.com/watch?v=QvDPd6GbvhM) · [Myelin and saltatory conduction](https://www.youtube.com/watch?v=K55J1JnAq18) · [Nerve Conduction Velocity (NCV)](https://www.youtube.com/watch?v=tuFT-Qrcib4)
 
 Rotate the neurons of this chapter in 3D — the pseudounipolar cell bodies sit in the dorsal root ganglion, the multipolar α motor neurons in the anterior horn, and their myelinated axons run out in the spinal nerve:
 
@@ -362,7 +362,7 @@ title: Spinal cord, DRG and spinal nerve — pseudounipolar vs multipolar neuron
 > [!info] 🧠 One idea behind the whole table
 > A graded potential is a **dimmer switch** — its size follows the stimulus, adds up with others and fades with distance. An action potential is an **on/off switch** — once threshold is reached it fires at full, constant size (all-or-none), and the refractory period stops two from piling on top of each other.[^26]
 
-🎬 **Watch:** [The Nervous System, Part 2 — Action! Potential!: Crash Course Anatomy & Physiology #9](https://www.youtube.com/watch?v=OZG8M_ldA1M) · [Refractory periods and Na⁺ channel m and h gates (YouTube search)](https://www.youtube.com/results?search_query=absolute+relative+refractory+period+sodium+channel+m+h+gate) · [Graded potential vs action potential (YouTube search)](https://www.youtube.com/results?search_query=graded+potential+vs+action+potential)
+🎬 **Watch:** [The Nervous System, Part 2 — Action! Potential!: Crash Course Anatomy & Physiology #9](https://www.youtube.com/watch?v=OZG8M_ldA1M) · [Physiology: Action Potential Graph (Made Simple) — Na⁺/K⁺ channels and refractory periods](https://www.youtube.com/watch?v=b_hGSJCG3CA) · [Graded potential vs action potential (YouTube search)](https://www.youtube.com/results?search_query=graded+potential+vs+action+potential)
 
 ![](https://www.youtube.com/watch?v=OZG8M_ldA1M)
 
@@ -528,17 +528,18 @@ GP vs AP: summation yes/no · threshold no/yes · amplitude varies/constant · a
 
 ## 🎬 Video Library
 
-> Only the action-potential row is a verified video; the other rows are YouTube searches pre-filled with the topic — pick the Ninja Nerd, Osmosis, Armando Hasudungan or Khan Academy result.
+> Rows with a watch link are verified videos; the remaining row is a YouTube search pre-filled with the topic — pick the Ninja Nerd, Osmosis, Armando Hasudungan or Khan Academy result.
 
 | What to watch | Link |
 |---|---|
-| Neuroglia / glial cells — types and functions | https://www.youtube.com/results?search_query=ninja+nerd+glial+cells+neuroglia |
-| Astrocyte functions — BBB, glutamate–glutamine cycle | https://www.youtube.com/results?search_query=astrocyte+functions+blood+brain+barrier+glutamate+glutamine+cycle |
-| Oligodendrocytes vs Schwann cells | https://www.youtube.com/results?search_query=oligodendrocytes+vs+schwann+cells+myelination |
-| Neuron structure and classification | https://www.youtube.com/results?search_query=neuron+structure+classification+unipolar+bipolar+pseudounipolar+multipolar |
-| Myelin, saltatory conduction and NCV | https://www.youtube.com/results?search_query=saltatory+conduction+myelin+nerve+conduction+velocity+physiology |
+| 2-Minute Neuroscience: Glial Cells — types and functions | https://www.youtube.com/watch?v=AwES6R1_9PM |
+| Astrocytes, microglia, Schwann cells, oligodendrocytes and other glial cells | https://www.youtube.com/watch?v=2dkcLUtTqA8 |
+| Schwann cells and oligodendrocytes | https://www.youtube.com/watch?v=_vxToo5kmdA |
+| Types of neurons based on structure — multipolar, bipolar, unipolar, pseudounipolar | https://www.youtube.com/watch?v=QvDPd6GbvhM |
+| Myelin and saltatory conduction | https://www.youtube.com/watch?v=K55J1JnAq18 |
+| Nerve Conduction Velocity (NCV) — myelination, fibre diameter, temperature | https://www.youtube.com/watch?v=tuFT-Qrcib4 |
 | Action potential — The Nervous System, Part 2 (Crash Course Anatomy & Physiology #9) | https://www.youtube.com/watch?v=OZG8M_ldA1M |
-| Refractory periods and m / h gates | https://www.youtube.com/results?search_query=absolute+relative+refractory+period+sodium+channel+m+h+gate |
+| Physiology: Action Potential Graph (Made Simple) — Na⁺/K⁺ channels, refractory periods | https://www.youtube.com/watch?v=b_hGSJCG3CA |
 | Graded potential vs action potential | https://www.youtube.com/results?search_query=graded+potential+vs+action+potential |
 
 ---

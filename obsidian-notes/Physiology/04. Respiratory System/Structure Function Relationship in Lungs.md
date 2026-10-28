@@ -146,7 +146,7 @@ Cystic fibrosis transmembrane conductance regulator (CFTR) gene mutation
 ![[Structure Function Relationship in Lungs - bronchoconstriction vs bronchodilation.png]]
 *The table's "Image" row — left: bronchoconstriction (smooth muscle contracted, lumen star-shaped and narrow → resistance ↑, airflow ↓); right: bronchodilation (muscle relaxed, lumen wide → resistance ↓, airflow ↑) (cropped from the handwritten page).*[^5]
 
-🎬 **Watch:** [Conducting vs respiratory zone — airway anatomy (YouTube search)](https://www.youtube.com/results?search_query=conducting+zone+respiratory+zone+airway+generations+physiology) · [Mucociliary clearance and Kartagener syndrome (YouTube search)](https://www.youtube.com/results?search_query=Kartagener+syndrome+primary+ciliary+dyskinesia+dynein) · [Cystic Fibrosis — CFTR, pathophysiology, signs and symptoms, diagnosis](https://www.youtube.com/watch?v=y1ItXfl00LQ)
+🎬 **Watch:** [Respiratory Zones, Types of respiratory cells and Surfactant](https://www.youtube.com/watch?v=vFaaSvGg1uk) · [Kartagener syndrome | Primary Ciliary Dyskinesia | Immotile cilia syndrome — triad mnemonic and cause](https://www.youtube.com/watch?v=juElu0CUINA) · [Cystic Fibrosis — CFTR, pathophysiology, signs and symptoms, diagnosis](https://www.youtube.com/watch?v=y1ItXfl00LQ)
 
 ![](https://www.youtube.com/watch?v=y1ItXfl00LQ)
 
@@ -274,7 +274,7 @@ detail: related
 title: Conducting airways, lungs and heart
 ```
 
-🎬 **Watch:** [Pulmonary surfactant and Laplace's law (YouTube search)](https://www.youtube.com/results?search_query=pulmonary+surfactant+Laplace+law+physiology) · [Neonatal respiratory distress syndrome (YouTube search)](https://www.youtube.com/results?search_query=neonatal+respiratory+distress+syndrome+hyaline+membrane+disease) · [Type I and type II pneumocytes (YouTube search)](https://www.youtube.com/results?search_query=type+1+type+2+pneumocytes+alveolus+histology)
+🎬 **Watch:** [Respiratory Zones, Types of respiratory cells and Surfactant](https://www.youtube.com/watch?v=vFaaSvGg1uk) · [Neonatal respiratory distress syndrome (YouTube search)](https://www.youtube.com/results?search_query=neonatal+respiratory+distress+syndrome+hyaline+membrane+disease) · [Histology and histophysiology of Pneumocyte cells (Pneumocyte type 1, Pneumocyte type 2)](https://www.youtube.com/watch?v=C48JHOt-2wc)
 
 ---
 
@@ -439,9 +439,9 @@ LAPLACE P = 2T/r → surfactant ↓T → no collapse · RDS/HMD → beractant, l
 
 | What to watch | Link |
 |---|---|
-| Conducting vs respiratory zone — airway generations (YouTube search) | https://www.youtube.com/results?search_query=conducting+zone+respiratory+zone+airway+generations+physiology |
-| Kartagener syndrome — primary ciliary dyskinesia, dynein (YouTube search) | https://www.youtube.com/results?search_query=Kartagener+syndrome+primary+ciliary+dyskinesia+dynein |
-| Pulmonary surfactant and Laplace's law (YouTube search) | https://www.youtube.com/results?search_query=pulmonary+surfactant+Laplace+law+physiology |
+| Respiratory zones, types of respiratory cells and surfactant | https://www.youtube.com/watch?v=vFaaSvGg1uk |
+| Kartagener syndrome — primary ciliary dyskinesia, immotile cilia | https://www.youtube.com/watch?v=juElu0CUINA |
+| Type I and type II pneumocytes — histology and histophysiology | https://www.youtube.com/watch?v=C48JHOt-2wc |
 | Neonatal respiratory distress syndrome (YouTube search) | https://www.youtube.com/results?search_query=neonatal+respiratory+distress+syndrome+hyaline+membrane+disease |
 | Cystic Fibrosis — CFTR, pathophysiology, signs and symptoms, diagnosis | https://www.youtube.com/watch?v=y1ItXfl00LQ |
 | Cystic Fibrosis Transmembrane conductance Regulator (CFTR) — structure, function and mutation | https://www.youtube.com/watch?v=bf68jLhGGLo |

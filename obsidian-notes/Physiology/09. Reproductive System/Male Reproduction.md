@@ -102,7 +102,7 @@ Adequate fat stores → ↑ leptin ──→ ↑↑ Kisspeptin ──(GPR54 in G
 - **↑↑ Kisspeptin**[^ety-kisspeptin] acts on **GPR54 in the GnRH neuron**[^ety-neuron] → **pulsatile release of GnRH**.
 - Pulsatile GnRH — with GnRH falling (**"when GnRH ↓"**) between pulses — **stimulates (+) LH**[^ety-lh] **and FSH**[^ety-fsh].[^5]
 
-🎬 **Watch:** [Puberty — kisspeptin, leptin and pulsatile GnRH (YouTube search)](https://www.youtube.com/results?search_query=puberty+kisspeptin+leptin+pulsatile+GnRH+physiology) · [SRY gene and sex determination — Osmosis (YouTube search)](https://www.youtube.com/results?search_query=osmosis+sex+determination+SRY+gene)
+🎬 **Watch:** [Waljit Dhillo — Kisspeptin, a vital trigger of puberty (Society for Endocrinology medal lecture, advanced)](https://www.youtube.com/watch?v=4AXnefj-d2c) · [SRY gene and sex determination — Osmosis (YouTube search)](https://www.youtube.com/results?search_query=osmosis+sex+determination+SRY+gene)
 
 ---
 
@@ -239,7 +239,7 @@ Fluid ──produced by──→       • Prostate (30 %)
 
 **Buffers**[^ety-buffer]**:** **bicarbonate, phosphate.**[^17]
 
-🎬 **Watch:** [Spermatogenesis — Osmosis (YouTube search)](https://www.youtube.com/results?search_query=osmosis+spermatogenesis) · [Male reproductive physiology — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+male+reproductive+physiology) · [Leydig and Sertoli cells promote spermatogenesis](https://www.youtube.com/watch?v=al7aPDznAnI)
+🎬 **Watch:** [Spermatogenesis — Osmosis (YouTube search)](https://www.youtube.com/results?search_query=osmosis+spermatogenesis) · [Male Reproductive System](https://www.youtube.com/watch?v=mjROZrxBdv4) · [Leydig and Sertoli cells promote spermatogenesis](https://www.youtube.com/watch?v=al7aPDznAnI)
 
 ![](https://www.youtube.com/watch?v=al7aPDznAnI)
 
@@ -287,7 +287,7 @@ Endothelin & Noradrenaline → Constriction of arterioles → Resolution
 > [!tip] Memory — "Point and Shoot"
 > **P**arasympathetic = **P**oint (erection, S2–S4, ACh + NO) · **S**ympathetic = **S**hoot (emission and ejaculation, T12–L2) · endothelin + noradrenaline = resolution.
 
-🎬 **Watch:** [Erection and ejaculation physiology — NO, cGMP and PDE5 (YouTube search)](https://www.youtube.com/results?search_query=erection+physiology+nitric+oxide+cGMP+PDE5+sildenafil)
+🎬 **Watch:** [Erection, Emission, Ejaculation — Male Sexual Act Physiology (Male Reproductive Physiology)](https://www.youtube.com/watch?v=oMVjeEVyWIs)
 
 ---
 
@@ -351,7 +351,7 @@ Testosterone ───────── 5α reductase ────────�
 
 A simple split: **testosterone builds the inside** (Wolffian duct → epididymis, vas deferens, seminal vesicle), **muscle, blood, bone, sperm and libido**; **DHT builds the outside** (penis, scrotum, prostate) and gives the **puberty look** — beard, acne and a receding hairline.[^28]
 
-🎬 **Watch:** [Testosterone and DHT — 5α-reductase physiology (YouTube search)](https://www.youtube.com/results?search_query=testosterone+DHT+5+alpha+reductase+physiology) · [Hypothalamic–pituitary–testicular axis — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+hypothalamic+pituitary+testicular+axis)
+🎬 **Watch:** [Testosterone and DHT — 5α-reductase physiology (YouTube search)](https://www.youtube.com/results?search_query=testosterone+DHT+5+alpha+reductase+physiology) · [Hypothalamic Pituitary Gonadal axis Overview — critical hormonal system that regulates reproduction](https://www.youtube.com/watch?v=4j5faadY4h8)
 
 ---
 
@@ -519,11 +519,14 @@ AXIS: LH → Leydig → T (⊣ GnRH/LH) · FSH → Sertoli → inhibin B (⊣ FS
 | What to watch | Link |
 |---|---|
 | Spermatogenesis — Osmosis (YouTube search) | https://www.youtube.com/results?search_query=osmosis+spermatogenesis |
-| Male reproductive physiology — Ninja Nerd (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+male+reproductive+physiology |
+| Male Reproductive System | https://www.youtube.com/watch?v=mjROZrxBdv4 |
+| Male Reproductive System (a second lecture with the same title) | https://www.youtube.com/watch?v=33m9pN_vAI4 |
+| Hypothalamic Pituitary Gonadal axis Overview — critical hormonal system that regulates reproduction | https://www.youtube.com/watch?v=4j5faadY4h8 |
+| Waljit Dhillo — Kisspeptin, a vital trigger of puberty (Society for Endocrinology medal lecture, advanced) | https://www.youtube.com/watch?v=4AXnefj-d2c |
 | Leydig and Sertoli cells promote spermatogenesis | https://www.youtube.com/watch?v=al7aPDznAnI |
 | Sertoli cell vs. Leydig cell - Reproductive System Physiology | https://www.youtube.com/watch?v=761jnQFfrhc |
 | Microscopic Anatomy of Testis | https://www.youtube.com/watch?v=o05dXl0GECc |
-| Erection physiology — NO, cGMP, PDE5 and sildenafil (YouTube search) | https://www.youtube.com/results?search_query=erection+physiology+nitric+oxide+cGMP+PDE5+sildenafil |
+| Erection, Emission, Ejaculation — Male Sexual Act Physiology (Male Reproductive Physiology) | https://www.youtube.com/watch?v=oMVjeEVyWIs |
 
 ---
 

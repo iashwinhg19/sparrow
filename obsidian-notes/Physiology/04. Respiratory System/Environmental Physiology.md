@@ -126,7 +126,7 @@ detail: related
 title: High altitude illness — lungs, brain, right heart
 ```
 
-🎬 **Watch:** [High altitude physiology and acclimatisation (YouTube search)](https://www.youtube.com/results?search_query=high+altitude+physiology+acclimatization) · [Acute mountain sickness, HAPE and HACE (YouTube search)](https://www.youtube.com/results?search_query=acute+mountain+sickness+HAPE+HACE) · [Chronic mountain sickness — Monge's disease (YouTube search)](https://www.youtube.com/results?search_query=chronic+mountain+sickness+monge+disease)
+🎬 **Watch:** [High altitude physiology and acclimatisation (YouTube search)](https://www.youtube.com/results?search_query=high+altitude+physiology+acclimatization) · [High Altitude Illness (Acute Mountain Sickness) for USMLE](https://www.youtube.com/watch?v=ULBDnv3m8kE) · [Altitude Illness: Causes, Symptoms & Treatment](https://www.youtube.com/watch?v=sZIbUeCtPk4) · [Chronic mountain sickness — Monge's disease (YouTube search)](https://www.youtube.com/results?search_query=chronic+mountain+sickness+monge+disease)
 
 ---
 
@@ -184,7 +184,7 @@ Hyperbaric chamber → slow ascent → slow decompression (less bubble formed)
 > [!note] Note
 > **Decompression sickness also seen in pilots & mountaineers.**[^10]
 
-🎬 **Watch:** [Decompression sickness (DCS) or bends or diver's disease or caisson disease — definition, symptoms](https://www.youtube.com/watch?v=Rd_WeLerhfs) · [Nitrogen narcosis and diving physiology (YouTube search)](https://www.youtube.com/results?search_query=nitrogen+narcosis+diving+physiology) · [Hyperbaric oxygen chamber how it works (YouTube search)](https://www.youtube.com/results?search_query=hyperbaric+chamber+decompression+treatment)
+🎬 **Watch:** [Decompression sickness (DCS) or bends or diver's disease or caisson disease — definition, symptoms](https://www.youtube.com/watch?v=Rd_WeLerhfs) · [Deep sea Physiology — Hyperbarism and Dysbarism](https://www.youtube.com/watch?v=eeNMkPam9aU) · [Hyperbaric oxygen chamber how it works (YouTube search)](https://www.youtube.com/results?search_query=hyperbaric+chamber+decompression+treatment)
 
 ![](https://www.youtube.com/watch?v=Rd_WeLerhfs)
 
@@ -399,8 +399,9 @@ SPACE: ↓ bone Ca/PO4, ↓ muscle, ↓↓ RBC · +G head→foot BLACK-OUT · �
 | What to watch | Link |
 |---|---|
 | High altitude physiology and acclimatisation (YouTube search) | https://www.youtube.com/results?search_query=high+altitude+physiology+acclimatization |
-| Acute mountain sickness, HAPE and HACE (YouTube search) | https://www.youtube.com/results?search_query=acute+mountain+sickness+HAPE+HACE |
+| High altitude illness (acute mountain sickness) for USMLE | https://www.youtube.com/watch?v=ULBDnv3m8kE |
 | Decompression sickness (DCS) / the bends / caisson disease — definition, symptoms | https://www.youtube.com/watch?v=Rd_WeLerhfs |
+| Deep sea physiology — hyperbarism and dysbarism | https://www.youtube.com/watch?v=eeNMkPam9aU |
 | G-force black-out and red-out (YouTube search) | https://www.youtube.com/results?search_query=g+force+blackout+redout+physiology |
 
 ---

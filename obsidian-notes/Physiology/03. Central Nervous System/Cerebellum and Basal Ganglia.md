@@ -167,7 +167,7 @@ Spinal cord → Mossy fibres                                             ├─�
 
 - 🧠 *One rule explains them all:* the cerebellum controls **timing** — so movements start late, overshoot (past pointing, rebound), break into pieces (decomposition), cannot alternate quickly (dysdiadochokinesia) and wobble more as they approach a target (intention tremor). Signs are on the **same side** as the lesion.[^7]
 
-🎬 **Watch:** [Cerebellum physiology — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+cerebellum+physiology) · [Cerebellar nuclei, tracts, peduncles — mossy fibres, climbing fibres, Purkinje cells](https://www.youtube.com/watch?v=OecY4ZhGSps) · [Signs of cerebellar lesion — DANISH (YouTube search)](https://www.youtube.com/results?search_query=cerebellar+signs+DANISH+examination)
+🎬 **Watch:** [Cerebellum physiology — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+cerebellum+physiology) · [Cerebellar nuclei, tracts, peduncles — mossy fibres, climbing fibres, Purkinje cells](https://www.youtube.com/watch?v=OecY4ZhGSps) · [Cerebellar Dysfunction Signs Mnemonic — DANISH](https://www.youtube.com/watch?v=QKBfloW_wzc)
 
 ![](https://www.youtube.com/watch?v=OecY4ZhGSps)
 
@@ -318,7 +318,7 @@ Loss of GABA releasing cells from CAUDATE NUCLEUS (striatum)
 | **Athetosis**[^ety-athetosis] | **Slow writhing (snake charmers)** | **Globus pallidus** |
 | **Hemiballismus**[^ety-hemiballismus] | **Sudden violent contraction of 1 large joint (flinging / ballistic)** | **Subthalamic nucleus**[^14] |
 
-🎬 **Watch:** [Basal ganglia direct and indirect pathways — Ninja Nerd (YouTube search)](https://www.youtube.com/results?search_query=ninja+nerd+basal+ganglia+direct+indirect+pathway) · [Parkinson's disease pathophysiology — Osmosis (YouTube search)](https://www.youtube.com/results?search_query=osmosis+parkinson+disease+pathophysiology) · [Huntington's disease — Osmosis (YouTube search)](https://www.youtube.com/results?search_query=osmosis+huntington+disease)
+🎬 **Watch:** [The Basal Ganglia — Direct and Indirect Pathways](https://www.youtube.com/watch?v=NcIWYCkKwVA) · [Basal Ganglia (Parkinson's Pathology)](https://www.youtube.com/watch?v=ew8YjwQqXGA) · [Parkinson's & Huntington's: What's the difference?](https://www.youtube.com/watch?v=EOSUbuEvWeE)
 
 ---
 
@@ -487,10 +487,12 @@ CHOREA caudate · ATHETOSIS GP · HEMIBALLISMUS STN
 |---|---|
 | Cerebellum physiology — Ninja Nerd (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+cerebellum+physiology |
 | Cerebellar nuclei, tracts, peduncles — mossy fibres, climbing fibres, Purkinje cells | https://www.youtube.com/watch?v=OecY4ZhGSps |
-| Signs of cerebellar lesion — DANISH (YouTube search) | https://www.youtube.com/results?search_query=cerebellar+signs+DANISH+examination |
-| Basal ganglia direct and indirect pathways — Ninja Nerd (YouTube search) | https://www.youtube.com/results?search_query=ninja+nerd+basal+ganglia+direct+indirect+pathway |
-| Parkinson's disease pathophysiology — Osmosis (YouTube search) | https://www.youtube.com/results?search_query=osmosis+parkinson+disease+pathophysiology |
-| Huntington's disease — Osmosis (YouTube search) | https://www.youtube.com/results?search_query=osmosis+huntington+disease |
+| Cerebellar Dysfunction Signs Mnemonic — DANISH | https://www.youtube.com/watch?v=QKBfloW_wzc |
+| Cerebellar Exam — dysmetria, dyssynergia, dysdiadochokinesia | https://www.youtube.com/watch?v=6p2ICYuSrzk |
+| The Basal Ganglia — Direct and Indirect Pathways | https://www.youtube.com/watch?v=NcIWYCkKwVA |
+| 2-Minute Neuroscience: Indirect Pathway of the Basal Ganglia | https://www.youtube.com/watch?v=RzcXkvxXKEQ |
+| Basal Ganglia (Parkinson's Pathology) | https://www.youtube.com/watch?v=ew8YjwQqXGA |
+| Parkinson's & Huntington's: What's the difference? | https://www.youtube.com/watch?v=EOSUbuEvWeE |
 
 ---
 

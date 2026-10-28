@@ -350,7 +350,7 @@ Visual cortex : Blobs
 ![[Vision - colour blindness simulation.png]]
 *The same picture seen with normal colour vision and with deuteranopia, tritanopia and protanopia (cropped from the handwritten page).*
 
-🎬 **Watch:** [YouTube search — colour vision, cones and colour blindness](https://www.youtube.com/results?search_query=colour+vision+cones+colour+blindness+physiology)
+🎬 **Watch:** [Red-green colour blindness, do you have it?](https://www.youtube.com/watch?v=l6AVQOxkzxQ)
 
 ---
 
@@ -409,7 +409,7 @@ detail: related
 title: Visual pathway and pupillary light reflex
 ```
 
-🎬 **Watch:** [YouTube search — pupillary light reflex pathway](https://www.youtube.com/results?search_query=pupillary+light+reflex+pathway)
+🎬 **Watch:** [Pupillary Light Reflex Pathway](https://www.youtube.com/watch?v=anMm5lrZMRk) · [Pupillary light reflex pathway explained!!](https://www.youtube.com/watch?v=E_HwdDi1G8s)
 
 ---
 
@@ -577,8 +577,9 @@ COLOUR: L red · M green · S blue · X-linked · protan / deutan / tritan · LI
 | Retina — cell layers (YouTube search) | https://www.youtube.com/results?search_query=retina+layers+cells+physiology+lecture |
 | Visual pathway and its defects — optic nerve, chiasm, tract, lateral geniculate body | https://www.youtube.com/watch?v=7YCl0C5cCcU |
 | Visual field defects and optic nerve pathway | https://www.youtube.com/watch?v=2ZbFBlwWm3Q |
-| Colour vision and colour blindness (YouTube search) | https://www.youtube.com/results?search_query=colour+vision+cones+colour+blindness+physiology |
-| Pupillary light reflex pathway (YouTube search) | https://www.youtube.com/results?search_query=pupillary+light+reflex+pathway |
+| Red-green colour blindness, do you have it? | https://www.youtube.com/watch?v=l6AVQOxkzxQ |
+| Pupillary Light Reflex Pathway | https://www.youtube.com/watch?v=anMm5lrZMRk |
+| Pupillary light reflex pathway explained!! | https://www.youtube.com/watch?v=E_HwdDi1G8s |
 
 ---
 

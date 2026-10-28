@@ -164,7 +164,7 @@ Fibers are **sensory**[^ety-sensory] **(S)**, **motor (M)**, or **both**.
 - **Subthreshold**[^pre-sub] → **Accommodation**[^ety-accommodation][^pre-ad][^suf-ation].
 - **Suprathreshold**[^pre-supra] → **Adaptation**[^ety-adaptation].[^5]
 
-🎬 **Watch (YouTube search):** [Strength–duration curve, rheobase and chronaxie](https://www.youtube.com/results?search_query=strength+duration+curve+rheobase+chronaxie+physiology) · [Accommodation vs adaptation of nerve](https://www.youtube.com/results?search_query=accommodation+adaptation+nerve+fibre+physiology)
+🎬 **Watch:** [The Strength-Duration Curve](https://www.youtube.com/watch?v=3SOWtf9SyY0) · [Chronaxie: the measure of excitability (Vivek Sir's Physiology)](https://www.youtube.com/watch?v=kRDU6ACadTE) · [Accommodation vs adaptation of nerve (YouTube search)](https://www.youtube.com/results?search_query=accommodation+adaptation+nerve+fibre+physiology)
 
 ---
 
@@ -426,7 +426,9 @@ SEDDON praxia → axonotmesis → neurotmesis · SUNDERLAND I–V (IV, V surgery
 |---|---|
 | Nerve fibre — Erlanger–Gasser classification, myelination, structure, diameter, conduction and function | https://www.youtube.com/watch?v=7x1VOjp54i4 |
 | A, B, C fibres — susceptibility to pressure, hypoxia, local anaesthetics | https://www.youtube.com/results?search_query=A+B+C+nerve+fibers+susceptibility+pressure+hypoxia+local+anaesthetic |
-| Strength–duration curve, rheobase and chronaxie | https://www.youtube.com/results?search_query=strength+duration+curve+rheobase+chronaxie+physiology |
+| The Strength-Duration Curve | https://www.youtube.com/watch?v=3SOWtf9SyY0 |
+| Strength Duration curve (second explainer) | https://www.youtube.com/watch?v=uhiOHOh-wS0 |
+| Chronaxie: the measure of excitability (Vivek Sir's Physiology) | https://www.youtube.com/watch?v=kRDU6ACadTE |
 | Accommodation vs adaptation | https://www.youtube.com/results?search_query=accommodation+adaptation+nerve+fibre+physiology |
 | Wallerian degeneration | https://www.youtube.com/watch?v=dkU5VA041DI |
 | Wallerian degeneration and regeneration | https://www.youtube.com/watch?v=jK8nk3NCxQE |
