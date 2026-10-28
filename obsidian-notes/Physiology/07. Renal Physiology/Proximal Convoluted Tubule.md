@@ -1,11 +1,11 @@
 ---
 title: Proximal Convoluted Tubule
 aliases: [PCT, Proximal tubule, Glucose transport maximum, SGLT2, TF/P ratio]
-rank: 46
+rank: 49
 status: not-started
 topic: Physiology
 subtopic: Renal Physiology
-chapter: 46
+chapter: 49
 pages: "207–211"
 target_exams:
   - NEET PG

@@ -1,11 +1,11 @@
 ---
 title: Collecting Duct and Micturition Reflex
 aliases: [Collecting duct, Aldosterone and ADH on the kidney, Natriuretic peptides, Micturition reflex, Cystometrogram]
-rank: 48
+rank: 51
 status: not-started
 topic: Physiology
 subtopic: Renal Physiology
-chapter: 48
+chapter: 51
 pages: "217–221"
 target_exams:
   - NEET PG

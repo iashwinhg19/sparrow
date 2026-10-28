@@ -1,11 +1,11 @@
 ---
 title: Cardiac Output
 aliases: [Stroke volume determinants, Preload afterload contractility, Fick principle, Coronary circulation, Shock types and stages]
-rank: 35
+rank: 38
 status: not-started
 topic: Physiology
 subtopic: Cardiovascular System and Blood
-chapter: 35
+chapter: 38
 pages: "160–162"
 target_exams:
   - NEET PG

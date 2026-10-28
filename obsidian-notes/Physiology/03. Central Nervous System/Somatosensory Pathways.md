@@ -1,11 +1,11 @@
 ---
 title: Somatosensory Pathways
 aliases: [Somatosensory Pathways, DCML pathway, Anterolateral spinothalamic pathway, Brown-Séquard syndrome, Sensory homunculus]
-rank: 15
+rank: 16
 status: not-started
 topic: Physiology
 subtopic: Central Nervous System
-chapter: 15
+chapter: 16
 pages: "79–82"
 target_exams:
   - NEET PG

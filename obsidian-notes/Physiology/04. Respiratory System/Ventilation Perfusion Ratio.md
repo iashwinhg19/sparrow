@@ -1,11 +1,11 @@
 ---
 title: Ventilation Perfusion Ratio
 aliases: [V/Q ratio, Ventilation perfusion mismatch, Wasted ventilation, Wasted perfusion, O2–CO2 diagram]
-rank: 27
+rank: 30
 status: not-started
 topic: Physiology
 subtopic: Respiratory System
-chapter: 27
+chapter: 30
 pages: "137–138"
 target_exams:
   - NEET PG

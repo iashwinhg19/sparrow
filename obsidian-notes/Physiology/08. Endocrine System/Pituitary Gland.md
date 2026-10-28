@@ -1,11 +1,11 @@
 ---
 title: Pituitary Gland
 aliases: [Pituitary Gland, Hypophysis, Anterior pituitary hormones, Growth hormone, Prolactin]
-rank: 50
+rank: 53
 status: not-started
 topic: Physiology
 subtopic: Endocrine System
-chapter: 50
+chapter: 53
 pages: "227–230"
 target_exams:
   - NEET PG

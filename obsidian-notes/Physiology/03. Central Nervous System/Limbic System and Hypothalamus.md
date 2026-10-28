@@ -1,11 +1,11 @@
 ---
 title: Limbic System and Hypothalamus
 aliases: [Limbic system, Hypothalamus, Papez circuit, Kluver-Bucy syndrome, Sham rage, Hypothalamic nuclei]
-rank: 21
+rank: 22
 status: not-started
 topic: Physiology
 subtopic: Central Nervous System
-chapter: 21
+chapter: 22
 pages: "108–110"
 target_exams:
   - NEET PG

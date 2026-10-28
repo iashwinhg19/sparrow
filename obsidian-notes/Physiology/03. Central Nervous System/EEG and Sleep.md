@@ -1,11 +1,11 @@
 ---
 title: EEG and Sleep
 aliases: [EEG and Sleep, Electroencephalography, Brain waves, NREM and REM sleep, Parasomnias]
-rank: 23
+rank: 25
 status: not-started
 topic: Physiology
 subtopic: Central Nervous System
-chapter: 23
+chapter: 25
 pages: "118–121"
 target_exams:
   - NEET PG

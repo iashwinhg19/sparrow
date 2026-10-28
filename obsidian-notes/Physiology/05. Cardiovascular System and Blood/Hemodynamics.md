@@ -1,11 +1,11 @@
 ---
 title: Hemodynamics
 aliases: [Haemodynamics, Poiseuille law, Korotkoff sounds, Reynolds number, Laplace law]
-rank: 38
+rank: 41
 status: not-started
 topic: Physiology
 subtopic: Cardiovascular System and Blood
-chapter: 38
+chapter: 41
 pages: "171–173"
 target_exams:
   - NEET PG

@@ -1,11 +1,11 @@
 ---
 title: CSF, CBF and BBB
 aliases: [Cerebrospinal fluid, Cerebral blood flow, Blood brain barrier, Circumventricular organs, Monro-Kellie doctrine]
-rank: 22
+rank: 24
 status: not-started
 topic: Physiology
 subtopic: Central Nervous System
-chapter: 22
+chapter: 24
 pages: "114–117"
 target_exams:
   - NEET PG

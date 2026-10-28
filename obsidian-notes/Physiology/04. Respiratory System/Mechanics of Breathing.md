@@ -1,11 +1,11 @@
 ---
 title: Mechanics of Breathing
 aliases: [Mechanics of Breathing, Pressures in the lung, Lung compliance, Hysteresis, Work of breathing]
-rank: 24.5
+rank: 27
 status: not-started
 topic: Physiology
 subtopic: Respiratory System
-chapter: 24.5
+chapter: 27
 pages: "126–129"
 target_exams:
   - NEET PG

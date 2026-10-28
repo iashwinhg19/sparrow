@@ -1,11 +1,11 @@
 ---
 title: Endocrine Pancreas
 aliases: [Endocrine Pancreas, Islets of Langerhans, Insulin, Glucagon, Incretins]
-rank: 52
+rank: 55
 status: not-started
 topic: Physiology
 subtopic: Endocrine System
-chapter: 52
+chapter: 55
 pages: "235–238"
 target_exams:
   - NEET PG

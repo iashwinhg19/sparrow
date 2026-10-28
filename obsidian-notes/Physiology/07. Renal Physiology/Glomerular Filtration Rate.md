@@ -1,11 +1,11 @@
 ---
 title: Glomerular Filtration Rate
 aliases: [GFR, Glomerular filtration, Renal clearance, Renal blood flow, Starling forces of the glomerulus]
-rank: 45
+rank: 48
 status: not-started
 topic: Physiology
 subtopic: Renal Physiology
-chapter: 45
+chapter: 48
 pages: "202–206"
 target_exams:
   - NEET PG

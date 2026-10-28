@@ -1,11 +1,11 @@
 ---
 title: Skeletal Muscles
 aliases: [Skeletal Muscles, Sarcomere, Muscle proteins, Neuromuscular junction, Excitation–contraction coupling, Cross-bridge cycle]
-rank: 10
+rank: 11
 status: not-started
 topic: Physiology
 subtopic: Nerve-Muscle Physiology
-chapter: 10
+chapter: 11
 pages: "55–59"
 target_exams:
   - NEET PG

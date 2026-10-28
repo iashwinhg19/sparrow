@@ -1,11 +1,11 @@
 ---
 title: Hearing, Smell and Taste
 aliases: [Hearing Smell and Taste, Physiology of hearing, Auditory pathway, Olfaction, Gustation]
-rank: 17
+rank: 18
 status: not-started
 topic: Physiology
 subtopic: Central Nervous System
-chapter: 17
+chapter: 18
 pages: "89–92"
 target_exams:
   - NEET PG

@@ -1,11 +1,11 @@
 ---
 title: Hematopoiesis and Blood Groups
 aliases: [Haematopoiesis, Erythropoiesis, Erythropoietin, Leucopoiesis, Thrombopoiesis, ABO blood groups, Rh system]
-rank: 36
+rank: 39
 status: not-started
 topic: Physiology
 subtopic: Cardiovascular System and Blood
-chapter: 36
+chapter: 39
 pages: "163–166"
 target_exams:
   - NEET PG

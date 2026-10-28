@@ -1,11 +1,11 @@
 ---
 title: Synaptic Transmission and Neurotransmitters
 aliases: [Synapse, EPSP and IPSP, Presynaptic inhibition, Neurotransmitter classes, Dopamine pathways, NMDA receptor]
-rank: 13
+rank: 14
 status: not-started
 topic: Physiology
 subtopic: Central Nervous System
-chapter: 13
+chapter: 14
 pages: "68–73"
 target_exams:
   - NEET PG

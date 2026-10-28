@@ -1,11 +1,11 @@
 ---
 title: Cardiac and Smooth Muscles
 aliases: [Cardiac muscle, Smooth muscle, Functional syncytium, Calcium induced calcium release, Latch bridge]
-rank: 12
+rank: 13
 status: not-started
 topic: Physiology
 subtopic: Nerve-Muscle Physiology
-chapter: 12
+chapter: 13
 pages: "64–67"
 target_exams:
   - NEET PG

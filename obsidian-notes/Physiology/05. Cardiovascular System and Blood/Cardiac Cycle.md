@@ -1,11 +1,11 @@
 ---
 title: Cardiac Cycle
 aliases: [Phases of cardiac cycle, Heart sounds, Pressure volume loop, Wiggers diagram, Systolic time intervals]
-rank: 34
+rank: 37
 status: not-started
 topic: Physiology
 subtopic: Cardiovascular System and Blood
-chapter: 34
+chapter: 37
 pages: "156–159"
 target_exams:
   - NEET PG

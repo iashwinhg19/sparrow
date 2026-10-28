@@ -1,11 +1,11 @@
 ---
 title: Neural Regulation of Respiration
 aliases: [Respiratory centres, Pre-Bötzinger complex, Hering–Breuer reflex, J reflex, Cheyne–Stokes respiration, Abnormal breathing patterns]
-rank: 29
+rank: 32
 status: not-started
 topic: Physiology
 subtopic: Respiratory System
-chapter: 29
+chapter: 32
 pages: "142–144"
 target_exams:
   - NEET PG

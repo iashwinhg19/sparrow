@@ -1,11 +1,11 @@
 ---
 title: Gastrointestinal Hormones
 aliases: [GI hormones, Gut hormones, Gastrin family, Secretin family, Enteroendocrine cells]
-rank: 42
+rank: 45
 status: not-started
 topic: Physiology
 subtopic: Gastrointestinal System
-chapter: 42
+chapter: 45
 pages: "189–192"
 target_exams:
   - NEET PG

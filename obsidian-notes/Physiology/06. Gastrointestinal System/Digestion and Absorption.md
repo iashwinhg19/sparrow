@@ -1,11 +1,11 @@
 ---
 title: Digestion and Absorption
 aliases: [Digestion and absorption, Carbohydrate absorption, Fat absorption, Protein absorption, Iron absorption]
-rank: 43
+rank: 46
 status: not-started
 topic: Physiology
 subtopic: Gastrointestinal System
-chapter: 43
+chapter: 46
 pages: "193–196"
 target_exams:
   - NEET PG

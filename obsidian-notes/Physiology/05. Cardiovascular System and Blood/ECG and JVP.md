@@ -1,11 +1,11 @@
 ---
 title: ECG and JVP
 aliases: [Electrocardiography, ECG leads, Einthoven triangle, Cardiac axis, Jugular venous pressure, JVP waveform]
-rank: 33
+rank: 36
 status: not-started
 topic: Physiology
 subtopic: Cardiovascular System and Blood
-chapter: 33
+chapter: 36
 pages: "152–155"
 target_exams:
   - NEET PG

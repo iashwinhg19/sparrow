@@ -1,11 +1,11 @@
 ---
 title: Alveolar Ventilation and Pulmonary Circulation
 aliases: [Alveolar ventilation, Dead space ventilation, Alveolar gas equation, West zones of the lung, Hypoxic pulmonary vasoconstriction]
-rank: 26
+rank: 29
 status: not-started
 topic: Physiology
 subtopic: Respiratory System
-chapter: 26
+chapter: 29
 pages: "134–136"
 target_exams:
   - NEET PG
@@ -66,7 +66,7 @@ Hypoxic alveolus → its arteriole CONSTRICTS → blood goes where the air is
 ![[Alveolar Ventilation and Pulmonary Circulation - ventilation perfusion matching at the alveolus.png]]
 *Ventilation–perfusion matching — deoxygenated blood flows past the alveolus, O₂ enters the blood and CO₂ leaves it, and oxygenated blood flows on (exchange between O₂ and CO₂) (cropped from the handwritten page).*
 
-![Alveolus with its capillary network — type I and type II cells, alveolar macrophage, capillary (Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Alveolus_diagram.svg/800px-Alveolus_diagram.svg.png)
+![Diagram of an alveolus and its capillary network (Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Alveolus_diagram.svg/800px-Alveolus_diagram.svg.png)
 *The alveolus and its capillary — the site where useful ventilation meets perfusion (Mariana Ruiz Villarreal / LadyofHats, Wikimedia Commons, public domain).*
 
 ### Useful ventilation

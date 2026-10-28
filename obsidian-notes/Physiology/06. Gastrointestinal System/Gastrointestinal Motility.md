@@ -1,11 +1,11 @@
 ---
 title: Gastrointestinal Motility
 aliases: [GI motility, Gut motility, Basal electrical rhythm, Peristalsis, Migrating motor complex]
-rank: 44
+rank: 47
 status: not-started
 topic: Physiology
 subtopic: Gastrointestinal System
-chapter: 44
+chapter: 47
 pages: "197–201"
 target_exams:
   - NEET PG

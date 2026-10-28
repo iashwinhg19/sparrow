@@ -1,11 +1,11 @@
 ---
 title: Properties of Skeletal Muscles
 aliases: [Length-tension relationship, Muscle fibre types, Motor unit, Muscle twitch and tetanus, Muscle heat]
-rank: 11
+rank: 12
 status: not-started
 topic: Physiology
 subtopic: Nerve-Muscle Physiology
-chapter: 11
+chapter: 12
 pages: "60–63"
 target_exams:
   - NEET PG

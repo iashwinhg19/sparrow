@@ -1,11 +1,11 @@
 ---
 title: Chemical Regulation of Respiration
 aliases: [Chemoreceptors, Central chemoreceptors, Peripheral chemoreceptors, Carotid body, Types of hypoxia]
-rank: 30
+rank: 33
 status: not-started
 topic: Physiology
 subtopic: Respiratory System
-chapter: 30
+chapter: 33
 pages: "145–146"
 target_exams:
   - NEET PG

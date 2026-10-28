@@ -1,11 +1,11 @@
 ---
 title: Spinal Reflexes
 aliases: [Spinal Reflexes, Stretch reflex, Inverse stretch reflex, Muscle spindle, Golgi tendon organ, Withdrawal reflex]
-rank: 19
+rank: 20
 status: not-started
 topic: Physiology
 subtopic: Central Nervous System
-chapter: 19
+chapter: 20
 pages: "98–102"
 target_exams:
   - NEET PG

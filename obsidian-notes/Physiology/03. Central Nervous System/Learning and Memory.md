@@ -1,11 +1,11 @@
 ---
 title: Learning and Memory
 aliases: [Learning and Memory, Cerebral hemispheres, Long term potentiation, LTP, Types of memory, Speech areas, Aphasia]
-rank: 21.5
+rank: 23
 status: not-started
 topic: Physiology
 subtopic: Central Nervous System
-chapter: 21.5
+chapter: 23
 pages: "111–113"
 target_exams:
   - NEET PG

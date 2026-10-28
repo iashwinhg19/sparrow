@@ -1,11 +1,11 @@
 ---
 title: Sensory Receptors
 aliases: [Sensory physiology, Touch receptors, Pain physiology, Gate control theory, Thermoreceptors, Receptor adaptation]
-rank: 14
+rank: 15
 status: not-started
 topic: Physiology
 subtopic: Central Nervous System
-chapter: 14
+chapter: 15
 pages: "74–78"
 target_exams:
   - NEET PG

@@ -1,11 +1,11 @@
 ---
 title: Regulation of Blood Pressure
 aliases: [BP regulation, Baroreflex, Cardiac reflexes, Mayer waves, Vasoconstrictors and vasodilators]
-rank: 40
+rank: 43
 status: not-started
 topic: Physiology
 subtopic: Cardiovascular System and Blood
-chapter: 40
+chapter: 43
 pages: "177–180"
 target_exams:
   - NEET PG

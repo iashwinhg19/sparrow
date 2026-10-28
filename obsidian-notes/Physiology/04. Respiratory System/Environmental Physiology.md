@@ -1,11 +1,11 @@
 ---
 title: Environmental Physiology
 aliases: [High altitude physiology, Acclimatisation, Mountain sickness, Decompression sickness, Caisson disease, Space physiology, G force]
-rank: 31
+rank: 34
 status: not-started
 topic: Physiology
 subtopic: Respiratory System
-chapter: 31
+chapter: 34
 pages: "147–149"
 target_exams:
   - NEET PG
@@ -116,6 +116,15 @@ Prolonged hypoxia (↑ erythrocytosis) → pulmonary hypertension → cor pulmon
 ```
 
 🧠 *Why each drug:* **nifedipine** lowers the pulmonary artery pressure that hypoxic vasoconstriction has raised (prevents/treats **HAPE**); **dexamethasone** reduces brain oedema (**HACE**) and AMS symptoms; **acetazolamide** makes the kidney excrete HCO₃⁻, causing a mild metabolic acidosis that **drives ventilation** — speeding acclimatisation (and used for AMS prophylaxis).[^6] **Venesection** removes the excess red cells that make the blood thick in Monge's disease.
+
+Rotate the organs hit by altitude illness in 3D — the lungs (HAPE), the brain (HACE), and the right ventricle that fails in cor pulmonale:
+
+```anatomed
+# organs of high-altitude illness — retype a name with the plugin's autocomplete if it shows as "unmatched"
+parts: brain, right lung, left lung, pulmonary trunk, right ventricle, heart, kidney
+detail: related
+title: High altitude illness — lungs, brain, right heart
+```
 
 🎬 **Watch:** [High altitude physiology and acclimatisation (YouTube search)](https://www.youtube.com/results?search_query=high+altitude+physiology+acclimatization) · [Acute mountain sickness, HAPE and HACE (YouTube search)](https://www.youtube.com/results?search_query=acute+mountain+sickness+HAPE+HACE) · [Chronic mountain sickness — Monge's disease (YouTube search)](https://www.youtube.com/results?search_query=chronic+mountain+sickness+monge+disease)
 

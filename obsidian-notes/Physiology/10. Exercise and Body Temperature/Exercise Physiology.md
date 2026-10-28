@@ -1,11 +1,11 @@
 ---
 title: Exercise Physiology
 aliases: [Exercise Physiology, Sources of energy in exercise, Oxygen debt, EPOC, Cardiovascular changes in exercise]
-rank: 57
+rank: 60
 status: not-started
 topic: Physiology
 subtopic: Exercise and Body Temperature
-chapter: 57
+chapter: 60
 pages: "261–263"
 target_exams:
   - NEET PG

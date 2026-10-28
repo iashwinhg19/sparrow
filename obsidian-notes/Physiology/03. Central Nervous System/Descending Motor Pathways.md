@@ -1,11 +1,11 @@
 ---
 title: Descending Motor Pathways
 aliases: [Descending Motor Pathways, Corticospinal tract, Pyramidal and extrapyramidal tracts, UMN vs LMN, Decerebrate and decorticate rigidity]
-rank: 18
+rank: 19
 status: not-started
 topic: Physiology
 subtopic: Central Nervous System
-chapter: 18
+chapter: 19
 pages: "93–97"
 target_exams:
   - NEET PG

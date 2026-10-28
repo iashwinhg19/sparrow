@@ -1,11 +1,11 @@
 ---
 title: Male Reproduction
 aliases: [Male Reproduction, Male reproductive physiology, Spermatogenesis, Testosterone and DHT]
-rank: 55
+rank: 58
 status: not-started
 topic: Physiology
 subtopic: Reproductive System
-chapter: 55
+chapter: 58
 pages: "250–254"
 target_exams:
   - NEET PG

@@ -1,11 +1,11 @@
 ---
 title: Thyroid Gland
 aliases: [Thyroid Gland, Thyroid hormone, T3 and T4, Thyroid hormone synthesis]
-rank: 51
+rank: 54
 status: not-started
 topic: Physiology
 subtopic: Endocrine System
-chapter: 51
+chapter: 54
 pages: "231–234"
 target_exams:
   - NEET PG

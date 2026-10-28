@@ -1,11 +1,11 @@
 ---
 title: Regulation of Body Temperature
 aliases: [Regulation of Body Temperature, Thermoregulation, Fever, Heat stroke, Hypothermia]
-rank: 58
+rank: 61
 status: not-started
 topic: Physiology
 subtopic: Exercise and Body Temperature
-chapter: 58
+chapter: 61
 pages: "264–267"
 target_exams:
   - NEET PG

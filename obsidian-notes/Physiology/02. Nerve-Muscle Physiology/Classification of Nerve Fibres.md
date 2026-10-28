@@ -1,11 +1,11 @@
 ---
 title: Classification of Nerve Fibres
 aliases: [Classification of Nerve Fibres, Erlanger–Gasser classification, Lloyd–Hunt classification, Strength–duration curve, Nerve injury, Seddon classification]
-rank: 9.5
+rank: 10
 status: not-started
 topic: Physiology
 subtopic: Nerve-Muscle Physiology
-chapter: 9.5
+chapter: 10
 pages: "51–54"
 target_exams:
   - NEET PG

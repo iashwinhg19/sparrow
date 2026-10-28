@@ -1,11 +1,11 @@
 ---
 title: Diffusion and Transport of Gases
 aliases: [Gas diffusion, DLCO, Oxygen dissociation curve, Bohr effect, Haldane effect, Chloride shift, CO2 transport]
-rank: 28
+rank: 31
 status: not-started
 topic: Physiology
 subtopic: Respiratory System
-chapter: 28
+chapter: 31
 pages: "139–141"
 target_exams:
   - NEET PG
@@ -62,6 +62,15 @@ CO2 : tissue → RBC → CO2 + H2O ─carbonic anhydrase→ H2CO3 → H+ (buffer
 *Respiratory membrane (Rm) — between the alveolus (high O₂) and the red cell (high CO₂) lie the respiratory membrane and the plasma; O₂ diffuses alveolus → RBC, CO₂ diffuses RBC → alveolus (cropped from the handwritten page).*
 
 🧠 The **respiratory membrane**[^ety-membrane] is everything a gas molecule must cross between alveolar air and haemoglobin — very thin and very large, which is why diffusion is fast enough.[^2]
+
+Rotate the gas-exchange organs in 3D — the respiratory membrane lines the alveoli of both lungs, fed by the pulmonary arteries and drained by the pulmonary veins:
+
+```anatomed
+# lungs and pulmonary vessels — retype a name with the plugin's autocomplete if it shows as "unmatched"
+parts: right lung, left lung, trachea, right main bronchus, left main bronchus, pulmonary trunk, right pulmonary artery, left pulmonary artery, pulmonary veins, heart
+detail: related
+title: Lungs — where the respiratory membrane lies
+```
 
 ### Factors affecting diffusion (Fick's law)[^ety-fick]
 

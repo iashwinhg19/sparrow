@@ -1,11 +1,11 @@
 ---
 title: Cardiac Action Potentials
 aliases: [SA nodal action potential, Ventricular action potential, Pacemaker potential, Conduction system of heart, Funny current]
-rank: 32
+rank: 35
 status: not-started
 topic: Physiology
 subtopic: Cardiovascular System and Blood
-chapter: 32
+chapter: 35
 pages: "150–151"
 target_exams:
   - NEET PG

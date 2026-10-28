@@ -1,11 +1,11 @@
 ---
 title: Acid Base Balance
 aliases: [Acid Base Balance, Acid-base homeostasis, Buffers, Anion gap, HAGMA and NAGMA]
-rank: 49
+rank: 52
 status: not-started
 topic: Physiology
 subtopic: Renal Physiology
-chapter: 49
+chapter: 52
 pages: "222–226"
 target_exams:
   - NEET PG

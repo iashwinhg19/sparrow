@@ -1,11 +1,11 @@
 ---
 title: Lung Volumes and Capacities
 aliases: [Lung Volumes and Capacities, Spirometry, Pulmonary function tests, FEV1/FVC, Flow volume loop]
-rank: 25
+rank: 28
 status: not-started
 topic: Physiology
 subtopic: Respiratory System
-chapter: 25
+chapter: 28
 pages: "130–133"
 target_exams:
   - NEET PG

@@ -1,11 +1,11 @@
 ---
 title: Vision
 aliases: [Vision, Physiology of vision, Retina and phototransduction, Visual pathway, Colour vision]
-rank: 16
+rank: 17
 status: not-started
 topic: Physiology
 subtopic: Central Nervous System
-chapter: 16
+chapter: 17
 pages: "83–88"
 target_exams:
   - NEET PG

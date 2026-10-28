@@ -1,11 +1,11 @@
 ---
 title: Structure Function Relationship in Lungs
 aliases: [Structure Function Relationship in Lungs, Conducting and respiratory zones, Pulmonary surfactant, Pneumocytes, Immotile cilia syndromes]
-rank: 24
+rank: 26
 status: not-started
 topic: Physiology
 subtopic: Respiratory System
-chapter: 24
+chapter: 26
 pages: "122–125"
 target_exams:
   - NEET PG

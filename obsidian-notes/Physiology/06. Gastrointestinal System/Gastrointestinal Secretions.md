@@ -1,11 +1,11 @@
 ---
 title: Gastrointestinal Secretions
 aliases: [GI secretions, Saliva, Gastric juice, Pancreatic juice, Bile, Succus entericus]
-rank: 41
+rank: 44
 status: not-started
 topic: Physiology
 subtopic: Gastrointestinal System
-chapter: 41
+chapter: 44
 pages: "181–188"
 target_exams:
   - NEET PG

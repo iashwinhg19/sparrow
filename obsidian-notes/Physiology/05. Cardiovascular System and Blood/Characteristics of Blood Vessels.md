@@ -1,11 +1,11 @@
 ---
 title: Characteristics of Blood Vessels
 aliases: [Blood vessels, Windkessel effect, Starling forces, Capacitance vessels, Resistance vessels]
-rank: 37
+rank: 40
 status: not-started
 topic: Physiology
 subtopic: Cardiovascular System and Blood
-chapter: 37
+chapter: 40
 pages: "167–170"
 target_exams:
   - NEET PG

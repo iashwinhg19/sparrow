@@ -1,11 +1,11 @@
 ---
 title: Loop of Henle and Distal Convoluted Tubule
 aliases: [Loop of Henle, LOH, DCT, Countercurrent mechanism, Juxtaglomerular apparatus, RAAS]
-rank: 47
+rank: 50
 status: not-started
 topic: Physiology
 subtopic: Renal Physiology
-chapter: 47
+chapter: 50
 pages: "212–216"
 target_exams:
   - NEET PG

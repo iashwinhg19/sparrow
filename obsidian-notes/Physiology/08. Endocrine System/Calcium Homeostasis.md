@@ -1,11 +1,11 @@
 ---
 title: Calcium Homeostasis
 aliases: [Calcium Homeostasis, Calcium metabolism, PTH vitamin D calcitonin, Parathyroid hormone]
-rank: 54
+rank: 57
 status: not-started
 topic: Physiology
 subtopic: Endocrine System
-chapter: 54
+chapter: 57
 pages: "245–249"
 target_exams:
   - NEET PG

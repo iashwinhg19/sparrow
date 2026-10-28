@@ -1,11 +1,11 @@
 ---
 title: Adrenal Gland
 aliases: [Adrenal Gland, Suprarenal gland, Adrenal cortex and medulla, Aldosterone and cortisol]
-rank: 53
+rank: 56
 status: not-started
 topic: Physiology
 subtopic: Endocrine System
-chapter: 53
+chapter: 56
 pages: "239–244"
 target_exams:
   - NEET PG

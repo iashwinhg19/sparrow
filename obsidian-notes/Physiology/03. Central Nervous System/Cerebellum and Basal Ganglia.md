@@ -1,11 +1,11 @@
 ---
 title: Cerebellum and Basal Ganglia
 aliases: [Cerebellum, Basal ganglia, Cerebellar lesions, Parkinsonism, Huntington's disease, Direct and indirect pathway]
-rank: 20
+rank: 21
 status: not-started
 topic: Physiology
 subtopic: Central Nervous System
-chapter: 20
+chapter: 21
 pages: "103–107"
 target_exams:
   - NEET PG

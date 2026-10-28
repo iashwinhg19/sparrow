@@ -1,11 +1,11 @@
 ---
 title: Vascular Injury
 aliases: [Hemostasis, Coagulation cascade, Clotting factors, Anticoagulation, PT and APTT]
-rank: 39
+rank: 42
 status: not-started
 topic: Physiology
 subtopic: Cardiovascular System and Blood
-chapter: 39
+chapter: 42
 pages: "174–176"
 target_exams:
   - NEET PG

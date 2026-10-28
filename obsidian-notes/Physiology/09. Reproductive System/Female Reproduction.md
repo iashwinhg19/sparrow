@@ -1,11 +1,11 @@
 ---
 title: Female Reproduction
 aliases: [Female Reproduction, Menstrual cycle, Oogenesis, Female sex hormones, Lactation]
-rank: 56
+rank: 59
 status: not-started
 topic: Physiology
 subtopic: Reproductive System
-chapter: 56
+chapter: 59
 pages: "255–260"
 target_exams:
   - NEET PG
